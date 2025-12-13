@@ -1,160 +1,180 @@
-"use client"
-import React, { useEffect, useState } from 'react';
-import { NavLink } from 'react-router-dom';
-import { BiPhoneCall } from 'react-icons/bi';
-import { motion, AnimatePresence } from 'framer-motion';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-import { FiMenu, FiX } from 'react-icons/fi';
+"use client";
+
+import React, { useState } from "react";
+import Link from "next/link";
+import { motion } from "framer-motion";
+import {
+  FaFacebook,
+  FaInstagram,
+  FaLinkedin,
+  FaMapMarkerAlt,
+  FaEnvelope,
+  FaPhone,
+  FaTwitter,
+  FaSearch,
+  FaBars,
+  FaTimes,
+} from "react-icons/fa";
 
 const Navbar = () => {
-  const [isMobile, setIsMobile] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
+  const [currentPage, setCurrentPage] = useState("Home");
 
-  useEffect(() => {
-    AOS.init({ duration: 1000 });
-  }, []);
-
-  const menu = [
+  const navLinks = [
     { name: "Home", path: "/" },
     { name: "About", path: "/about" },
-    { name: "News", path: "/news" },
-    { name: "Contact", path: "/contact" }
+    { name: "Blog", path: "/blog" },
+    { name: "Contact", path: "/contact" },
   ];
 
   return (
     <>
-      {/* Navbar */}
-      <motion.nav
-        // initial={{ x: -100, opacity: 0 }}
-        // animate={{ x: 0, opacity: 1 }}
-        transition={{ duration: 0.8, ease: 'easeOut' }}
-        className="bg-white shadow-sm sticky top-0 left-0 w-full z-50"
+      {/* ==================== TOP BAR ==================== */}
+      <motion.div
+        initial={{ y: -100 }}
+        animate={{ y: 0 }}
+        transition={{ duration: 0.5, ease: "easeOut" }}
+        className="bg-gradient-to-r from-orange-500 to-amber-600 text-white hidden md:block shadow-md"
       >
-        <div className="flex items-center justify-between px-6 md:px-12 py-4">
-          {/* Logo */}
-          <div className="flex-shrink-0" data-aos="fade-right">
-            <img
-              src="https://pixydrops.com/wostin/main-html/assets/images/resources/logo-1.png"
-              alt="Wostin Logo"
-              className="h-10"
-            />
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-12 flex items-center justify-between">
+          <div className="flex items-center space-x-6">
+            <div className="flex items-center space-x-2">
+              <FaMapMarkerAlt className="text-amber-200" />
+              <span className="text-sm">2799 Mainroad Ave., NY Diego, Bd 1704</span>
+            </div>
+            <div className="flex items-center space-x-2">
+              <FaPhone className="text-amber-200" />
+              <span className="text-sm">(+88) 01712570051</span>
+            </div>
+            <div className="flex items-center space-x-2">
+              <FaEnvelope className="text-amber-200" />
+              <span className="text-sm">help@landestate.com</span>
+            </div>
           </div>
 
-          {/* Mobile Toggle (☰ / ✖️) */}
-          <div
-            className="md:hidden text-2xl cursor-pointer z-[60]"
-            onClick={() => setIsMobile(!isMobile)}
-          >
-            {isMobile ? <FiX /> : <FiMenu />}
-          </div>
-
-          {/* Desktop Menu */}
-          <div className="hidden md:flex md:flex-row md:space-x-8">
-            {menu.map((item, index) => (
-              <NavLink
-                key={index}
-                to={item.path}
-                className={({ isActive }) => `relative text-lg font-medium pb-1 group
-                  ${isActive ? 'text-gray-900' : 'text-gray-500 hover:text-gray-700'}
-                  before:content-[''] before:absolute before:bottom-0 before:left-0
-                  before:h-[2px] before:w-full before:bg-[#ECDD5E]
-                  before:origin-right before:scale-x-0 before:transition-transform before:duration-300 before:ease-out
-                  group-hover:before:scale-x-100
-                  ${isActive ? 'before:scale-x-100 group-hover:before:scale-x-100' : ''}`}
-                data-aos="fade-down"
-                data-aos-delay={index * 100}
+          {/* Social Icons */}
+          <div className="flex items-center space-x-4">
+            {[
+              { icon: <FaFacebook />, label: "Facebook" },
+              { icon: <FaTwitter />, label: "Twitter" },
+              { icon: <FaLinkedin />, label: "LinkedIn" },
+              { icon: <FaInstagram />, label: "Instagram" },
+            ].map((social) => (
+              <motion.a
+                key={social.label}
+                href="#"
+                whileHover={{ scale: 1.2, color: "#fff" }}
+                className="text-amber-100 hover:text-white transition-colors"
               >
-                {item.name}
-              </NavLink>
+                {social.icon}
+              </motion.a>
             ))}
           </div>
+        </div>
+      </motion.div>
 
-          {/* Contact Info (Desktop Only) */}
-          <div className="hidden md:flex items-center space-x-3" data-aos="fade-left">
-            <div className="bg-[#ECDD5E] hover:bg-[#558E4C] p-3 rounded-full flex items-center justify-center transition-colors duration-300">
-              <BiPhoneCall size={24} className="text-[#404A3D] hover:text-white transition-colors duration-300" />
+      {/* ==================== MAIN NAVBAR ==================== */}
+      <motion.nav
+        initial={{ y: -100 }}
+        animate={{ y: 0 }}
+        transition={{ duration: 0.7, ease: "easeOut" }}
+        className="bg-white shadow-lg sticky top-0 z-50"
+      >
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-between h-16">
+
+            {/* --------------- LOGO --------------- */}
+            <motion.div whileHover={{ scale: 1.05 }} className="flex-shrink-0">
+              <Link href="/" className="flex items-center">
+                <motion.div whileHover={{ rotate: 5 }} className="h-10 w-auto">
+                  <img
+                    src="https://themazine.com/thewp/landestate/wp-content/themes/landestate/images/logo/logo.png"
+                    alt="Land Estate Logo"
+                    className="h-full w-auto object-contain"
+                  />
+                </motion.div>
+              </Link>
+            </motion.div>
+
+            {/* --------------- DESKTOP MENU --------------- */}
+            <div className="hidden md:flex items-center space-x-1">
+              {navLinks.map((link) => (
+                <motion.div key={link.name} whileHover={{ scale: 1.05 }}>
+                  <Link
+                    href={link.path}
+                    className={`px-4 py-2 rounded-md font-medium transition-colors duration-300 ${
+                      currentPage === link.name
+                        ? "text-orange-500 bg-orange-50"
+                        : "text-gray-700 hover:text-orange-500 hover:bg-orange-50"
+                    }`}
+                    onClick={() => setCurrentPage(link.name)}
+                  >
+                    {link.name}
+                  </Link>
+                </motion.div>
+              ))}
+
+              {/* Search Button */}
+              <motion.div whileHover={{ scale: 1.1 }} className="ml-4">
+                <button className="p-2 bg-gradient-to-r from-orange-500 to-amber-500 text-white rounded-full hover:from-orange-600 hover:to-amber-600 transition-all duration-300 shadow-md">
+                  <FaSearch className="h-4 w-4" />
+                </button>
+              </motion.div>
             </div>
-            <div className="text-[16px] leading-tight">
-              <p className="text-gray-500">Have Waste/Pickup?</p>
-              <motion.p
-                className="font-bold text-gray-800"
-                initial={{ opacity: 0, x: 50 }}
-                whileInView={{ opacity: 1, x: 0 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.6, delay: 0.2 }}
+
+            {/* --------------- MOBILE MENU BUTTON --------------- */}
+            <div className="md:hidden">
+              <motion.button
+                whileHover={{ scale: 1.1 }}
+                onClick={() => setIsOpen(!isOpen)}
+                className="p-2 rounded-md text-gray-700 hover:text-orange-500 hover:bg-orange-50 transition"
               >
-                +1– (246) 333–0088
-              </motion.p>
+                <motion.div animate={{ rotate: isOpen ? 90 : 0 }}>
+                  {isOpen ? <FaTimes className="text-xl" /> : <FaBars className="text-xl" />}
+                </motion.div>
+              </motion.button>
             </div>
           </div>
         </div>
-      </motion.nav>
 
-      {/* ======= Mobile Sidebar ======= */}
-      <AnimatePresence>
-        {isMobile && (
-          <>
-            {/* Backdrop */}
-            <motion.div
-              className="fixed inset-0 bg-black/40 z-40"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              transition={{ duration: 0.3 }}
-              onClick={() => setIsMobile(false)}
-            />
-
-            {/* Sidebar */}
-            <motion.div
-              initial={{ scale: 0.8, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 0.8, opacity: 0 }}
-              transition={{ type: 'spring', stiffness: 300, damping: 30 }}
-              className="fixed top-0 left-0 w-[80%] sm:w-[60%] h-full bg-white shadow-lg p-6 z-50 flex flex-col space-y-6 origin-left"
-            >
-              {/* Logo */}
-              <div className="flex justify-start mb-6">
-                <img
-                  src="https://pixydrops.com/wostin/main-html/assets/images/resources/logo-1.png"
-                  alt="Wostin Logo"
-                  className="h-10"
-                />
-              </div>
-
-              {/* Menu Items */}
-              {menu.map((item, index) => (
-                <NavLink
-                  key={index}
-                  to={item.path}
-                  className={({ isActive }) => `
-                    text-xl font-semibold transition-colors duration-200
-                    ${isActive ? 'text-[#558E4C]' : 'text-gray-700 hover:text-[#558E4C]'}
-                  `}
-                  onClick={() => setIsMobile(false)}
+        {/* ==================== MOBILE MENU ==================== */}
+        <motion.div
+          initial={false}
+          animate={isOpen ? "open" : "closed"}
+          variants={{
+            open: { opacity: 1, height: "auto" },
+            closed: { opacity: 0, height: 0 },
+          }}
+          transition={{ duration: 0.3 }}
+          className="md:hidden overflow-hidden"
+        >
+          <div className="px-3 pt-2 pb-4 space-y-1 bg-white shadow-lg">
+            {navLinks.map((link) => (
+              <motion.div key={link.name} whileHover={{ x: 10 }}>
+                <Link
+                  href={link.path}
+                  className={`block px-3 py-2 rounded-md font-medium ${
+                    currentPage === link.name
+                      ? "text-orange-500 bg-orange-50"
+                      : "text-gray-700 hover:text-orange-500 hover:bg-orange-50"
+                  }`}
+                  onClick={() => {
+                    setCurrentPage(link.name);
+                    setIsOpen(false);
+                  }}
                 >
-                  {item.name}
-                </NavLink>
-              ))}
+                  {link.name}
+                </Link>
+              </motion.div>
+            ))}
 
-              {/* Divider */}
-              <div className="border-t pt-4 mt-4" />
-
-              {/* Contact Info in Sidebar */}
-              <div className="flex items-center space-x-3">
-                <div className="bg-[#ECDD5E] hover:bg-[#558E4C] p-3 rounded-full flex items-center justify-center transition-colors duration-300">
-                  <BiPhoneCall size={24} className="text-[#404A3D] hover:text-white transition-colors duration-300" />
-                </div>
-                <div className="text-[16px] leading-tight">
-                  <p className="text-gray-500">Have Waste/Pickup?</p>
-                  <p className="font-bold text-gray-800 hover:text-[#558E4C] cursor-pointer transition-colors duration-300">
-                    +1– (246) 333–0088
-                  </p>
-                </div>
-              </div>
-            </motion.div>
-          </>
-        )}
-      </AnimatePresence>
+            {/* Mobile Search */}
+            <button className="w-full flex items-center justify-center p-2 bg-gradient-to-r from-orange-500 to-amber-500 text-white rounded-md hover:from-orange-600 hover:to-amber-600 transition duration-300">
+              <FaSearch className="mr-2" /> Search
+            </button>
+          </div>
+        </motion.div>
+      </motion.nav>
     </>
   );
 };
