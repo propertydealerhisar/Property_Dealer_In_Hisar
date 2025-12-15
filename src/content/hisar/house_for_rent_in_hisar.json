@@ -1,0 +1,294 @@
+{
+  "domain": "localhost:3000",
+
+  "heroSection": {
+    "badge": "Premium Houses for Rent",
+    "heading": "Premium House for Rent in Hisar – Find Your Ideal Home",
+    "description": "Looking for a comfortable and well-located House for Rent in Hisar that perfectly fits your budget and lifestyle? You’re at the right destination. We bring you verified rental homes across all prime sectors, offering safe neighborhoods, clean surroundings, and modern amenities. Whether you need a family home, a bachelor-friendly space, or a fully furnished rental option, our listings make your search simple, quick, and reliable. Explore genuine properties and rent your ideal home without any stress.",
+    "buttons": [
+      {
+        "label": "Explore Rental Houses",
+        "path": "/"
+      },
+      {
+        "label": "Contact for Assistance",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2053&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
+    ]
+  },
+
+  "welcomeSection": {
+    "title": "Your Trusted Rental Platform",
+    "heading": "Your Trusted Place to Find Rental Homes",
+    "description": [
+      "Finding the perfect House for Rent in Hisar becomes effortless when you have the right platform. From small homes to large independent houses, we feature all types of rental properties suitable for families, students, and professionals.",
+      "Every listing is verified, ensuring authenticity and transparency. Our approach makes renting smooth with accurate details, clear rental terms, and a hassle-free experience designed to help you choose the right home confidently."
+    ]
+  },
+
+  "featureWithImage": {
+    "badge": "HOUSE FOR RENT",
+    "title": "Why Renting a House in Hisar is a Smart Choice",
+    "description": [
+      "Choosing a House for Rent in Hisar offers comfort, affordability, and accessibility. Hisar’s property market has grown rapidly with prime residential sectors, excellent connectivity, top schools, medical facilities, and peaceful environments.",
+      "Renting a house here ensures you enjoy a balanced lifestyle without long-term financial commitments. Whether you’re shifting for work, studies, family needs, or business, Hisar provides ideal rental options suited to every requirement."
+    ],
+    "subTitle": "Why We Stand Out",
+    "features": [
+      "Verified rental houses with accurate details",
+      "Easy and fast property search experience",
+      "Dedicated support for tenants and landlords",
+      "Coverage across top residential areas in Hisar"
+    ],
+    "primaryButton": {
+      "label": "Browse All Rental Houses",
+      "path": "/"
+    },
+    "secondaryButton": {
+      "label": "List Your House for Free",
+      "path": "/"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "alt": "Luxury Property"
+    },
+    "floatingCard": {
+      "title": "Rental Assistance",
+      "subtitle": "Support for Tenants & Owners",
+      "description": "Get end-to-end help for finding, listing, and finalizing House for Rent in Hisar with full transparency."
+    }
+  },
+
+  "servicesSection": {
+    "heading": "Explore Multiple Real Estate Options in One Place",
+    "description": "Apart from House for Rent in Hisar, we also provide a wide variety of real estate categories designed for buyers, renters, and investors. Every listing is updated and checked to ensure the best user experience.",
+    "services": [
+      {
+        "title": "House for Sale in Hisar",
+        "description": "Premium and budget-friendly houses for sale across all major sectors, ideal for long-term ownership."
+      },
+      {
+        "title": "Flat for Rent in Hisar",
+        "description": "Well-designed flats for rent, suitable for students, bachelors, and families with multiple furnishing options."
+      },
+      {
+        "title": "Flat for Sale in Hisar",
+        "description": "Modern apartments with amenities like parking, security, and power backup for comfortable living."
+      },
+      {
+        "title": "Shop for Sale in Hisar",
+        "description": "Retail shops and commercial spaces in high-demand market locations for business growth."
+      },
+      {
+        "title": "Shop for Rent in Hisar",
+        "description": "Commercial rental spaces with good footfall, ideal for startups, offices, and retail stores."
+      },
+      {
+        "title": "Plot for Sale in Hisar",
+        "description": "Well-located residential and commercial plots suitable for construction and investment."
+      },
+      {
+        "title": "Agriculture land for sale in Hisar",
+        "description": "Fertile agricultural land suited for farming, investment, and long-term development."
+      },
+      {
+        "title": "To-Let service in Hisar",
+        "description": "Complete rental assistance helping tenants and owners connect easily."
+      }
+     
+    ]
+  },
+
+  "whyChooseUs": {
+    "heading": "Why Choose Us – A Trusted Venture of Deal Acres",
+    "description": [
+      "Our platform for House for Rent in Hisar is a proud venture of Property Dealer in Hisar, which further belongs to the reliable network of Deal Acres Hisar, ultimately backed by the trusted brand Deal Acres.",
+      "This strong foundation ensures trust, transparency, professionalism, and quality service for every tenant and landlord. We focus on delivering a smooth and user-friendly rental process, with verified listings, clear information, and zero hidden charges."
+    ],
+    "points": [
+      "Unlisted free property listing for all owners",
+      "Free business listing to support local vendors",
+      "Genuine rental listings updated regularly",
+      "Direct tenant–owner interaction without extra fees"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2048&q=80",
+      "alt": "Luxury Property"
+    }
+  },
+
+  "blogsSection": {
+    "heading": "Stay Updated with Our Featured Blog",
+    "description": [
+      "Our blog section brings helpful information on renting, legal tips, home maintenance, real estate trends, and expert advice so you can make better rental and investment decisions."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blogs"
+    },
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Top 10 Neighborhoods for Families in 2023",
+        "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
+        "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1170&q=80",
+        "date": "May 15, 2023",
+        "category": "Neighborhoods"
+      },
+      {
+        "id": 2,
+        "title": "How to Increase Your Home Value Before Selling",
+        "excerpt": "Learn simple and cost-effective ways to boost your property value before listing it on the market.",
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 28, 2023",
+        "category": "Selling Tips"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Smart Homes",
+        "excerpt": "Explore the latest technology trends that are transforming modern homes into smart living spaces.",
+        "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 10, 2023",
+        "category": "Technology"
+      }
+    ]
+  },
+
+  "contactSection": {
+    "formSection": {
+      "heading": "Get In Touch",
+      "description": [
+        "Fill out the form and our team will get back to you as soon as possible to help you with House for Rent in Hisar and other property requirements."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
+        },
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+1 234 567 890",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Write your message...",
+          "type": "textarea"
+        }
+      ],
+      "submitButton": "Send Message"
+    },
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": "Reach out to us anytime for guidance on House for Rent in Hisar, rental listings, or property-related queries. Our team is here to assist you.",
+      "items": [
+        {
+          "label": "Phone",
+          "value": "+1 (246) 333-0088"
+        },
+        {
+          "label": "Email",
+          "value": "info@estatepro.com"
+        },
+        {
+          "label": "Office Address",
+          "value": "2799 Mainroad Ave, NY"
+        }
+      ]
+    }
+  },
+
+  "faqSection": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Answers to the most common questions about House for Rent in Hisar.",
+    "faqs": [
+      {
+        "q": "Why should I choose a House for Rent in Hisar?",
+        "a": "Hisar offers affordable rentals, peaceful localities, and excellent connectivity. Renting a house gives you flexibility, comfort, and convenience without a high upfront investment, making it ideal for students, professionals, and families."
+      },
+      {
+        "q": "Are the rental listings verified?",
+        "a": "Yes. All rental properties go through a verification process to ensure accurate details, genuine photos, and trustworthy information for tenants looking for a House for Rent in Hisar."
+      },
+      {
+        "q": "What types of rental houses are available?",
+        "a": "You can find 1 BHK, 2 BHK, 3 BHK, and large independent houses across Hisar. Furnished, semi-furnished, and unfurnished homes are also available depending on your needs."
+      },
+      {
+        "q": "Is this platform associated with Deal Acres?",
+        "a": "Yes. This platform is a trusted venture of Property Dealer in Hisar, a part of Deal Acres Hisar, which is ultimately a branch of the main brand Deal Acres, known for reliability and transparency."
+      },
+      {
+        "q": "Can landlords list their houses for free?",
+        "a": "Absolutely. Free property listings are provided so homeowners can reach tenants quickly without commissions or extra charges."
+      },
+      {
+        "q": "Do you also offer flat rentals?",
+        "a": "Yes. Besides House for Rent in Hisar, there are many Flats for Rent in Hisar options across prime areas, available in both furnished and unfurnished configurations."
+      },
+      {
+        "q": "Which areas of Hisar do you cover?",
+        "a": "Urban Estate, Model Town, Sector 9, Sector 15, Delhi Road, Vidyut Nagar, Jawahar Nagar, and many other top residential localities are covered."
+      },
+      {
+        "q": "How do I contact the property owner?",
+        "a": "Each property listing includes direct contact details or a request callback option so you can easily connect with owners."
+      },
+      {
+        "q": "Are there rental options suitable for students?",
+        "a": "Yes. There are multiple affordable and secure housing options near colleges, coaching hubs, and central areas that are suitable for students."
+      },
+      {
+        "q": "Why is your platform the best for rentals in Hisar?",
+        "a": "The platform offers verified listings, free posting options, updated information, direct communication, and a user-friendly search, making it a trusted place to find a House for Rent in Hisar."
+      }
+    ]
+  },
+
+  "footer": {
+    "brand": {
+      "name": "EstatePro Real Estate",
+      "description": "We help you discover premium rental homes and properties with expert guidance, transparent processes, and trusted real estate services across the city."
+    },
+    "poweredBy": {
+      "label": "Powered By",
+      "name": "Dealacres"
+    },
+    "social": {
+      "heading": "Follow Us",
+      "links": [
+        {
+          "platform": "Facebook",
+          "url": "#"
+        },
+        {
+          "platform": "Twitter",
+          "url": "#"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "#"
+        }
+      ]
+    },
+    "copyright": {
+      "text": "© {{year}} EstatePro. All Rights Reserved."
+    }
+  }
+}

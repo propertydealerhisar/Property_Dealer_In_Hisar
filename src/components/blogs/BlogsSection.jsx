@@ -37,21 +37,23 @@ const recentBlogs = [
   },
 ];
 
-const BlogsSection = () => {
+const BlogsSection = ({data}) => {
   return (
-    <section className=" py-10 md:py-20 bg-white">
+    <section className="py-10 md:py-20 bg-[#f2e8e1]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Heading */}
-        <div className="md:text-center mb-14 ">
+        <div className="md:text-center mb-14">
           <motion.h2
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
             viewport={{ once: true }}
-            className="text-4xl font-extrabold text-gray-900 mb-3"
+            className="text-4xl font-extrabold text-[#422c18] mb-3"
           >
-            Featured Blogs & Real Estate <span className="text-orange-500">Guides</span>
+            {/* Featured Blogs & Real Estate{" "}
+            <span className="text-[#422c18]">Guides</span> */}
+            {data?.heading}
           </motion.h2>
 
           <motion.p
@@ -59,15 +61,17 @@ const BlogsSection = () => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
             viewport={{ once: true }}
-            className="text-gray-600 max-w-5xl mx-auto text-lg"
+            className="text-[#422c18] max-w-5xl mx-auto text-lg"
           >
-           Stay updated with the latest real estate trends, buying tips, investment advice, and expert guides. Our featured blogs help you make informed decisions when searching for a house for sale in Hisar.
+            {data?.description?.map((item,index)=>{
+            return <span key={index} className="">{item}</span>
+           })}
           </motion.p>
         </div>
 
         {/* Blog Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {recentBlogs.map((blog, index) => (
+          {data?.blogs?.map((blog, index) => (
             <motion.div
               key={blog.id}
               initial={{ opacity: 0, y: 40 }}
@@ -82,16 +86,17 @@ const BlogsSection = () => {
 
         {/* Button */}
         <div className="text-center mt-14">
-          <Link href="/blogs">
+          <Link href={`${data?.viewAllButton?.path}`}>
             <motion.button
               whileHover={{ scale: 1.06 }}
               whileTap={{ scale: 0.96 }}
-              className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-3 px-10 rounded-lg shadow-md transition-all duration-300"
+              className="bg-[#422c18] text-[#f2e8e1] font-semibold py-3 px-10 rounded-lg shadow-md transition-all duration-300"
             >
-              View All Blogs
+              {data?.viewAllButton?.label}
             </motion.button>
           </Link>
         </div>
+
       </div>
     </section>
   );
