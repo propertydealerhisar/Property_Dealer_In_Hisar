@@ -7,7 +7,7 @@ import {
   FaKey,
   FaBuilding,FaStore,
   FaLandmark,
-  FaTractor,FaHandshake,FaQuestionCircle,FaCity
+  FaTractor,FaHandshake,FaQuestionCircle,FaCity,FaBriefcase,FaChartLine,FaRupeeSign,FaDoorOpen,FaCrown
 } from "react-icons/fa";
 
 const ICON_MAP = {
@@ -18,7 +18,7 @@ const ICON_MAP = {
   FaLandmark,
   FaTractor,
   FaHandshake,
-  FaCity
+  FaCity,FaBriefcase,FaChartLine,FaRupeeSign,FaDoorOpen,FaCrown
 };
 
 const DEFAULT_ICON = FaQuestionCircle;
