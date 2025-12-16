@@ -4,7 +4,7 @@
   "heroSection": {
     "badge": "Premium Agriculture Land",
     "heading": "Premium Agriculture Land for Sale in Hisar",
-    "description": "Finding the right Agriculture Land for Sale in Hisar is now easier than ever. Whether you want land for farming, long-term investment, dairy farming, warehousing, or future development, our platform offers verified agricultural land options across Hisar. With clear pricing, genuine listings, and trusted seller details, we ensure a smooth and reliable experience for every buyer.",
+    "description": ["Finding the right Agriculture Land for Sale in Hisar is now easier than ever. Whether you want land for farming, long-term investment, dairy farming, warehousing, or future development, our platform offers verified agricultural land options across Hisar. With clear pricing, genuine listings, and trusted seller details, we ensure a smooth and reliable experience for every buyer."],
     "buttons": [
       {
         "label": "Explore Agriculture Land",
@@ -28,7 +28,7 @@
     "heading": "Your Trusted Source for Agricultural Properties",
     "description": [
       "Looking for Agriculture Land for Sale in Hisar? As a venture of Property Dealer in Hisar, powered by Deal Acres Hisar, and supported by Deal Acres, we bring the most reliable farmland listings in the region.",
-      "From village outskirts to main road-connected locations, you can explore different land sizes suitable for farming, horticulture, investment, and agriculture-related activities."
+      "From village outskirts to main road-connected locations, you can explore different land sizes suitable for farming, horticulture, investment, and agriculture-related activities. Each listing is verified to ensure transparency, safety, and hassle-free buying."
     ]
   },
 
@@ -36,8 +36,7 @@
     "badge": "AGRICULTURE LAND",
     "title": "Why Choose Our Platform for Agricultural Land",
     "description": [
-      "Choosing the right Agriculture Land for Sale in Hisar requires proper location insights, soil quality details, water availability, and pricing transparency. Our platform helps you compare multiple land options in Hisar's top agricultural belts.",
-      "Backed by the trust of Deal Acres, we make your property journey easier, safer, and more informed with verified listings and complete support."
+      "Choosing the right Agriculture Land for Sale in Hisar requires proper location insights, soil quality details, water availability, and pricing transparency. Our platform helps you compare multiple land options in Hisar’s top agricultural belts, including well-irrigated areas and fertile zones. Backed by the trust of Deal Acres, we make your property journey easier, safer, and more informed."
     ],
     "subTitle": "Top Advantages",
     "features": [
@@ -66,43 +65,52 @@
 
   "servicesSection": {
     "heading": "Explore All Our Property Categories",
-    "description": "Along with Agriculture Land for Sale in Hisar, you can also browse various real estate categories designed to meet your buying, renting, or investment needs.",
+    "description": ["Along with Agriculture Land for Sale in Hisar, you can also browse various real estate categories designed to meet your buying, renting, or investment needs."],
     "services": [
       {
         "title": "House for Sale in Hisar",
-        "description": "Budget, mid-range, and premium houses crafted for comfortable living."
+        "description": "Budget, mid-range, and premium houses crafted for comfortable living.",
+        "icon":"FaHome"
       },
       {
         "title": "Flat for Rent in Hisar",
-        "description": "Affordable and well-maintained flats suitable for families, students, and professionals."
+        "description": "Affordable and well-maintained flats suitable for families, students, and professionals.",
+        "icon":"FaKey"
       },
       {
         "title": "Flat for Sale in Hisar",
-        "description": "Ready-to-move and under-construction flats in prime Hisar locations."
+        "description": "Choose from ready-to-move and under-construction flats in prime Hisar locations",
+        "icon":"FaBuilding"
       },
       {
         "title": "Shop for Sale in Hisar",
-        "description": "Commercial shops ideal for showrooms, retail, or investment."
+        "description": "Explore commercial shops ideal for showrooms, retail, or investment.",
+        "icon":"FaStore"
       },
       {
         "title": "Shop for Rent in Hisar",
-        "description": "Rental shops in key marketplaces to start or expand your business."
+        "description": "Find rental shops in key marketplaces to start or expand your business.",
+        "icon":"FaStore"
       },
       {
         "title": "Plot for Sale in Hisar",
-        "description": "Residential and commercial plots available for construction and investment."
+        "description": "View residential and commercial plots available for construction and investment.",
+        "icon":"FaLandmark"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
-        "description": "Fertile agricultural lands perfect for farming, investment, and development."
+        "description": "Browse fertile agricultural lands perfect for farming, investment, and development.",
+        "icon":"FaTractor"
       },
       {
         "title": "To-Let Service in Hisar",
-        "description": "Easy rental assistance for homes, shops, offices, and commercial spaces."
+        "description": "Get easy rental assistance for homes, shops, offices, and commercial spaces.",
+        "icon":"FaHandshake"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
-        "description": "Offices, buildings, and commercial spaces ideal for business expansion."
+        "description": "Explore offices, buildings, and commercial spaces ideal for business expansion.",
+        "icon":"FaCity"
       }
     ]
   },
@@ -110,8 +118,7 @@
   "whyChooseUs": {
     "heading": "Why We Are a Trusted Venture of Deal Acres",
     "description": [
-      "Being a venture of Property Dealer in Hisar, under Deal Acres Hisar, and supported by Deal Acres, our platform ensures authenticity and trust.",
-      "We aim to provide a safe online space to explore Agriculture Land for Sale in Hisar with accurate details, verified listings, and full transparency."
+      "Being a venture of Property Dealer in Hisar, under Deal Acres Hisar, and supported by Deal Acres, our platform ensures authenticity and trust. We aim to provide a safe online space to explore Agriculture Land for Sale in Hisar with accurate details, verified listings, and full transparency. With our user-friendly interface and solid network, buying agricultural land becomes a smooth process."
     ],
     "points": [
       "Unlisted free property listing service",
@@ -194,7 +201,7 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": "Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries.",
+      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
       "items": [
         {
           "label": "Phone",
@@ -218,19 +225,19 @@
     "faqs": [
       {
         "q": "How can I find the best Agriculture Land for Sale in Hisar?",
-        "a": "Browse our verified listings based on land size, location, soil quality, irrigation, and pricing to choose the right farmland."
+        "a": "You can browse our verified listings based on land size, location, soil quality, irrigation, and pricing to choose the right farmland for your needs."
       },
       {
         "q": "Are the agricultural land listings verified?",
-        "a": "Yes. Most listings are posted by verified landowners or trusted agents ensuring accuracy and reliability."
+        "a": "Yes. Most listings are posted by verified landowners or trusted agents, ensuring accuracy and reliability for buyers."
       },
       {
         "q": "Can I list my agricultural land for free?",
-        "a": "Absolutely. Through our unlisted free property listing, you can publish your land details at no cost."
+        "a": "Absolutely. Through our unlisted free property listing, you can publish your land details at no cost and reach genuine buyers easily."
       },
       {
         "q": "What are the top agricultural areas in Hisar?",
-        "a": "Popular areas include Agroha, Talwandi Rana, Mirzapur, Barwala belt, and NH-9 side regions with fertile soil."
+        "a": "Popular areas include Agroha, Talwandi Rana, Mirzapur, Barwala belt, and NH-9 side regions offering fertile soil and water access."
       },
       {
         "q": "Is this platform part of Deal Acres?",
@@ -238,15 +245,15 @@
       },
       {
         "q": "Can I find land suitable for dairy or poultry farming?",
-        "a": "Yes, listings ideal for dairy farms, poultry units, goat farming, and agricultural setups are available."
+        "a": "Yes, you can explore listings ideal for dairy farms, poultry units, goat farming, and agricultural setups."
       },
       {
         "q": "Do you provide investment-friendly agricultural land options?",
-        "a": "Yes. Many listings include roadside land, large-sized parcels, and long-term appreciating agricultural assets."
+        "a": "Yes. Many listings include roadside land, large-sized land parcels, and long-term appreciating agricultural assets."
       },
       {
         "q": "What documents are required to buy agricultural land?",
-        "a": "Typically registry papers, jamabandi, girdawari, and ownership verification which sellers provide upfront."
+        "a": "Typically, you need registry papers, jamabandi, girdawari, and ownership verification. Sellers often provide these upfront."
       },
       {
         "q": "How often are new Agriculture Land for Sale in Hisar listings added?",
@@ -262,7 +269,7 @@
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
     },
     "poweredBy": {
       "label": "Powered By",

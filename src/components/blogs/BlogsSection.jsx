@@ -64,7 +64,7 @@ const BlogsSection = ({data}) => {
             className="text-[#422c18] max-w-5xl mx-auto text-lg"
           >
             {data?.description?.map((item,index)=>{
-            return <span key={index} className="">{item}</span>
+            return <span key={index} className="block">{item}</span>
            })}
           </motion.p>
         </div>

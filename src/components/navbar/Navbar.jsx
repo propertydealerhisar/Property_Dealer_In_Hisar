@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   FaFacebook,
   FaInstagram,
@@ -11,7 +11,6 @@ import {
   FaEnvelope,
   FaPhone,
   FaTwitter,
-  FaSearch,
   FaBars,
   FaTimes,
 } from "react-icons/fa";
@@ -20,161 +19,214 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState("Home");
 
+  // ✅ FINAL NAV LINKS
   const navLinks = [
-    { name: "Home", path: "/" },
-    { name: "About", path: "/about" },
+    { name: "Home", scroll: "top" },
     { name: "Blog", path: "/blog" },
-    { name: "Contact", path: "/contact" },
+    { name: "Contact", scroll: "contact" },
   ];
+
+  // ✅ SCROLL HANDLER
+  const handleScroll = (type) => {
+    if (type === "top") {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      return;
+    }
+
+    if (type === "contact") {
+      const el = document.getElementById("contact-section");
+      if (!el) return;
+
+      const y =
+        el.getBoundingClientRect().top + window.pageYOffset - 80; // navbar height
+      window.scrollTo({ top: y, behavior: "smooth" });
+    }
+  };
 
   return (
     <>
-      {/* ==================== TOP BAR ==================== */}
-      <motion.div
-        initial={{ y: -100 }}
-        animate={{ y: 0 }}
-        transition={{ duration: 0.5, ease: "easeOut" }}
-        className="bg-gradient-to-r from-orange-500 to-amber-600 text-white hidden md:block shadow-md"
+      {/* ================= TOP BAR ================= */}
+      <div
+        className="hidden md:block shadow-md"
+        style={{ backgroundColor: "#422c18", color: "#f2e8e1" }}
       >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-12 flex items-center justify-between">
-          <div className="flex items-center space-x-6">
-            <div className="flex items-center space-x-2">
-              <FaMapMarkerAlt className="text-amber-200" />
-              <span className="text-sm">2799 Mainroad Ave., NY Diego, Bd 1704</span>
-            </div>
-            <div className="flex items-center space-x-2">
-              <FaPhone className="text-amber-200" />
-              <span className="text-sm">(+88) 01712570051</span>
-            </div>
-            <div className="flex items-center space-x-2">
-              <FaEnvelope className="text-amber-200" />
-              <span className="text-sm">help@landestate.com</span>
-            </div>
+        <div className="max-w-7xl mx-auto px-4 h-12 flex items-center justify-between text-sm">
+          <div className="flex gap-6">
+            <span className="flex items-center gap-2">
+              <FaMapMarkerAlt /> 2799 Mainroad Ave., NY Diego
+            </span>
+            <span className="flex items-center gap-2">
+              <FaPhone /> (+88) 01712570051
+            </span>
+            <span className="flex items-center gap-2">
+              <FaEnvelope /> help@landestate.com
+            </span>
           </div>
 
-          {/* Social Icons */}
-          <div className="flex items-center space-x-4">
-            {[
-              { icon: <FaFacebook />, label: "Facebook" },
-              { icon: <FaTwitter />, label: "Twitter" },
-              { icon: <FaLinkedin />, label: "LinkedIn" },
-              { icon: <FaInstagram />, label: "Instagram" },
-            ].map((social) => (
-              <motion.a
-                key={social.label}
-                href="#"
-                whileHover={{ scale: 1.2, color: "#fff" }}
-                className="text-amber-100 hover:text-white transition-colors"
-              >
-                {social.icon}
-              </motion.a>
-            ))}
+          <div className="flex gap-4">
+            {[FaFacebook, FaTwitter, FaLinkedin, FaInstagram].map(
+              (Icon, i) => (
+                <Icon
+                  key={i}
+                  className="cursor-pointer opacity-80 hover:opacity-100"
+                />
+              )
+            )}
           </div>
         </div>
-      </motion.div>
+      </div>
 
-      {/* ==================== MAIN NAVBAR ==================== */}
-      <motion.nav
-        initial={{ y: -100 }}
-        animate={{ y: 0 }}
-        transition={{ duration: 0.7, ease: "easeOut" }}
-        className="bg-white shadow-lg sticky top-0 z-50"
+      {/* ================= NAVBAR ================= */}
+      <nav
+        className="sticky top-0 z-50 shadow-lg"
+        style={{ backgroundColor: "#f2e8e1" }}
       >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16">
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="flex items-center justify-between h-16 gap-8">
 
-            {/* --------------- LOGO --------------- */}
-            <motion.div whileHover={{ scale: 1.05 }} className="flex-shrink-0">
-              <Link href="/" className="flex items-center">
-                <motion.div whileHover={{ rotate: 5 }} className="h-10 w-auto">
-                  <img
-                    src="https://themazine.com/thewp/landestate/wp-content/themes/landestate/images/logo/logo.png"
-                    alt="Land Estate Logo"
-                    className="h-full w-auto object-contain"
-                  />
-                </motion.div>
-              </Link>
-            </motion.div>
+            {/* LOGO */}
+            <Link href="/">
+              <img
+                src="https://themazine.com/thewp/landestate/wp-content/themes/landestate/images/logo/logo.png"
+                alt="Logo"
+                className="h-10"
+              />
+            </Link>
 
-            {/* --------------- DESKTOP MENU --------------- */}
-            <div className="hidden md:flex items-center space-x-1">
-              {navLinks.map((link) => (
-                <motion.div key={link.name} whileHover={{ scale: 1.05 }}>
-                  <Link
-                    href={link.path}
-                    className={`px-4 py-2 rounded-md font-medium transition-colors duration-300 ${
-                      currentPage === link.name
-                        ? "text-orange-500 bg-orange-50"
-                        : "text-gray-700 hover:text-orange-500 hover:bg-orange-50"
-                    }`}
-                    onClick={() => setCurrentPage(link.name)}
-                  >
-                    {link.name}
-                  </Link>
-                </motion.div>
-              ))}
+            {/* ================= DESKTOP MENU ================= */}
+            <div className="hidden md:flex items-center gap-2">
+              {navLinks.map((link) => {
+                const active = currentPage === link.name;
 
-              {/* Search Button */}
-              <motion.div whileHover={{ scale: 1.1 }} className="ml-4">
-                <button className="p-2 bg-gradient-to-r from-orange-500 to-amber-500 text-white rounded-full hover:from-orange-600 hover:to-amber-600 transition-all duration-300 shadow-md">
-                  <FaSearch className="h-4 w-4" />
-                </button>
-              </motion.div>
+                // 👉 HOME + CONTACT (SCROLL)
+                if (link.scroll) {
+                  return (
+                    <motion.button
+                      key={link.name}
+                      whileHover={{ y: -2 }}
+                      transition={{ duration: 0.2 }}
+                      onClick={() => {
+                        setCurrentPage(link.name);
+                        handleScroll(link.scroll);
+                      }}
+                      className={`px-5 py-2 rounded-lg font-medium transition-all duration-300
+                        ${
+                          active
+                            ? "bg-[#422c18] text-[#f2e8e1]"
+                            : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
+                        }
+                      `}
+                    >
+                      {link.name}
+                    </motion.button>
+                  );
+                }
+
+                // 👉 BLOG (ROUTE)
+                return (
+                  <motion.div key={link.name} whileHover={{ y: -2 }}>
+                    <Link
+                      href={link.path}
+                      onClick={() => setCurrentPage(link.name)}
+                      className={`px-5 py-2 rounded-lg font-medium transition-all duration-300
+                        ${
+                          active
+                            ? "bg-[#422c18] text-[#f2e8e1]"
+                            : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
+                        }
+                      `}
+                    >
+                      {link.name}
+                    </Link>
+                  </motion.div>
+                );
+              })}
             </div>
 
-            {/* --------------- MOBILE MENU BUTTON --------------- */}
-            <div className="md:hidden">
-              <motion.button
-                whileHover={{ scale: 1.1 }}
-                onClick={() => setIsOpen(!isOpen)}
-                className="p-2 rounded-md text-gray-700 hover:text-orange-500 hover:bg-orange-50 transition"
-              >
-                <motion.div animate={{ rotate: isOpen ? 90 : 0 }}>
-                  {isOpen ? <FaTimes className="text-xl" /> : <FaBars className="text-xl" />}
-                </motion.div>
-              </motion.button>
-            </div>
-          </div>
-        </div>
-
-        {/* ==================== MOBILE MENU ==================== */}
-        <motion.div
-          initial={false}
-          animate={isOpen ? "open" : "closed"}
-          variants={{
-            open: { opacity: 1, height: "auto" },
-            closed: { opacity: 0, height: 0 },
-          }}
-          transition={{ duration: 0.3 }}
-          className="md:hidden overflow-hidden"
-        >
-          <div className="px-3 pt-2 pb-4 space-y-1 bg-white shadow-lg">
-            {navLinks.map((link) => (
-              <motion.div key={link.name} whileHover={{ x: 10 }}>
-                <Link
-                  href={link.path}
-                  className={`block px-3 py-2 rounded-md font-medium ${
-                    currentPage === link.name
-                      ? "text-orange-500 bg-orange-50"
-                      : "text-gray-700 hover:text-orange-500 hover:bg-orange-50"
-                  }`}
-                  onClick={() => {
-                    setCurrentPage(link.name);
-                    setIsOpen(false);
-                  }}
-                >
-                  {link.name}
-                </Link>
-              </motion.div>
-            ))}
-
-            {/* Mobile Search */}
-            <button className="w-full flex items-center justify-center p-2 bg-gradient-to-r from-orange-500 to-amber-500 text-white rounded-md hover:from-orange-600 hover:to-amber-600 transition duration-300">
-              <FaSearch className="mr-2" /> Search
+            {/* ================= MOBILE TOGGLE ================= */}
+            <button
+              onClick={() => setIsOpen(!isOpen)}
+              className="ml-auto md:hidden text-[#422c18]"
+            >
+              {isOpen ? <FaTimes size={22} /> : <FaBars size={22} />}
             </button>
           </div>
-        </motion.div>
-      </motion.nav>
+        </div>
+      </nav>
+
+      {/* ================= MOBILE MENU ================= */}
+      <AnimatePresence>
+        {isOpen && (
+          <>
+            {/* BACKDROP */}
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 0.35 }}
+              exit={{ opacity: 0 }}
+              className="fixed inset-0 bg-black z-40 md:hidden"
+              onClick={() => setIsOpen(false)}
+            />
+
+            {/* MENU */}
+            <motion.div
+              initial={{ y: -30, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              exit={{ y: -30, opacity: 0 }}
+              transition={{ duration: 0.25 }}
+              className="fixed top-16 left-0 w-full z-50 md:hidden"
+              style={{ backgroundColor: "#f2e8e1" }}
+            >
+              <div className="p-4 flex flex-col items-start gap-2">
+                {navLinks.map((link) => {
+                  const active = currentPage === link.name;
+
+                  if (link.scroll) {
+                    return (
+                      <button
+                        key={link.name}
+                        onClick={() => {
+                          setCurrentPage(link.name);
+                          setIsOpen(false);
+                          handleScroll(link.scroll);
+                        }}
+                        className={`w-full text-left px-4 py-3 rounded-lg font-medium
+                          ${
+                            active
+                              ? "bg-[#422c18] text-[#f2e8e1]"
+                              : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
+                          }
+                        `}
+                      >
+                        {link.name}
+                      </button>
+                    );
+                  }
+
+                  return (
+                    <Link
+                      key={link.name}
+                      href={link.path}
+                      onClick={() => {
+                        setCurrentPage(link.name);
+                        setIsOpen(false);
+                      }}
+                      className={`w-full px-4 py-3 rounded-lg font-medium
+                        ${
+                          active
+                            ? "bg-[#422c18] text-[#f2e8e1]"
+                            : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
+                        }
+                      `}
+                    >
+                      {link.name}
+                    </Link>
+                  );
+                })}
+              </div>
+            </motion.div>
+          </>
+        )}
+      </AnimatePresence>
     </>
   );
 };

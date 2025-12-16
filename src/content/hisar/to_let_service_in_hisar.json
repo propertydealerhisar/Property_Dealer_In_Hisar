@@ -4,7 +4,7 @@
   "heroSection": {
     "badge": "Reliable To-Let Service",
     "heading": "Reliable To-Let Service in Hisar",
-    "description": "Finding the right rental property becomes effortless with our trusted To-Let Service in Hisar. Whether you are searching for a house, flat, shop, office, or commercial space, we bring verified rental options across all prime and local areas of Hisar. With transparent details, budget-friendly choices, and quick assistance, we ensure you get the perfect rental space without stress or delays.",
+    "description": ["Finding the right rental property becomes effortless with our trusted To-Let Service in Hisar. Whether you are searching for a house, flat, shop, office, or commercial space, we bring verified rental options across all prime and local areas of Hisar. With transparent details, budget-friendly choices, and quick assistance, we ensure you get the perfect rental space without stress or delays."],
     "buttons": [
       {
         "label": "Explore Rental Properties",
@@ -27,8 +27,9 @@
     "title": "Rental Partner in Hisar",
     "heading": "Your Trusted Partner for All Rental Needs",
     "description": [
-      "Get easy access to the best To-Let Service in Hisar, engineered to make your rental journey smooth and stress-free. As a proud venture of Property Dealer in Hisar, further powered by Deal Acres Hisar, and supported by the reputable Deal Acres, we connect tenants and property owners without middleman confusion.",
-      "From fully furnished homes to well-located commercial spaces, every listing is verified to ensure safety, convenience, and high-quality service."
+      "Get easy access to the best To-Let Service in Hisar, engineered to make your rental journey smooth and stress-free. As a proud venture of Property Dealer in Hisar, further powered by Deal Acres Hisar, and supported by the reputable Deal Acres, we connect tenants and property owners without middleman confusion. From fully furnished homes to well-located commercial spaces, every listing is verified to ensure safety, convenience, and high-quality service."
+
+
     ]
   },
 
@@ -36,8 +37,7 @@
     "badge": "TO-LET SERVICE",
     "title": "Why Choose Our Professional To-Let Assistance",
     "description": [
-      "Our To-Let Service in Hisar is designed to help you find the ideal property based on your requirements, budget, and preferred location. Whether it's a family home, bachelor-friendly room, shop for rent, or office space, you can browse through multiple verified listings with ease.",
-      "Each property includes clear details, photos, location highlights, and rent information to help you make the right choice."
+      "Our To-Let Service in Hisar is designed to help you find the ideal property based on your requirements, budget, and preferred location. Whether it’s a family home, bachelor-friendly room, shop for rent, or office space, you can browse through multiple verified listings with ease. Each property includes clear details, photos, location highlights, and rent information to help you make the right choice."
     ],
     "subTitle": "Key Advantages",
     "features": [
@@ -66,43 +66,52 @@
 
   "servicesSection": {
     "heading": "Explore All Our Property Categories",
-    "description": "Below are the major property domains we cover, along with our expert To-Let Service in Hisar. Every category includes genuine listings to meet different needs.",
+    "description": ["Below are the major property domains we cover, along with our expert To-Let Service in Hisar. Every category includes genuine listings to meet different needs."],
     "services": [
       {
         "title": "House for Sale in Hisar",
-        "description": "Budget-friendly and premium houses ideal for families and investors."
+        "description": "Find budget-friendly and premium houses ideal for families and investors.",
+        "icon":"FaHome"
       },
       {
         "title": "Flat for Rent in Hisar",
-        "description": "Affordable rental flats suitable for families, students, and working professionals."
+        "description": "Explore affordable rental flats suitable for families, students, and working professionals.",
+        "icon":"FaKey"
       },
       {
         "title": "Flat for Sale in Hisar",
-        "description": "Ready-to-move and newly constructed flats across top Hisar locations."
+        "description": "Choose from ready-to-move and newly constructed flats across the top Hisar locations.",
+        "icon":"FaBuilding"
       },
       {
         "title": "Shop for Sale in Hisar",
-        "description": "Commercial shops perfect for showrooms, retail setups, and investments."
+        "description": "Discover commercial shops perfect for showrooms, retail setups, and investments.",
+        "icon":"FaStore"
       },
       {
         "title": "Shop for Rent in Hisar",
-        "description": "Marketplace shops and commercial units ready for immediate business use."
+        "description": "Find marketplace shops and commercial units ready for immediate business use.",
+        "icon":"FaStore"
       },
       {
         "title": "Plot for Sale in Hisar",
-        "description": "Residential and commercial plots perfect for construction or investment."
+        "description": "Browse residential and commercial plots perfect for construction or future investment.",
+        "icon":"FaLandmark"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
-        "description": "Fertile agricultural land with excellent growth and long-term value."
+        "description": "Explore fertile agricultural land with excellent growth and long-term value.",
+        "icon":"FaTractor"
       },
       {
         "title": "To-Let Service in Hisar",
-        "description": "One-stop solution for verified rental homes, shops, offices, and commercial spaces."
+        "description": "Your one-stop solution for verified rental homes, shops, offices, and commercial spaces.",
+        "icon":"FaHandshake"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
-        "description": "Office buildings, showrooms, and commercial spaces ideal for business growth."
+        "description": "Get office buildings, showrooms, and commercial spaces ideal for business growth.",
+        "icon":"FaCity"
       }
     ]
   },
@@ -110,8 +119,7 @@
   "whyChooseUs": {
     "heading": "Why We Are a Trusted Venture of Deal Acres",
     "description": [
-      "Our To-Let Service in Hisar stands strong due to its connection with Property Dealer in Hisar, backed by Deal Acres Hisar, and managed under the established Deal Acres brand.",
-      "We simplify renting with verified listings, quick support, and no hidden charges. Property owners also get an easy way to list their rental properties without paying anything."
+      "Our To-Let Service in Hisar stands strong due to its connection with Property Dealer in Hisar, backed by Deal Acres Hisar, and managed under the established Deal Acres brand. We simplify renting with verified listings, quick support, and no hidden charges. Property owners also get an easy way to list their rental properties without paying anything.."
     ],
     "points": [
       "Unlisted free property listing for owners",
@@ -194,7 +202,7 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": "Contact us anytime for To-Let Service in Hisar, rental property assistance, or tenant-landlord connection support.",
+      "description": ["Contact us anytime for To-Let Service in Hisar, rental property assistance, or tenant-landlord connection support."],
       "items": [
         {
           "label": "Phone",
@@ -230,7 +238,7 @@
       },
       {
         "q": "What types of rental properties are available?",
-        "a": "Houses, flats, shops, offices, rooms, and commercial properties through our To-Let Service in Hisar."
+        "a": "You can find houses, flats, shops, offices, rooms, and commercial properties through our To-Let Service in Hisar"
       },
       {
         "q": "Does this service come under Deal Acres?",
@@ -242,11 +250,11 @@
       },
       {
         "q": "Do you have listings available in all areas of Hisar?",
-        "a": "Yes. We cover city areas, prime markets, residential colonies, and outer locations."
+        "a": "Yes. We cover city areas, prime markets, residential colonies, and outer locations to help you find the perfect rental match."
       },
       {
         "q": "Can businesses find commercial rentals here?",
-        "a": "Yes. From shops to office spaces, we offer multiple commercial rental options."
+        "a": "Yes. From shops to office spaces, we offer multiple commercial rental options through our"
       },
       {
         "q": "How often do you update rental listings?",
@@ -254,7 +262,7 @@
       },
       {
         "q": "Why should I trust your platform?",
-        "a": "Our platform offers verified data, transparent details, free listings, and the trusted backing of the Deal Acres brand."
+        "a": "Because our platform offers verified data, transparent details, free listings, and the trusted backing of the Deal Acres brand."
       }
     ]
   },
@@ -262,7 +270,7 @@
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": "We help you discover perfect rental properties through our trusted To-Let Service with expert guidance and transparent processes."
+      "description": ["We help you discover perfect rental properties through our trusted To-Let Service with expert guidance and transparent processes."]
     },
     "poweredBy": {
       "label": "Powered By",

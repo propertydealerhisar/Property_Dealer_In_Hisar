@@ -52,7 +52,7 @@ const FeatureWithImage = ({data}) => {
               className="text-[#5a4636] mb-8 leading-relaxed text-base sm:text-lg"
             >
               {data?.description?.map((item,index)=>{
-            return <span key={index} className="">{item}</span>
+            return <span key={index} className="block">{item}</span>
            })}
             </motion.p>
 

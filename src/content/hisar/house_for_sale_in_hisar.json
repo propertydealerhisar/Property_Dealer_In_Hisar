@@ -1,10 +1,10 @@
-  {
+{
     "domain": "house-for-sale-in-hisar.projectwallah.live",
 
     "heroSection": {
      "badge": "Premium Properties Available",
   "heading":"House for Sale in Hisar – Find Your Ideal Home Today" ,
-  "description": "Looking for your dream property in Hisar? Our platform brings you the best house for sale in Hisar options with verified listings, user-friendly filters, and accurate details. Whether you need a budget-friendly house, a premium villa, or a ready-to-move home, you’ll find everything here in one place. Explore the most trusted properties, compare features, and make the right real estate decision with ease. Your perfect house for sale in Hisar is just a click away.",
+  "description": ["Looking for your dream property in Hisar? Our platform brings you the best house for sale in Hisar options with verified listings, user-friendly filters, and accurate details. Whether you need a budget-friendly house, a premium villa, or a ready-to-move home, you’ll find everything here in one place. Explore the most trusted properties, compare features, and make the right real estate decision with ease. Your perfect house for sale in Hisar is just a click away."],
   "buttons": [
     {
       "label": "Explore Listings",
@@ -76,46 +76,55 @@
 
     "servicesSection": {
       "heading": "Top Real Estate Solutions for Every Buyer",
-    "description": "Explore all property categories designed to meet every real estate need in Hisar. From residential to commercial, our platform covers everything, so you never miss the right opportunity.",
+    "description": ["Explore all property categories designed to meet every real estate need in Hisar. From residential to commercial, our platform covers everything, so you never miss the right opportunity."],
   "services": [
     {
       "title": "Flat for sale in Hisar",
-      "description": "Choose from affordable to premium flats."
+      "description": "Choose from affordable to premium flats.",
+        "icon":"FaBuilding"
     },
     {
       "title": "House for rent in Hisar",
-      "description": "Perfect rental homes with flexible options."
+      "description": "Perfect rental homes with flexible options.",
+        "icon":"FaKey"
     },
     {
       "title": "Shop for sale in Hisar",
-      "description": "Ideal locations for business expansion."
+      "description": "Ideal locations for business expansion.",
+        "icon":"FaStore"
     },
     {
       "title": "Shop for rent in Hisar",
-      "description": "Budget-friendly commercial rental options."
+      "description": "Budget-friendly commercial rental options.",
+        "icon":"FaStore"
     },
     {
       "title": "Plot for sale in Hisar",
-      "description": "Residential & commercial plots across all sectors."
+      "description": "Residential & commercial plots across all sectors.",
+        "icon":"FaLandmark"
     },
     {
       "title": "Agriculture land for sale in Hisar",
-      "description": "Verified farmlands with clear titles."
+      "description": "Verified farmlands with clear titles.",
+        "icon":"FaTractor"
     },
     {
       "title": "To-Let service in Hisar",
-      "description": "Hassle-free rental solutions for owners & tenants."
+      "description": "Hassle-free rental solutions for owners & tenants.",
+        "icon":"FaHandshake"
     },
     {
       "title": "Commercial property for sale in Hisar",
-      "description": "Offices, showrooms & investment properties."
+      "description": "Offices, showrooms & investment properties.",
+        "icon":"FaCity"
     }
   ]
     },
 
     "whyChooseUs": {
       "heading": "Why Our Platform is the Most Trusted in Hisar",
-      "description":["As a dedicated venture of Property Dealer in Hisar and powered by Deal Acres Hisar, we provide transparent and reliable real estate services."],
+      "description":["As a dedicated venture of Property Dealer in Hisar, and powered by Deal Acres Hisar",
+      "we offer premium and reliable real estate services tailored for home buyers. Our mission is to make your house for sale in Hisar search effortless, transparent, and trustworthy. You get access to genuine details, free listing features, and helpful tools that make property buying smooth and stress-free."],
       "points": [
         "Free unlisted property listing",
         "Free business listing service",
@@ -198,7 +207,7 @@
 
   "contactDetails": {
     "heading": "Contact Information",
-    "description": "We're here to help! Reach out to us anytime and our team will assist you with property guidance, inquiries, and support.",
+    "description": ["We're here to help! Reach out to us anytime and our team will assist you with property guidance, inquiries, and support."],
     "items": [
       {
         "label": "Phone",
@@ -218,12 +227,12 @@
 
     
   "faqSection": {
-    "heading": "Frequently Asked Questions",
+"heading": "Frequently Asked Questions",
     "subheading": "Answers to the most common questions about our real estate services.",
     "faqs": [
       {
         "q": "How can I find the best house for sale in Hisar?",
-        "a": "Browse all verified listings on our platform, review locations, prices, and features, and connect directly with property experts for personalized assistance."
+        "a": "Browse all verified listings on our platform, review locations, prices, and features, and connect directly with property experts for personalized assistance"
       },
       {
         "q": "Are the listings genuine and verified?",
@@ -259,7 +268,7 @@
       },
       {
         "q": "What makes your service different from others?",
-        "a": "We offer a trusted, transparent, and buyer-friendly experience, backed by Deal Acres Hisar's strong real estate expertise."
+        "a": "We offer a trusted, transparent, and buyer-friendly experience, backed by Deal Acres Hisar's strong real estate expertise.Hisar."
       }
     ]
   },
@@ -268,7 +277,7 @@
     "footer": {
        "brand": {
     "name": "EstatePro Real Estate",
-    "description": "We help you discover premium properties with expert guidance, transparent processes, and trusted real estate services across the city."
+    "description": ["We help you discover premium properties with expert guidance, transparent processes, and trusted real estate services across the city."]
   },
 
   "poweredBy": {

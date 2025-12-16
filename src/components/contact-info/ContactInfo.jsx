@@ -6,7 +6,7 @@ import { FaPhone, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 
 const ContactInfo = ({data}) => {
   return (
-    <section className="md:py-20 bg-[#f2e8e1]">
+    <section id="contact-section" className="md:py-20 bg-[#f2e8e1]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
@@ -26,7 +26,7 @@ const ContactInfo = ({data}) => {
 
             <p className="text-[#422c18] mb-8">
               {data?.formSection?.description?.map((item,index)=>{
-            return <span key={index} className="">{item}</span>
+            return <span key={index} className="block">{item}</span>
            })}
             </p>
 

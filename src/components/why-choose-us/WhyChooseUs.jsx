@@ -42,7 +42,7 @@ const WhyChooseUs = ({data}) => {
 
             <p className="text-[#5a4636] mt-1 text-sm md:text-base leading-relaxed mb-4">
               {data?.description?.map((item,index)=>{
-            return <span key={index} className="">{item}</span>
+            return <span key={index} className="block">{item}</span>
            })}
             </p>
 

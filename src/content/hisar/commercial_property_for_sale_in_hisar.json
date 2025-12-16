@@ -70,39 +70,49 @@
     "services": [
       {
         "title": "House for Sale in Hisar",
-        "description": "Wide range of residential houses from budget-friendly to premium homes, all verified."
+        "description": "Wide range of residential houses from budget-friendly to premium homes, all verified.",
+        "icon":"FaHome"
       },
       {
         "title": "Flat for Rent in Hisar",
-        "description": "Flats available for rent in prime areas with safe neighborhoods and modern amenities."
+        "description": "Flats available for rent in prime areas with safe neighborhoods and modern amenities.",
+        "icon":"FaKey"
+        
       },
       {
         "title": "Flat for Sale in Hisar",
-        "description": "Newly constructed or ready-to-move flats matching lifestyle and investment goals."
+        "description": "Newly constructed or ready-to-move flats matching lifestyle and investment goals.",
+        "icon":"FaBuilding"
       },
       {
         "title": "Shop for Sale in Hisar",
-        "description": "Retail and commercial shops suitable for business owners looking to expand."
+        "description": "Retail and commercial shops suitable for business owners looking to expand.",
+        "icon":"FaStore"
       },
       {
         "title": "Shop for Rent in Hisar",
-        "description": "Rental shops in busy marketplaces and business zones for immediate use."
+        "description": "Rental shops in busy marketplaces and business zones for immediate use.",
+        "icon":"FaStore"
       },
       {
         "title": "Plot for Sale in Hisar",
-        "description": "Residential and commercial plots for construction, investment, or development."
+        "description": "Residential and commercial plots for construction, investment, or development.",
+        "icon":"FaLandmark"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
-        "description": "Fertile agricultural lands ideal for farming, agro-business, or investment."
+        "description": "Fertile agricultural lands ideal for farming, agro-business, or investment.",
+        "icon":"FaTractor"
       },
       {
         "title": "To-Let Service in Hisar",
-        "description": "Verified rental service for homes, offices, shops, and commercial spaces."
+        "description": "Verified rental service for homes, offices, shops, and commercial spaces.",
+        "icon":"FaHandshake"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
-        "description": "High-quality offices, showrooms, warehouses, and business-ready buildings."
+        "description": "High-quality offices, showrooms, warehouses, and business-ready buildings.",
+        "icon":"FaCity"
       }
     ]
   },

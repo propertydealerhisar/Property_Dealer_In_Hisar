@@ -52,7 +52,7 @@ const WelcomeSection = ({data}) => {
             "
           >
            {data?.description?.map((item,index)=>{
-            return <span key={index} className="">{item}</span>
+            return <span key={index} className="block">{item}</span>
            })}
           </motion.p>
 

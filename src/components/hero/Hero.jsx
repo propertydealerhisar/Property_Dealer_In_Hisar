@@ -90,7 +90,9 @@ const Hero = ({data}) => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="max-w-5xl text-lg md:text-xl text-[#f2e8e1] mb-10 mx-0 lg:mx-auto"
           >
-           {data?.description}
+           {data?.description?.map((item,index)=>{
+            return <span key={index} className="block">{item}</span>
+           })}
           </motion.p>
 
           {/* Buttons */}

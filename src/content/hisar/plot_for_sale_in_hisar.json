@@ -4,7 +4,7 @@
   "heroSection": {
     "badge": "Best Plots in Hisar",
     "heading": "Find Your Ideal Plot for Sale in Hisar",
-    "description": "Finding the right Plot for Sale in Hisar is now simple, quick, and stress-free. Whether you're planning to build a home, invest in land, or expand your business, our platform offers verified residential and commercial plots across prime Hisar locations. With trusted listings, real-time updates, and clear property details, you can confidently explore the perfect land as per your budget and preference.",
+    "description": ["Finding the right Plot for Sale in Hisar is now simple, quick, and stress-free. Whether you’re planning to build a home, invest in land, or expand your business, our platform offers verified residential and commercial plots across prime Hisar locations. With trusted listings, real-time updates, and clear property details, you can confidently explore the perfect land as per your budget and preference."],
     "buttons": [
       {
         "label": "Explore Plots in Hisar",
@@ -27,8 +27,7 @@
     "title": "Land Investment Platform",
     "heading": "Your Trusted Platform for Land Investment",
     "description": [
-      "Choosing a Plot for Sale in Hisar requires the right information, clarity, and transparency. As a venture of Property Dealer in Hisar, powered by Deal Acres Hisar, and ultimately supported by Deal Acres, we ensure every listing is trustworthy and relevant.",
-      "From residential plots to commercial land in well-developed sectors, we bring you updated listings that match your budget, size preference, and long-term goals."
+      "Choosing a Plot for Sale in Hisar requires the right information, clarity, and transparency. As a venture of Property Dealer in Hisar, powered by Deal Acres Hisar, and ultimately supported by Deal Acres, we ensure every listing is trustworthy and relevant. From residential plots to commercial land in well-developed sectors, we bring you updated listings that match your budget, size preference, and long-term goals. Find plots in sectors, colonies, industrial areas, and growing outer Hisar regions with complete property details."
     ]
   },
 
@@ -36,8 +35,7 @@
     "badge": "PLOT FOR SALE",
     "title": "Why Choose Us for Plot Buying in Hisar",
     "description": [
-      "Buying a Plot for Sale in Hisar becomes easier when you get access to genuine listings and complete support in one place. Our platform provides detailed maps, plot sizes, landmarks, neighbourhood insights, and owner/agent information.",
-      "You can compare multiple options and choose the best land suitable for building, investment, or future development. Backed by Deal Acres, we help you make smarter, safer, and faster property decisions."
+      "Buying a Plot for Sale in Hisar becomes easier when you get access to genuine listings and complete support in one place. Our platform provides detailed maps, plot sizes, landmarks, neighbourhood insights, and owner/agent information. You can compare multiple options and choose the best land suitable for building, investment, or future development. Backed by Deal Acres, we help you make smarter, safer, and faster property decisions."
     ],
     "subTitle": "Key Benefits",
     "features": [
@@ -66,43 +64,52 @@
 
   "servicesSection": {
     "heading": "Explore Our Full Real Estate Categories",
-    "description": "We help you explore much more than just Plot for Sale in Hisar. Whether you want residential, commercial, rental, or agricultural properties, all options are available with clear and verified details.",
+    "description": ["We help you explore much more than just Plot for Sale in Hisar. Whether you want residential, commercial, rental, or agricultural properties, all options are available with clear and verified details."],
     "services": [
       {
         "title": "House for Sale in Hisar",
-        "description": "Well-located, budget-friendly, and premium houses suitable for families and investment."
+        "description": "Find well-located, budget-friendly, and premium houses suitable for families and investment purposes.",
+        "icon":"FaHome"
       },
       {
         "title": "Flat for Rent in Hisar",
-        "description": "Comfortable flats across Hisar with safe surroundings and essential amenities."
+        "description": "Discover comfortable flats across Hisar with safe surroundings and essential amenities.",
+        "icon":"FaKey"
       },
       {
         "title": "Flat for Sale in Hisar",
-        "description": "Ready-to-move or under-construction flats in top locations for families and investors."
+        "description": "Choose from ready-to-move or under-construction flats in top locations, perfect for families and investors.",
+        "icon":"FaBuilding"
       },
       {
         "title": "Shop for Sale in Hisar",
-        "description": "Verified commercial shops ideal for retailers, showrooms, and business spaces."
+        "description": "Explore verified commercial shops ideal for retailers, showrooms, and business spaces.",
+        "icon":"FaStore"
       },
       {
         "title": "Shop for Rent in Hisar",
-        "description": "Affordable and premium shops across prime markets for business growth."
+        "description": "Find affordable and premium shops across prime markets for your business growth.",
+        "icon":"FaStore"
       },
       {
         "title": "Plot for Sale in Hisar",
-        "description": "Residential and commercial plots offering long-term value and investment returns."
+        "description": "Browse residential and commercial plots that offer long-term value and excellent investment returns.",
+        "icon":"FaLandmark"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
-        "description": "High-quality agricultural land for farming, investment, or future development."
+        "description": "Find high-quality agricultural land suitable for farming, investment, or future development.",
+        "icon":"FaTractor"
       },
       {
         "title": "To-Let Service in Hisar",
-        "description": "Hassle-free rental services for homes, offices, shops, and commercial properties."
+        "description": "Access hassle-free rental services for homes, offices, shops, and commercial properties.",
+        "icon":"FaHandshake"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
-        "description": "Offices, showrooms, and commercial buildings for investment and expansion."
+        "description": "Explore offices, showrooms, and commercial buildings ideal for investment and expansion.",
+        "icon":"FaCity"
       }
     ]
   },
@@ -110,8 +117,7 @@
   "whyChooseUs": {
     "heading": "Why Our Platform Is Trusted – A Venture of Deal Acres",
     "description": [
-      "Our platform is built as a trusted venture of Property Dealer in Hisar, under Deal Acres Hisar, and backed by Deal Acres. This ensures users get verified listings, smooth navigation, and complete support for buying a Plot for Sale in Hisar.",
-      "We focus on helping buyers make confident decisions with accurate information and transparent property details."
+      "Our platform is built as a trusted venture of Property Dealer in Hisar, under Deal Acres Hisar, and backed by Deal Acres. This ensures users get verified listings, smooth navigation, and complete support for buying a Plot for Sale in Hisar. We focus on helping buyers make confident decisions with accurate information and transparent property details."
     ],
     "points": [
       "Unlisted free property listing",
@@ -194,7 +200,7 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": "Contact us for guidance on Plot for Sale in Hisar, land investments, or property verification needs.",
+      "description": ["Contact us for guidance on Plot for Sale in Hisar, land investments, or property verification needs."],
       "items": [
         {
           "label": "Phone",
@@ -218,43 +224,43 @@
     "faqs": [
       {
         "q": "How can I find the best Plot for Sale in Hisar?",
-        "a": "Browse our verified listings to compare plot sizes, locations, prices, and development status with essential details."
+        "a": "Browse our verified listings to compare plot sizes, locations, prices, and development status. All plots come with essential details to help you choose confidently."
       },
       {
         "q": "Are the plots for Sale in Hisar listings verified?",
-        "a": "Yes. All listings are posted by owners, agents, or verified businesses ensuring transparency."
+        "a": "Yes. All listings are posted by owners, agents, or verified businesses, ensuring transparency and reliable information."
       },
       {
         "q": "Can I list my plot for free?",
-        "a": "Yes, through our unlisted free property listing, you can post your plot without any charge."
+        "a": "Yes, through our unlisted free property listing, you can post your plot without any charge and reach thousands of buyers."
       },
       {
         "q": "What areas offer the best plots in Hisar?",
-        "a": "Popular areas include Sector 14, Sector 9, Urban Estate, Dabra Chowk region, NH-9 belt, and developing outskirts."
+        "a": "Popular areas include Sector 14, Sector 9, Urban Estate, Dabra Chowk region, NH-9 belt, and the developing outskirts."
       },
       {
         "q": "Does the platform belong to Deal Acres?",
-        "a": "Yes. It is a venture of Property Dealer in Hisar, part of Deal Acres Hisar, and backed by Deal Acres."
+        "a": "Yes. It is a venture of a Property Dealer in Hisar, part of Deal Acres Hisar, and backed by Deal Acres."
       },
       {
         "q": "Is commercial land available in Hisar?",
-        "a": "Absolutely. Commercial plots are available in market areas, business zones, and developing corridors."
+        "a": "Absolutely. You can find commercial plots in market areas, business zones, and developing commercial corridors."
       },
       {
         "q": "Do I get options for budget-friendly plots?",
-        "a": "Yes. Explore plots in various price ranges including budget, mid-range, and premium categories."
+        "a": "Yes. You can explore plots in various price ranges, including budget, mid-range, and premium categories."
       },
       {
         "q": "Are plot documents provided?",
-        "a": "Most listings include ownership details, registry status, and other essential documents for clarity."
+        "a": "Most listings include ownership details, registry status, and other essential documents for buyer clarity."
       },
       {
         "q": "How many Plot for Sale in Hisar listings are added regularly?",
-        "a": "New listings are added frequently covering residential, commercial, and agricultural plots."
+        "a": "New listings are added frequently, covering residential, commercial, and agricultural plots."
       },
       {
         "q": "Why choose this platform for plots in Hisar?",
-        "a": "Verified properties, free listings, trusted guidance, and complete support from Deal Acres Ventures."
+        "a": "Because you get verified properties, free listings, trusted guidance, and complete support from Deal Acres Ventures."
       }
     ]
   },
@@ -262,7 +268,7 @@
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": "We help you discover premium plots and land investments with expert guidance, transparent processes, and trusted real estate services."
+      "description": ["We help you discover premium plots and land investments with expert guidance, transparent processes, and trusted real estate services."]
     },
     "poweredBy": {
       "label": "Powered By",

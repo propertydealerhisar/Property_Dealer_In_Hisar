@@ -1,62 +1,35 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import {
   FaHome,
-  FaDollarSign,
   FaKey,
-  FaChartBar,
-  FaSuitcase,
-  FaBalanceScale,
-  FaRulerCombined,
-  FaTruckMoving,
+  FaBuilding,FaStore,
+  FaLandmark,
+  FaTractor,FaHandshake,FaQuestionCircle,FaCity
 } from "react-icons/fa";
 
-const servicess = [
-  {
-    // title: "Flat for sale in Hisar",
-    // desc: "Choose from affordable to premium flats.",
-    icon: <FaHome className="text-[#422c18] text-4xl" />,
-  },
-  {
-    // title: "House for rent in Hisar",
-    // desc: "Perfect rental homes with flexible options.",
-    icon: <FaDollarSign className="text-[#422c18] text-4xl" />,
-  },
-  {
-    // title: "Shop for sale in Hisar",
-    // desc: "Ideal locations for business expansion.",
-    icon: <FaKey className="text-[#422c18] text-4xl" />,
-  },
-  {
-    // title: "Shop for rent in Hisar",
-    // desc: "Budget-friendly commercial rental options.",
-    icon: <FaChartBar className="text-[#422c18] text-4xl" />,
-  },
-  {
-    // title: "Plot for sale in Hisar",
-    // desc: "Residential & commercial plots across all sectors.",
-    icon: <FaSuitcase className="text-[#422c18] text-4xl" />,
-  },
-  {
-    // title: "Agriculture land for sale in Hisar",
-    // desc: "Verified farmlands with clear titles.",
-    icon: <FaRulerCombined className="text-[#422c18] text-4xl" />,
-  },
-  {
-    // title: "To-Let service in Hisar",
-    // desc: "Hassle-free rental solutions for owners & tenants.",
-    icon: <FaTruckMoving className="text-[#422c18] text-4xl" />,
-  },
-  {
-    // title: "Commercial property for sale in Hisar",
-    // desc: "Offices, showrooms & investment properties.",
-    icon: <FaBalanceScale className="text-[#422c18] text-4xl" />,
-  },
-];
+const ICON_MAP = {
+  FaHome,
+  FaKey,
+  FaBuilding,
+  FaStore,
+  FaLandmark,
+  FaTractor,
+  FaHandshake,
+  FaCity
+};
+
+const DEFAULT_ICON = FaQuestionCircle;
+
 
 const ServicesSection = ({data}) => {
+  const [showAll, setShowAll] = useState(false);
+  const visibleServices = showAll
+  ? data?.services
+  : data?.services?.slice(0, 8);
+
   return (
     <section className="py-10 md:py-20 bg-[#f2e8e1]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -71,14 +44,16 @@ const ServicesSection = ({data}) => {
             for Every Buyer */}
             {data?.heading}
           </h2>
-          <p className="text-[#5a4636] text-lg max-w-5xl mx-auto">
-            {data?.description}
+          <p className="text-[#5a4636] text-lg max-w-5xl mx-auto ">
+           {data?.description?.map((item,index)=>{
+            return <span key={index} className="block">{item}</span>
+           })}
           </p>
         </div>
 
         {/* Grid */}
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
-          {data?.services.map((service, index) => (
+          {visibleServices?.map((service, index) => (
             <motion.div
               key={index}
               initial={{ opacity: 0, y: 30 }}
@@ -89,7 +64,10 @@ const ServicesSection = ({data}) => {
               className="bg-white p-8 rounded-2xl shadow-lg border border-[#422c18]/10 hover:shadow-2xl transition-all duration-300 cursor-pointer text-center"
             >
               <div className="flex justify-center mb-4">
-                {servicess[index]?.icon}
+                 {(() => {
+                  const Icon = ICON_MAP[service.icon] || DEFAULT_ICON;
+                   return <Icon className="text-[#422c18] text-4xl" />;
+                  })()}
               </div>
 
               <h3 className="text-xl font-bold text-[#2b1c10] mb-2">
@@ -102,6 +80,18 @@ const ServicesSection = ({data}) => {
             </motion.div>
           ))}
         </div>
+          
+            {/* View More / Less */}
+         {data?.services?.length > 8 && (
+          <div className="flex justify-end mt-8">
+            <button
+              onClick={() => setShowAll(!showAll)}
+              className="text-[#422c18] font-semibold hover:underline"
+            >
+              {showAll ? "View Less" : "View More"}
+            </button>
+          </div>
+        )}
 
       </div>
     </section>
