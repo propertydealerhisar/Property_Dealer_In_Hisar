@@ -14,6 +14,8 @@ export default async function Home() {
     const h = await headers(); // ✅ MUST await in Next 16
 
   const domain = h.get("host") || "localhost";
+  console.log("domain =>",domain);
+  
 
   const pageData =
     SITE_DATA.find((item) => item.domain === domain) ||
@@ -29,8 +31,8 @@ export default async function Home() {
    <ServicesSection data ={pageData?.servicesSection} />
    <WhyChooseUs data ={pageData?.whyChooseUs}/>
    <BlogsSection data={pageData?.blogsSection}/>
-   <ContactInfo data={pageData?.contactSection}  />
-   <FAQSection data={pageData?.faqSection}/>
+   <ContactInfo data={pageData?.contactSection} website={domain}  />
+   <FAQSection data={pageData?.faqSection }/>
    </>
   );
 }
