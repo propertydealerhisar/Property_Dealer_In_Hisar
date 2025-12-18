@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { FaPhone, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 import toast, { Toaster } from "react-hot-toast";
 
-const ContactInfo = ({data,website}) => {
+const ContactInfo = ({data,website="faridabad.com"}) => {
   const [form, setForm] = useState({
     name: "",
     phone: "",

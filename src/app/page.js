@@ -29,7 +29,7 @@ export default async function Home() {
    <ServicesSection data ={pageData?.servicesSection} />
    <WhyChooseUs data ={pageData?.whyChooseUs}/>
    <BlogsSection data={pageData?.blogsSection}/>
-   <ContactInfo data={pageData?.contactSection} website={domain} />
+   <ContactInfo data={pageData?.contactSection}  />
    <FAQSection data={pageData?.faqSection}/>
    </>
   );
