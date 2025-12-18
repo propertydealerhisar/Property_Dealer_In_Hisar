@@ -14,8 +14,6 @@ export default async function Home() {
     const h = await headers(); // ✅ MUST await in Next 16
 
   const domain = h.get("host") || "localhost";
-  console.log("domain =>",domain);
-  
 
   const pageData =
     SITE_DATA.find((item) => item.domain === domain) ||
