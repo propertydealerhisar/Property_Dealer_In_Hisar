@@ -1,11 +1,62 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { FaPhone, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
+import toast, { Toaster } from "react-hot-toast";
 
-const ContactInfo = ({data}) => {
+const ContactInfo = ({data,website}) => {
+  const [form, setForm] = useState({
+    name: "",
+    phone: "",
+    message: "",
+  });
+
+  const [loading, setLoading] = useState(false);
+
+  const handleChange = (e) => {
+    setForm({ ...form, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    if (!form.name || !form.phone || !form.message) {
+      toast.error("All fields are required");
+      return;
+    }
+
+    setLoading(true);
+
+    try {
+      const res = await fetch("/api/submit/", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          ...form,
+          website, // ✅ domain from props
+        }),
+      });
+
+      const result = await res.json();
+
+      if (result.success) {
+        toast.success("Form submitted successfully");
+        setForm({ name: "", phone: "", message: "" });
+      } else {
+        toast.error("Something went wrong");
+      }
+
+    } catch (err) {
+      toast.error("Server error");
+    } finally {
+      setLoading(false);
+    }
+  };
+  
   return (
+    <>
+    <Toaster position="top-right" />
     <section id="contact-section" className="md:py-20 bg-[#f2e8e1]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -30,31 +81,37 @@ const ContactInfo = ({data}) => {
            })}
             </p>
 
-            <form className="space-y-5">
+            <form onSubmit={handleSubmit}  className="space-y-5">
 
               <div>
                 <label className="text-[#422c18] font-medium">{data?.formSection?.fields[0]?.label}</label>
                 <input
+                 name="name" 
                   type={data?.formSection?.fields[0]?.type}
                   placeholder={data?.formSection?.fields[0]?.placeholder}
+                   value={form.name}
+                    onChange={handleChange}
                   className="w-full mt-2 px-4 py-3 border border-[#422c18] rounded-lg bg-[#f2e8e1] text-[#422c18] focus:outline-none"
                 />
               </div>
 
-              <div>
+              {/* <div>
                 <label className="text-[#422c18] font-medium">{data?.formSection?.fields[1]?.label}</label>
                 <input
                   type={data?.formSection?.fields[1]?.type}
                   placeholder={data?.formSection?.fields[1]?.placeholder}
                   className="w-full mt-2 px-4 py-3 border border-[#422c18] rounded-lg bg-[#f2e8e1] text-[#422c18] focus:outline-none"
                 />
-              </div>
+              </div> */}
 
               <div>
                 <label className="text-[#422c18] font-medium">{data?.formSection?.fields[2]?.label}</label>
                 <input
+                name="phone" 
                   type={data?.formSection?.fields[2]?.type}
                   placeholder={data?.formSection?.fields[2]?.placeholder}
+                  value={form.phone}
+                  onChange={handleChange}
                   className="w-full mt-2 px-4 py-3 border border-[#422c18] rounded-lg bg-[#f2e8e1] text-[#422c18] focus:outline-none"
                 />
               </div>
@@ -62,8 +119,11 @@ const ContactInfo = ({data}) => {
               <div>
                 <label className="text-[#422c18] font-medium">{data?.formSection?.fields[3]?.label}</label>
                 <textarea
+                name="message"  
                   rows="4"
                   placeholder={data?.formSection?.fields[3]?.placeholder}
+                   value={form.message}
+                   onChange={handleChange}
                   className="w-full mt-2 px-4 py-3 border border-[#422c18] rounded-lg bg-[#f2e8e1] text-[#422c18] focus:outline-none"
                 ></textarea>
               </div>
@@ -71,9 +131,11 @@ const ContactInfo = ({data}) => {
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
+                disabled={loading}
+                type="submit"
                 className="w-full bg-[#422c18] text-[#f2e8e1] py-3 rounded-lg text-lg font-semibold shadow-md"
               >
-                {data?.formSection?.submitButton}
+                {loading ? "Sending..." : "Submit"}
               </motion.button>
             </form>
           </motion.div>
@@ -92,7 +154,13 @@ const ContactInfo = ({data}) => {
 
             <p className="text-[#422c18] mb-8 leading-relaxed">
               We're here to help! Reach out to us anytime and our team will assist you
+              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
+              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
               with property guidance, inquiries, and support.
+              We're here to help! Reach out to us anytime and our team will assist you
+              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
+              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
+              with property guidance, inquiries, and support.aaaaaaaa
             </p>
 
             <div className="space-y-6">
@@ -132,6 +200,7 @@ const ContactInfo = ({data}) => {
         </div>
       </div>
     </section>
+    </>
   );
 };
 
