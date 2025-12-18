@@ -15,16 +15,33 @@ const ContactInfo = ({data,website}) => {
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {
-    setForm({ ...form, [e.target.name]: e.target.value });
-  };
+  const { name, value } = e.target;
+
+  // ✅ Phone validation: only numbers, max 10 digits
+  if (name === "phone") {
+    // allow only digits
+    if (!/^\d*$/.test(value)) return;
+
+    // max 10 digits
+    if (value.length > 10) return;
+  }
+
+  setForm({ ...form, [name]: value });
+};
+
 
   const handleSubmit = async (e) => {
     e.preventDefault();
 
     if (!form.name || !form.phone || !form.message) {
-      toast.error("All fields are required");
-      return;
-    }
+  toast.error("All fields are required");
+  return;
+}
+
+if (form.phone.length !== 10) {
+  toast.error("Phone number must be exactly 10 digits");
+  return;
+}
 
     setLoading(true);
 
@@ -108,6 +125,8 @@ const ContactInfo = ({data,website}) => {
                 <label className="text-[#422c18] font-medium">{data?.formSection?.fields[2]?.label}</label>
                 <input
                 name="phone" 
+                inputMode="numeric"     
+                pattern="[0-9]*" 
                   type={data?.formSection?.fields[2]?.type}
                   placeholder={data?.formSection?.fields[2]?.placeholder}
                   value={form.phone}
