@@ -1,0 +1,380 @@
+{
+  "domain": "",
+
+  "heroSection": {
+    "badge": "Invest Once, Earn for Years",
+    "heading": "Shop for Sale in Gurgaon – Grow Your Business Smartly",
+    "description": ["Looking for a profitable Shop for sale in Gurgaon that ensures steady returns and long-term growth? Gurgaon is one of India’s most dynamic commercial hubs, making it an ideal destination for retail investment. A Shop for sale in Gurgaon offers excellent visibility, high footfall, and strong appreciation due to the city’s expanding population, corporate presence, and evolving lifestyle needs.",
+  "From high-street retail and shopping complexes to SCOs and commercial markets, a Shop for sale in Gurgaon suits entrepreneurs, investors, and brands alike. Prime locations such as Golf Course Road, Sohna Road, Dwarka Expressway, New Gurgaon, and World Street attract consistent customer traffic. Deal Acres, a trusted property dealer in Gurgaon, helps you discover verified and high-potential shop properties that align with your business and investment goals."],
+    "buttons": [
+      {
+        "label": "View Shops for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Speak to Commercial Expert",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2053&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
+    ]
+  },
+
+  "welcomeSection": {
+    "title": "Trusted platform for smart home buyers in Gurgaon",
+    "heading": "Why Invest in a Shop for Sale in Gurgaon",
+    "description": [
+      "Investing in a Shop for sale in Gurgaon is one of the most reliable ways to build passive income and long-term wealth. Retail spaces in Gurgaon benefit from strong rental demand driven by offices, residential societies, and mixed-use developments. A well-located Shop for sale in Gurgaon ensures stable cash flow and excellent resale value.",
+      "Commercial growth corridors, upcoming infrastructure projects, and premium residential catchments have increased the demand for retail shops. Whether you are buying for self-use or leasing, a Shop for sale in Gurgaon offers flexibility and security. Compared to other assets, retail shops provide better yield and consistent occupancy when chosen wisely.",
+      "Deal Acres simplifies the journey of finding the right Shop for sale in Gurgaon by offering market insights, verified listings, and professional guidance. As an experienced property dealer in Gurgaon, we help you make informed commercial real estate decisions with confidence."
+    ]
+  },
+
+  "featureWithImage": {
+    "badge": "Verified Shops for Sale",
+    "title": "Explore Verified Shops for Sale Across Gurgaon",
+    "description": [
+      "Finding the right Shop for sale in Gurgaon requires deep market understanding and legal clarity. Deal Acres brings you a curated selection of retail shops across prime commercial zones, high-street markets, and emerging business districts. Every Shop for sale in Gurgaon listed on our platform is verified for ownership, approvals, and location advantage.",
+      "Whether you are planning to open a retail outlet, showroom, café, or invest for rental income, our listings cover a wide range of budgets and sizes. A Shop for sale in Gurgaon gives you the advantage of owning a tangible income-generating asset in a high-growth city. From small retail units to large commercial shops, Deal Acres ensures quality options.",
+      "Our expert advisors assist you in selecting the most suitable Shop for sale in Gurgaon based on footfall, brand potential, and return expectations. With end-to-end support, we make commercial property buying simple and transparent."
+    ],
+    "subTitle": "Shops For Sale Options",
+    "features": [
+      "High-footfall retail locations",
+      "Verified commercial shop listings",
+      "Complete documentation and deal support"
+    ],
+    "primaryButton": {
+      "label": "Explore All Shops",
+      "path": "/"
+    },
+    "secondaryButton": {
+      "label": "Get Investment Advice",
+      "path": "/"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "alt": "Luxury Property"
+    },
+    "floatingCard": {
+      "title": "Farmland Experts",
+      "subtitle": "Agriculture Investment Guidance",
+      "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
+    }
+  },
+
+  "servicesSection": {
+    "heading": "Trusted Property Dealer in Gurgaon – Deal Acres",
+    "description": ["Deal Acres is a leading property dealer in Gurgaon offering professional and transparent real estate services. As a modern real estate venture, we provide unlisted free property listing options for shop owners and free business listing opportunities for developers, brands, and channel partners.",
+  "Choosing Deal Acres for a Shop for sale in Gurgaon ensures access to genuine listings, competitive pricing, and expert commercial advisory. Our customer-first approach focuses on building trust, simplifying transactions, and delivering value-driven solutions. With extensive market experience, Deal Acres stands as a reliable partner for commercial property investment in Gurgaon."],
+    "services": [
+  {
+    "title": "House for Sale in Gurgaon",
+    "description": "Independent houses and villas offering privacy and long-term value.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Flat for Rent in Gurgaon",
+    "description": "Verified rental flats across prime residential sectors.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "Flat for Sale in Gurgaon",
+    "description": "Ready and upcoming flats with high appreciation potential.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "Shop for Sale in Gurgaon",
+    "description": "Retail shops in prime locations with strong ROI prospects.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Shop for Rent in Gurgaon",
+    "description": "Rental shops ideal for startups and established brands.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Plot for Sale in Gurgaon",
+    "description": "Residential and commercial plots with clear titles.",
+    "icon": "FaLandmark"
+  },
+  {
+    "title": "Agricultural Land for Sale in Gurgaon",
+    "description": "Farmland with future development potential.",
+    "icon": "FaTractor"
+  },
+  {
+    "title": "To-Let Service in Gurgaon",
+    "description": "Professional leasing assistance for owners and tenants.",
+    "icon": "FaHandshake"
+  },
+  {
+    "title": "Commercial Property for Sale in Gurgaon",
+    "description": "Offices and commercial units for investment.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "World Street Gurgaon",
+    "description": "Premium retail and entertainment destination.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "Independent Builder Floor in Gurgaon",
+    "description": "Low-density floors with modern layouts.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Co-Workation in Gurgaon",
+    "description": "Flexible co-working and workation spaces.",
+    "icon": "FaBriefcase"
+  },
+  {
+    "title": "SCO Plots for Sale in Faisalabad",
+    "description": "Shop-cum-office plots for mixed-use development.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Upcoming Projects in Gurgaon",
+    "description": "New launches across residential and commercial segments.",
+    "icon": "FaChartLine"
+  },
+  {
+    "title": "Affordable Projects in Gurgaon",
+    "description": "Budget-friendly housing developments.",
+    "icon": "FaRupeeSign"
+  },
+  {
+    "title": "Apartment for Rent in Gurgaon",
+    "description": "Comfortable rental apartments.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "Apartment for Sale in Gurgaon",
+    "description": "Lifestyle apartments with strong returns.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "2 BHK Flat for Sale in Gurgaon",
+    "description": "Compact homes for small families.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "3 BHK Flat for Sale in Gurgaon",
+    "description": "Spacious homes with modern amenities.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "4 BHK Flat for Sale in Gurgaon",
+    "description": "Luxury residences for premium living.",
+    "icon": "FaCrown"
+  },
+  {
+    "title": "2 BHK Flat for Rent in Gurgaon",
+    "description": "Affordable rental housing.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "3 BHK Flat for Rent in Gurgaon",
+    "description": "Spacious rental flats.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "4 BHK Flat for Rent in Gurgaon",
+    "description": "Premium rental options.",
+    "icon": "FaKey"
+  }
+]
+
+  },
+
+  "whyChooseUs": {
+    "heading": "Why Choose Deal Acres for Shops in Gurgaon",
+    "description": [
+      "Deal Acres is a customer-centric property dealer in Gurgaon, making it easy to find the right Shop for sale in Gurgaon. Our platform offers free property listing, free business listing, verified shop properties, and expert commercial advisory services."
+    ],
+    "points": [
+      "Unlisted free property listing",
+      "Free business listing",
+      "Verified commercial shops",
+      "Dedicated investment support"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2048&q=80",
+      "alt": "Luxury Property"
+    }
+  },
+
+  "blogsSection": {
+    "heading": "Featured Blogs and Commercial Insights",
+    "description": [
+      "Explore our featured blogs covering retail investment trends, location analysis, ROI tips, and legal checks for buying a Shop for sale in Gurgaon. Our expert insights help investors and business owners make smart commercial real estate decisions."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blogs"
+    },
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Top 10 Neighborhoods for Families in 2023",
+        "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
+        "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1170&q=80",
+        "date": "May 15, 2023",
+        "category": "Neighborhoods"
+      },
+      {
+        "id": 2,
+        "title": "How to Increase Your Home Value Before Selling",
+        "excerpt": "Learn simple and cost-effective ways to boost your property value before listing it on the market.",
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 28, 2023",
+        "category": "Selling Tips"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Smart Homes",
+        "excerpt": "Explore the latest technology trends that are transforming modern homes into smart living spaces.",
+        "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 10, 2023",
+        "category": "Technology"
+      }
+    ]
+  },
+
+  "contactSection": {
+    "formSection": {
+      "heading": "Get In Touch",
+      "description": [
+        "Fill out the form and our team will get back to you to assist with Agriculture Land for Sale in Hisar and farming investment opportunities."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
+        },
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+1 234 567 890",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Write your message...",
+          "type": "textarea"
+        }
+      ],
+      "submitButton": "Send Message"
+    },
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "items": [
+        {
+          "label": "Phone",
+          "value": "+1 (246) 333-0088"
+        },
+        {
+          "label": "Email",
+          "value": "info@estatepro.com"
+        },
+        {
+          "label": "Office Address",
+          "value": "2799 Mainroad Ave, NY"
+        }
+      ]
+    }
+  },
+
+  "faqSection": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Everything you need to know about house prices, locations, investment benefits, and expert support in Gurgaon.",
+    "faqs": [
+  {
+    "q": "Why should I invest in a shop in Gurgaon?",
+    "a": "A shop for sale in Gurgaon offers stable rental income, high footfall, and long-term appreciation due to strong commercial demand."
+  },
+  {
+    "q": "Which locations are best for buying shops in Gurgaon?",
+    "a": "Golf Course Road, Sohna Road, Dwarka Expressway, New Gurgaon, and World Street are preferred locations for shop investments."
+  },
+  {
+    "q": "Are shops in Gurgaon good for rental income?",
+    "a": "Yes, retail shops in high-demand zones generate consistent and attractive rental yields."
+  },
+  {
+    "q": "Does Deal Acres verify shop documents?",
+    "a": "Yes, all shop listings on Deal Acres are verified for ownership, approvals, and legal compliance."
+  },
+  {
+    "q": "Can I lease my shop after purchase?",
+    "a": "Yes, shops can be leased to businesses for regular and long-term rental income."
+  },
+  {
+    "q": "Are SCO shops available in Gurgaon?",
+    "a": "Yes, SCO plots and high-street retail shops are available in prime sectors of Gurgaon."
+  },
+  {
+    "q": "What is the price range of shops in Gurgaon?",
+    "a": "Shop prices vary depending on location, size, frontage, and footfall potential."
+  },
+  {
+    "q": "Is buying a shop better than renting?",
+    "a": "Buying a shop provides asset ownership, steady rental income, and long-term appreciation benefits."
+  },
+  {
+    "q": "Do you help with resale and leasing?",
+    "a": "Yes, Deal Acres offers complete assistance with resale and leasing of commercial shops."
+  },
+  {
+    "q": "How do I find the best shop for sale in Gurgaon?",
+    "a": "With Deal Acres, you get access to verified shop listings along with expert investment guidance."
+  }
+]
+
+  },
+
+  "footer": {
+    "brand": {
+      "name": "EstatePro Real Estate",
+      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+    },
+    "poweredBy": {
+      "label": "Powered By",
+      "name": "Deal Acres"
+    },
+    "social": {
+      "heading": "Follow Us",
+      "links": [
+        {
+          "platform": "Facebook",
+          "url": "#"
+        },
+        {
+          "platform": "Twitter",
+          "url": "#"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "#"
+        }
+      ]
+    },
+    "copyright": {
+      "text": "EstatePro. All Rights Reserved."
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "heroSection": {
     "badge": "Premium Commercial Properties",
     "heading": "Premium Commercial Property for Sale in Hisar",
-    "description": "Looking for a profitable investment or a business-ready space? Our platform provides verified Commercial Property for Sale in Hisar across prime locations. Whether you want office spaces, retail shops, showrooms, or warehouses, you'll find options that match your budget and business requirements. Explore properties with clear details, photos, and legal verification to make a safe and informed purchase.",
+    "description": ["Looking for a profitable investment or a business-ready space? Our platform provides verified Commercial Property for Sale in Hisar across prime locations. Whether you want office spaces, retail shops, showrooms, or warehouses, you'll find options that match your budget and business requirements. Explore properties with clear details, photos, and legal verification to make a safe and informed purchase."],
     "buttons": [
       {
         "label": "Explore Commercial Properties",
@@ -66,7 +66,7 @@
 
   "servicesSection": {
     "heading": "Explore All Property Categories in Hisar",
-    "description": "Along with Commercial Property for Sale in Hisar, we also offer various real estate domains for buyers, tenants, and investors.",
+    "description": ["Along with Commercial Property for Sale in Hisar, we also offer various real estate domains for buyers, tenants, and investors."],
     "services": [
       {
         "title": "House for Sale in Hisar",
@@ -204,7 +204,7 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": "Contact us for expert guidance on Commercial Property for Sale in Hisar, investment opportunities, or property verification.",
+      "description": ["Contact us for expert guidance on Commercial Property for Sale in Hisar, investment opportunities, or property verification."],
       "items": [
         {
           "label": "Phone",
@@ -272,11 +272,11 @@
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": "We help you discover premium commercial properties and business spaces with expert guidance, transparent processes, and trusted services."
+      "description": ["We help you discover premium commercial properties and business spaces with expert guidance, transparent processes, and trusted services."]
     },
     "poweredBy": {
       "label": "Powered By",
-      "name": "Dealacres"
+      "name": "Deal Acres"
     },
     "social": {
       "heading": "Follow Us",
@@ -300,7 +300,7 @@
       ]
     },
     "copyright": {
-      "text": "© {{year}} EstatePro. All Rights Reserved."
+      "text": "EstatePro. All Rights Reserved."
     }
   }
 }

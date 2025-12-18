@@ -331,7 +331,7 @@
     },
     "poweredBy": {
       "label": "Powered By",
-      "name": "Dealacres"
+      "name": "Deal Acres"
     },
     "social": {
       "heading": "Follow Us",
@@ -355,7 +355,7 @@
       ]
     },
     "copyright": {
-      "text": "© {{year}} EstatePro. All Rights Reserved."
+      "text": "EstatePro. All Rights Reserved."
     }
   }
 }

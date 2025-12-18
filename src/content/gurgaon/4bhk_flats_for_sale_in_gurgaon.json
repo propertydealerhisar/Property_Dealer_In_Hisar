@@ -1,0 +1,384 @@
+{
+  "domain": "",
+
+  "heroSection": {
+    "badge": "4BHK Flats for Sale",
+    "heading": "Luxury 4BHK Flats for Sale in Gurgaon",
+    "description": ["If you are searching for a spacious, elite, and future-ready 4BHK flat for sale in Gurgaon, you are exactly where you need to be. Gurgaon stands as one of India’s most premium real estate destinations, offering unmatched infrastructure, high-end lifestyle amenities, and exceptional connectivity. A 4BHK flat for sale in Gurgaon is designed for families who desire space, comfort, privacy, and a touch of luxury in everyday living.",
+"With wide roads, corporate hubs, international schools, luxury malls, healthcare facilities, and metro connectivity, Gurgaon offers the perfect ecosystem for upscale residential living. Whether it is Golf Course Road, Golf Course Extension Road, Dwarka Expressway, Southern Peripheral Road (SPR), or New Gurgaon, every location provides world-class residential projects featuring premium 4BHK flats for sale in Gurgaon.",
+"At Deal Acres, a trusted property dealer in Gurgaon, we bring you verified, high-quality listings that match your lifestyle and investment expectations. From luxury high-rise apartments to exclusive low-density residences, we help you find the most suitable 4BHK flat for sale in Gurgaon with complete transparency and professional guidance."],
+    "buttons": [
+      {
+        "label": "Explore 4BHK Flats",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Property Expert",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2053&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
+    ]
+  },
+
+  "welcomeSection": {
+    "title": "Elite Living with Space, Comfort, and Prestige",
+    "heading": "Prime Locations for 4BHK Flats in Gurgaon",
+    "description": [
+      "Choosing the right address is as important as choosing the right home, especially when investing in a 4BHK flat for sale in Gurgaon. Gurgaon offers several premium residential zones that cater to luxury homebuyers and high-net-worth individuals.",
+"Golf Course Road is the most prestigious address, featuring ultra-luxury residential towers, proximity to business hubs, and premium lifestyle amenities. Golf Course Extension Road offers spacious homes with modern infrastructure and excellent connectivity. Dwarka Expressway has emerged as a high-growth corridor, attracting luxury developments and long-term investors.",
+"Sohna Road and SPR provide a blend of premium living and affordability, while New Gurgaon is ideal for buyers looking for larger configurations at competitive prices. Every 4BHK flat for sale in Gurgaon in these locations is supported by top-class social infrastructure, including international schools, hospitals, shopping complexes, and entertainment zones.",
+"As an experienced property dealer in Gurgaon, Deal Acres evaluates location advantages, future growth potential, pricing trends, and builder reputation. We ensure that your 4BHK flat for sale in Gurgaon is not just a home, but a valuable asset for the future."
+    ]
+  },
+
+  "featureWithImage": {
+    "badge": "Invest In 4BHK Flat",
+    "title": "Why Invest in a 4BHK Flat in Gurgaon",
+    "description": [
+      "A 4BHK flat for sale in Gurgaon represents the pinnacle of urban luxury living. These homes are thoughtfully designed to offer expansive living areas, multiple balconies, servant rooms, premium finishes, and private spaces for every family member.",
+"From an investment perspective, a 4BHK flat for sale in Gurgaon delivers strong capital appreciation, exclusivity, and high rental yields from senior executives, diplomats, and corporate tenants. Larger homes are always in limited supply, which further increases their long-term value.",
+"At Deal Acres, we provide end-to-end support throughout your buying journey. As a reputed property dealer in Gurgaon, we assist with project comparison, price negotiation, legal documentation, and possession support. Every 4BHK flat for sale in Gurgaon listed with us is verified, transparent, and aligned with premium living standards."
+    ],
+    "subTitle": "Key Advantages of 4BHK Flats",
+    "features": [
+      "Luxury & Space: Ideal for large families and elite lifestyles",
+      "High Appreciation: Limited inventory with strong demand",
+      "Premium Amenities: Gated communities with world-class facilities"
+    ],
+    "primaryButton": {
+      "label": "Check Luxury Projects",
+      "path": "/"
+    },
+    "secondaryButton": {
+      "label": "Schedule Site Visit",
+      "path": "/"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "alt": "Luxury Property"
+    },
+    "floatingCard": {
+      "title": "Farmland Experts",
+      "subtitle": "Agriculture Investment Guidance",
+      "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
+    }
+  },
+
+  "servicesSection": {
+    "heading": "Ultra-Luxury 4BHK Flats with World-Class Amenities",
+    "description": ["Modern 4BHK flats for sale in Gurgaon are designed to deliver a refined lifestyle experience. These residences feature expansive layouts, premium interiors, large balconies, modular kitchens, smart home features, and private elevators in select projects.",
+"Luxury residential developments offering 4BHK flats for sale in Gurgaon include amenities such as landscaped gardens, infinity pools, wellness centers, clubhouses, concierge services, fitness studios, jogging tracks, children’s play areas, and 24×7 multi-tier security.",
+"Whether you prefer a ready-to-move luxury apartment or an under-construction premium project, Deal Acres offers curated listings across Gurgaon’s most elite developments. As your trusted property dealer in Gurgaon, we help you assess carpet area efficiency, construction quality, maintenance costs, and resale value.",
+"Owning a 4BHK flat for sale in Gurgaon is more than just a purchase — it is a statement of success, comfort, and refined taste."],
+    "services": [
+  {
+    "title": "House for Sale in Gurgaon",
+    "description": "Independent houses offer privacy, exclusivity, and complete ownership for luxury living.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Flat for Rent in Gurgaon",
+    "description": "Furnished and semi-furnished rental flats across all prime locations.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "Flat for Sale in Gurgaon",
+    "description": "Wide range of apartments from affordable to luxury segments.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "Shop for Sale in Gurgaon",
+    "description": "Retail spaces in prime commercial zones with strong footfall.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Shop for Rent in Gurgaon",
+    "description": "Ready-to-use shops for businesses and brands.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Plot for Sale in Gurgaon",
+    "description": "Residential plots ideal for custom homes or future investment.",
+    "icon": "FaLandmark"
+  },
+  {
+    "title": "Agricultural Land for Sale in Gurgaon",
+    "description": "Long-term investment opportunities with development potential.",
+    "icon": "FaTractor"
+  },
+  {
+    "title": "To-Let Service in Gurgaon",
+    "description": "Professional leasing solutions for property owners and tenants.",
+    "icon": "FaHandshake"
+  },
+  {
+    "title": "Commercial Property for Sale in Gurgaon",
+    "description": "Office spaces and commercial assets with assured ROI.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "World Street Gurgaon",
+    "description": "Premium destination for retail, dining, and office spaces.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "Independent Builder Floor in Gurgaon",
+    "description": "Low-density living with modern independent floors.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Co-Workation in Gurgaon",
+    "description": "Flexible co-working and co-living spaces.",
+    "icon": "FaBriefcase"
+  },
+  {
+    "title": "SCO Plots for Sale in Faisalabad",
+    "description": "Strategically located commercial plots for mixed-use development.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Upcoming Projects in Gurgaon",
+    "description": "New launches with early-stage investment benefits.",
+    "icon": "FaChartLine"
+  },
+  {
+    "title": "Affordable Projects in Gurgaon",
+    "description": "Budget-friendly housing with modern amenities.",
+    "icon": "FaRupeeSign"
+  },
+  {
+    "title": "Apartment for Rent in Gurgaon",
+    "description": "Ready-to-move apartments in prime sectors.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "Apartment for Sale in Gurgaon",
+    "description": "Luxury and mid-segment apartments.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "2BHK Flat for Sale in Gurgaon",
+    "description": "Compact homes for small families.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "3BHK Flat for Sale in Gurgaon",
+    "description": "Spacious homes for growing families.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "4BHK Flat for Sale in Gurgaon",
+    "description": "Elite residences for premium living.",
+    "icon": "FaCrown"
+  },
+  {
+    "title": "2BHK Flat for Rent in Gurgaon",
+    "description": "Affordable rental housing.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "3BHK Flat for Rent in Gurgaon",
+    "description": "Comfortable rental homes.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "4BHK Flat for Rent in Gurgaon",
+    "description": "Luxury rental options for executives.",
+    "icon": "FaKey"
+  }
+]
+
+  },
+
+  "whyChooseUs": {
+    "heading": "Why Choose Deal Acres as Your Property Partner",
+    "description": [
+      "Deal Acres is a leading real estate platform and a trusted property dealer in Gurgaon, offering customer-centric and technology-driven property solutions. We make buying a 4BHK flat for sale in Gurgaon smooth, secure, and rewarding."
+    ],
+    "points": [
+      "Free Unlisted Property Listing: List properties without brokerage",
+      "Free Business Listing: Builders and brokers gain visibility",
+      "Verified Listings: 100% genuine properties",
+      "Expert Property Advisors: Local market specialists"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2048&q=80",
+      "alt": "Luxury Property"
+    }
+  },
+
+  "blogsSection": {
+    "heading": "Featured Blog: Luxury Real Estate Trends in Gurgaon",
+    "description": [
+      "Explore our featured blog covering luxury property trends, price insights, and expert tips for buying a 4BHK flat for sale in Gurgaon. Stay informed and make confident real estate decisions."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blogs"
+    },
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Top 10 Neighborhoods for Families in 2023",
+        "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
+        "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1170&q=80",
+        "date": "May 15, 2023",
+        "category": "Neighborhoods"
+      },
+      {
+        "id": 2,
+        "title": "How to Increase Your Home Value Before Selling",
+        "excerpt": "Learn simple and cost-effective ways to boost your property value before listing it on the market.",
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 28, 2023",
+        "category": "Selling Tips"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Smart Homes",
+        "excerpt": "Explore the latest technology trends that are transforming modern homes into smart living spaces.",
+        "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 10, 2023",
+        "category": "Technology"
+      }
+    ]
+  },
+
+  "contactSection": {
+    "formSection": {
+      "heading": "Get In Touch",
+      "description": [
+        "Fill out the form and our team will get back to you to assist with Agriculture Land for Sale in Hisar and farming investment opportunities."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
+        },
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+1 234 567 890",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Write your message...",
+          "type": "textarea"
+        }
+      ],
+      "submitButton": "Send Message"
+    },
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "items": [
+        {
+          "label": "Phone",
+          "value": "+1 (246) 333-0088"
+        },
+        {
+          "label": "Email",
+          "value": "info@estatepro.com"
+        },
+        {
+          "label": "Office Address",
+          "value": "2799 Mainroad Ave, NY"
+        }
+      ]
+    }
+  },
+
+  "faqSection": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Everything you need to know about house prices, locations, investment benefits, and expert support in Gurgaon.",
+    "faqs": [
+  {
+    "q": "What is the average price of a 4BHK flat for sale in Gurgaon?",
+    "a": "Prices depend on the location, builder reputation, project specifications, and amenities, typically ranging from premium to ultra-luxury segments."
+  },
+  {
+    "q": "Is buying a 4BHK flat for sale in Gurgaon a good investment?",
+    "a": "Yes, due to limited supply, strong buyer demand, and excellent capital appreciation, 4BHK flats in Gurgaon are a solid investment."
+  },
+  {
+    "q": "Which locations are best for 4BHK flats in Gurgaon?",
+    "a": "Prime locations include Golf Course Road, Golf Course Extension Road, Dwarka Expressway, and SPR (Southern Peripheral Road)."
+  },
+  {
+    "q": "Are home loans available for 4BHK flats in Gurgaon?",
+    "a": "Yes, leading banks and financial institutions offer home loans for eligible buyers purchasing 4BHK flats."
+  },
+  {
+    "q": "Can I find ready-to-move 4BHK flats for sale in Gurgaon?",
+    "a": "Yes, several ready-to-move 4BHK flats are available for sale across premium sectors of Gurgaon."
+  },
+  {
+    "q": "Are luxury 4BHK flats suitable for rental income?",
+    "a": "Yes, luxury 4BHK flats attract high-profile tenants and command premium rental values."
+  },
+  {
+    "q": "What documents are required to buy a 4BHK flat?",
+    "a": "Required documents include the sale deed, approved building plans, clear title documents, and valid identity proofs."
+  },
+  {
+    "q": "Does Deal Acres assist with site visits?",
+    "a": "Yes, Deal Acres arranges expert-guided site visits to help buyers evaluate 4BHK flats."
+  },
+  {
+    "q": "Is Gurgaon suitable for luxury living?",
+    "a": "Absolutely. Gurgaon is one of India’s leading luxury residential markets, offering premium lifestyle amenities."
+  },
+  {
+    "q": "How can I start buying a 4BHK flat today?",
+    "a": "You can contact Deal Acres, your trusted property dealer in Gurgaon, to begin the buying process with professional support."
+  }
+]
+
+  },
+
+  "footer": {
+    "brand": {
+      "name": "EstatePro Real Estate",
+      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+    },
+    "poweredBy": {
+      "label": "Powered By",
+      "name": "Deal Acres"
+    },
+    "social": {
+      "heading": "Follow Us",
+      "links": [
+        {
+          "platform": "Facebook",
+          "url": "#"
+        },
+        {
+          "platform": "Twitter",
+          "url": "#"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "#"
+        }
+      ]
+    },
+    "copyright": {
+      "text": "EstatePro. All Rights Reserved."
+    }
+  }
+}

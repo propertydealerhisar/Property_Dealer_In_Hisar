@@ -1,0 +1,380 @@
+{
+  "domain": "",
+
+  "heroSection": {
+    "badge": "Independent Builder Floors",
+    "heading": "Premium Independent Builder Floors in Gurgaon",
+    "description": ["Finding the perfect Independent Builder Floor in Gurgaon is about choosing privacy, comfort, and long-term value. These low-density residential properties offer a perfect blend of independent living and modern amenities, making them ideal for families, working professionals, and investors. Gurgaon has emerged as a prime destination for Independent Builder Floor in Gurgaon options due to its strategic location, excellent connectivity, and well-planned sectors.",
+  "At Deal Acres, we bring you verified, ready-to-move and under-construction Independent Builder Floor in Gurgaon across premium and affordable locations. Whether you are searching for a spacious home or a high-return investment, our curated listings ensure transparency, legal clarity, and value for money. Each Independent Builder Floor in Gurgaon listed with us is handpicked to match your lifestyle and budget needs."],
+    "buttons": [
+      {
+        "label": "Explore Builder Floors",
+        "path": "/"
+      },
+      {
+        "label": "Schedule Site Visit",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2053&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
+    ]
+  },
+
+  "welcomeSection": {
+    "title": "Trusted platform for smart home buyers in Gurugram",
+    "heading": "Why Choose Independent Builder Floors in Gurgaon",
+    "description": [
+      "An Independent Builder Floor in Gurgaon offers a unique residential experience that combines exclusivity with affordability. Unlike high-rise apartments, builder floors provide limited occupancy per building, ensuring privacy and peaceful living. Gurgaon’s well-developed infrastructure, wide roads, and green sectors make it an ideal city for owning an Independent Builder Floor in Gurgaon.",
+      "With excellent connectivity to NH-48, Dwarka Expressway, Golf Course Road, and Sohna Road, residents enjoy seamless access to Delhi, IGI Airport, corporate hubs, and social infrastructure. Most Independent Builder Floors in Gurgaon are located in prime sectors with proximity to schools, hospitals, shopping complexes, and metro stations.",
+      "From 2 BHK to luxury 4 BHK configurations, these floors are designed with modern layouts, premium fittings, parking facilities, and independent entrances. Investing in an Independent Builder Floor in Gurgaon also ensures better appreciation potential due to limited supply and high demand. At Deal Acres, we help you choose the right property that aligns with your lifestyle goals and financial plans."
+    ]
+  },
+
+  "featureWithImage": {
+    "badge": "Premium Independent Builder Floor",
+    "title": "Explore Premium Independent Builder Floor Options",
+    "description": [
+      "Deal Acres presents an extensive range of Independent Builder Floor in Gurgaon listings across top residential sectors. Our portfolio includes both newly launched and resale properties tailored for end-users and investors alike. Each Independent Builder Floor in Gurgaon is verified for clear titles, approved layouts, and transparent pricing.",
+      "We understand that every buyer has unique preferences, which is why our listings cover a wide spectrum—from budget-friendly builder floors to ultra-luxury independent floors in gated neighborhoods. Our expert property advisors guide you through site visits, price negotiations, and legal documentation to ensure a smooth buying experience.",
+      "Choosing an Independent Builder Floor in Gurgaon through Deal Acres means gaining access to exclusive deals, off-market listings, and local market insights. With our deep understanding of Gurgaon’s real estate landscape, we help you make informed and profitable decisions."
+    ],
+    "subTitle": "Independent Builder Floor Options",
+    "features": [
+      "Verified & Legal Properties",
+      "Prime Gurgaon Locations",
+      "High ROI & End-Use Value"
+    ],
+    "primaryButton": {
+      "label": "View Latest Listings",
+      "path": "/"
+    },
+    "secondaryButton": {
+      "label": "Talk to Property Expert",
+      "path": "/"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2070&q=80",
+      "alt": "Luxury Property"
+    },
+    "floatingCard": {
+      "title": "Farmland Experts",
+      "subtitle": "Agriculture Investment Guidance",
+      "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
+    }
+  },
+
+  "servicesSection": {
+    "heading": "Your Trusted Property Dealer in Gurgaon",
+    "description": ["Deal Acres is a trusted property dealer in Gurgaon, specializing in Independent Builder Floor in Gurgaon and other residential and commercial assets. As a customer-centric venture, we focus on transparency, ethical dealings, and long-term client relationships. From first-time buyers to seasoned investors, our personalized approach ensures every property journey is smooth, secure, and rewarding."],
+    "services": [
+  {
+    "title": "House for Sale in Gurgaon",
+    "description": "Discover independent houses and villas in prime locations offering spacious layouts, modern amenities, and excellent resale value. Ideal for families seeking complete ownership and privacy in Gurgaon’s top residential sectors.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Flat for Rent in Gurgaon",
+    "description": "Find affordable and premium rental flats near corporate hubs, metro stations, and commercial zones. Perfect for professionals, families, and students looking for comfortable living options.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "Flat for Sale in Gurgaon",
+    "description": "Explore ready-to-move and under-construction flats with modern facilities, excellent connectivity, and strong appreciation potential across Gurgaon.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "Shop for Sale in Gurgaon",
+    "description": "Invest in retail shops located in high-footfall commercial areas, markets, and malls for steady rental income and capital growth.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Shop for Rent in Gurgaon",
+    "description": "Choose from well-located retail spaces ideal for startups, franchises, and established businesses in Gurgaon’s commercial hotspots.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Plot for Sale in Gurgaon",
+    "description": "Buy residential and commercial plots in developing and premium sectors of Gurgaon for long-term investment and custom construction.",
+    "icon": "FaLandmark"
+  },
+  {
+    "title": "Agricultural Land for Sale in Gurgaon",
+    "description": "Explore fertile and strategically located agricultural land suitable for farming, farmhouses, or future development purposes.",
+    "icon": "FaTractor"
+  },
+  {
+    "title": "To-Let Service in Gurgaon",
+    "description": "Professional property leasing services for landlords and tenants ensuring quick closures and verified tenants.",
+    "icon": "FaHandshake"
+  },
+  {
+    "title": "Commercial Property for Sale in Gurgaon",
+    "description": "Invest in office spaces, business centers, and IT parks offering strong rental yields and corporate leasing demand.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "World Street Gurgaon",
+    "description": "Premium commercial destination offering retail, office, and investment opportunities in a globally themed business hub.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "Independent Builder Floor in Gurgaon",
+    "description": "Curated listings of premium and affordable Independent Builder Floor in Gurgaon with verified documentation and expert support.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Co-Workation in Gurgaon",
+    "description": "Flexible co-working and co-living spaces designed for modern professionals and startups.",
+    "icon": "FaBriefcase"
+  },
+  {
+    "title": "SCO Plots for Sale in Faisalabad",
+    "description": "Strategic SCO plots ideal for commercial development, retail outlets, and office spaces.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Upcoming Projects in Gurgaon",
+    "description": "Stay updated with new launches, upcoming residential and commercial projects with early-bird investment benefits.",
+    "icon": "FaChartLine"
+  },
+  {
+    "title": "Affordable Projects in Gurgaon",
+    "description": "Budget-friendly housing options with modern amenities and excellent connectivity.",
+    "icon": "FaRupeeSign"
+  },
+  {
+    "title": "Apartment for Rent in Gurgaon",
+    "description": "Choose from furnished and semi-furnished apartments across prime and budget sectors.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "Apartment for Sale in Gurgaon",
+    "description": "Explore premium and mid-segment apartments suitable for end-use and investment.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "2 BHK Flat for Sale in Gurgaon",
+    "description": "Perfect homes for small families and professionals offering comfort and affordability.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "3 BHK Flat for Sale in Gurgaon",
+    "description": "Spacious family homes in prime locations with premium amenities.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "4 BHK Flat for Sale in Gurgaon",
+    "description": "Luxury living options designed for elite lifestyles.",
+    "icon": "FaCrown"
+  },
+  {
+    "title": "2 BHK Flat for Rent in Gurgaon",
+    "description": "Affordable rental solutions near offices and metro routes.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "3 BHK Flat for Rent in Gurgaon",
+    "description": "Comfortable and spacious rental homes for families.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "4 BHK Flat for Rent in Gurgaon",
+    "description": "High-end rental properties offering luxury and exclusivity.",
+    "icon": "FaKey"
+  }
+]
+
+  },
+
+  "whyChooseUs": {
+    "heading": "Deal Acres – A Smart Real Estate Venture",
+    "description": [
+      "Deal Acres is a technology-driven real estate venture offering free property listings and free business listings for buyers, sellers, and investors. Our platform empowers property owners to list their Independent Builder Floor in Gurgaon without hidden charges, while buyers gain access to verified listings and genuine deals.",
+      "We aim to create a transparent ecosystem where real estate decisions are driven by data, trust, and expert guidance. From residential properties to commercial investments, Deal Acres simplifies the entire property discovery process. Our dedicated team ensures every listing meets quality and compliance standards, making property transactions safer and faster."
+    ],
+    "points": [
+      "Free Unlisted Property Listings",
+      "Free Business Listings",
+      "Verified & Trusted Deals",
+      "Expert Market Guidance"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2048&q=80",
+      "alt": "Luxury Property"
+    }
+  },
+
+  "blogsSection": {
+    "heading": "Featured Insights & Blogs",
+    "description": [
+      "Stay informed with our featured blogs covering market trends, investment tips, location insights, and buying guides related to Independent Builder Floor in Gurgaon and the broader real estate market. Our expert-written blogs help you make confident and well-researched property decisions."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blogs"
+    },
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Top 10 Neighborhoods for Families in 2023",
+        "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
+        "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1170&q=80",
+        "date": "May 15, 2023",
+        "category": "Neighborhoods"
+      },
+      {
+        "id": 2,
+        "title": "How to Increase Your Home Value Before Selling",
+        "excerpt": "Learn simple and cost-effective ways to boost your property value before listing it on the market.",
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 28, 2023",
+        "category": "Selling Tips"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Smart Homes",
+        "excerpt": "Explore the latest technology trends that are transforming modern homes into smart living spaces.",
+        "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 10, 2023",
+        "category": "Technology"
+      }
+    ]
+  },
+
+  "contactSection": {
+    "formSection": {
+      "heading": "Get In Touch",
+      "description": [
+        "Fill out the form and our team will get back to you to assist with Agriculture Land for Sale in Hisar and farming investment opportunities."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
+        },
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+1 234 567 890",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Write your message...",
+          "type": "textarea"
+        }
+      ],
+      "submitButton": "Send Message"
+    },
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "items": [
+        {
+          "label": "Phone",
+          "value": "+1 (246) 333-0088"
+        },
+        {
+          "label": "Email",
+          "value": "info@estatepro.com"
+        },
+        {
+          "label": "Office Address",
+          "value": "2799 Mainroad Ave, NY"
+        }
+      ]
+    }
+  },
+
+  "faqSection": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Everything you need to know about house prices, locations, investment benefits, and expert support in Gurgaon.",
+    "faqs": [
+  {
+    "q": "What is an Independent Builder Floor in Gurgaon?",
+    "a": "An independent builder floor in Gurgaon is a low-rise residential unit where each floor is owned separately, offering privacy, independent access, and fewer shared amenities compared to apartments."
+  },
+  {
+    "q": "Are Independent Builder Floors a good investment?",
+    "a": "Yes, independent builder floors in Gurgaon offer strong appreciation due to limited supply, high demand, and prime locations."
+  },
+  {
+    "q": "Which areas are best for builder floors in Gurgaon?",
+    "a": "Popular sectors include Sector 45, 46, 57, 63, 65, Golf Course Road, and Dwarka Expressway areas."
+  },
+  {
+    "q": "Do builder floors have parking facilities?",
+    "a": "Most independent builder floors in Gurgaon come with dedicated parking and, in many cases, stilt parking options."
+  },
+  {
+    "q": "Are builder floors better than apartments?",
+    "a": "Builder floors offer more privacy, fewer residents, and independent living, making them ideal for families."
+  },
+  {
+    "q": "Can I get a home loan for builder floors?",
+    "a": "Yes, most leading banks and financial institutions provide home loans for approved independent builder floor projects in Gurgaon."
+  },
+  {
+    "q": "Are resale builder floors available in Gurgaon?",
+    "a": "Yes, Deal Acres lists both new and resale independent builder floor options in Gurgaon."
+  },
+  {
+    "q": "What is the price range of builder floors in Gurgaon?",
+    "a": "Prices vary based on location, floor size, construction quality, and amenities, ranging from affordable to ultra-luxury segments."
+  },
+  {
+    "q": "Is legal verification necessary when buying a builder floor?",
+    "a": "Absolutely. Always ensure clear title, approved building plans, and necessary permissions before purchasing an independent builder floor in Gurgaon."
+  },
+  {
+    "q": "How does Deal Acres help buyers?",
+    "a": "Deal Acres provides verified listings, expert guidance, legal support, and complete end-to-end assistance for buying builder floors in Gurgaon."
+  }
+]
+
+  },
+
+  "footer": {
+    "brand": {
+      "name": "EstatePro Real Estate",
+      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+    },
+    "poweredBy": {
+      "label": "Powered By",
+      "name": "Deal Acres"
+    },
+    "social": {
+      "heading": "Follow Us",
+      "links": [
+        {
+          "platform": "Facebook",
+          "url": "#"
+        },
+        {
+          "platform": "Twitter",
+          "url": "#"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "#"
+        }
+      ]
+    },
+    "copyright": {
+      "text": "EstatePro. All Rights Reserved."
+    }
+  }
+}
