@@ -2,6 +2,18 @@ export const GTM_IDS = {
   "www.flatsforsaleinhisar.com": "GTM-NL4P6JP3",
   "www.flatsforrentinhisar.com": "GTM-MD7W3G3K",
   "www.houseforsaleinhisar.com": "GTM-PP7Z5FNP",
+  "www.houseforrentinhisar.com": "GTM-N9FW6DJH",
+  "www.shopforsaleinhisar.com": "GTM-NL4P6JP3",
+  "www.commercialpropertyforsaleinhisar.com": "GTM-NL4P6JP3",
+  "www.shopforrentinhisar.com": "GTM-NL4P6JP3",
+  "www.plotforsaleinhisar.com": "GTM-NL4P6JP3",
+  "www.": "GTM-NL4P6JP3",
+  "www.": "GTM-NL4P6JP3",
+  "www.": "GTM-NL4P6JP3",
+  "www.": "GTM-NL4P6JP3",
+  "www.": "GTM-NL4P6JP3",
+  "www.": "GTM-NL4P6JP3",
+  "localhost": "GTM-NL4P6JP3",
 
   // fallback (localhost / default)
   "localhost": "GTM-NL4P6JP3",
