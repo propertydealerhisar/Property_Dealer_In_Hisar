@@ -46,7 +46,7 @@ const Navbar = () => {
   return (
     <>
       {/* ================= TOP BAR ================= */}
-      <div
+      {/* <div
         className="hidden md:block shadow-md"
         style={{ backgroundColor: "#422c18", color: "#f2e8e1" }}
       >
@@ -74,7 +74,7 @@ const Navbar = () => {
             )}
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* ================= NAVBAR ================= */}
       <nav
