@@ -7,7 +7,7 @@ export const GTM_IDS = {
   "www.commercialpropertyforsaleinhisar.com": "GTM-TN557WPL",
   "www.shopforrentinhisar.com": "GTM-PN34LFRG",
   "www.plotforsaleinhisar.com": "GTM-NVSFJW29",
-  "www.agriculturelandforsaleinhisar.com": "GTM-NL4P6JP3",
+  "www.agriculturelandforsaleinhisar.com": "GTM-5LSM6QDJ",
   "www.toletserviceinhisar.com": "GTM-NL4P6JP3",
   
 
