@@ -1,10 +1,11 @@
 {
   "domain": "www.shopforrentinhisar.com",
-
   "heroSection": {
     "badge": "Best Shops for Rent",
     "heading": "Find the Best Shop for Rent in Hisar",
-    "description": ["Finding the right Shop for Rent in Hisar can be challenging, especially when you need the perfect location for your business. That’s why we bring you a smooth and effortless experience to explore verified commercial properties in Hisar. Whether you're a startup, retailer, or expanding business, our listings help you find the right shop easily. Discover trusted options, prime spots, and flexible rentals in one place."],
+    "description": [
+      "Finding the right Shop for Rent in Hisar can be challenging, especially when you need the perfect location for your business. That’s why we bring you a smooth and effortless experience to explore verified commercial properties in Hisar. Whether you're a startup, retailer, or expanding business, our listings help you find the right shop easily. Discover trusted options, prime spots, and flexible rentals in one place."
+    ],
     "buttons": [
       {
         "label": "Explore Shop Listings",
@@ -22,7 +23,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Business Growth Spaces",
     "heading": "Your Ideal Space for Business Growth",
@@ -30,7 +30,6 @@
       "Choosing the right Shop for Rent in Hisar matters because your location directly impacts your footfall, visibility, and business growth. Here, you get access to well-verified commercial properties, ranging from small retail outlets to large commercial showrooms. Backed by the trusted network of Property Dealers in Hisar, a venture of Deal Acres Hisar, we ensure every listing is authentic, updated, and useful. Whether you want a shop in a market area, main road, commercial complex, or local street, your perfect match is just a click away."
     ]
   },
-
   "featureWithImage": {
     "badge": "SHOP FOR RENT",
     "title": "Why Choose Us for Shop Rentals in Hisar",
@@ -62,59 +61,68 @@
       "description": "Get help finding the perfect Shop for Rent in Hisar with location analysis and business suitability guidance."
     }
   },
-
   "servicesSection": {
     "heading": "Explore More Real Estate Options",
-    "description": ["We not only help with Shop for Rent in Hisar, but also cover various other property needs. Explore more categories designed for buyers, sellers, and tenants looking for reliable real estate options in Hisar."],
+    "description": [
+      "We not only help with Shop for Rent in Hisar, but also cover various other property needs. Explore more categories designed for buyers, sellers, and tenants looking for reliable real estate options in Hisar."
+    ],
     "services": [
       {
         "title": "House for Sale in Hisar",
         "description": "Find the best residential houses with prime locations and verified listings tailored to every budget.",
-        "icon":"FaHome"
+        "icon": "FaHome",
+        "path": "https://houseforsaleinhisar.com"
       },
       {
         "title": "Flat for Rent in Hisar",
         "description": "Discover comfortable and affordable rental flats with modern amenities and safe surroundings.",
-        "icon":"FaKey"
+        "icon": "FaKey",
+        "path": "https://flatsforrentinhisar.com"
       },
       {
         "title": "Flat for Sale in Hisar",
         "description": "Choose from a wide range of ready-to-move or under-construction flats in top Hisar localities.",
-        "icon":"FaBuilding"
+        "icon": "FaBuilding",
+        "path": "https://flatsforsaleinhisar.com"
       },
       {
         "title": "Shop for Sale in Hisar",
         "description": "Looking to buy a commercial space? Explore premium Shop for Sale in Hisar options with excellent commercial potential.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforsaleinhisar.com"
       },
       {
         "title": "Shop for Rent in Hisar",
         "description": "Find budget-friendly to premium commercial properties suitable for any shop or business requirement.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforrentinhisar.com"
       },
       {
         "title": "Plot for Sale in Hisar",
         "description": "Explore residential, commercial, and investment-friendly plots with clean titles and prime locations.",
-        "icon":"FaLandmark"
+        "icon": "FaLandmark",
+        "path": "https://plotforsaleinhisar.com"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
         "description": "Choose from a range of agricultural lands ideal for farming, investment, or future development.",
-        "icon":"FaTractor"
+        "icon": "FaTractor",
+        "path": "https://agriculturelandforsaleinhisar.com"
       },
       {
         "title": "To-Let Service in Hisar",
         "description": "Get easy rental assistance for homes, shops, offices, and commercial spaces across Hisar.",
-        "icon":"FaHandshake"
+        "icon": "FaHandshake",
+        "path": "https://toletserviceinhisar.com"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
         "description": "Explore office spaces, showrooms, commercial buildings, and more for investment and business expansion.",
-        "icon":"FaCity"
+        "icon": "FaCity",
+        "path": "https://commercialpropertyforsaleinhisar.com"
       }
     ]
   },
-
   "whyChooseUs": {
     "heading": "Why Choose Our Platform – A Venture of Deal Acres",
     "description": [
@@ -131,10 +139,10 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Explore the Latest from Our Blog",
-    "description": ["Get Tips, Guides & Real Estate Insights",
+    "description": [
+      "Get Tips, Guides & Real Estate Insights",
       "Stay updated with helpful articles, investment ideas, and rental guides to make better property decisions and understand Hisar’s real estate market"
     ],
     "viewAllButton": {
@@ -168,7 +176,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -201,7 +208,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us anytime for assistance with Shop for Rent in Hisar, commercial listings, or business property guidance."],
+      "description": [
+        "Contact us anytime for assistance with Shop for Rent in Hisar, commercial listings, or business property guidance."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -218,7 +227,6 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about Shop for Rent in Hisar.",
@@ -265,11 +273,12 @@
       }
     ]
   },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": ["We help you discover premium commercial rental spaces and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium commercial rental spaces and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

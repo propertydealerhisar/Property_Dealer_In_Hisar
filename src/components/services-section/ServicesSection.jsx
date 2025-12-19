@@ -55,7 +55,7 @@ const ServicesSection = ({data}) => {
         {/* Grid */}
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4 ">
           {visibleServices?.map((service, index) => (
-            <Link key={index} href={`https://flatsforsaleinhisar.com`}>
+            <Link key={index} href={`${service?.path}`}>
             <motion.div
               
               initial={{ opacity: 0, y: 30 }}

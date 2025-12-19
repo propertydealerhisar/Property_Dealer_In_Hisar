@@ -71,47 +71,56 @@
         "title": "House for Sale in Hisar",
         "description": "Budget, mid-range, and premium houses crafted for comfortable living.",
         "icon":"FaHome",
-        "path":"flatsforsaleinhisar.com"
+        "path":"https://houseforsaleinhisar.com"
+
       },
       {
         "title": "Flat for Rent in Hisar",
         "description": "Affordable and well-maintained flats suitable for families, students, and professionals.",
-        "icon":"FaKey"
+        "icon":"FaKey",
+        "path":"https://flatsforrentinhisar.com"
       },
       {
         "title": "Flat for Sale in Hisar",
         "description": "Choose from ready-to-move and under-construction flats in prime Hisar locations",
-        "icon":"FaBuilding"
+        "icon":"FaBuilding",
+        "path":"https://flatsforsaleinhisar.com"
       },
       {
         "title": "Shop for Sale in Hisar",
         "description": "Explore commercial shops ideal for showrooms, retail, or investment.",
-        "icon":"FaStore"
+        "icon":"FaStore",
+        "path":"https://shopforsaleinhisar.com"
       },
       {
         "title": "Shop for Rent in Hisar",
         "description": "Find rental shops in key marketplaces to start or expand your business.",
-        "icon":"FaStore"
+        "icon":"FaStore",
+        "path":"https://shopforrentinhisar.com"
       },
       {
         "title": "Plot for Sale in Hisar",
         "description": "View residential and commercial plots available for construction and investment.",
-        "icon":"FaLandmark"
+        "icon":"FaLandmark",
+        "path":"https://plotforsaleinhisar.com"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
         "description": "Browse fertile agricultural lands perfect for farming, investment, and development.",
-        "icon":"FaTractor"
+        "icon":"FaTractor",
+        "path":"https://agriculturelandforsaleinhisar.com"
       },
       {
         "title": "To-Let Service in Hisar",
         "description": "Get easy rental assistance for homes, shops, offices, and commercial spaces.",
-        "icon":"FaHandshake"
+        "icon":"FaHandshake",
+        "path":"https://toletserviceinhisar.com"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
         "description": "Explore offices, buildings, and commercial spaces ideal for business expansion.",
-        "icon":"FaCity"
+        "icon":"FaCity",
+        "path":"https://commercialpropertyforsaleinhisar.com"
       }
     ]
   },

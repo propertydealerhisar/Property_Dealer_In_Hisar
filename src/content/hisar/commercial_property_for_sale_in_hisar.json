@@ -1,10 +1,11 @@
 {
   "domain": "www.commercialpropertyforsaleinhisar.com",
-
   "heroSection": {
     "badge": "Premium Commercial Properties",
     "heading": "Premium Commercial Property for Sale in Hisar",
-    "description": ["Looking for a profitable investment or a business-ready space? Our platform provides verified Commercial Property for Sale in Hisar across prime locations. Whether you want office spaces, retail shops, showrooms, or warehouses, you'll find options that match your budget and business requirements. Explore properties with clear details, photos, and legal verification to make a safe and informed purchase."],
+    "description": [
+      "Looking for a profitable investment or a business-ready space? Our platform provides verified Commercial Property for Sale in Hisar across prime locations. Whether you want office spaces, retail shops, showrooms, or warehouses, you'll find options that match your budget and business requirements. Explore properties with clear details, photos, and legal verification to make a safe and informed purchase."
+    ],
     "buttons": [
       {
         "label": "Explore Commercial Properties",
@@ -22,7 +23,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Top Commercial Properties",
     "heading": "Find Top Commercial Properties in Hisar",
@@ -31,7 +31,6 @@
       "From standalone shops to large commercial complexes, you can browse multiple options with complete details, enabling faster and safer decision-making."
     ]
   },
-
   "featureWithImage": {
     "badge": "COMMERCIAL PROPERTY",
     "title": "Why Choose Our Platform for Commercial Property",
@@ -63,60 +62,68 @@
       "description": "Get specialized support for finding the perfect Commercial Property for Sale in Hisar with investment analysis and location expertise."
     }
   },
-
   "servicesSection": {
     "heading": "Explore All Property Categories in Hisar",
-    "description": ["Along with Commercial Property for Sale in Hisar, we also offer various real estate domains for buyers, tenants, and investors."],
+    "description": [
+      "Along with Commercial Property for Sale in Hisar, we also offer various real estate domains for buyers, tenants, and investors."
+    ],
     "services": [
       {
         "title": "House for Sale in Hisar",
         "description": "Wide range of residential houses from budget-friendly to premium homes, all verified.",
-        "icon":"FaHome"
+        "icon": "FaHome",
+        "path": "https://houseforsaleinhisar.com"
       },
       {
         "title": "Flat for Rent in Hisar",
         "description": "Flats available for rent in prime areas with safe neighborhoods and modern amenities.",
-        "icon":"FaKey"
-        
+        "icon": "FaKey",
+        "path": "https://flatsforrentinhisar.com"
       },
       {
         "title": "Flat for Sale in Hisar",
         "description": "Newly constructed or ready-to-move flats matching lifestyle and investment goals.",
-        "icon":"FaBuilding"
+        "icon": "FaBuilding",
+        "path": "https://flatsforsaleinhisar.com"
       },
       {
         "title": "Shop for Sale in Hisar",
         "description": "Retail and commercial shops suitable for business owners looking to expand.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforsaleinhisar.com"
       },
       {
         "title": "Shop for Rent in Hisar",
         "description": "Rental shops in busy marketplaces and business zones for immediate use.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforrentinhisar.com"
       },
       {
         "title": "Plot for Sale in Hisar",
         "description": "Residential and commercial plots for construction, investment, or development.",
-        "icon":"FaLandmark"
+        "icon": "FaLandmark",
+        "path": "https://plotforsaleinhisar.com"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
         "description": "Fertile agricultural lands ideal for farming, agro-business, or investment.",
-        "icon":"FaTractor"
+        "icon": "FaTractor",
+        "path": "https://agriculturelandforsaleinhisar.com"
       },
       {
         "title": "To-Let Service in Hisar",
         "description": "Verified rental service for homes, offices, shops, and commercial spaces.",
-        "icon":"FaHandshake"
+        "icon": "FaHandshake",
+        "path": "https://toletserviceinhisar.com"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
         "description": "High-quality offices, showrooms, warehouses, and business-ready buildings.",
-        "icon":"FaCity"
+        "icon": "FaCity",
+        "path": "https://commercialpropertyforsaleinhisar.com"
       }
     ]
   },
-
   "whyChooseUs": {
     "heading": "Trusted Venture of Deal Acres",
     "description": [
@@ -134,7 +141,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Latest Commercial Real Estate Insights",
     "description": [
@@ -171,7 +177,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -204,7 +209,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us for expert guidance on Commercial Property for Sale in Hisar, investment opportunities, or property verification."],
+      "description": [
+        "Contact us for expert guidance on Commercial Property for Sale in Hisar, investment opportunities, or property verification."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -221,7 +228,6 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about Commercial Property for Sale in Hisar.",
@@ -268,11 +274,12 @@
       }
     ]
   },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": ["We help you discover premium commercial properties and business spaces with expert guidance, transparent processes, and trusted services."]
+      "description": [
+        "We help you discover premium commercial properties and business spaces with expert guidance, transparent processes, and trusted services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

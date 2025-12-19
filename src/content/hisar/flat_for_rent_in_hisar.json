@@ -1,10 +1,11 @@
 {
   "domain": "www.flatsforrentinhisar.com",
-
   "heroSection": {
     "badge": "Best Flats for Rent",
     "heading": "Best Flats for Rent in Hisar",
-    "description": ["Finding the ideal Flat for Rent in Hisar is now easy and hassle-free. Whether you are looking for a fully-furnished flat, a budget-friendly option, or a premium apartment, we provide verified rental listings across prime Hisar locations. With clear details, accurate pricing, and direct owner contacts, you can choose the perfect rental property with confidence and convenience."],
+    "description": [
+      "Finding the ideal Flat for Rent in Hisar is now easy and hassle-free. Whether you are looking for a fully-furnished flat, a budget-friendly option, or a premium apartment, we provide verified rental listings across prime Hisar locations. With clear details, accurate pricing, and direct owner contacts, you can choose the perfect rental property with confidence and convenience."
+    ],
     "buttons": [
       {
         "label": "Explore Flats for Rent",
@@ -22,7 +23,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Rental Flats in Hisar",
     "heading": "Wide Range of Flats Available in Hisar",
@@ -30,7 +30,6 @@
       "Our platform ensures that every Flat for Rent in Hisar meets high standards of quality and safety. As a venture of Property Dealer in Hisar, powered by Deal Acres Hisar, and supported by Deal Acres, we provide verified flats in all neighborhoods — from city center apartments to peaceful residential colonies. Browse multiple options to find flats with modern amenities, secure surroundings, and affordable rental rates."
     ]
   },
-
   "featureWithImage": {
     "badge": "FLATS FOR RENT",
     "title": "Why Choose Our Flat Rental Services",
@@ -61,65 +60,72 @@
       "description": "Get assistance in finding and listing Flats for Rent in Hisar with a smooth and transparent process."
     }
   },
-
   "servicesSection": {
     "heading": "Explore All Property Options in Hisar",
-    "description": ["Along with Flats for Rent in Hisar, we provide multiple property categories to cater to buyers, tenants, and investors"],
+    "description": [
+      "Along with Flats for Rent in Hisar, we provide multiple property categories to cater to buyers, tenants, and investors"
+    ],
     "services": [
       {
         "title": "House for Sale in Hisar",
         "description": "Discover verified houses across Hisar, from affordable to premium homes, perfect for families and investment",
-        "icon":"FaHome"
+        "icon": "FaHome",
+        "path": "https://houseforsaleinhisar.com"
       },
       {
         "title": "Flat for Rent in Hisar",
         "description": "Browse flats for rent in top locations with modern amenities and safe neighborhoods.",
-        "icon":"FaKey"
+        "icon": "FaKey",
+        "path": "https://flatsforrentinhisar.com"
       },
       {
         "title": "Flat for Sale in Hisar",
         "description": "Choose ready-to-move or newly constructed flats across prime areas for families and investors.",
-        "icon":"FaBuilding"
+        "icon": "FaBuilding",
+        "path": "https://flatsforsaleinhisar.com"
       },
       {
         "title": "Shop for Sale in Hisar",
         "description": "Find verified commercial shops for retail, showrooms, and investment purposes.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforsaleinhisar.com"
       },
       {
         "title": "Shop for Rent in Hisar",
         "description": "Explore shops for rent in busy marketplaces and high-traffic business zones.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforrentinhisar.com"
       },
       {
         "title": "Plot for Sale in Hisar",
         "description": "View residential and commercial plots suitable for construction and investment purposes.",
-        "icon":"FaLandmark"
+        "icon": "FaLandmark",
+        "path": "https://plotforsaleinhisar.com"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
         "description": "Access fertile agricultural land for farming, agro-business, or long-term investments.",
-        "icon":"FaTractor"
+        "icon": "FaTractor",
+        "path": "https://agriculturelandforsaleinhisar.com"
       },
       {
         "title": "To-Let Service in Hisar",
         "description": "Get verified rental services for homes, offices, shops, and commercial spaces.",
-        "icon":"FaHandshake"
+        "icon": "FaHandshake",
+        "path": "https://toletserviceinhisar.com"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
         "description": "Find offices, showrooms, and commercial buildings ideal for business and investment.",
-        "icon":"FaCity"
-
+        "icon": "FaCity",
+        "path": "https://commercialpropertyforsaleinhisar.com"
       }
-      
     ]
   },
-
   "whyChooseUs": {
     "heading": "Trusted Platform by Deal Acres",
     "description": [
-     "Our Flat for Rent in Hisar listings are part of a trusted venture of Property Dealer in Hisar, under Deal Acres Hisar, and supported by Deal Acres. We focus on providing verified flats with complete details, transparent pricing, and direct contact with owners. Property owners can also list flats for free, ensuring maximum visibility and faster rentals."
+      "Our Flat for Rent in Hisar listings are part of a trusted venture of Property Dealer in Hisar, under Deal Acres Hisar, and supported by Deal Acres. We focus on providing verified flats with complete details, transparent pricing, and direct contact with owners. Property owners can also list flats for free, ensuring maximum visibility and faster rentals."
     ],
     "points": [
       "Unlisted free property listing for owners",
@@ -132,7 +138,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Latest Rental Blogs and Insights",
     "description": [
@@ -169,7 +174,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -202,7 +206,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us anytime for assistance with Flat for Rent in Hisar, listing your flat, or understanding rental options in the city."],
+      "description": [
+        "Contact us anytime for assistance with Flat for Rent in Hisar, listing your flat, or understanding rental options in the city."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -219,7 +225,6 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to the most common questions about Flats for Rent in Hisar.",
@@ -266,11 +271,12 @@
       }
     ]
   },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": ["We help you discover premium flats for rent and other properties with expert guidance, transparent processes, and trusted real estate services across the city."]
+      "description": [
+        "We help you discover premium flats for rent and other properties with expert guidance, transparent processes, and trusted real estate services across the city."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

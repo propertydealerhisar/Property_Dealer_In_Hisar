@@ -1,10 +1,11 @@
 {
   "domain": "www.flatsforsaleinhisar.com",
-
   "heroSection": {
     "badge": "Premium Flats in Hisar",
     "heading": "Premium Flats for Sale in Hisar – Your Perfect Home Awaits",
-    "description": ["Looking for the best Flats for Sale in Hisar that match your lifestyle, comfort, and budget? You’re in the right place. Our platform offers an exclusive collection of modern, well-designed, and affordable flats across prime locations in Hisar. Whether you need a compact 2 BHK or a luxurious 4 BHK, we simplify your property search with trusted listings, verified developers, and a hassle-free browsing experience tailored to your needs. Explore a wide variety of options and step into your dream home today."],
+    "description": [
+      "Looking for the best Flats for Sale in Hisar that match your lifestyle, comfort, and budget? You’re in the right place. Our platform offers an exclusive collection of modern, well-designed, and affordable flats across prime locations in Hisar. Whether you need a compact 2 BHK or a luxurious 4 BHK, we simplify your property search with trusted listings, verified developers, and a hassle-free browsing experience tailored to your needs. Explore a wide variety of options and step into your dream home today."
+    ],
     "buttons": [
       {
         "label": "Explore Listings",
@@ -22,7 +23,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Your Ideal Flat in Hisar",
     "heading": "Find Your Ideal Flat in Hisar Today",
@@ -30,7 +30,6 @@
       "Searching for Flats for Sale in Hisar can be overwhelming, especially with so many choices available. That’s why we bring you a curated list of top flats designed for families, working professionals, and investors. Each property is thoroughly verified and listed to ensure trust, transparency, and value. With our user-friendly approach, you can explore locations, compare prices, check amenities, and connect with experts—making your journey to home ownership smooth and convenient."
     ]
   },
-
   "featureWithImage": {
     "badge": "FLATS IN HISAR",
     "title": "Top Reasons to Choose Our Platform for Flats in Hisar",
@@ -61,58 +60,68 @@
       "description": "Get personalized support to choose the best flat in Hisar based on your budget, location, and lifestyle needs."
     }
   },
-
   "servicesSection": {
     "heading": "Your Complete Real Estate Solution in Hisar",
-    "description": ["We bring an extensive range of real estate services beyond just Flats for Sale in Hisar. Whether you need a home, a shop, land, or rental assistance, our platform covers all categories to simplify your property search. Each listing is accurate, up to date, and carefully reviewed to offer the best possible user experience."],
+    "description": [
+      "We bring an extensive range of real estate services beyond just Flats for Sale in Hisar. Whether you need a home, a shop, land, or rental assistance, our platform covers all categories to simplify your property search. Each listing is accurate, up to date, and carefully reviewed to offer the best possible user experience."
+    ],
     "services": [
       {
-        "title": "House for sale in Hisar",
+        "title": "House for Sale in Hisar",
         "description": "Looking for a ready-to-move independent home? Our listings include premium, budget-friendly, and spacious houses across all residential sectors in Hisar. Ideal for families who prefer independent living with full ownership advantages",
-        "icon":"FaHome"
+        "icon": "FaHome",
+        "path": "https://houseforsaleinhisar.com"
       },
       {
-        "title": "House for rent in Hisar",
+        "title": "House for Rent in Hisar",
         "description": "Find comfortable and affordable rental houses suited for working professionals, students, and families. Explore fully-furnished, semi-furnished, and unfurnished options across the city with attractive rental prices.",
-        "icon":"FaKey"
+        "icon": "FaKey",
+        "path": "https://houseforrentinhisar.com"
       },
       {
-        "title": "Flat for sale in Hisar",
+        "title": "Flat for Sale in Hisar",
         "description": "Discover exclusive Flats for Sale in Hisar in premium societies offering modern amenities, security, parking facilities, and excellent connectivity—ideal for urban living.",
-        "icon":"FaBuilding"
+        "icon": "FaBuilding",
+        "path": "https://flatsforsaleinhisar.com"
       },
       {
-        "title": "Shop for sale in Hisar",
+        "title": "Shop for Sale in Hisar",
         "description": "Perfect for business owners and investors seeking commercial opportunities. Explore shops in high-footfall areas, markets, and premium commercial complexes.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforsaleinhisar.com"
       },
       {
-        "title": "Shop for rent in Hisar",
+        "title": "Shop for Rent in Hisar",
         "description": "Choose from prime rental spaces for small businesses, retail setups, or offices. Our listings include flexible rental options to match your business model.",
-        "icon":"FaStore"
+        "icon": "FaStore",
+        "path": "https://shopforrentinhisar.com"
       },
       {
-        "title": "Plot for sale in Hisar",
+        "title": "Plot for Sale in Hisar",
         "description": "From residential plots to investment-ready land parcels, explore well-located plots with excellent appreciation potential and safe documentation.",
-        "icon":"FaLandmark"
+        "icon": "FaLandmark",
+        "path": "https://plotforsaleinhisar.com"
       },
       {
-        "title": "Agriculture land for sale in Hisar",
+        "title": "Agriculture Land for Sale in Hisar",
         "description": "Discover fertile agricultural land suitable for farming, investment, and long-term value creation across rural and semi-urban regions of Hisar.",
-        "icon":"FaTractor"
+        "icon": "FaTractor",
+        "path": "https://agriculturelandforsaleinhisar.com"
       },
       {
-        "title": "To-Let service in Hisar",
+        "title": "To-Let Service in Hisar",
         "description": "A dedicated rental assistance service for owners and tenants seeking convenient renting solutions without complications.",
-        "icon":"FaHandshake"
-      },{
+        "icon": "FaHandshake",
+        "path": "https://toletserviceinhisar.com"
+      },
+      {
         "title": "Commercial Property for Sale in Hisar",
         "description": "Explore offices, showrooms, warehouses, and commercial spaces perfect for businesses aiming to grow in one of Haryana’s fastest-developing cities.",
-        "icon":"FaCity"
+        "icon": "FaCity",
+        "path": "https://commercialpropertyforsaleinhisar.com"
       }
     ]
   },
-
   "whyChooseUs": {
     "heading": "Why Choose Us – A Trusted Venture of Deal Acres",
     "description": [
@@ -130,7 +139,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Explore Our Featured Blog Section",
     "description": [
@@ -167,7 +175,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -200,7 +207,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Reach out to us anytime for guidance on Flats for Sale in Hisar, property listings, or investment queries. Our team is here to assist you."],
+      "description": [
+        "Reach out to us anytime for guidance on Flats for Sale in Hisar, property listings, or investment queries. Our team is here to assist you."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -217,7 +226,6 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to the most common questions about Flats for Sale in Hisar.",
@@ -264,11 +272,12 @@
       }
     ]
   },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": ["We help you discover premium flats and properties with expert guidance, transparent processes, and trusted real estate services across the city."]
+      "description": [
+        "We help you discover premium flats and properties with expert guidance, transparent processes, and trusted real estate services across the city."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",
