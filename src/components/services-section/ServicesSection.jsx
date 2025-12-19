@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import { motion } from "framer-motion";
+import Link from "next/link";
 import {
   FaHome,
   FaKey,
@@ -52,10 +53,11 @@ const ServicesSection = ({data}) => {
         </div>
 
         {/* Grid */}
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4 ">
           {visibleServices?.map((service, index) => (
+            <Link key={index} href={`https://flatsforsaleinhisar.com`}>
             <motion.div
-              key={index}
+              
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
@@ -78,6 +80,7 @@ const ServicesSection = ({data}) => {
                 {service.description}
               </p>
             </motion.div>
+            </Link>
           ))}
         </div>
           

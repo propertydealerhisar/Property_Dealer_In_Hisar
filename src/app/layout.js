@@ -5,6 +5,8 @@ import Footer from "@/components/footer/Footer";
 import { SITE_DATA } from "@/lib/siteData";
 import { headers } from "next/headers";
 import { GOOGLE_VERIFICATION } from "@/lib/googleVerification";
+import GoogleTagManager from "@/components/google-tag-manager/GoogleTagManager";
+import { GTM_IDS } from "@/lib/gtmConfig";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -38,11 +40,26 @@ export default async function RootLayout({ children }) {
     SITE_DATA.find((item) => item.domain === domain) ||
     SITE_DATA[0];
 
+    const gtmId = GTM_IDS[domain] || GTM_IDS["localhost"];
+
   return (
     <html lang="en">
+       <head>
+        {/* ✅ Domain-wise GTM */}
+        <GoogleTagManager gtmId={gtmId} />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+         {/* GTM noscript */}
+        <noscript>
+          <iframe
+            src={`https://www.googletagmanager.com/ns.html?id=${gtmId}`}
+            height="0"
+            width="0"
+            style={{ display: "none", visibility: "hidden" }}
+          />
+        </noscript>
         <Navbar />
         {children}
         <Footer data={pageData?.footer} />
