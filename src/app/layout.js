@@ -7,7 +7,8 @@ import { headers } from "next/headers";
 import { GOOGLE_VERIFICATION } from "@/lib/googleVerification";
 import GoogleTagManager from "@/components/google-tag-manager/GoogleTagManager";
 import { GTM_IDS } from "@/lib/gtmConfig";
-
+import { GA_TARGET_DOMAINS } from "@/lib/gaTargetDomains";
+import GoogleAnalytics from "@/components/google-analytics/GoogleAnalytics";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -41,12 +42,18 @@ export default async function RootLayout({ children }) {
     SITE_DATA[0];
 
     const gtmId = GTM_IDS[domain] || GTM_IDS["localhost"];
+    const gaId =
+  GA_TARGET_DOMAINS[domain] || GA_TARGET_DOMAINS["localhost"];
+ // undefined bhi ho sakta hai
+
 
   return (
     <html lang="en">
        <head>
         {/* ✅ Domain-wise GTM */}
         <GoogleTagManager gtmId={gtmId} />
+
+        <GoogleAnalytics  gaId={gaId} />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
