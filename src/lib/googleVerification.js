@@ -3,7 +3,7 @@ export const GOOGLE_VERIFICATION = {
   "www.flatsforrentinhisar.com": "I6VatZOXsoEtR7wJXeVkkL3WCzPPl4wj02ytBiFh4NA",
   "www.houseforsaleinhisar.com": "MSIZ_p9iTeHQ4NjyZMhXI-Ju0XW8gmENrJ9zdudhG14",
   "www.houseforrentinhisar.com": "lfRypTXttgKSnsKCj0PjJAbjxNBAff78cuRKXBhJaVs",
-  "www.shopforsaleinhisar.com": "GSC_CODE_FARIDABAD",
+  "www.shopforsaleinhisar.com": "w4_NPNL3zdfXsId38Ut22hHgaC2yci9uqffcGHVHW0s",
   "www.commercialpropertyforsaleinhisar.com": "GSC_CODE_FARIDABAD",
   "www.shopforrentinhisar.com": "GSC_CODE_FARIDABAD",
   "www.plotforsaleinhisar.com": "GSC_CODE_FARIDABAD",
