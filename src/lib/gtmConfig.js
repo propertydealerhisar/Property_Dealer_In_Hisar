@@ -8,7 +8,7 @@ export const GTM_IDS = {
   "www.shopforrentinhisar.com": "GTM-PN34LFRG",
   "www.plotforsaleinhisar.com": "GTM-NVSFJW29",
   "www.agriculturelandforsaleinhisar.com": "GTM-5LSM6QDJ",
-  "www.toletserviceinhisar.com": "GTM-NL4P6JP3",
+  "www.toletserviceinhisar.com": "GTM-KS7WBPQ8",
   
 
   // fallback (localhost / default)
