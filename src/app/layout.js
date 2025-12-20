@@ -69,7 +69,7 @@ export default async function RootLayout({ children }) {
         </noscript>
         <Navbar domain={pageData?.domain} />
         {children}
-        <Footer data={pageData?.footer} />
+        <Footer data={pageData?.footer}  />
       </body>
     </html>
   );

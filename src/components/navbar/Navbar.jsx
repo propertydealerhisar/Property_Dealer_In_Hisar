@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
+import {cleanDomain} from "@/utils/helpers"
 import {
   FaFacebook,
   FaInstagram,
@@ -14,18 +15,6 @@ import {
   FaBars,
   FaTimes,
 } from "react-icons/fa";
-
- function cleanDomain(domain = "") {
-  if (!domain) return "";
-
-  // remove port (localhost:3000 → localhost)
-  domain = domain.replace(/:\d+$/, "");
-
-  // remove www (www.abc.com → abc.com)
-  domain = domain.replace(/^www\./, "");
-
-  return domain;
-}
 
 
 const Navbar = ({domain}) => {

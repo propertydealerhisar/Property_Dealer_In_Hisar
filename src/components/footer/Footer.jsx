@@ -3,6 +3,8 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 import Link from "next/link";
+import {cleanDomain} from "@/utils/helpers"
+
 
 const Footer = ({data}) => {
   return (
