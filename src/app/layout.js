@@ -67,7 +67,7 @@ export default async function RootLayout({ children }) {
             style={{ display: "none", visibility: "hidden" }}
           />
         </noscript>
-        <Navbar />
+        <Navbar domain={domain} />
         {children}
         <Footer data={pageData?.footer} />
       </body>

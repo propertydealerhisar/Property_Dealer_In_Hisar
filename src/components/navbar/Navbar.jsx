@@ -15,7 +15,20 @@ import {
   FaTimes,
 } from "react-icons/fa";
 
-const Navbar = () => {
+ function cleanDomain(domain = "") {
+  if (!domain) return "";
+
+  // remove port (localhost:3000 → localhost)
+  domain = domain.replace(/:\d+$/, "");
+
+  // remove www (www.abc.com → abc.com)
+  domain = domain.replace(/^www\./, "");
+
+  return domain;
+}
+
+
+const Navbar = ({domain}) => {
   const [isOpen, setIsOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState("Home");
 
@@ -86,11 +99,11 @@ const Navbar = () => {
 
             {/* LOGO */}
             <Link href="/">
-              <img
+              {/* <img
                 src="https://themazine.com/thewp/landestate/wp-content/themes/landestate/images/logo/logo.png"
                 alt="Logo"
                 className="h-10"
-              />
+              /> */}{cleanDomain(domain)}
             </Link>
 
             {/* ================= DESKTOP MENU ================= */}
