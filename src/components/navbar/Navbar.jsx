@@ -103,7 +103,7 @@ const Navbar = ({domain}) => {
                 src="https://themazine.com/thewp/landestate/wp-content/themes/landestate/images/logo/logo.png"
                 alt="Logo"
                 className="h-10"
-              /> */}{cleanDomain(domain)}
+              /> */}{domain}
             </Link>
 
             {/* ================= DESKTOP MENU ================= */}
