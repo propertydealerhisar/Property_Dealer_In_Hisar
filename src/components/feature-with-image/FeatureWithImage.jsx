@@ -21,7 +21,7 @@ const FeatureWithImage = ({data}) => {
             className="lg:w-1/2 lg:pr-12 text-left"
           >
             {/* Badge */}
-            <motion.span
+            {/* <motion.span
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.2 }}
@@ -29,7 +29,7 @@ const FeatureWithImage = ({data}) => {
               className="inline-block px-4 py-1 bg-[#422c18]/10 text-[#422c18] rounded-full text-sm font-medium mb-4"
             >
               {data?.badge}
-            </motion.span>
+            </motion.span> */}
 
             {/* Heading */}
             <motion.h2

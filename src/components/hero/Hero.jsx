@@ -51,7 +51,7 @@ const Hero = ({data}) => {
         <div className="text-left sm:text-left md:text-left lg:text-center xl:text-center">
 
           {/* Badge */}
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
@@ -61,7 +61,7 @@ const Hero = ({data}) => {
             <span className="text-sm font-medium text-[#f2e8e1]">
               {data?.badge}
             </span>
-          </motion.div>
+          </motion.div> */}
 
           {/* ✅ HEADING – TEXT COLOR ONLY */}
           <motion.h1

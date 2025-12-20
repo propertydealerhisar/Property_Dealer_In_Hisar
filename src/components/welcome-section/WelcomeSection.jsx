@@ -12,7 +12,7 @@ const WelcomeSection = ({data}) => {
         <div className="max-w-6xl mx-auto text-left sm:text-left md:text-left lg:text-center">
 
           {/* Subtitle */}
-          <motion.p
+          {/* <motion.p
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
@@ -20,7 +20,7 @@ const WelcomeSection = ({data}) => {
             className="text-[#422c18] font-medium uppercase tracking-wider mb-4 text-sm md:text-base"
           >
            {data?.title}
-          </motion.p>
+          </motion.p> */}
 
           {/* Main Title */}
           <motion.h1
