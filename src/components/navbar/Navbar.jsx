@@ -99,11 +99,18 @@ const Navbar = ({domain}) => {
 
             {/* LOGO */}
             <Link href="/">
-              {/* <img
-                src="https://themazine.com/thewp/landestate/wp-content/themes/landestate/images/logo/logo.png"
-                alt="Logo"
-                className="h-10"
-              /> */}{domain}
+           <span
+    className="
+      text-xl  
+      font-medium
+      tracking-wide 
+      text-[#422c18]
+      hover:opacity-90
+      transition-all
+    "
+  >
+    {cleanDomain(domain)}
+  </span>
             </Link>
 
             {/* ================= DESKTOP MENU ================= */}
