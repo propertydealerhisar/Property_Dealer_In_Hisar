@@ -6,8 +6,8 @@ import Link from "next/link";
 
 const FeatureWithImage = ({data}) => {
   return (
-    <section className="pt-10 pb-20 md:py-20 bg-gradient-to-br from-[#f2e8e1] to-[#e7d8cd] relative overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="pt-10 pb-20 md:py-20 bg-gradient-to-br from-[#f2e8e1] to-[#e7d8cd] relative overflow-hidden px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto ">
 
         {/* ========== MAIN WRAPPER ========== */}
         <div className="flex flex-col lg:flex-row items-center gap-12">
@@ -18,7 +18,7 @@ const FeatureWithImage = ({data}) => {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.7 }}
             viewport={{ once: true }}
-            className="lg:w-1/2 lg:pr-12 text-left"
+            className="lg:w-1/2 text-left"
           >
             {/* Badge */}
             {/* <motion.span
@@ -49,7 +49,7 @@ const FeatureWithImage = ({data}) => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.4 }}
               viewport={{ once: true }}
-              className="text-[#5a4636] mb-8 leading-relaxed text-base sm:text-lg"
+              className="text-[#5a4636] mb-8 leading-relaxed text-lg md:text-xl font-medium"
             >
               {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>

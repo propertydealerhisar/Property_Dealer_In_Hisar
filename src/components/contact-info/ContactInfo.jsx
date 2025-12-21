@@ -74,17 +74,17 @@ if (form.phone.length !== 10) {
   return (
     <>
     <Toaster position="top-right" />
-    <section id="contact-section" className="md:py-20 bg-[#f2e8e1]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section id="contact-section" className="md:py-20 bg-[#f2e8e1] overflow-x-hidden px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto">
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 ">
 
           {/* ================= LEFT SIDE — FORM ================= */}
-          <div
-            // initial={{ opacity: 0, x: -40 }}
-            // whileInView={{ opacity: 1, x: 0 }}
-            // viewport={{ once: true }}
-            // transition={{ duration: 0.7 }}
+          <motion.div
+            initial={{ opacity: 0, x: -40 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.7 }}
             className="bg-[#f2e8e1] p-4 md:p-8 rounded-2xl shadow-lg border border-[#422c18]"
           >
             <h2 className="text-3xl md:text-4xl font-extrabold text-[#422c18] mb-6">
@@ -92,7 +92,7 @@ if (form.phone.length !== 10) {
               {data?.formSection?.heading}
             </h2>
 
-            <p className="text-[#422c18] mb-8">
+            <p className="text-[#422c18] text-lg mb-8 font-medium">
               {data?.formSection?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>
            })}
@@ -147,31 +147,31 @@ if (form.phone.length !== 10) {
                 ></textarea>
               </div>
 
-              <button
-                // whileHover={{ scale: 1.05 }}
-                // whileTap={{ scale: 0.95 }}
+              <motion.button
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
                 disabled={loading}
                 type="submit"
                 className="w-full bg-[#422c18] text-[#f2e8e1] py-3 rounded-lg text-lg font-semibold shadow-md"
               >
                 {loading ? "Sending..." : "Submit"}
-              </button>
+              </motion.button>
             </form>
-          </div>
+          </motion.div>
 
           {/* ================= RIGHT SIDE — INFO BOX ================= */}
-          <div
-            // initial={{ opacity: 0, x: 40 }}
-            // whileInView={{ opacity: 1, x: 0 }}
-            // viewport={{ once: true }}
-            // transition={{ duration: 0.7 }}
+          <motion.div
+            initial={{ opacity: 0, x: 40 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.7 }}
             className="bg-[#f2e8e1] p-4 md:p-8 rounded-2xl shadow-lg border border-[#422c18] flex flex-col justify-center"
           >
             <h3 className="text-2xl md:text-3xl font-bold text-[#422c18] mb-5">
               Contact <span className="text-[#422c18]">Information</span>
             </h3>
 
-            <p className="text-[#422c18] mb-8 leading-relaxed">
+            <p className="text-[#422c18] mb-8 leading-relaxed font-medium text-lg">
               Trust isn’t claimed. It’s earned. <br />
 
 That’s why our platform stands proudly recognized by the Haryana Government and approved at the state level, setting a strong benchmark for credibility in real estate. Adding to this trust, Dainik Bhaskar—India’s third-largest newspaper—has featured and awarded us for our excellence and transparency. <br />
@@ -216,7 +216,7 @@ So ask yourself—why settle for ordinary, when you can choose a platform truste
               </div>
 
             </div>
-          </div>
+          </motion.div>
         </div>
       </div>
     </section>

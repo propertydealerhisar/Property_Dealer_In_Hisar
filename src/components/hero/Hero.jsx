@@ -47,7 +47,7 @@ const Hero = ({data}) => {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6  py-24">
         <div className="text-left sm:text-left md:text-left lg:text-center xl:text-center">
 
           {/* Badge */}
@@ -88,7 +88,7 @@ const Hero = ({data}) => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="max-w-5xl text-lg md:text-xl text-[#f2e8e1] mb-10 mx-0 lg:mx-auto"
+            className="max-w-5xl text-lg md:text-xl text-[#f2e8e1] mb-10 mx-auto font-medium"
           >
            {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>

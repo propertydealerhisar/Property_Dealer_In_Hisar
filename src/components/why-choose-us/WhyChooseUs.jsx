@@ -21,8 +21,8 @@ const features = [
 
 const WhyChooseUs = ({data}) => {
   return (
-    <section className="py-10 md:py-20 bg-[#f2e8e1]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="py-10 md:py-20 bg-[#f2e8e1] overflow-hidden px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto">
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
@@ -40,7 +40,7 @@ const WhyChooseUs = ({data}) => {
               {data?.heading}
             </h2>
 
-            <p className="text-[#5a4636] mt-1 text-sm md:text-base leading-relaxed mb-4">
+            <p className="text-[#5a4636] mt-1 text-lg md:text-xl leading-relaxed mb-4 font-medium">
               {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>
            })}

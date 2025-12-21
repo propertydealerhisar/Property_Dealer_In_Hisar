@@ -49,7 +49,7 @@ const BlogsSection = ({data}) => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
             viewport={{ once: true }}
-            className="text-4xl font-extrabold text-[#422c18] mb-3"
+            className="text-3xl md:text-4xl lg:text-5xl  font-extrabold text-[#422c18] mb-3"
           >
             {/* Featured Blogs & Real Estate{" "}
             <span className="text-[#422c18]">Guides</span> */}
@@ -61,7 +61,7 @@ const BlogsSection = ({data}) => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
             viewport={{ once: true }}
-            className="text-[#422c18] max-w-5xl mx-auto text-lg"
+            className="text-[#422c18] max-w-5xl mx-auto text-lg md:text-xl font-medium"
           >
             {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>

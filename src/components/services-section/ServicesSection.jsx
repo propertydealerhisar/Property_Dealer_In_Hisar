@@ -32,8 +32,8 @@ const ServicesSection = ({data}) => {
   : data?.services?.slice(0, 8);
 
   return (
-    <section className="py-10 md:py-20 bg-[#f2e8e1]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="py-10 md:py-20 bg-[#f2e8e1] px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto ">
 
         {/* Heading */}
         <div className="md:text-center mb-14">
@@ -45,7 +45,7 @@ const ServicesSection = ({data}) => {
             for Every Buyer */}
             {data?.heading}
           </h2>
-          <p className="text-[#5a4636] text-lg max-w-5xl mx-auto ">
+          <p className="text-[#5a4636] text-lg md:text-xl max-w-5xl mx-auto font-medium ">
            {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>
            })}
@@ -76,7 +76,7 @@ const ServicesSection = ({data}) => {
                 {service.title}
               </h3>
 
-              <p className="text-[#5a4636] text-sm leading-relaxed">
+              <p className="text-[#5a4636] text-md font-medium leading-relaxed">
                 {service.description}
               </p>
             </motion.div>

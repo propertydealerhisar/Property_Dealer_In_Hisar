@@ -12,16 +12,16 @@ const FAQSection = ({data}) => {
   };
 
   return (
-    <section className="py-20 bg-[#f2e8e1]">
-  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="py-20 bg-[#f2e8e1] px-4 sm:px-6">
+  <div className="max-w-7xl mx-auto ">
 
     {/* Heading */}
     <div className="mb-14">
-      <h2 className="text-4xl font-extrabold text-[#422c18]">
+      <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-[#422c18]">
         {/* Frequently Asked <span className="text-[#422c18]">Questions</span> */}
         {data?.heading}
       </h2>
-      <p className="text-[#422c18] mt-3">
+      <p className="text-[#422c18] mt-3 text-lg md:text-xl font-medium">
         {/* Answers to the most common questions about our real estate services. */}
         {data?.subheading}
       </p>

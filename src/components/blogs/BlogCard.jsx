@@ -38,7 +38,7 @@ const BlogCard = ({ blog }) => {
           </h3>
         </Link>
 
-        <p className="text-[#422c18] text-sm mb-4 flex-grow leading-relaxed">
+        <p className="text-[#422c18] text-sm font-medium mb-4 flex-grow leading-relaxed">
           {blog.excerpt}
         </p>
 

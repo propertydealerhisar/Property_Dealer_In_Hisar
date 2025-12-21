@@ -5,8 +5,8 @@ import { motion } from "framer-motion";
 
 const WelcomeSection = ({data}) => {
   return (
-    <section className="relative pt-10 md:py-20 bg-gradient-to-br from-[#f2e8e1] to-[#e7d8cd] overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="relative pt-10 md:py-20 bg-gradient-to-br from-[#f2e8e1] to-[#e7d8cd] overflow-hidden px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto">
         
         {/* TEXT WRAPPER */}
         <div className="max-w-6xl mx-auto text-left sm:text-left md:text-left lg:text-center">
@@ -48,7 +48,7 @@ const WelcomeSection = ({data}) => {
             viewport={{ once: true }}
             className="
               text-[#5a4636] mb-10 md:mb-2 leading-relaxed 
-              text-base sm:text-lg md:text-xl max-5xl mx-auto
+              text-md text-lg md:text-xl max-5xl mx-auto font-medium
             "
           >
            {data?.description?.map((item,index)=>{

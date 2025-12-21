@@ -19,7 +19,7 @@ const Footer = ({data}) => {
             <Link href={`/`} className="text-xl font-semibold text-[#f2e8e1] mb-3">
               {data?.brand?.name}
             </Link>
-            <p className="text-[#f2e8e1] leading-relaxed text-sm">
+            <p className="text-[#f2e8e1] leading-relaxed text-md">
               {data?.brand?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>
            })}
