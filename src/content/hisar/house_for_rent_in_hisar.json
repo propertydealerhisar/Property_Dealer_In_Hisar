@@ -150,7 +150,7 @@
     ],
     "viewAllButton": {
       "label": "View All Blogs",
-      "path": "/blogs"
+      "path": "/blog"
     },
     "blogs": [
       {
