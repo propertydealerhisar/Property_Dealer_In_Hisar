@@ -8,8 +8,8 @@ import {cleanDomain} from "@/utils/helpers"
 
 const Footer = ({data}) => {
   return (
-    <footer className="bg-[#422c18] text-[#f2e8e1] pt-16 pb-6">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <footer className="bg-[#422c18] text-[#f2e8e1] pt-16 pb-6 px-4 sm:px-6">
+      <div className="max-w-7xl mx-auto  ">
 
         {/* =================== TOP SECTION =================== */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-12">

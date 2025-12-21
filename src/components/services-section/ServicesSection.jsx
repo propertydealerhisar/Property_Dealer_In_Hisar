@@ -53,7 +53,7 @@ const ServicesSection = ({data}) => {
         </div>
 
         {/* Grid */}
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4 ">
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4 items-stretch">
           {visibleServices?.map((service, index) => (
             <Link key={index} href={`${service?.path}`}>
             <motion.div
@@ -63,7 +63,7 @@ const ServicesSection = ({data}) => {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: index * 0.05 }}
               whileHover={{ scale: 1.05 }}
-              className="bg-white p-8 rounded-2xl shadow-lg border border-[#422c18]/10 hover:shadow-2xl transition-all duration-300 cursor-pointer text-center"
+              className="bg-white p-8 rounded-2xl shadow-lg border border-[#422c18]/10 hover:shadow-2xl transition-all duration-300 cursor-pointer h-full flex flex-col"
             >
               <div className="flex justify-center mb-4">
                  {(() => {

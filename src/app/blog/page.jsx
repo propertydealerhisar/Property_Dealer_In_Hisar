@@ -22,8 +22,8 @@ export async function generateMetadata() {
     ],
     alternates: {
       canonical: `https://${cleanDomain}/blog`
-    }
-  };
+    },
+  }
 }
 
 
