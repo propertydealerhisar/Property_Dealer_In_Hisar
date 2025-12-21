@@ -37,7 +37,7 @@ const FeatureWithImage = ({data}) => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.3 }}
               viewport={{ once: true }}
-              className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#2b1c10] leading-tight mb-6"
+              className="text-3xl md:text-4xl  font-bold text-[#2b1c10] leading-tight mb-6"
             >
               {data?.title}
               {/* <span className="text-[#422c18]">Hisar </span> */}

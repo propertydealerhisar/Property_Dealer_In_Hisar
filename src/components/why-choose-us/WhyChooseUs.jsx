@@ -34,7 +34,7 @@ const WhyChooseUs = ({data}) => {
             transition={{ duration: 0.7 }}
           >
             {/* Section Title */}
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-extrabold text-[#2b1c10] mb-6 leading-tight">
+            <h2 className="text-3xl md:text-4xl font-extrabold text-[#2b1c10] mb-6 leading-tight">
               {/* Why Our Platform is the Most{" "}
               <span className="text-[#422c18]">Trusted in Hisar</span> */}
               {data?.heading}

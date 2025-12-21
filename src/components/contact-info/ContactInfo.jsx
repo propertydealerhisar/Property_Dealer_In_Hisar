@@ -80,11 +80,11 @@ if (form.phone.length !== 10) {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
 
           {/* ================= LEFT SIDE — FORM ================= */}
-          <motion.div
-            initial={{ opacity: 0, x: -40 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.7 }}
+          <div
+            // initial={{ opacity: 0, x: -40 }}
+            // whileInView={{ opacity: 1, x: 0 }}
+            // viewport={{ once: true }}
+            // transition={{ duration: 0.7 }}
             className="bg-[#f2e8e1] p-4 md:p-8 rounded-2xl shadow-lg border border-[#422c18]"
           >
             <h2 className="text-3xl md:text-4xl font-extrabold text-[#422c18] mb-6">
@@ -147,24 +147,24 @@ if (form.phone.length !== 10) {
                 ></textarea>
               </div>
 
-              <motion.button
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
+              <button
+                // whileHover={{ scale: 1.05 }}
+                // whileTap={{ scale: 0.95 }}
                 disabled={loading}
                 type="submit"
                 className="w-full bg-[#422c18] text-[#f2e8e1] py-3 rounded-lg text-lg font-semibold shadow-md"
               >
                 {loading ? "Sending..." : "Submit"}
-              </motion.button>
+              </button>
             </form>
-          </motion.div>
+          </div>
 
           {/* ================= RIGHT SIDE — INFO BOX ================= */}
-          <motion.div
-            initial={{ opacity: 0, x: 40 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.7 }}
+          <div
+            // initial={{ opacity: 0, x: 40 }}
+            // whileInView={{ opacity: 1, x: 0 }}
+            // viewport={{ once: true }}
+            // transition={{ duration: 0.7 }}
             className="bg-[#f2e8e1] p-4 md:p-8 rounded-2xl shadow-lg border border-[#422c18] flex flex-col justify-center"
           >
             <h3 className="text-2xl md:text-3xl font-bold text-[#422c18] mb-5">
@@ -172,14 +172,15 @@ if (form.phone.length !== 10) {
             </h3>
 
             <p className="text-[#422c18] mb-8 leading-relaxed">
-              We're here to help! Reach out to us anytime and our team will assist you
-              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
-              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
-              with property guidance, inquiries, and support.
-              We're here to help! Reach out to us anytime and our team will assist you
-              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
-              with property guidance, inquiries, and support. We're here to help! Reach out to us anytime and our team will assist you
-              with property guidance, inquiries, and support.aaaaaaaa
+              Trust isn’t claimed. It’s earned. <br />
+
+That’s why our platform stands proudly recognized by the Haryana Government and approved at the state level, setting a strong benchmark for credibility in real estate. Adding to this trust, Dainik Bhaskar—India’s third-largest newspaper—has featured and awarded us for our excellence and transparency. <br />
+
+For buyers, sellers, and investors, this means peace of mind. Verified listings. Authentic information. Zero guesswork. <br />
+
+When authority backs us and credibility speaks for us, the choice becomes simple. <br />
+
+So ask yourself—why settle for ordinary, when you can choose a platform trusted by the government and celebrated by the media?
             </p>
 
             <div className="space-y-6">
@@ -215,7 +216,7 @@ if (form.phone.length !== 10) {
               </div>
 
             </div>
-          </motion.div>
+          </div>
         </div>
       </div>
     </section>
