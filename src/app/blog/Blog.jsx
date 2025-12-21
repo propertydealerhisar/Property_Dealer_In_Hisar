@@ -153,7 +153,7 @@ export default function BlogList() {
   ];
    
   return (
-    <section className="px-4 sm:px-6 max-w-7xl mx-auto py-12 bg-white">
+    <section className="px-4 sm:px-6 max-w-7xl mx-auto py-12 bg-[#f2e8e1]">
       {/* -------- Loading State -------- */}
       {loading && (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 animate-pulse">
@@ -204,7 +204,7 @@ export default function BlogList() {
                   {post.Category}
                 </p>
 
-                <h3 className="text-lg font-semibold text-gray-900 leading-snug mb-2 hover:text-blue-700 transition-colors duration-300">
+                <h3 className="text-lg font-semibold text-gray-900 leading-snug mb-2 hover:text-[#422c18] transition-colors duration-300">
                   {post.Title}
                 </h3>
 

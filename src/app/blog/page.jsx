@@ -11,7 +11,7 @@ export const metadata = {
 
 const page = () => {
   return (
-    <div className=''>
+    <div className='bg-[#f2e8e1]'>
     <BlogPage/>
     </div>
   )
