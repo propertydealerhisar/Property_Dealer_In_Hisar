@@ -90,7 +90,7 @@ const Navbar = ({domain}) => {
             <Link href="/">
            <span
     className="
-      text-xl  
+      text-md  
       font-medium
       tracking-wide 
       text-[#422c18]
