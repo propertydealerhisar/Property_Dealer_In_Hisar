@@ -1,0 +1,214 @@
+{
+  "domain": "www.paras.com",
+  "hero": {
+    "title": "Well Connected Houses for Sale in Azad Nagar Hisar",
+    "description": [
+      "Azad Nagar Hisar is a popular residential locality known for its central location and easy access to essential city facilities. The area is preferred by families who want comfortable living close to markets, schools, and workplaces. Buyers searching for a house for sale in Azad Nagar Hisar are often drawn to its established neighborhood, everyday convenience, and practical lifestyle.",
+      "The locality supports independent houses built on different plot sizes, making it suitable for a wide range of budgets and housing needs. With nearby healthcare facilities, educational institutions, and smooth road connectivity, Azad Nagar offers a balanced residential experience. Choosing a home here means living in a well-settled area that provides accessibility, stability, and long-term residential value in Hisar."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Azad Nagar",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Plot Size Options for Independent Houses in Azad Nagar Hisar",
+    "description": [
+      "Understanding plot size options is essential when planning to buy a house for sale in Azad Nagar Hisar. The locality offers multiple plot dimensions that cater to small families, growing households, and buyers seeking spacious independent homes. Each plot size supports different construction possibilities, allowing buyers to plan homes that suit their lifestyle and future requirements.",
+      "Whether you are looking for a compact home with easy maintenance or a larger house with premium living space, Azad Nagar Hisar provides flexible options. Knowing the advantages of each plot size helps buyers make confident and informed property decisions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Houses in Azad Nagar Hisar",
+        "description": "4 Marla plot houses are ideal for buyers seeking affordable homes in a well-connected residential locality. These houses are compact, easy to maintain, and suitable for small families or first-time buyers. A 4 Marla house for sale in Azad Nagar Hisar is also preferred for rental purposes due to consistent local demand."
+      },
+      {
+        "title": "6 Marla Plot Houses in Azad Nagar Hisar",
+        "description": "6 Marla plot houses offer a balanced mix of comfort and affordability. These homes provide better room sizes, ventilation, and functional layouts. Buyers who want practical living space without moving into higher budgets often choose a 6 Marla house for sale in Azad Nagar Hisar."
+      },
+      {
+        "title": "8 Marla Plot Houses in Azad Nagar Hisar",
+        "description": "8 Marla houses are suitable for families seeking additional living space and improved comfort. These properties allow better interior planning, larger bedrooms, and comfortable common areas. An 8 Marla house for sale in Azad Nagar Hisar suits families planning long-term residence."
+      },
+      {
+        "title": "10 Marla Plot Houses in Azad Nagar Hisar",
+        "description": "10 Marla plot houses provide a premium living experience with scope for modern construction and elegant designs. These homes often include adequate parking and open spaces. Buyers opting for a 10 Marla house for sale in Azad Nagar Hisar usually focus on lifestyle improvement and future value."
+      },
+      {
+        "title": "12 Marla Plot Houses in Azad Nagar Hisar",
+        "description": "12 Marla houses offer spacious interiors and flexibility for customized home layouts. These properties are suitable for families seeking privacy, comfort, and higher construction standards. A 12 Marla house for sale in Azad Nagar Hisar appeals to buyers planning stable long-term living."
+      },
+      {
+        "title": "14 Marla Plot Houses in Azad Nagar Hisar",
+        "description": "14 Marla plot houses represent premium residential living with expansive space and architectural freedom. These homes are designed for buyers who value exclusivity, comfort, and a superior lifestyle. A 14 Marla house for sale in Azad Nagar Hisar is considered a strong long-term asset."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Azad Nagar Hisar",
+    "description": [
+      "While considering a house for sale in Azad Nagar Hisar, many buyers also explore nearby residential localities to compare pricing, surroundings, and lifestyle convenience. Hisar offers a variety of established and developing areas that cater to different housing preferences and budget expectations.",
+      "Looking at nearby residential locations helps buyers understand living comfort, accessibility to essential services, and long-term suitability. Some areas may offer better connectivity, while others provide quieter surroundings or future growth potential. This broader view supports confident and informed location decisions."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Sent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Azad Nagar Hisar Properties",
+    "description": [
+      "Finding a house for sale in Azad Nagar Hisar requires accurate information and a reliable platform. Deal Acres focuses on providing verified property listings and clear locality insights, helping buyers avoid confusion and make confident decisions.",
+      "With strong knowledge of local residential markets and a buyer-first approach, Deal Acres supports informed property selection. Transparency, relevance, and consistent service quality have made Deal Acres a trusted choice for families and investors."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Listings are checked to ensure authenticity and reliability."
+      },
+      {
+        "title": "Transparent Pricing Clarity",
+        "description": "Clear pricing helps buyers understand true market value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Hisar residential localities."
+      },
+      {
+        "title": "User-Friendly Experience",
+        "description": "Simple navigation supports smooth property exploration."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Focus remains on real buyer needs and preferences."
+      },
+      {
+        "title": "Basic Legal Awareness",
+        "description": "Guidance helps buyers feel confident during transactions."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support is available throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Positive feedback builds long-term credibility."
+      }
+    ]
+  },
+  "faqSection": {
+    "faqs": [
+      {
+        "question": "Is Azad Nagar Hisar a good area to buy a house?",
+        "answer": "Yes, Azad Nagar Hisar is a well-established residential locality with good connectivity and daily convenience, making it suitable for long-term living."
+      },
+      {
+        "question": "What types of houses are available in Azad Nagar Hisar?",
+        "answer": "Independent houses on various plot sizes ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Azad Nagar Hisar suitable for families?",
+        "answer": "Yes, the locality offers a comfortable residential environment with nearby schools, markets, and healthcare facilities."
+      },
+      {
+        "question": "Can I build my own house in Azad Nagar Hisar?",
+        "answer": "Yes, buyers can construct houses on available plots as per approved building guidelines."
+      },
+      {
+        "question": "Are home loans available for houses in Azad Nagar Hisar?",
+        "answer": "Most houses are eligible for home loans, subject to documentation and bank approval."
+      },
+      {
+        "question": "Is Azad Nagar Hisar good for investment?",
+        "answer": "Yes, due to its established nature and consistent residential demand, the area offers stable investment potential."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, clear information, and buyer-focused support."
+      },
+      {
+        "question": "Are daily amenities easily accessible from Azad Nagar Hisar?",
+        "answer": "Yes, schools, hospitals, banks, and markets are located nearby."
+      },
+      {
+        "question": "What factors affect house prices in Azad Nagar Hisar?",
+        "answer": "Plot size, construction quality, and location advantages influence pricing."
+      },
+      {
+        "question": "How can I get assistance to buy a house in Azad Nagar Hisar?",
+        "answer": "You can use the contact section to connect with property experts for personalized guidance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Buy a House in Azad Nagar Hisar",
+    "description": [
+      "Buying a house for sale in Azad Nagar Hisar is a significant decision, and expert guidance can simplify the process. Professional assistance helps you compare options, understand pricing, and move forward with confidence.",
+      "Share your details to connect with local property experts who can help you find a home that matches your needs, budget, and long-term plans."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

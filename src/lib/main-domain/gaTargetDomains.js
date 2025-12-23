@@ -1,6 +1,6 @@
 export const GA_TARGET_DOMAINS = {
   "www.agriculturelandforsaleinhisar.com": "G-HRXNSXE7GL",
-  "faridabad.projectwallah.live": "G-ABCD1234",
+  "www.flatsforsaleinhisar.com": "G-38314VXR2X",
 
   // fallback (localhost / default)
   "localhost": "G-ABCD1234",

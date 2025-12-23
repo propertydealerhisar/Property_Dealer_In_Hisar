@@ -1,14 +1,14 @@
 import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
-import Navbar from "@/components/navbar/Navbar";
-import Footer from "@/components/footer/Footer";
-import { SITE_DATA } from "@/lib/siteData";
+import "@/app/globals.css";
+import Navbar from "@/app/main-domain/components/navbar/Navbar";
+import Footer from "@/app/main-domain/components/footer/Footer";
+import { SITE_DATA } from "@/lib/main-domain/siteData";
 import { headers } from "next/headers";
-import { GOOGLE_VERIFICATION } from "@/lib/googleVerification";
-import GoogleTagManager from "@/components/google-tag-manager/GoogleTagManager";
-import { GTM_IDS } from "@/lib/gtmConfig";
-import { GA_TARGET_DOMAINS } from "@/lib/gaTargetDomains";
-import GoogleAnalytics from "@/components/google-analytics/GoogleAnalytics";
+import { GOOGLE_VERIFICATION } from "@/lib/main-domain/googleVerification";
+import GoogleTagManager from "@/app/main-domain/components/google-tag-manager/GoogleTagManager";
+import { GTM_IDS } from "@/lib/main-domain/gtmConfig";
+import { GA_TARGET_DOMAINS } from "@/lib/main-domain/gaTargetDomains";
+import GoogleAnalytics from "@/app/main-domain/components/google-analytics/GoogleAnalytics";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -37,9 +37,9 @@ export default async function RootLayout({ children }) {
   const h = await headers();
   const domain = h.get("host") || "localhost";
 
-  const pageData =
-    SITE_DATA.find((item) => item.domain === domain) ||
-    SITE_DATA[0];
+    const pageData =
+      SITE_DATA.find((item) => item.domain === domain) ||
+      SITE_DATA[0];
 
     const gtmId = GTM_IDS[domain] || GTM_IDS["localhost"];
     const gaId =

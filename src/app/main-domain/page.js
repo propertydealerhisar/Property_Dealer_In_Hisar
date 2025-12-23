@@ -1,14 +1,14 @@
 import { headers } from "next/headers";
-import BlogsSection from "@/components/blogs/BlogsSection";
-import ContactInfo from "@/components/contact-info/ContactInfo";
-import FAQSection from "@/components/FAQSection/FAQSection";
-import FeatureWithImage from "@/components/feature-with-image/FeatureWithImage";
-import Hero from "@/components/hero/Hero";
-import ServicesSection from "@/components/services-section/ServicesSection";
-import WelcomeSection from "@/components/welcome-section/WelcomeSection";
-import WhyChooseUs from "@/components/why-choose-us/WhyChooseUs";
+import BlogsSection from "@/app/main-domain/components/blogs/BlogsSection";
+import ContactInfo from "@/app/main-domain/components/contact-info/ContactInfo";
+import FAQSection from "@/app/main-domain/components/FAQSection/FAQSection";
+import FeatureWithImage from "@/app/main-domain/components/feature-with-image/FeatureWithImage";
+import Hero from "@/app/main-domain/components/hero/Hero";
+import ServicesSection from "@/app/main-domain/components/services-section/ServicesSection";
+import WelcomeSection from "@/app/main-domain/components/welcome-section/WelcomeSection";
+import WhyChooseUs from "@/app/main-domain/components/why-choose-us/WhyChooseUs";
 
-import { SITE_DATA } from "@/lib/siteData";
+import { SITE_DATA } from "@/lib/main-domain/siteData";
 
 export default async function Home() {
     const h = await headers(); // ✅ MUST await in Next 16
