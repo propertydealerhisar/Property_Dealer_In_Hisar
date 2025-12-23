@@ -8,7 +8,7 @@ export const GA_TARGET_DOMAINS = {
   "www.commercialpropertyforsaleinhisar.com":"G-4TE6CDR1F3",
   "www.shopforrentinhisar.com":"G-L5GH0SWXPC",
   "www.plotforsaleinhisar.com":"G-Z13J35PFZ3",
-  // "www.toletserviceinhisar.com":"",
+  "www.toletserviceinhisar.com":"G-XP5YLVK2EE",
  
 
 
