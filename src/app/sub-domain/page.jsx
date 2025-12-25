@@ -17,7 +17,8 @@ import { hisarSiteData } from "@/lib/sub-domain/hisarSiteData";
 const Page = async () => {
   const h = await headers();
   const rawHost = h.get("host") || "";
-  const host = rawHost.replace(/:\d+$/, "");
+  // const host = rawHost.replace(/:\d+$/, "");
+const host = "paras.projectwallah.live"
 
   // 🔐 resolve domain + subdomain
   const ctx = resolveRequest(host);
@@ -30,7 +31,7 @@ const Page = async () => {
 
   // ✅ EXACT MATCH (no ambiguity)
   const pageData = hisarSiteData.find(
-    (item) => item.domain === fullHost
+    (item) => item.domain === fullHost ||hisarSiteData[2]
   );
 
   if (!pageData) {

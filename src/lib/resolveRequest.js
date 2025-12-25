@@ -24,6 +24,10 @@ export function resolveRequest(host) {
   const subdomain = parts[0];                  // sector21p
   const fullDomain = parts.slice(1).join("."); // flatsforsaleinhisar.com
 
+  console.log("subdomain",subdomain);
+  console.log("fulldomain",fullDomain);
+
+  
   let city = null;
   let allowedHosts = [];
 
@@ -38,7 +42,9 @@ export function resolveRequest(host) {
     city = "gurgaon";
     allowedHosts = gurgaonSubs;
   }
-
+    
+  console.log("city =>",city);
+  
   // ❌ domain not allowed
   if (!city) return null;
 

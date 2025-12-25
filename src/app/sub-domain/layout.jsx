@@ -18,8 +18,11 @@ export const metadata = {
 export default async function SubdomainLayout({ children }) {
   const h = await headers();
  const rawHost = h.get("host") || "";
-const host = rawHost.replace(/:\d+$/, "");
+// const host = rawHost.replace(/:\d+$/, "");
+const host = "paras.projectwallah.live"
   const ctx = resolveRequest(host);
+  console.log("ctx=>",ctx);
+  
 
   // 🔒 BLOCK RANDOM DOMAIN / SUBDOMAIN
   if (!ctx) {
