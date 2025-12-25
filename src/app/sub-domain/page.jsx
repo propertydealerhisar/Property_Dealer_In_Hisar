@@ -17,8 +17,8 @@ import { hisarSiteData } from "@/lib/sub-domain/hisarSiteData";
 const Page = async () => {
   const h = await headers();
   const rawHost = h.get("host") || "";
-  // const host = rawHost.replace(/:\d+$/, "");
-const host = "bankcolony.houseforsaleinhisar.com"
+  const host = rawHost.replace(/:\d+$/, "");
+// const host = "bankcolony.houseforsaleinhisar.com"
 
   // 🔐 resolve domain + subdomain
   const ctx = resolveRequest(host);
@@ -32,9 +32,9 @@ const host = "bankcolony.houseforsaleinhisar.com"
   
 
   // ✅ EXACT MATCH (no ambiguity)
-  const pageData = hisarSiteData.find(
-    (item) => ((item.domain === fullHost) || hisarSiteData[2]));
-
+  const pageData =
+  hisarSiteData.find(item => item.domain === fullHost)
+  || hisarSiteData[3];
   if (!pageData) {
     notFound(); // allowed domain but data missing
   }

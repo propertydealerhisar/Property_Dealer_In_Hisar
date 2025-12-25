@@ -18,8 +18,8 @@ export const metadata = {
 export default async function SubdomainLayout({ children }) {
   const h = await headers();
  const rawHost = h.get("host") || "localhost";
-// const host = rawHost.replace(/:\d+$/, "");
-const host = "bankcolony.houseforsaleinhisar.com"
+const host = rawHost.replace(/:\d+$/, "");
+// const host = "bankcolony.houseforsaleinhisar.com"
   const ctx = resolveRequest(host);
   console.log("ctx=>",ctx);
   
