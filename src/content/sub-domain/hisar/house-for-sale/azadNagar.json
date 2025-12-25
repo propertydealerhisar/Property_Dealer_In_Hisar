@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "azadnagar.houseforsaleinhisar.com",
   "hero": {
     "title": "Well Connected Houses for Sale in Azad Nagar Hisar",
     "description": [
@@ -155,6 +155,8 @@
     ]
   },
   "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Find quick and easy answers to the questions you may have about our services.",
     "faqs": [
       {
         "question": "Is Azad Nagar Hisar a good area to buy a house?",

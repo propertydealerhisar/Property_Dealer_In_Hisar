@@ -1,5 +1,5 @@
 {
-  "domain": "www.parasa.com",
+  "domain": "globalspace.houseforsaleinhisar.com",
   "hero": {
     "title": "Modern Houses for Sale in Global Space Hisar",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Global Space Hisar",
@@ -151,49 +154,53 @@
       }
     ]
   },
-  "faqs": [
-    {
-      "question": "Is Global Space Hisar a good location to buy a house?",
-      "answer": "Yes, Global Space Hisar is an emerging residential area with planned development and growing demand, making it suitable for long-term living and investment."
-    },
-    {
-      "question": "What types of houses are available in Global Space Hisar?",
-      "answer": "Independent houses on different plot sizes ranging from 4 Marla to 14 Marla are commonly available."
-    },
-    {
-      "question": "Is Global Space Hisar suitable for families?",
-      "answer": "Yes, the locality offers a peaceful environment and improving access to essential amenities, making it family-friendly."
-    },
-    {
-      "question": "Can I build my own house in Global Space Hisar?",
-      "answer": "Yes, buyers can construct houses on available plots as per approved building guidelines."
-    },
-    {
-      "question": "Are home loans available for houses in Global Space Hisar?",
-      "answer": "Most properties are eligible for home loans, subject to documentation and bank approval."
-    },
-    {
-      "question": "Is Global Space Hisar good for property investment?",
-      "answer": "Yes, due to ongoing development and future growth potential, the area offers promising investment opportunities."
-    },
-    {
-      "question": "How does Deal Acres help buyers?",
-      "answer": "Deal Acres provides verified listings, clear information, and buyer-focused support."
-    },
-    {
-      "question": "Are daily amenities accessible from Global Space Hisar?",
-      "answer": "Yes, essential facilities such as markets, schools, and healthcare services are reachable from the area."
-    },
-    {
-      "question": "What factors affect house prices in Global Space Hisar?",
-      "answer": "Plot size, construction quality, location planning, and future development prospects influence pricing."
-    },
-    {
-      "question": "How can I get help to buy a house in Global Space Hisar?",
-      "answer": "You can use the contact section to connect with property experts for personalized assistance."
-    }
-  ],
-  "contact-section": {
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Find quick and easy answers to the questions you may have about our services.",
+    "faqs": [
+      {
+        "question": "Is Global Space Hisar a good location to buy a house?",
+        "answer": "Yes, Global Space Hisar is an emerging residential area with planned development and growing demand, making it suitable for long-term living and investment."
+      },
+      {
+        "question": "What types of houses are available in Global Space Hisar?",
+        "answer": "Independent houses on different plot sizes ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Global Space Hisar suitable for families?",
+        "answer": "Yes, the locality offers a peaceful environment and improving access to essential amenities, making it family-friendly."
+      },
+      {
+        "question": "Can I build my own house in Global Space Hisar?",
+        "answer": "Yes, buyers can construct houses on available plots as per approved building guidelines."
+      },
+      {
+        "question": "Are home loans available for houses in Global Space Hisar?",
+        "answer": "Most properties are eligible for home loans, subject to documentation and bank approval."
+      },
+      {
+        "question": "Is Global Space Hisar good for property investment?",
+        "answer": "Yes, due to ongoing development and future growth potential, the area offers promising investment opportunities."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, clear information, and buyer-focused support."
+      },
+      {
+        "question": "Are daily amenities accessible from Global Space Hisar?",
+        "answer": "Yes, essential facilities such as markets, schools, and healthcare services are reachable from the area."
+      },
+      {
+        "question": "What factors affect house prices in Global Space Hisar?",
+        "answer": "Plot size, construction quality, location planning, and future development prospects influence pricing."
+      },
+      {
+        "question": "How can I get help to buy a house in Global Space Hisar?",
+        "answer": "You can use the contact section to connect with property experts for personalized assistance."
+      }
+    ]
+  },
+  "contactSection": {
     "title": "Get Expert Help to Buy a House in Global Space Hisar",
     "description": [
       "Buying a house for sale in Global Space Hisar is a major decision, and expert guidance can simplify the process. Professional assistance helps you understand options, compare pricing, and move forward with confidence.",

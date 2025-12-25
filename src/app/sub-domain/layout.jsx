@@ -2,6 +2,8 @@
 import "@/app/globals.css";
 import { subdomainSiteData } from "@/lib/sub-domain/subdomainSiteData";
 import { headers } from "next/headers";
+import { resolveRequest } from "@/lib/resolveRequest";
+import { notFound } from "next/navigation";
 
 export const metadata = {
   title: "Property Listings | Buy, Sell & Rent Properties",
@@ -14,13 +16,15 @@ export const metadata = {
 };
 
 export default async function SubdomainLayout({ children }) {
-  // const h = await headers();
-  //   const domain = h.get("host") || "localhost";
-
-  //   const pageData =
-  //         subdomainSiteData.find((item) => item.domain === domain) ||
-  //         SITE_DATA[0];
+  const h = await headers();
+  const host=h.get("host");
+  const ctx = resolveRequest("sector21p.flatsforsaleinhisar.com");
   
+  // 🔒 BLOCK RANDOM DOMAIN / SUBDOMAIN
+  if (!ctx) {
+    notFound();
+  }
+ 
   return (
     <html lang="en">
       <body className="  min-h-screen bg-background text-foreground">

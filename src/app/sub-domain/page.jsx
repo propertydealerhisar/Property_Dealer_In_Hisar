@@ -9,17 +9,19 @@ import { FAQSection } from './components/faq-section/FAQSection'
 import { ContactSection } from './components/contact-section/ContactSection'
 import { Footer } from './components/footer/Footer'
 import { WhyChoose } from './components/why-choose/WhyChoose'
+import { resolveRequest } from "@/lib/resolveRequest";
+import { hisarSiteData } from '@/lib/sub-domain/hisarSiteData';
 
 const page = async() => {
   const h = await headers();
     const domain = h.get("host") || "localhost";
-
+    
     const pageData =
-          subdomainSiteData.find((item) => item.domain === domain) ||
-          subdomainSiteData[0];
+          hisarSiteData.find((item) => item.domain === domain) ||
+          hisarSiteData[2];
 
-          
- 
+
+
   return (
     <div>
       <Navbar/>

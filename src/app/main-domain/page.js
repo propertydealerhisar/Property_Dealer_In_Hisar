@@ -17,7 +17,7 @@ export default async function Home() {
 
   const pageData =
     SITE_DATA.find((item) => item.domain === domain) ||
-    SITE_DATA[0]; // fallback
+    SITE_DATA[11]; // fallback
   
     
  

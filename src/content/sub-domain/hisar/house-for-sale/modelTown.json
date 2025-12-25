@@ -1,4 +1,5 @@
 {
+  "domain": "modeltown.houseforsaleinhisar.com",
   "hero": {
     "title": "Premium Houses for Sale in Model Town Hisar",
     "description": [
@@ -15,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Model Town Hisar",
@@ -150,49 +154,53 @@
       }
     ]
   },
-  "faqs": [
-    {
-      "question": "Is Model Town Hisar a good area to buy a house?",
-      "answer": "Yes, Model Town Hisar is one of the most established residential localities with excellent connectivity and essential amenities, making it ideal for long-term living."
-    },
-    {
-      "question": "What types of houses are available in Model Town Hisar?",
-      "answer": "Independent houses on various plot sizes ranging from 4 Marla to 14 Marla are commonly available."
-    },
-    {
-      "question": "Is Model Town Hisar suitable for families?",
-      "answer": "Yes, the locality offers a safe and comfortable environment with nearby schools, markets, and healthcare facilities."
-    },
-    {
-      "question": "Can I build my own house in Model Town Hisar?",
-      "answer": "Yes, buyers can construct houses on available plots as per approved building guidelines."
-    },
-    {
-      "question": "Are home loans available for houses in Model Town Hisar?",
-      "answer": "Most properties are eligible for home loans, subject to documentation and bank approval."
-    },
-    {
-      "question": "Is Model Town Hisar good for investment?",
-      "answer": "Yes, due to its prime location and consistent residential demand, the area offers strong long-term investment potential."
-    },
-    {
-      "question": "How does Deal Acres help buyers?",
-      "answer": "Deal Acres provides verified listings, clear information, and buyer-focused support."
-    },
-    {
-      "question": "Are daily amenities easily accessible from Model Town Hisar?",
-      "answer": "Yes, schools, hospitals, markets, and banks are located nearby."
-    },
-    {
-      "question": "What factors affect house prices in Model Town Hisar?",
-      "answer": "Plot size, construction quality, and location advantages influence pricing."
-    },
-    {
-      "question": "How can I get assistance to buy a house in Model Town Hisar?",
-      "answer": "You can use the contact section to connect with property experts for personalized guidance."
-    }
-  ],
-  "contact-section": {
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Find quick and easy answers to the questions you may have about our services.",
+    "faqs": [
+      {
+        "question": "Is Model Town Hisar a good area to buy a house?",
+        "answer": "Yes, Model Town Hisar is one of the most established residential localities with excellent connectivity and essential amenities, making it ideal for long-term living."
+      },
+      {
+        "question": "What types of houses are available in Model Town Hisar?",
+        "answer": "Independent houses on various plot sizes ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Model Town Hisar suitable for families?",
+        "answer": "Yes, the locality offers a safe and comfortable environment with nearby schools, markets, and healthcare facilities."
+      },
+      {
+        "question": "Can I build my own house in Model Town Hisar?",
+        "answer": "Yes, buyers can construct houses on available plots as per approved building guidelines."
+      },
+      {
+        "question": "Are home loans available for houses in Model Town Hisar?",
+        "answer": "Most properties are eligible for home loans, subject to documentation and bank approval."
+      },
+      {
+        "question": "Is Model Town Hisar good for investment?",
+        "answer": "Yes, due to its prime location and consistent residential demand, the area offers strong long-term investment potential."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, clear information, and buyer-focused support."
+      },
+      {
+        "question": "Are daily amenities easily accessible from Model Town Hisar?",
+        "answer": "Yes, schools, hospitals, markets, and banks are located nearby."
+      },
+      {
+        "question": "What factors affect house prices in Model Town Hisar?",
+        "answer": "Plot size, construction quality, and location advantages influence pricing."
+      },
+      {
+        "question": "How can I get assistance to buy a house in Model Town Hisar?",
+        "answer": "You can use the contact section to connect with property experts for personalized guidance."
+      }
+    ]
+  },
+  "contactSection": {
     "title": "Get Expert Help to Buy a House in Model Town Hisar",
     "description": [
       "Buying a house for sale in Model Town Hisar is an important life decision, and expert guidance can simplify the process. Professional assistance helps you compare options, understand pricing, and move forward with confidence.",

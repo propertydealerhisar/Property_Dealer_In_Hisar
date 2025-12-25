@@ -1,4 +1,5 @@
 {
+  "domain": "sector15.houseforsaleinhisar.com",
   "hero": {
     "title": "Comfortable Houses for Sale in Sector 15 Hisar for Families",
     "description": [
@@ -15,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Sector 15 Hisar",
@@ -150,49 +154,53 @@
       }
     ]
   },
-  "faqs": [
-    {
-      "question": "Is Sector 15 Hisar a good area to buy a house?",
-      "answer": "Yes, Sector 15 Hisar is a well-established residential area with good connectivity and access to essential amenities, making it suitable for long-term living."
-    },
-    {
-      "question": "What types of houses are available in Sector 15 Hisar?",
-      "answer": "Independent houses on various plot sizes ranging from 4 Marla to 14 Marla are commonly available."
-    },
-    {
-      "question": "Is Sector 15 Hisar suitable for families?",
-      "answer": "Yes, the locality offers a peaceful environment, nearby schools, markets, and healthcare facilities, making it family-friendly."
-    },
-    {
-      "question": "Can I build my own house in Sector 15 Hisar?",
-      "answer": "Yes, buyers can construct houses on available plots as per approved building guidelines."
-    },
-    {
-      "question": "Are home loans available for houses in Sector 15 Hisar?",
-      "answer": "Most properties are eligible for home loans, subject to documentation and bank approval."
-    },
-    {
-      "question": "Is Sector 15 Hisar good for investment?",
-      "answer": "Yes, due to its established nature and steady residential demand, the area offers stable investment potential."
-    },
-    {
-      "question": "How does Deal Acres help buyers?",
-      "answer": "Deal Acres provides verified listings, clear property information, and buyer-focused support."
-    },
-    {
-      "question": "Are daily amenities easily accessible from Sector 15 Hisar?",
-      "answer": "Yes, schools, hospitals, markets, and banks are located nearby."
-    },
-    {
-      "question": "What factors affect house prices in Sector 15 Hisar?",
-      "answer": "Plot size, construction quality, and location advantages influence pricing."
-    },
-    {
-      "question": "How can I get assistance to buy a house in Sector 15 Hisar?",
-      "answer": "You can use the contact section to connect with property experts for personalized guidance."
-    }
-  ],
-  "contact-section": {
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Find quick and easy answers to the questions you may have about our services.",
+    "faqs": [
+      {
+        "question": "Is Sector 15 Hisar a good area to buy a house?",
+        "answer": "Yes, Sector 15 Hisar is a well-established residential area with good connectivity and access to essential amenities, making it suitable for long-term living."
+      },
+      {
+        "question": "What types of houses are available in Sector 15 Hisar?",
+        "answer": "Independent houses on various plot sizes ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 15 Hisar suitable for families?",
+        "answer": "Yes, the locality offers a peaceful environment, nearby schools, markets, and healthcare facilities, making it family-friendly."
+      },
+      {
+        "question": "Can I build my own house in Sector 15 Hisar?",
+        "answer": "Yes, buyers can construct houses on available plots as per approved building guidelines."
+      },
+      {
+        "question": "Are home loans available for houses in Sector 15 Hisar?",
+        "answer": "Most properties are eligible for home loans, subject to documentation and bank approval."
+      },
+      {
+        "question": "Is Sector 15 Hisar good for investment?",
+        "answer": "Yes, due to its established nature and steady residential demand, the area offers stable investment potential."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, clear property information, and buyer-focused support."
+      },
+      {
+        "question": "Are daily amenities easily accessible from Sector 15 Hisar?",
+        "answer": "Yes, schools, hospitals, markets, and banks are located nearby."
+      },
+      {
+        "question": "What factors affect house prices in Sector 15 Hisar?",
+        "answer": "Plot size, construction quality, and location advantages influence pricing."
+      },
+      {
+        "question": "How can I get assistance to buy a house in Sector 15 Hisar?",
+        "answer": "You can use the contact section to connect with property experts for personalized guidance."
+      }
+    ]
+  },
+  "contactSection": {
     "title": "Get Expert Help to Buy a House in Sector 15 Hisar",
     "description": [
       "Buying a house for sale in Sector 15 Hisar is an important life decision, and expert guidance can simplify the process. Professional assistance helps you compare options, understand pricing, and move forward with clarity.",
