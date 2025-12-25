@@ -17,7 +17,8 @@ export const metadata = {
 
 export default async function SubdomainLayout({ children }) {
   const h = await headers();
-  const host=h.get("host");
+ const rawHost = h.get("host") || "";
+const host = rawHost.replace(/:\d+$/, "");
   const ctx = resolveRequest(host);
 
   // 🔒 BLOCK RANDOM DOMAIN / SUBDOMAIN
