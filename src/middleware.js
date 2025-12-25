@@ -7,7 +7,7 @@ export function middleware(req) {
 
   const domainType = getDomainType(host);
 
-  console.log("domain Type",host);
+  console.log("domain Type =>",domainType);
   
 
   // MAIN DOMAIN
