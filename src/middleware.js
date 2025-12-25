@@ -7,6 +7,9 @@ export function middleware(req) {
 
   const domainType = getDomainType(host);
 
+  console.log("domain Type",host);
+  
+
   // MAIN DOMAIN
   if (domainType === "main") {
     if (!url.pathname.startsWith("/main-domain")) {
