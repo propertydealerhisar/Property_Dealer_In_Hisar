@@ -18,8 +18,8 @@ export const metadata = {
 export default async function SubdomainLayout({ children }) {
   const h = await headers();
   const host=h.get("host");
-  const ctx = resolveRequest("sector21p.flatsforsaleinhisar.com");
-  
+  const ctx = resolveRequest(host);
+
   // 🔒 BLOCK RANDOM DOMAIN / SUBDOMAIN
   if (!ctx) {
     notFound();
