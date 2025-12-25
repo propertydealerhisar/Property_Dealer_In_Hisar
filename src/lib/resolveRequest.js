@@ -9,6 +9,17 @@ import gurgaonSubs from "@/config/sub-domains/gurgaon.json";
 export function resolveRequest(host) {
   if (!host) return null;
 
+  // ✅ ALLOW localhost (DEV ONLY)
+  if (host.includes("localhost")) {
+    return {
+      city: "hisar",          // ya jo default chaho
+      subdomain: "localhost",
+      fullDomain: "localhost",
+      host: "localhost",
+      isLocalhost: true,
+    };
+  }
+
   // 🔒 STEP 1: clean host
   // - www hatao
   // - port hatao
@@ -26,6 +37,8 @@ export function resolveRequest(host) {
 
   console.log("subdomain",subdomain);
   console.log("fulldomain",fullDomain);
+  console.log("host =>",host);
+  
 
   
   let city = null;

@@ -45,11 +45,11 @@ export function WhyChoose({data}) {
   ]
 
   return (
-    <section className="py-20 md:py-32 bg-muted/30">
+    <section className="py-20 md:py-32 bg-white">
       <div className="container mx-auto px-4">
         <div className="max-w-7xl mx-auto text-center mb-16 md:mb-20">
-          <h2 className="text-3xl md:text-5xl font-bold mb-4 md:mb-6  max-w-7xl mx-auto">{data?.title}</h2>
-          <p className="text-lg md:text-xl text-muted-foreground text-pretty leading-relaxed max-w-5xl mx-auto">
+          <h2 className="text-3xl md:text-5xl font-bold mb-4 md:mb-6  max-w-7xl mx-auto text-black">{data?.title}</h2>
+          <p className="text-lg md:text-xl text-[#422c18] leading-relaxed max-w-5xl mx-auto">
             {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>
           })}
@@ -61,12 +61,12 @@ export function WhyChoose({data}) {
             <div key={index} className="flex gap-4 group">
               <div className="flex-shrink-0">
                 <div className="w-8 h-8 rounded-full bg-[#faecec] flex items-center justify-center group-hover:bg-primary/20 transition-colors">
-                  <Check className="h-5 w-5 text-primary" strokeWidth={3} />
+                  <Check className="h-5 w-5 text-[#422c18]" strokeWidth={3} />
                 </div>
               </div>
               <div>
-                <h3 className="text-xl font-bold mb-2 text-balance">{item.title}</h3>
-                <p className="text-muted-foreground leading-relaxed">{item.description}</p>
+                <h3 className="text-xl font-bold mb-2 text-[#422c18]">{item.title}</h3>
+                <p className="text-[#422c18] leading-relaxed">{item.description}</p>
               </div>
             </div>
           ))}
