@@ -24,7 +24,7 @@ const Navbar = ({domain}) => {
   // ✅ FINAL NAV LINKS
   const navLinks = [
     { name: "Home", scroll: "top" },
-    { name: "Blog", path: "/blog" },
+    { name: "Blog", path: "/" },
     { name: "Contact", scroll: "contact" },
   ];
 
