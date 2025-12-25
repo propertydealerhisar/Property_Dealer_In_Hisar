@@ -33,8 +33,7 @@ const host = "bankcolony.houseforsaleinhisar.com"
 
   // ✅ EXACT MATCH (no ambiguity)
   const pageData = hisarSiteData.find(
-    (item) => (item.domain === fullHost) || hisarSiteData[3]
-  );
+    (item) => ((item.domain === fullHost) || hisarSiteData[2]));
 
   if (!pageData) {
     notFound(); // allowed domain but data missing
