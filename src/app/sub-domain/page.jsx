@@ -18,7 +18,7 @@ const Page = async () => {
   const h = await headers();
   const rawHost = h.get("host") || "";
   const host = rawHost.replace(/:\d+$/, "");
-// const host = "bankcolony.houseforsaleinhisar.com"
+// const host = "marvelcity.houseforsaleinhisar.com"
 
   // 🔐 resolve domain + subdomain
   const ctx = resolveRequest(host);
