@@ -139,7 +139,7 @@ import urban_estateShopForSale from "@/content/sub-domain/hisar/shop-for-sale/ur
 import bank_colonyToLetSservices from "@/content/sub-domain/hisar/to-let-services/bank_colony.json";
 import krishna_nagarToLetSservices from "@/content/sub-domain/hisar/to-let-services/krishna_nagar.json";
 import model_townToLetSservices from "@/content/sub-domain/hisar/to-let-services/model_town.json";
-import pla_aeraToLetSservices from "@/content/sub-domain/hisar/to-let-services/pla_aera.json";
+import pla_aeraToLetSservices from "@/content/sub-domain/hisar/to-let-services/pla_area.json";
 import sector_1_4ToLetSservices from "@/content/sub-domain/hisar/to-let-services/sector_1-4.json";
 import sector_13ToLetSservices from "@/content/sub-domain/hisar/to-let-services/sector_13.json";
 import sector_14ToLetSservices from "@/content/sub-domain/hisar/to-let-services/sector_14.json";

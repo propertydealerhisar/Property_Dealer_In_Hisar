@@ -1,7 +1,4 @@
-{
-  "totalFilesScanned": 133,
-  "totalDomains": 133,
-  "domains": [
+[
     "azadnagar.houseforrentinhisar.com",
     "azadnagar.houseforsaleinhisar.com",
     "azadnagar.plotforsaleinhisar.com",
@@ -21,8 +18,8 @@
     "globalspace.plotforsaleinhisar.com",
     "globalspace.shopforrentinhisar.com",
     "globalspace.shopforsaleinhisar.com",
-    "kaimiriroad.houseforsaleinhisar.com",
     "kamiriroad.houseforrentinhisar.com",
+    "kamiriroad.houseforsaleinhisar.com",
     "kamiriroad.plotforsaleinhisar.com",
     "kamiriroad.shopforrentinhisar.com",
     "kamiriroad.shopforsaleinhisar.com",
@@ -46,7 +43,6 @@
     "modeltown.shopforrentinhisar.com",
     "modeltown.shopforsaleinhisar.com",
     "modeltown.toletserviceinhisar.com",
-    "pla.toletserviceinhisar.com",
     "plaarea.commercialpropertyforsaleinhisar.com",
     "plaarea.flatsforrentinhisar.com",
     "plaarea.flatsforsaleinhisar.com",
@@ -55,6 +51,7 @@
     "plaarea.plotforsaleinhisar.com",
     "plaarea.shopforrentinhisar.com",
     "plaarea.shopforsaleinhisar.com",
+    "plaarea.toletserviceinhisar.com",
     "sector1-4.commercialpropertyforsaleinhisar.com",
     "sector1-4.flatsforrentinhisar.com",
     "sector1-4.flatsforsaleinhisar.com",
@@ -77,6 +74,7 @@
     "sector14.flatsforrentinhisar.com",
     "sector14.flatsforsaleinhisar.com",
     "sector14.houseforrentinhisar.com",
+    "sector14.houseforsaleinhisar.com",
     "sector14.plotforsaleinhisar.com",
     "sector14.shopforrentinhisar.com",
     "sector14.shopforsaleinhisar.com",
@@ -136,4 +134,3 @@
     "urbanestate.shopforsaleinhisar.com",
     "urbanestate.toletserviceinhisar.com"
   ]
-}
