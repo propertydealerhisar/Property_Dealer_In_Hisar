@@ -6,13 +6,13 @@ const path = require("path");
 // 👇 reference (master) JSON file
 const MASTER_JSON_PATH = path.join(
   __dirname,
-  "../content/sub-domain/hisar/house-for-sale/azadNagar.json"
+  "../content/main-domain/hisar/agriculture_land_for_sale_in_hisar.json"
 );
 
 // 👇 folder jisme sab json scan honge
 const GRAND_PARENT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/hisar"
+  "../content/main-domain/gurgaon"
 );
 
 // ===========================

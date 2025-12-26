@@ -14,6 +14,7 @@ import sector15HouseForSale from "@/content/sub-domain/hisar/house-for-sale/sect
 import sector21pHouseForSale from "@/content/sub-domain/hisar/house-for-sale/sector21p.json";
 import sector33HouseForSale from "@/content/sub-domain/hisar/house-for-sale/sector33.json";
 import urbanEstateHouseForSale from "@/content/sub-domain/hisar/house-for-sale/urbanEstate.json";
+import sector14HouseForSale from "@/content/sub-domain/hisar/house-for-sale/sector14.json";
 // ************************************************************************
 import model_townCommercialPropertyForSale from "@/content/sub-domain/hisar/commercial-property-for-sale/model_town.json";
 import pla_areaCommercialPropertyForSale from "@/content/sub-domain/hisar/commercial-property-for-sale/pla_area.json";
@@ -166,6 +167,7 @@ export const hisarSiteData = [
   sector21pHouseForSale,
   sector33HouseForSale,
   urbanEstateHouseForSale,
+  sector14HouseForSale,
 
   model_townCommercialPropertyForSale,
   pla_areaCommercialPropertyForSale,
