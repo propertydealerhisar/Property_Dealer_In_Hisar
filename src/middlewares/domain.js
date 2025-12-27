@@ -11,7 +11,7 @@ export function getDomainType(host = "") {
 
   // localhost → main
   if (cleanHost.includes("localhost")) {
-    return "sub";
+    return "main";
   }
 
   const parts = cleanHost.split(".");
