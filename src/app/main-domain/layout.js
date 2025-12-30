@@ -1,5 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "@/app/globals.css";
+import { notFound } from "next/navigation";
 import Navbar from "@/app/main-domain/components/navbar/Navbar";
 import Footer from "@/app/main-domain/components/footer/Footer";
 import { SITE_DATA } from "@/lib/main-domain/siteData";
@@ -58,14 +59,15 @@ export default async function RootLayout({ children }) {
   const domain = h.get("host") || "localhost";
   // const domain = "www.agriculturelandforsaleinfaridabad.com"
     const pageData =
-      SITE_DATA.find((item) => item.domain === domain) ||
-      SITE_DATA[0];
+      SITE_DATA.find((item) => item.domain === domain)
 
     const gtmId = GTM_IDS[domain] || GTM_IDS["localhost"];
     const gaId =
   GA_TARGET_DOMAINS[domain] || GA_TARGET_DOMAINS["localhost"];
  // undefined bhi ho sakta hai
-
+ 
+ if(!pageData)
+  return notFound();
 
   return (
     <html lang="en">
