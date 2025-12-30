@@ -13,8 +13,8 @@ import { SITE_DATA } from "@/lib/main-domain/siteData";
 export default async function Home() {
     const h = await headers(); // ✅ MUST await in Next 16
 
-  // const domain = h.get("host") || "localhost";
-  const domain = "www.agriculturelandforsaleinfaridabad.com"
+  const domain = h.get("host") || "localhost";
+  // const domain = "www.agriculturelandforsaleinfaridabad.com"
   const pageData =
     SITE_DATA.find((item) => item.domain === domain) ||
     SITE_DATA[0]; // fallback
