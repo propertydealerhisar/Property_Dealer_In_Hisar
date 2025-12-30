@@ -1,0 +1,346 @@
+{
+  "domain": "www.renthouseinfaridabad.com",
+
+  "heroSection": {
+    "badge": "Find homes that fit your life perfectly",
+    "heading": "Find Your Comfortable Rental Home Today",
+    "description": [
+      "Looking to Rent House in Faridabad without stress or endless searching? Your ideal rental home is just one step away with verified listings, transparent pricing, and options that match your budget and lifestyle. Whether you need a family home, shared living, or an independent floor, we help you discover the right place faster, smarter, and easier. Experience renting made simple with trusted support every step of the way."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Rental Homes",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
+    ]
+  },
+
+  "welcomeSection": {
+    "title": "Trusted platform for smart Rental Homes in Faridabad",
+    "heading": "Why Faridabad Is Ideal for Your Next Rental Home",
+    "description": [
+      "Choosing to Rent House in Faridabad gives you flexibility, affordability, and access to a well-connected lifestyle. Whether you’re shifting for work, study, business, or family needs, Faridabad offers a range of rental options — gated societies, independent houses, builder floors, and more. The city is connected with Delhi Metro, highways, workplaces, hospitals, and markets, making daily life comfortable. Renting here means enjoying modern amenities without high ownership costs. With our guidance through trusted property dealer in Faridabad, you get the convenience, clarity, and confidence needed to make the best move."
+    ]
+  },
+
+  "featureWithImage": {
+    "badge": "Verified Rental Listings",
+    "title": "Verified Rental Listings & Personalized Renting Guidance",
+    "description": [
+      "Searching to Rent House in Faridabad that matches your needs? We simplify the process with updated rental listings, honest comparisons, and guidance from experienced property dealer in Faridabad to avoid confusion and overpricing. We help you shortlist homes, schedule visits, check documentation, and ensure you get fair rental terms. From budget-friendly spaces to premium homes, we connect you with listings that match your lifestyle and location preferences. Renting becomes clear, quick, and comfortable — just the way it should be."
+    ],
+    "subTitle": "Project Categories",
+    "features": [
+      "Updated & verified rental options",
+      "Personalized support for every renter’s needs",
+      "Smooth process from search to finalizing agreement"
+    ],
+    "primaryButton": {
+      "label": "View Rental Houses",
+      "path": "/"
+    },
+    "secondaryButton": {
+      "label": "Talk to Rental Experts",
+      "path": "/"
+    },
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "Residential Projects in Faridabad"
+    },
+    "floatingCard": {
+      "title": "Residential Property Experts",
+      "subtitle": "Faridabad Home Specialists",
+      "description": "Get expert assistance for choosing the right Residential Projects in Faridabad based on budget, location, and future growth."
+    }
+  },
+
+  "servicesSection": {
+    "heading": "Complete Property Services Under One Roof",
+    "description": [
+      "While you plan to Rent House in Faridabad, we also offer support across other property requirements — making your journey more convenient and informed."
+    ],
+    "services": [
+  {
+    "title": "House for Sale in Faridabad",
+    "description": "Independent houses offering privacy, space, and long-term value.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Flat for Rent in Faridabad",
+    "description": "Ready-to-move flats for families, professionals, and students.",
+    "icon": "FaKey"
+  },
+  {
+    "title": "Flat for Sale in Faridabad",
+    "description": "Affordable to luxury flats with strong resale value.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "Shop for Sale in Faridabad",
+    "description": "Retail investment opportunities in prime locations.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Shop for Rent in Faridabad",
+    "description": "Flexible shop rentals for businesses of all sizes.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Plot for Sale in Faridabad",
+    "description": "Residential and commercial plots with future growth prospects.",
+    "icon": "FaLandmark"
+  },
+  {
+    "title": "Agricultural Land for Sale in Faridabad",
+    "description": "Long-term land investment options.",
+    "icon": "FaTractor"
+  },
+  {
+    "title": "To-Let Service in Faridabad",
+    "description": "Fast rental solutions for property owners and tenants.",
+    "icon": "FaHandshake"
+  },
+  {
+    "title": "Commercial Property for Sale in Faridabad",
+    "description": "Office spaces, retail units, and SCO plots.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "World Street Faridabad",
+    "description": "Premium commercial and lifestyle destination.",
+    "icon": "FaCity"
+  },
+  {
+    "title": "Independent Builder Floor in Faridabad",
+    "description": "Low-density residential living with privacy.",
+    "icon": "FaHome"
+  },
+  {
+    "title": "Co-Workation in Faridabad",
+    "description": "Flexible workspaces for startups and professionals.",
+    "icon": "FaBriefcase"
+  },
+  {
+    "title": "SCO Plots for Sale in Faridabad",
+    "description": "High-yield shop-cum-office investments.",
+    "icon": "FaStore"
+  },
+  {
+    "title": "Upcoming Projects in Faridabad",
+    "description": "Early investment opportunities with better pricing.",
+    "icon": "FaChartLine"
+  },
+  {
+    "title": "Affordable Projects in Faridabad",
+    "description": "Budget-friendly housing solutions with modern amenities.",
+    "icon": "FaRupeeSign"
+  },
+  {
+    "title": "Apartment for Rent & Sale in Faridabad",
+    "description": "Modern apartments for comfortable living.",
+    "icon": "FaBuilding"
+  },
+  {
+    "title": "2BHK, 3BHK & 4BHK Flats for Sale & Rent",
+    "description": "Homes designed for different family sizes and needs.",
+    "icon": "FaHome"
+  }
+]
+
+  },
+
+  "whyChooseUs": {
+    "heading": "A Venture You Can Trust for Your Rental Needs",
+    "description": [
+      "Our platform for Rent House in Faridabad is a trusted venture of Property Dealer in Faridabad, which itself is a venture of Deal Acres Faridabad, and Deal Acres Faridabad operates under the umbrella of Deal Acres. This means reliability, strong market presence, and genuine support. When you choose us, you get more than rental listings — you receive authentic guidance, broader reach, and benefits that make your renting journey effortless and cost-effective."
+    ],
+    "points": [
+      "Feature of unlisted free property listing",
+      "Free business listing for landlords & property owners",
+      "Verified rental network backed by Deal Acres experience",
+      "Smarter home-search support with transparent guidance"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "Deal Acres Residential Advantage"
+    }
+  },
+
+  "blogsSection": {
+    "heading": "Stay Updated With Rental Tips & Market Insights",
+    "description": [
+      "Before you Rent House in Faridabad, explore our featured blogs to understand rental trends, locality comparisons, paperwork tips, and cost-saving guidance. Make your rental decision confident and informed with expert insights based on real experiences."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blog"
+    },
+    "blogs": [ {
+        "id": 1,
+        "title": "Top 10 Neighborhoods for Families in 2023",
+        "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
+        "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1170&q=80",
+        "date": "May 15, 2023",
+        "category": "Neighborhoods"
+      },
+      {
+        "id": 2,
+        "title": "How to Increase Your Home Value Before Selling",
+        "excerpt": "Learn simple and cost-effective ways to boost your property value before listing it on the market.",
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 28, 2023",
+        "category": "Selling Tips"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Smart Homes",
+        "excerpt": "Explore the latest technology trends that are transforming modern homes into smart living spaces.",
+        "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
+        "date": "April 10, 2023",
+        "category": "Technology"
+      }]
+  },
+
+  "contactSection": {
+    "formSection": {
+      "heading": "Get In Touch",
+      "description": [
+        "Fill out the form and our team will get back to you to help with house for rent in Faridabad and your Residential Rental needs."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
+        },
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+1 234 567 890",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Write your message...",
+          "type": "textarea"
+        }
+      ],
+      "submitButton": "Send Message"
+    },
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": ["Contact us anytime for assistance with houses for rent in Faridabad, residential listings, or rental property guidance."],
+      "items": [
+        {
+          "label": "Phone",
+          "value": "+1 (246) 333-0088"
+        },
+        {
+          "label": "Email",
+          "value": "info@estatepro.com"
+        },
+        {
+          "label": "Office Address",
+          "value": "2799 Mainroad Ave, NY"
+        }
+      ]
+    }
+  },
+
+  "faqSection": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Contact us anytime for assistance with houses for rent in Faridabad, residential listings, or rental property guidance.",
+    "faqs": [
+  {
+    "q": "Why should I rent a house in Faridabad?",
+    "a": "Faridabad offers affordability, metro connectivity, and a wide range of homes. Whether you want independent spaces or society flats, it provides options for every lifestyle."
+  },
+  {
+    "q": "How do I find a suitable rental home quickly?",
+    "a": "You can use verified listings, trusted property dealers in Faridabad, and platforms like ours that match your needs and budget without wasting time."
+  },
+  {
+    "q": "Is renting a house better than buying right now?",
+    "a": "If you prefer flexibility and lower monthly costs, renting is ideal. Many renters choose to rent a house in Faridabad before planning a purchase in the future."
+  },
+  {
+    "q": "What documents are needed for renting?",
+    "a": "Typically, you need ID proof, address proof, and a rental agreement signed by both parties. We guide you through every step for smooth processing."
+  },
+  {
+    "q": "Which areas are best for rental houses?",
+    "a": "Areas like Neharpar, Green Field, Sector 21C, and Greater Faridabad are popular due to good connectivity and essential amenities."
+  },
+  {
+    "q": "Can I rent an independent house for my family?",
+    "a": "Yes, Faridabad offers many independent houses suitable for families who want privacy and spacious living."
+  },
+  {
+    "q": "Are there affordable rental options for students?",
+    "a": "Yes, many students choose to rent a house in Faridabad because of cost-effective rooms, PGs, and shared houses near transport and educational institutions."
+  },
+  {
+    "q": "Can you assist with property visit scheduling?",
+    "a": "Absolutely. We help shortlist homes, schedule site visits, and assist with rental agreement creation to make the process stress-free."
+  },
+  {
+    "q": "What if the rental price doesn’t match my budget?",
+    "a": "We provide multiple options across different price ranges and help negotiate fair rental terms whenever possible."
+  },
+  {
+    "q": "Do you list houses available immediately?",
+    "a": "Yes, our listings are regularly updated so you can find ready-to-move homes and rent a house in Faridabad without delay."
+  }
+]
+
+  },
+
+   "footer": {
+    "brand": {
+      "name": "EstatePro Real Estate",
+      "description": ["We help you discover premium houses for rent with expert guidance, transparent processes, and trusted real estate services across the city."]
+    },
+    "poweredBy": {
+      "label": "Powered By",
+      "name": "Deal Acres"
+    },
+    "social": {
+      "heading": "Follow Us",
+      "links": [
+        {
+          "platform": "Facebook",
+          "url": "#"
+        },
+        {
+          "platform": "Twitter",
+          "url": "#"
+        },
+        {
+          "platform": "Instagram",
+          "url": "#"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "#"
+        }
+      ]
+    },
+    "copyright": {
+      "text": "All Rights Reserved."
+    }
+  }
+}
