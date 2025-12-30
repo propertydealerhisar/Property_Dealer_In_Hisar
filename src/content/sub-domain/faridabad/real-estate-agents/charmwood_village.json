@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "charmwoodvillage.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Professional Real Estate Agents in Charmwood Village Faridabad",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Size Choices Available in Charmwood Village",
@@ -58,14 +61,46 @@
       "Reviewing multiple locations helps buyers evaluate neighbourhood advantages, access to amenities, and future growth prospects before making a final decision."
     ],
     "locations": [
-      { "title": "Real Estate Agents in Charmwood Village Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Real Estate Agents in Sector 21 Faridabad", "path": "/", "icon": "Key" },
-      { "title": "Real Estate Agents in Sector 70 Faridabad", "path": "/", "icon": "Building2" },
-      { "title": "Real Estate Agents in Surajkund Road Faridabad", "path": "/", "icon": "Building" },
-      { "title": "Property Dealers in South Faridabad", "path": "/", "icon": "Handshake" },
-      { "title": "Residential Plots in Faridabad", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Plot Dealers in Faridabad", "path": "/", "icon": "Tractor" }
+      {
+        "title": "Real Estate Agents in Charmwood Village Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Real Estate Agents in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Real Estate Agents in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Real Estate Agents in Surajkund Road Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Property Dealers in South Faridabad",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Residential Plots in Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Independent Houses in Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Plot Dealers in Faridabad",
+        "path": "/",
+        "icon": "Tractor"
+      }
     ]
   },
   "whyChoose": {
@@ -75,14 +110,38 @@
       "With transparent processes and a buyer-first approach, Deal Acres has earned the trust of homebuyers and investors across premium Faridabad localities."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "All listings are checked for accuracy and authenticity." },
-      { "title": "Local Market Expertise", "description": "In-depth knowledge of Charmwood Village pricing and demand." },
-      { "title": "Transparent Property Details", "description": "Clear information helps buyers assess true value." },
-      { "title": "User-Friendly Platform", "description": "Simple navigation improves property search experience." },
-      { "title": "Buyer-Centric Guidance", "description": "Advice is aligned with real buyer needs." },
-      { "title": "Basic Legal Awareness", "description": "Guidance helps buyers feel secure during transactions." },
-      { "title": "End-to-End Assistance", "description": "Support from search to final deal closure." },
-      { "title": "Trusted by Homebuyers", "description": "Consistent service builds long-term credibility." }
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are checked for accuracy and authenticity."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Charmwood Village pricing and demand."
+      },
+      {
+        "title": "Transparent Property Details",
+        "description": "Clear information helps buyers assess true value."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple navigation improves property search experience."
+      },
+      {
+        "title": "Buyer-Centric Guidance",
+        "description": "Advice is aligned with real buyer needs."
+      },
+      {
+        "title": "Basic Legal Awareness",
+        "description": "Guidance helps buyers feel secure during transactions."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from search to final deal closure."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Consistent service builds long-term credibility."
+      }
     ]
   },
   "faqSection": {
@@ -137,6 +196,11 @@
       "Buying property in Charmwood Village Faridabad becomes simpler with expert support. Professional guidance helps you evaluate options, understand pricing, and proceed confidently.",
       "Share your details to connect with experienced Real Estate Agents in Charmwood Village Faridabad for personalised and reliable assistance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

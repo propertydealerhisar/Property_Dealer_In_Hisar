@@ -1,0 +1,174 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Secure Your Dream 3 BHK Flat For Sale in Ashoka Enclave Premium Lifestyle",
+    "description": [
+      "Welcome to Ashoka Enclave where spacious living meets unparalleled convenience. We offer thoughtfully designed 3 BHK flats that cater perfectly to modern families seeking comfort and a vibrant community atmosphere. These residences are crafted with superior finishes and architectural precision ensuring a truly elevated living experience.",
+      "Finding the ideal 3 BHK flat for sale in Ashoka Enclave has never been easier. Our listings feature properties with excellent natural light optimal ventilation and proximity to essential civic infrastructure including top schools hospitals and market areas. Invest in a home that promises steady appreciation and a high quality of life for years to come. Explore our ready-to-move options and take the first step towards owning your perfect home."
+    ],
+    "buttons": [
+      {
+        "label": "View Available 3 BHK Flats",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule A Site Visit",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Essential Attributes of Your New 3 BHK Flat in Ashoka Enclave Modern Residences",
+    "description": [
+      "The 3 BHK flats for sale in Ashoka Enclave are not merely apartments they are curated living spaces designed for functionality and aesthetic appeal. We focus on providing amenities and features that genuinely enhance daily life minimizing typical urban stressors and maximizing comfort.",
+      "From high-quality flooring and fixtures to smart layout planning every detail has been meticulously considered. We ensure that your investment provides long-term value whether you are purchasing for immediate occupancy or as a strategic rental asset. Ashoka Enclave represents the optimal blend of affordability luxury and connectivity."
+    ],
+    "features": [
+      {
+        "title": "Spacious Layout and Design",
+        "description": "Enjoy large living areas and well-proportioned bedrooms providing ample space for your family to grow. Our 3 BHK units typically range from 1400 to 1800 sq ft offering excellent utilization of every square foot without feeling cramped."
+      },
+      {
+        "title": "Modern Kitchen Specifications",
+        "description": "Each kitchen is designed for efficiency featuring modular fittings granite countertops and dedicated utility balconies. These contemporary designs make cooking enjoyable and maintenance effortless ensuring high hygiene standards."
+      },
+      {
+        "title": "Prime Location Advantage",
+        "description": "Ashoka Enclave boasts a strategic location with easy access to major highways and arterial roads connecting you quickly to Delhi Gurgaon and other parts of NCR. Commuting is streamlined saving you valuable time every day."
+      },
+      {
+        "title": "Secure Gated Community",
+        "description": "Safety is paramount. The complex features 24/7 security professional guard services CCTV surveillance and controlled access points ensuring peace of mind for all residents and their children."
+      },
+      {
+        "title": "Excellent Metro Connectivity",
+        "description": "Benefit from close proximity to the nearest metro station making public transport a viable and hassle-free option for daily commutes to business hubs and entertainment centres across the region."
+      },
+      {
+        "title": "Investment Potential Assured",
+        "description": "Due to its established infrastructure and high demand for quality family housing a 3 BHK flat for sale in Ashoka Enclave offers strong rental yield potential and guaranteed capital appreciation over the medium to long term."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Discover the Unmatched Connectivity Near Your New 3 BHK Ashoka Enclave Home",
+    "description": [
+      "Ashoka Enclave is perfectly situated offering residents easy access to all necessary social and commercial infrastructure within a short radius. This neighbourhood ensures that everything you need is only minutes away improving your family's daily efficiency.",
+      "From top-tier educational institutions to specialized healthcare facilities and bustling retail hubs the area surrounding Ashoka Enclave is fully developed. This convenience is a key factor when considering a 3 BHK Flat For Sale in Ashoka Enclave making it an ideal choice for both working professionals and large families."
+    ],
+    "locations": [
+      "Top Rated Schools and Universities",
+      "Specialized Healthcare Hospitals",
+      "Major Business and IT Hubs",
+      "Retail Shopping Malls",
+      "Delhi Metro Station Access",
+      "National Highway 2 NH-2 Access",
+      "Local Markets and Grocery Stores",
+      "Public Parks and Recreational Grounds"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Investing in a 3 BHK Flat For Sale in Ashoka Enclave is the Right Decision",
+    "description": [
+      "Choosing where to buy your next home is a significant decision. We differentiate ourselves by offering not just superior construction but a fully integrated living ecosystem focused on resident satisfaction transparent dealings and long-term value creation.",
+      "Our commitment to excellence ensures that every 3 BHK flat meets stringent quality checks providing you with a reliable and beautiful home in a thriving locality like Ashoka Enclave. Experience the difference when you choose a property backed by trust and professional management."
+    ],
+    "points": [
+      {
+        "title": "Superior Quality Construction Standards",
+        "description": "We utilize only high-grade materials and certified construction practices ensuring the structural integrity and longevity of your 3 BHK flat. This attention to detail results in lower maintenance costs over time."
+      },
+      {
+        "title": "Clear and Verified Property Titles",
+        "description": "All our properties come with fully vetted and clear documentation providing you with complete legal peace of mind. We ensure a smooth and transparent transaction process from initial viewing to final possession."
+      },
+      {
+        "title": "Highly Competitive Pricing",
+        "description": "We offer the best value proposition for a 3 BHK flat for sale in Ashoka Enclave balancing premium features with realistic market pricing ensuring your investment is smart and attainable."
+      },
+      {
+        "title": "Variety of Ready to Move Options",
+        "description": "Avoid the uncertainty of under-construction projects. Many of our 3 BHK units are ready for immediate occupancy allowing you to move in right after registration and start your new life without delay."
+      },
+      {
+        "title": "Focus on Community and Family Life",
+        "description": "Ashoka Enclave fosters a warm community environment with common areas dedicated clubhouses and social events promoting interaction and a sense of belonging among neighbours."
+      },
+      {
+        "title": "Abundant Green Spaces and Parks",
+        "description": "Despite being strategically located our projects prioritize open spaces and landscaped gardens offering residents fresh air and tranquil areas for relaxation jogging and children’s play."
+      },
+      {
+        "title": "Dedicated Resident Parking Facilities",
+        "description": "Eliminate parking woes with dedicated covered and open parking spaces provided for residents ensuring the safety and convenience of your vehicles within the premises."
+      },
+      {
+        "title": "Simplified Home Loan Assistance",
+        "description": "We have established partnerships with leading banks and financial institutions to offer quick processing and attractive interest rates making the home buying process financially accessible for you."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Buying a 3 BHK Flat in Ashoka Enclave",
+    "description": "Find quick answers to the most common queries buyers have when looking for a residential property in this popular locality.",
+    "faqs": [
+      {
+        "question": "What are the standard sizes for a 3 BHK flat for sale in Ashoka Enclave",
+        "answer": "The sizes can vary depending on the specific builder and project but typically a 3 BHK unit in Ashoka Enclave ranges from 1350 square feet to approximately 1800 square feet built-up area. It is important to check the carpet area versus the built-up area which we provide detailed information on for every listing to ensure complete clarity before purchase."
+      },
+      {
+        "question": "Is Ashoka Enclave a fully developed residential area with necessary infrastructure",
+        "answer": "Yes Ashoka Enclave is one of the more established and sought-after residential sectors. It boasts excellent civic infrastructure including reliable water and electricity supply well-maintained roads and immediate access to necessary amenities like schools hospitals and retail outlets. The area offers a matured social ecosystem."
+      },
+      {
+        "question": "What is the price range for a typical 3 BHK flat in Ashoka Enclave",
+        "answer": "Pricing for a 3 BHK flat for sale in Ashoka Enclave depends heavily on factors such as age of the property floor level amenities offered and specific location within the enclave. Generally prices start from 75 Lacs and can go up to 1.2 Crore for premium and newly constructed units. We recommend speaking with our sales team for the most accurate current market rates."
+      },
+      {
+        "question": "Are these 3 BHK projects approved and RERA compliant",
+        "answer": "We exclusively list properties that have clear legal titles and are either fully compliant with RERA regulations for new projects or have necessary completion and occupancy certificates for ready-to-move options. We ensure all regulatory requirements are met providing our buyers with maximum security and transparency."
+      },
+      {
+        "question": "What amenities are typically included with the purchase of a 3 BHK flat here",
+        "answer": "Standard amenities often include covered parking 24/7 power backup lift access comprehensive security systems landscaped gardens children's play areas and access to a community hall or clubhouse. Specific luxury features may vary by project and are detailed in the property brochure."
+      },
+      {
+        "question": "How is the connectivity of Ashoka Enclave to Delhi and major NCR cities",
+        "answer": "Connectivity is excellent. Ashoka Enclave is strategically located near the main expressway providing rapid access to South Delhi and Noida. Furthermore the proximity to the nearest operational Metro station makes the commute highly manageable for residents working across the NCR region."
+      },
+      {
+        "question": "What are the common maintenance charges for a 3 BHK property in this area",
+        "answer": "Maintenance charges are collected monthly or quarterly and typically cover costs related to common area lighting security staff upkeep of gardens lift operation and general repairs. These charges usually range between Rs 3000 to Rs 5500 per month depending on the level of amenities offered by the society."
+      },
+      {
+        "question": "Can I get home loan assistance for buying a 3 BHK flat in Ashoka Enclave",
+        "answer": "Absolutely. We work closely with major nationalized and private banks including HDFC SBI ICICI and Axis Bank. Our finance team can assist you in preparing necessary documents and securing the best possible home loan rates and swift approval for your purchase."
+      },
+      {
+        "question": "Are there good resale opportunities for 3 BHK flats in Ashoka Enclave",
+        "answer": "Ashoka Enclave has a robust secondary market driven by high demand for family housing and excellent location factors. This ensures that resale opportunities are strong offering owners good potential for capital appreciation when they decide to sell."
+      },
+      {
+        "question": "What should I look for when visiting a potential 3 BHK flat in Ashoka Enclave",
+        "answer": "When visiting you should check the quality of fixtures water pressure ventilation natural light orientation (Vastu compliance if important to you) and the overall ambience of the immediate neighbourhood. Always inquire about the age of the building and the history of maintenance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Ready to Find Your Perfect 3 BHK Flat in Ashoka Enclave Contact Us Today",
+    "description": [
+      "Our dedicated property experts are ready to guide you through our exclusive listings of 3 BHK flat for sale in Ashoka Enclave. Whether you need financial advice or want to schedule a personal viewing we are here to help.",
+      "Fill out the form below and secure your consultation. Start your journey toward premium home ownership now."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

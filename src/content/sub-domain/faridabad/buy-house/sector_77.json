@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Discover the Best Opportunity to Buy House in Sector 77 Gurgaon Prime Luxury Location",
+    "description": [
+      "Sector 77 represents the pinnacle of modern living along the New Gurugram corridor. If you are looking to buy house in Sector 77, you are choosing unparalleled connectivity, future-ready infrastructure, and premium residential complexes. This area is rapidly emerging as a preferred destination for professionals and families seeking a balance of urban amenities and serene surroundings.",
+      "We offer an exclusive selection of properties ranging from sophisticated high-rise apartments to expansive independent villas, all vetted for quality and legal compliance. Start your journey to secure a luxurious home in one of Gurgaon's most promising sectors today and benefit from superior appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Luxury Listings Now",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Personalized Consultation",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Finding Your Dream Home Size When You Buy House in Sector 77 Gurgaon Investment",
+    "description": [
+      "Sector 77 offers a diverse portfolio of housing options, catering to every lifestyle need and budget. While known for its luxury apartments, we also provide access to boutique floors and low-density developments that offer the spaciousness of traditional homes.",
+      "Understanding the different configurations available is the first step to making an informed decision about where to buy house in Sector 77. Whether you need a compact, efficient space for a dynamic lifestyle or a large multi-bedroom unit for a growing family, our curated selection ensures you find a property that aligns perfectly with your aspirations. We analyze market trends and future development plans to ensure your investment is sound and sustainable in this prime location."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot (Studio/1 BHK Luxury Unit)",
+        "description": "Ideal for young professionals or investors seeking high rental yield. These units are compact but designed with smart layouts maximizing space and light, providing an excellent entry point into the Sector 77 real estate market. They offer urban efficiency without sacrificing quality."
+      },
+      {
+        "title": "6 Marla Plot (2 BHK Premium Apartment)",
+        "description": "Perfect for small families or couples prioritizing modern amenities and location. These configurations offer dedicated living and dining areas, high-end fittings, and access to all community facilities, presenting great value for money in Sector 77."
+      },
+      {
+        "title": "8 Marla Plot (3 BHK Executive Residence)",
+        "description": "The most popular size among mid-to-large families looking for spacious living. These homes often feature servant quarters, expansive balconies, and are situated in complexes with superior security and substantial green spaces, defining modern family comfort."
+      },
+      {
+        "title": "10 Marla Plot (4 BHK Luxury Sky Villa)",
+        "description": "Designed for affluent buyers demanding the utmost in space and privacy. These luxury homes typically occupy entire floors or include duplex layouts, offering panoramic views of the city skyline and A-grade bespoke finishes and materials."
+      },
+      {
+        "title": "12 Marla Plot (Independent Builder Floor Option)",
+        "description": "A sought-after option for those who prefer ground access and greater control over design customization. While these are select listings, we source builder floor options that offer the freedom of an independent house within the high-rise structure of Sector 77."
+      },
+      {
+        "title": "14 Marla Plot (Penthouses and Duplex Homes)",
+        "description": "Represents the apex of residential luxury in Sector 77. These homes often include private terraces, large outdoor spaces, plunge pools, and bespoke interiors, delivering an unmatched elevated living experience for the elite buyer."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Unbeatable Connectivity and Key Landmarks Near Sector 77 Gurgaon New Hub",
+    "description": [
+      "Sector 77 boasts a strategic location right off the Dwarka Expressway and NH 48, making it one of the most accessible areas in New Gurugram. This exceptional connectivity drastically reduces commute times to major business hubs like Cyber City and Manesar.",
+      "When you buy house in Sector 77, you are investing in a locale surrounded by essential social infrastructure including reputed international schools, world-class hospitals, and sprawling retail centers. The planned metro expansion further enhances its future value, ensuring capital appreciation remains robust. This sector successfully combines residential tranquility with immediate access to city life necessities, making it a truly self-sufficient micro-market."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Key Reasons Why Smart Investors Choose to Buy House in Sector 77 Gurgaon Property",
+    "description": [
+      "Sector 77 is not just a place to live it is a strategic investment in your future. The rapid infrastructure development, coupled with the presence of top-tier developers, guarantees quality construction and high livability standards.",
+      "We offer exclusive insights into market trends that highlight why now is the optimal time to buy house in Sector 77. Our expertise ensures you navigate the complexities of property acquisition seamlessly, maximizing your return on investment through careful selection of appreciation-prone assets."
+    ],
+    "points": [
+      {
+        "title": "Unrivaled Connectivity Advantage",
+        "description": "Direct access to NH 48 and seamless linking via the Dwarka Expressway ensures rapid travel across Delhi NCR, making daily commutes effortless and highly efficient for busy professionals."
+      },
+      {
+        "title": "Rapid Capital Appreciation Potential",
+        "description": "As a developing sector with robust infrastructural plans, property values here are projected to climb significantly faster than established areas, offering superior returns for early investors."
+      },
+      {
+        "title": "Presence of Tier 1 Developers",
+        "description": "Homes are built by renowned developers guaranteeing superior construction quality, timely delivery, and excellent maintenance standards, providing peace of mind regarding structural integrity."
+      },
+      {
+        "title": "Future-Ready Smart Infrastructure",
+        "description": "The area is planned with wide roads, efficient utilities, and future provisions for metro connectivity, securing its long-term viability and ensuring sustained modern living standards."
+      },
+      {
+        "title": "Premium Lifestyle and Amenities",
+        "description": "Residents benefit from world-class amenities including fully equipped clubhouses, resort-style swimming pools, state-of-the-art fitness centers, and integrated retail spaces within the complexes."
+      },
+      {
+        "title": "Proximity to Major Business Hubs",
+        "description": "Excellent access to major corporate offices and industrial zones like Manesar and Cyber City appeals strongly to working professionals, minimizing travel time and maximizing work-life balance."
+      },
+      {
+        "title": "High Rental Yield Opportunities",
+        "description": "The strong demand for quality rental housing from professionals working nearby ensures a steady and attractive stream of passive income, making it a lucrative asset for investors."
+      },
+      {
+        "title": "Guaranteed Superior Quality of Life",
+        "description": "Sector 77 offers a balanced lifestyle with ample dedicated green spaces, low pollution levels, and advanced three-tier security systems in all major societies, enhancing overall safety and well-being."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Common Questions Before You Decide to Buy House in Sector 77 Gurgaon",
+    "description": "Get clarity on the most frequently asked questions regarding property purchase, legal aspects, and future development in Sector 77 Gurugram before making your final decision.",
+    "faqs": [
+      {
+        "question": "What is the current status of infrastructure development when planning to buy house in Sector 77?",
+        "answer": "Sector 77 is already highly developed in terms of physical and social infrastructure. Key roads like the internal sector roads and service lanes connecting to NH 48 are fully functional. Utilities like water supply and electrical grids are robust and managed efficiently by the respective authorities and developer associations. Furthermore, the surrounding commercial hubs and schools are operational, ensuring immediate livability. Continuous improvement plans are in place focusing on green spaces and enhanced public transport options, cementing Sector 77 as a reliable and modern residential destination."
+      },
+      {
+        "question": "Are there specific legal documents I should verify before committing to buy house in Sector 77?",
+        "answer": "Absolutely. Before finalizing any purchase in Sector 77, it is crucial to verify the Occupancy Certificate OC and the Completion Certificate CC issued by the relevant governing bodies like HUDA or GMDA. For resale properties, ensure the chain of title is clear and verified by a legal expert. If buying in an under-construction project, meticulously review the RERA registration number and the approved building plans. Our team provides comprehensive legal due diligence services to protect your investment throughout the entire acquisition process."
+      },
+      {
+        "question": "How does the location of Sector 77 benefit daily commuting needs for residents?",
+        "answer": "Sector 77 offers phenomenal locational advantages primarily due to its strategic position on the intersection of major arterial roads. Direct access to National Highway 48 ensures swift travel towards Delhi and Jaipur. Additionally, the proximity to the newly operational stretch of the Dwarka Expressway provides an alternative fast route to the airport and other parts of Gurugram. This dual connectivity significantly reduces traffic bottlenecks and commuting stress, making it highly attractive for professionals working in Gurgaon Manesar or even West Delhi."
+      },
+      {
+        "question": "What is the typical price range if I want to buy a luxury 3 BHK house in Sector 77?",
+        "answer": "The price range for a luxury 3 BHK unit in Sector 77 varies based on the specific developer, the age of the society, the amenities offered, and the floor location. Generally, prices start at a premium range due to the high-end nature of the developments here. For accurate pricing, we recommend scheduling a personalized consultation as market rates fluctuate daily. We can provide up-to-the-minute listings that match your precise budget and requirements, ensuring complete transparency in all transaction details."
+      },
+      {
+        "question": "Is Sector 77 considered a good long-term investment location in New Gurugram?",
+        "answer": "Yes, Sector 77 is consistently highlighted as a high-potential zone for long-term capital appreciation. The combination of excellent existing connectivity, planned future infrastructure like metro extensions, and the influx of large commercial projects nearby secures its investment outlook. Properties here are highly sought after both by end-users and long-term investors who anticipate significant returns over the next five to ten years as the New Gurugram belt matures further."
+      },
+      {
+        "question": "Which top real estate developers have projects available in Sector 77 currently?",
+        "answer": "Sector 77 hosts projects by some of India's most reputed real estate brands known for their commitment to quality and architectural excellence. This includes names synonymous with luxury and reliability in the NCR market, ensuring high construction quality and better facility management. Investing with a top-tier developer minimizes risk and ensures better resale value. Contact us for an updated list of current ready-to-move and under-construction projects by Grade A developers in this prime sector."
+      },
+      {
+        "question": "What kind of social amenities are easily accessible when living in Sector 77 Gurgaon?",
+        "answer": "Residents of Sector 77 enjoy close proximity to comprehensive social infrastructure. This includes numerous highly-rated international schools within a short driving distance. Leading healthcare facilities and multispecialty hospitals are also nearby. Furthermore, major shopping malls, entertainment centers, and fine dining restaurants are quickly accessible, fulfilling all modern lifestyle needs without requiring extensive travel outside the immediate area."
+      },
+      {
+        "question": "Are there any specific financing options or builder schemes available for buyers in Sector 77?",
+        "answer": "We work closely with major banks and financial institutions to facilitate seamless home loan processing for properties in Sector 77. Many developers also offer attractive construction-linked payment plans CLPs or specific festive schemes that can ease the financial burden of purchasing. We help you compare the best interest rates and tailor financing options that suit your personal liquidity and investment strategy, ensuring a smooth financial transaction from start to finish."
+      },
+      {
+        "question": "What are the primary property types commonly available for sale in Sector 77 Gurugram?",
+        "answer": "The primary property type available to buy house in Sector 77 is premium multi-storey apartments and luxurious high-rise residences, usually configured as 2 BHK 3 BHK and 4 BHK units. You can also find select penthouses and spacious duplex homes within integrated townships. The focus here is on vertical living with shared premium amenities, catering to a sophisticated clientele seeking modern, secure community living environments."
+      },
+      {
+        "question": "How can your real estate consultancy assist me in buying a house in Sector 77 effectively?",
+        "answer": "Our consultancy provides end-to-end support for your property acquisition journey in Sector 77. This includes precise market analysis, personalized property shortlisting based on your criteria, detailed site visits, expert negotiation assistance, and comprehensive legal and financial vetting. We ensure full transparency and help you secure the best possible value, making the process of buying your house efficient and completely stress-free."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Ready to Buy House in Sector 77 Gurgaon Start Your Journey Today",
+    "description": [
+      "Our expert team is standing by to provide tailored advice and exclusive access to off-market listings in Sector 77. Do not miss this crucial chance to invest in Gurgaon’s most promising future residential area.",
+      "Fill out the secure form below for a complimentary consultation and receive a curated portfolio of properties matching your exact needs and budget."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

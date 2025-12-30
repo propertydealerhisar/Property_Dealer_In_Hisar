@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Secure Your Dream Future Today When You Buy House in Sector 37",
+    "description": [
+      "Welcome to Sector 37 a premium destination offering unmatched residential potential and robust infrastructure Planning to buy house in Sector 37 is a smart move whether you are a first-time homebuyer or an experienced investor looking for high returns This sector is renowned for its excellent civic amenities wide roads and peaceful environment making it ideal for family living",
+      "We offer a curated selection of properties from ready-to-move-in independent houses to builder floors and newly constructed villas Every property listing in Sector 37 is verified ensuring clear titles and hassle-free transactions Explore the best residential opportunities available now and take the next step toward owning your perfect home We connect you with verified sellers and expert advisors to simplify the entire process"
+    ],
+    "buttons": [
+      {
+        "label": "Explore Verified Properties",
+        "path": "/properties"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Discover Ideal House Sizes and Residential Configurations in Sector 37",
+    "description": [
+      "Sector 37 provides a diverse housing inventory catering to various family sizes and budgetary requirements From compact and manageable 4 Marla homes perfect for young professionals to sprawling 14 Marla estates offering luxury living every preference is accommodated Understanding the optimal size for your family is crucial before you decide to buy house in Sector 37",
+      "Our featured plot sizes highlight the most sought-after residential dimensions available today ensuring you find a home that perfectly matches your lifestyle needs and future expansion plans Each size category offers unique architectural possibilities and investment benefits"
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot",
+        "description": "Perfect for nuclear families or couples seeking a low-maintenance, compact house These plots allow for efficient vertical construction typically supporting a two-bedroom unit They offer an excellent entry point into the Sector 37 property market making them highly sought after by budget-conscious buyers looking for quality independent living"
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "The standard choice for many residents seeking balance between space and affordability Six Marla homes usually accommodate 3 BHK layouts with enough space for a small garden or car parking Investing here allows for comfortable family growth and provides strong rental yield potential due to the high demand for mid-sized homes in Sector 37"
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Ideal for established families requiring more internal space and amenities Eight Marla plots often feature spacious 4 BHK houses with dedicated utility areas and larger living rooms This size supports superior architectural design and offers flexibility for adding home offices or dedicated entertainment zones ensuring luxurious and practical living"
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "These plots are synonymous with spacious, premium independent villas and designer homes Offering ample room for multi-story construction and lavish interiors 10 Marla properties attract high-net-worth individuals who prioritise privacy and expansive green spaces Buying a house this size guarantees a high standard of living and exceptional long-term appreciation"
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "A luxury segment choice providing significant land area for bespoke construction and extensive landscaping These houses often include servant quarters large terraces and dedicated parking for multiple vehicles They represent the pinnacle of residential status in Sector 37 offering unmatched comfort architectural freedom and exclusivity for discerning buyers"
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The largest residential offerings available providing maximum potential for grandeur and customisation 14 Marla plots are usually reserved for estate-style homes with pools or extensive recreational facilities These are premium investment opportunities ensuring a flagship property in a rapidly appreciating locality like Sector 37"
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Strategic Connectivity and Prime Location Benefits of Sector 37",
+    "description": [
+      "Sector 37 boasts a highly strategic location providing excellent connectivity to major city hubs and essential amenities Its accessibility is a core reason why investors frequently choose to buy house in Sector 37 The sector is well-connected via arterial roads and nearby highways ensuring smooth commutes to business districts and neighbouring cities",
+      "Residents enjoy proximity to top-rated schools world-class hospitals and thriving commercial markets This seamless integration of residential tranquility with urban convenience makes Sector 37 one of the most desirable places to live and invest in the region"
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Eight Compelling Reasons to Choose to Buy House in Sector 37 Now",
+    "description": [
+      "Choosing where to settle your family is a critical decision Sector 37 offers a unique blend of stability growth potential and modern infrastructure that few other areas can match We simplify your decision by highlighting the unmatched benefits of becoming a resident here",
+      "From guaranteed investment security to a thriving community life Sector 37 is designed for long-term satisfaction and future prosperity Explore the core advantages that make this location the best place for your next home purchase"
+    ],
+    "points": [
+      {
+        "title": "Exceptional Infrastructure Quality",
+        "description": "The sector features wide, well-maintained roads reliable utility services including water and electricity supply and effective drainage systems This robust foundational infrastructure ensures smooth daily living and protects the long-term value of your investment when you buy house in Sector 37"
+      },
+      {
+        "title": "High Investment Appreciation Potential",
+        "description": "Property values in Sector 37 have shown consistent upward trends driven by increasing demand and limited premium inventory Investing here means capitalising on future growth projected due to ongoing developmental projects and improved civic planning making it a highly profitable asset class"
+      },
+      {
+        "title": "Superior Social Amenities Available",
+        "description": "Enjoy immediate access to high-quality social infrastructure including multiplexes large shopping malls and recreational parks Several large green spaces are maintained within the sector providing residents with opportunities for outdoor activities relaxation and community engagement"
+      },
+      {
+        "title": "Safety and Security Measures",
+        "description": "Sector 37 is known for its peaceful environment and strong community watch measures Many residential pockets feature gated security and 24/7 surveillance ensuring a safe and secure environment for children and senior citizens Safety is a paramount concern addressed effectively here"
+      },
+      {
+        "title": "Proximity to Employment Zones",
+        "description": "The sector offers excellent connectivity to major industrial areas and corporate parks drastically reducing commute times for working professionals This geographical advantage makes it a preferred residential choice improving the work-life balance for all household members"
+      },
+      {
+        "title": "Clear Title and Legal Transparency",
+        "description": "We specialize in properties with fully verified ownership documents and clear legal titles Minimizing risk is our priority ensuring that your transaction is transparent legitimate and completely hassle-free Investing in Sector 37 means investing in peace of mind regarding property documentation"
+      },
+      {
+        "title": "Variety of Housing Options",
+        "description": "Whether you seek a newly built villa an affordable builder floor or a spacious independent house Sector 37 offers an extensive inventory to suit every taste and budget This variety ensures that finding the perfect home configuration is easier and faster than in comparable localities"
+      },
+      {
+        "title": "Thriving Community and Neighbourhood",
+        "description": "Sector 37 is home to a cosmopolitan and cohesive community promoting neighbourly relationships and active participation in local events The well-established social fabric enhances the overall quality of life making it a welcoming and supportive place to raise a family"
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Common Questions Asked When You Plan to Buy House in Sector 37",
+    "description": "Find detailed answers to the most frequent inquiries prospective buyers have regarding property investment regulations and lifestyle in this promising locality",
+    "faqs": [
+      {
+        "question": "What is the typical price range for an independent house in Sector 37",
+        "answer": "The pricing of an independent house in Sector 37 varies significantly based on factors like plot size construction age and location within the sector Generally a standard 6 Marla house might start from a certain threshold while larger luxury villas on 12 Marla or more can command premium prices We recommend scheduling a consultation with our local property experts who track current market dynamics closely to provide the most accurate and up-to-date pricing information specific to your requirements"
+      },
+      {
+        "question": "Are there good educational facilities near the residential areas of Sector 37",
+        "answer": "Yes Sector 37 is highly regarded for its proximity to several leading educational institutions including renowned primary and secondary schools as well as colleges Many families choose to buy house in Sector 37 specifically for the convenience of accessing quality education The schools offer diverse curricula and excellent facilities ensuring your children receive the best academic environment without long commutes"
+      },
+      {
+        "question": "Is Sector 37 considered a safe location for families and senior citizens",
+        "answer": "Sector 37 maintains a reputation as one of the safer and more tranquil residential areas in the region Community engagement is high and many societies implement private security measures including guarded gates and CCTV surveillance The presence of wide, well-lit roads and proactive local policing contributes to a secure environment making it highly suitable for both young families and retired individuals seeking peace"
+      },
+      {
+        "question": "What is the future growth potential of property values in Sector 37",
+        "answer": "The future growth potential for property values in Sector 37 remains strong The area benefits from continuous government infrastructure investments strategic connectivity to major highways and increasing demand from working professionals seeking high-quality residential areas Industry analysts project sustained appreciation especially for independent houses due to limited new inventory and established neighbourhood appeal"
+      },
+      {
+        "question": "What kind of water and electricity supply infrastructure does Sector 37 have",
+        "answer": "Sector 37 benefits from reliable and established utility infrastructure The water supply is managed efficiently with regular access to potable water Electricity supply is generally stable with fewer power disruptions compared to newer or undeveloped sectors Many modern houses also incorporate backup power solutions ensuring uninterrupted services throughout the year providing essential comfort to residents"
+      },
+      {
+        "question": "Can I finance my purchase easily if I decide to buy house in Sector 37",
+        "answer": "Yes financing is straightforward as Sector 37 properties are generally bank-approved and comply with all regulatory standards Most major national and private banks offer attractive home loan packages for properties within this sector Our team works closely with leading financial institutions and can connect you with experienced loan officers to streamline the application and approval process ensuring a smooth transition to ownership"
+      },
+      {
+        "question": "Are there commercial or retail markets easily accessible from Sector 37 homes",
+        "answer": "Absolutely Sector 37 is strategically situated near vibrant local markets and large modern retail outlets Within a short driving distance residents can access major shopping malls grocery stores pharmacies and entertainment complexes This easy accessibility to commercial activity ensures that all daily needs and lifestyle wants are met conveniently without having to travel far"
+      },
+      {
+        "question": "What are the common property registration requirements in Sector 37",
+        "answer": "The property registration process requires standard documentation including the sale deed clear title documents identity proof and proof of payment of stamp duty and registration fees We ensure that all properties listed are compliant with local municipal regulations Our legal team assists buyers at every step from verifying documents to final registry ensuring a compliant and secure transfer of ownership"
+      },
+      {
+        "question": "Are older houses in Sector 37 suitable for renovation or rebuilding projects",
+        "answer": "Many of the older properties in Sector 37 are highly sought after by those interested in renovation or complete rebuilding The established location and larger plot sizes often make these older houses excellent foundations for custom modern homes Investors frequently purchase these properties to develop new builder floors or personalized luxury villas maximising the value of the prime location"
+      },
+      {
+        "question": "What kind of property taxes are applicable for homeowners in this area",
+        "answer": "Property taxes in Sector 37 are levied by the local municipal corporation and depend on factors such as the size of the house covered area and official valuation These taxes are mandatory and contribute to local civic development Homeowners are advised to budget for annual property tax payments which can be easily paid through online or designated civic centers Our advisors can provide estimates based on specific property dimensions"
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Ready to Buy House in Sector 37 Contact Our Property Experts Today",
+    "description": [
+      "Take the first crucial step towards finding your ideal home in Sector 37 Our dedicated team of real estate professionals possesses deep market knowledge and is ready to assist you with personalised advice property tours and investment strategies",
+      "Fill out the short form below and a representative will contact you within the next 24 hours to discuss verified property listings pricing details and legal formalities Let us help you secure your future residence in this premium locality efficiently"
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

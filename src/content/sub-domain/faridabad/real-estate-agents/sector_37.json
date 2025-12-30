@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "sector37.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Trusted Real Estate Agents in Sector 37 Faridabad for Smart Buyers",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Sizes Available for Planned Living in Sector 37",
@@ -58,14 +61,46 @@
       "These locations provide a mix of independent houses, builder floors, and plotted developments."
     ],
     "locations": [
-      { "title": "Real Estate Agents in Sector 37 Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Real Estate Agents in Sector 35 Faridabad", "path": "/", "icon": "Building2" },
-      { "title": "Real Estate Agents in Sector 34 Faridabad", "path": "/", "icon": "Key" },
-      { "title": "Real Estate Agents in Sector 70 Faridabad", "path": "/", "icon": "Handshake" },
-      { "title": "Real Estate Agents in Sector 31 Faridabad", "path": "/", "icon": "Building" },
-      { "title": "Property Dealers in Central Faridabad", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Residential Plots in Faridabad", "path": "/", "icon": "Tractor" }
+      {
+        "title": "Real Estate Agents in Sector 37 Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Real Estate Agents in Sector 35 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Real Estate Agents in Sector 34 Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Real Estate Agents in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Real Estate Agents in Sector 31 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Property Dealers in Central Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Independent Houses in Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Residential Plots in Faridabad",
+        "path": "/",
+        "icon": "Tractor"
+      }
     ]
   },
   "whyChoose": {
@@ -75,14 +110,38 @@
       "With experience across multiple Faridabad sectors, Deal Acres has built strong trust among homebuyers and investors."
     ],
     "points": [
-      { "title": "Verified Property Information", "description": "Listings are screened to ensure authenticity and accuracy." },
-      { "title": "Local Market Expertise", "description": "In-depth knowledge of Sector 37 pricing and demand trends." },
-      { "title": "Transparent Deal Process", "description": "Clear details help buyers make confident decisions." },
-      { "title": "User-Friendly Platform", "description": "Easy navigation improves property discovery." },
-      { "title": "Buyer-Centric Approach", "description": "Recommendations are aligned with buyer needs." },
-      { "title": "Documentation Guidance", "description": "Basic assistance provided for property paperwork." },
-      { "title": "End-to-End Support", "description": "Help available from search to final selection." },
-      { "title": "Trusted by Homebuyers", "description": "Consistent service quality builds long-term confidence." }
+      {
+        "title": "Verified Property Information",
+        "description": "Listings are screened to ensure authenticity and accuracy."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 37 pricing and demand trends."
+      },
+      {
+        "title": "Transparent Deal Process",
+        "description": "Clear details help buyers make confident decisions."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation improves property discovery."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Recommendations are aligned with buyer needs."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic assistance provided for property paperwork."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Help available from search to final selection."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Consistent service quality builds long-term confidence."
+      }
     ]
   },
   "faqSection": {
@@ -137,6 +196,11 @@
       "Whether you are planning to buy, invest, or build, expert guidance can simplify your property journey. Professional support helps you understand pricing, legal aspects, and available options in Sector 37 Faridabad.",
       "Share your details to connect with experienced Real Estate Agents in Sector 37 Faridabad for personalised assistance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

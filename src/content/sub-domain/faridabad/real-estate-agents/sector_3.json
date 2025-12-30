@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "sector3.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Trusted Real Estate Agents in Sector 3 Faridabad",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Size Options Available in Sector 3 Faridabad",
@@ -58,14 +61,46 @@
       "Exploring nearby areas helps buyers gain better market clarity and choose properties that align with their lifestyle or investment goals."
     ],
     "locations": [
-      { "title": "Real Estate Agents in Sector 3 Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Real Estate Agents in NIT Faridabad", "path": "/", "icon": "Building2" },
-      { "title": "Real Estate Agents in Sector 7 Faridabad", "path": "/", "icon": "Key" },
-      { "title": "Real Estate Agents in Sector 70 Faridabad", "path": "/", "icon": "Building" },
-      { "title": "Property Dealers in Central Faridabad", "path": "/", "icon": "Handshake" },
-      { "title": "Residential Plots in Faridabad", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Premium Properties in Faridabad", "path": "/", "icon": "Tractor" }
+      {
+        "title": "Real Estate Agents in Sector 3 Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Real Estate Agents in NIT Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Real Estate Agents in Sector 7 Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Real Estate Agents in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Property Dealers in Central Faridabad",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Residential Plots in Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Independent Houses in Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Premium Properties in Faridabad",
+        "path": "/",
+        "icon": "Tractor"
+      }
     ]
   },
   "whyChoose": {
@@ -75,14 +110,38 @@
       "With a buyer-first approach and deep understanding of Faridabad’s residential market, Deal Acres has become a trusted choice among homebuyers and investors."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "All listings are reviewed to ensure authenticity and accuracy." },
-      { "title": "Local Market Expertise", "description": "Strong understanding of Sector 3 pricing and demand trends." },
-      { "title": "Transparent Property Information", "description": "Clear details help buyers assess real market value." },
-      { "title": "User-Friendly Platform", "description": "Simple navigation ensures a smooth property search experience." },
-      { "title": "Buyer-Centric Guidance", "description": "Advice focuses on buyer needs rather than aggressive selling." },
-      { "title": "Basic Legal Awareness", "description": "Helps buyers understand ownership and documentation basics." },
-      { "title": "End-to-End Assistance", "description": "Support provided throughout the property buying journey." },
-      { "title": "Trusted by Homebuyers", "description": "Consistent service quality builds long-term credibility." }
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are reviewed to ensure authenticity and accuracy."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 3 pricing and demand trends."
+      },
+      {
+        "title": "Transparent Property Information",
+        "description": "Clear details help buyers assess real market value."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple navigation ensures a smooth property search experience."
+      },
+      {
+        "title": "Buyer-Centric Guidance",
+        "description": "Advice focuses on buyer needs rather than aggressive selling."
+      },
+      {
+        "title": "Basic Legal Awareness",
+        "description": "Helps buyers understand ownership and documentation basics."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support provided throughout the property buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Consistent service quality builds long-term credibility."
+      }
     ]
   },
   "faqSection": {
@@ -137,6 +196,11 @@
       "Buying or investing in property in Sector 3 Faridabad becomes easier with expert guidance. Professional assistance helps you compare options, understand pricing, and move forward confidently.",
       "Share your details to connect with experienced Real Estate Agents in Sector 3 Faridabad for personalised property support."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

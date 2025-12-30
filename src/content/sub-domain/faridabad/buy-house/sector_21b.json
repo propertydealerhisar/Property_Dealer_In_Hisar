@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "The Best Place to Buy House in Sector 21B Faridabad for Premium Family Living",
+    "description": [
+      "Sector 21B is widely recognized as one of the most established and sought-after residential sectors in Faridabad. If you are looking to buy house in Sector 21B, you are investing in unparalleled safety, mature infrastructure, and excellent connectivity. This locality boasts wide, well-maintained roads, lush green parks, and proximity to major commercial hubs and top-tier schools.",
+      "The real estate market here offers a mix of newly constructed luxury villas and well-maintained independent homes, catering to diverse budget requirements. Our curated listings ensure you find a property that matches your specific lifestyle needs, providing a truly peaceful and upscale environment for your family to thrive. Start your journey now for a seamless transition into this prestigious community."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Available Homes",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Expert Consultation",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Discover the Ideal House Sizes and Plot Dimensions Available in Sector 21B Today",
+    "description": [
+      "Sector 21B offers a fantastic range of property dimensions ensuring that whether you are a nuclear family or seeking a multi-generational home, the right fit is available. Plot sizes here are standardized and developed by the Haryana Urban Development Authority (HUDA), ensuring clear demarcation and superior infrastructure quality.",
+      "Understanding the plot sizes is crucial when you plan to buy house in Sector 21B because it directly impacts the built-up area and the overall valuation of the property. We feature everything from comfortable 4 Marla options perfect for smaller independent houses to expansive 14 Marla plots ideal for sprawling luxury bungalows. Let us guide you through the specifics of the available dimensions to ensure your investment meets all your expectations for space and scale in this high-demand locality."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot",
+        "description": "Perfect for young families seeking an affordable entry point into this prime sector. These homes are typically designed as compact, efficient 2 or 3 BHK independent houses, focusing on maximizing utility within a smaller footprint. This size maintains a high standard of living while keeping maintenance costs low, an excellent choice when you start to buy house in Sector 21B."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "A highly popular size offering a balanced space for 3 to 4 bedrooms, a small lawn, and dedicated parking. Houses built on 6 Marla plots strike the ideal balance between spacious living and investment value. They prove highly desirable for resale due to their versatile size and practical layout appealing to a wide range of buyers."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Represents the standard for mid-sized luxury living in Sector 21B. These plots allow for expansive ground floors, formal drawing rooms, and multiple parking spaces. Homes here are often custom-built with premium finishes, providing ample space for growing families who prioritize comfortable and segmented living areas."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Step into true spaciousness with 10 Marla dimensions. This size is perfect for constructing a large duplex or triplex residence complete with servant quarters and dedicated recreational space. Properties this size offer significant architectural flexibility and command premium pricing in the current housing market due to their superior size."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "Ideal for those demanding significant outdoor space or planning a lavish bungalow design. 12 Marla homes in Sector 21B are often characterized by grand entrances, professionally landscaped gardens, and high-end luxury specifications, representing the pinnacle of residential status in the area."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The largest residential option available in this sector, suitable for executive living and joint families. These sprawling plots allow for massive built-up areas, potential for amenities like small pools, and extensive landscaping, ensuring maximum privacy and exclusivity for the discerning homeowner and investor."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Essential Connectivity and Prime Locations Near Your New House in Sector 21B",
+    "description": [
+      "Sector 21B enjoys a strategic location that maximizes connectivity to essential city hubs and the National Capital Region (NCR). Its proximity to the main Faridabad-Delhi highway ensures swift commuting for working professionals in both cities.",
+      "Residents benefit immensely from easy access to high-street retail, reputable educational institutions, and state-of-the-art healthcare facilities, all within a short 5-15 minute drive. This robust local ecosystem makes the decision to buy house in Sector 21B highly appealing. This area is mature and fully developed, meaning infrastructure bottlenecks are rare, providing a hassle-free living experience."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choosing Sector 21B is the Smartest Decision for Your Next Home Investment",
+    "description": [
+      "Choosing where to settle is a significant decision and Sector 21B consistently stands out due to its established reputation and future growth potential. Unlike emerging areas, 21B is a fully stabilized residential zone known for its affluent community and maintained civic standards.",
+      "The infrastructure here is robust, offering uninterrupted power and water supply, superior drainage systems, and well-lit internal roads. When you decide to buy house in Sector 21B, you are securing a lifestyle characterized by convenience, prestige, and safety. Our services simplify this process by providing verified listings, transparent pricing, and comprehensive legal support."
+    ],
+    "points": [
+      {
+        "title": "Prime Location and Seamless NCR Connectivity",
+        "description": "Sector 21B is strategically located providing quick access to Delhi via the established highway network. This seamless connectivity drastically reduces commute times for those working in Delhi NCR. Furthermore, being close to major commercial sectors means professional opportunities are always within easy reach, solidifying its appeal for high-end residents."
+      },
+      {
+        "title": "Mature Infrastructure and Reliable Utilities",
+        "description": "As a well-developed HUDA sector, 21B guarantees high-quality civic amenities. Residents enjoy 24/7 reliable electricity, consistent water supply, and excellent waste management systems. This mature infrastructure means fewer surprises and a higher quality of daily life compared to newer, developing sectors."
+      },
+      {
+        "title": "Highly Secure and Affluent Community",
+        "description": "The community in Sector 21B is established and highly regarded, contributing to a premium living atmosphere. The area maintains superior security standards, often featuring controlled entry points and active neighborhood watches. This focus on safety ensures a secure and pleasant environment for raising a family."
+      },
+      {
+        "title": "Superior Investment Appreciation Potential",
+        "description": "Property values in Sector 21B have shown consistent upward trends due to limited supply and high demand for quality housing in this locale. If your goal is to buy house in Sector 21B not just as a home but also as a smart financial asset, this sector promises strong capital growth over the long term."
+      },
+      {
+        "title": "Proximity to Top Educational Institutions",
+        "description": "Families prioritize education and Sector 21B delivers access to some of the region’s best schools and colleges. Having reputed institutions nearby simplifies school runs and ensures your children receive premium education without extensive daily travel time or commuting stress."
+      },
+      {
+        "title": "Abundance of Green Spaces and Parks",
+        "description": "Despite being an urban residential hub, Sector 21B is known for its numerous well-maintained public parks and green belts. These areas offer residents essential recreational space, opportunities for morning walks, and contribute significantly to a cleaner, healthier living atmosphere throughout the year."
+      },
+      {
+        "title": "Verified Listings and Legal Transparency",
+        "description": "We specialize only in fully verified properties, ensuring all titles are clear and documentation is transparent. This eliminates risks associated with property transactions, making your decision to buy house in Sector 21B completely safe and legally sound with no hidden complications or ownership disputes."
+      },
+      {
+        "title": "Access to High-End Shopping and Dining",
+        "description": "Residents benefit from having major shopping centers, luxury boutiques, and a variety of upscale dining options within a very short drive. The convenience of high-street retail and quality entertainment enhances the sophisticated lifestyle offered by this centrally located sector."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Buying Your Dream House in Sector 21B Faridabad",
+    "description": "Get informed answers to common queries regarding property valuation, legal requirements, and lifestyle aspects when you plan to buy house in Sector 21B.",
+    "faqs": [
+      {
+        "question": "What makes Sector 21B a prime location for purchasing a residential property in Faridabad",
+        "answer": "Sector 21B is widely considered prime due to its mature planning, excellent civic infrastructure, and strategic location connecting directly to NH-44 and Delhi. It is an established, high-income residential area known for its peace and safety. Unlike newer sectors, 21B already features wide roads, multiple parks, and reliable 24/7 utilities. Furthermore, its proximity to major corporate offices, international schools, and top hospitals drastically increases its desirability and long-term investment value. If you want to buy house in Sector 21B, you are securing a proven asset in a stable environment."
+      },
+      {
+        "question": "What are the typical property types available when I look to buy house in Sector 21B",
+        "answer": "The inventory in Sector 21B primarily consists of independent houses, builder floors, and luxury villas constructed on HUDA-allotted plots. You will find standardized plot sizes ranging from 4 Marla up to 14 Marla, offering options for different family sizes and budgets. There are very few high-rise apartments, meaning the area retains a low-density, quiet residential feel. Many homes here are custom-designed with high-quality interior finishes reflecting the upscale nature of the community and the demand for premium housing."
+      },
+      {
+        "question": "Is the documentation process complicated for houses in Sector 21B since they are older properties",
+        "answer": "While some properties are older, the documentation process is generally straightforward because 21B is a planned HUDA sector. We ensure all listings have clear titles, updated registry documents, and necessary occupancy certificates verified by legal experts. Our legal team conducts rigorous due diligence on chain of title and previous transfers to eliminate any future legal complications. We streamline the paperwork so your process to buy house in Sector 21B remains hassle-free and transparent from start to finish."
+      },
+      {
+        "question": "What is the current price trend for a 6 Marla independent house in Sector 21B",
+        "answer": "Pricing in Sector 21B is premium and depends heavily on factors like facing, construction age, and built-up area. Generally, a well-maintained 6 Marla house commands a high value reflective of the sector’s prestige and excellent location. While specific figures fluctuate daily, buyers should expect prices significantly higher than peripheral sectors, justified by the robust infrastructure quality and prime location advantage. Contact our agents for the most up-to-date market analysis."
+      },
+      {
+        "question": "How is the access to public transport and metro connectivity from Sector 21B",
+        "answer": "Connectivity is a major highlight for this sector. Sector 21B is closely linked to the main Mathura Road (NH-44). For public transport, frequent auto and cab services are readily available right outside the sector. The nearest Metro station, Badarpur, is a short drive away, providing crucial access to the Delhi Metro network. This convenient access ensures that commuting to different parts of the NCR, whether by road or rail, is highly efficient for all residents."
+      },
+      {
+        "question": "Are there adequate social amenities like schools and hospitals near Sector 21B",
+        "answer": "Absolutely. Sector 21B is surrounded by established social infrastructure. Reputable schools like DPS and modern healthcare facilities including private specialty hospitals are located within a 10 to 15-minute radius. Furthermore, high-end shopping complexes, recreational centers, and various dedicated local market spaces ensure all essential and luxury needs are met right within the vicinity, enhancing quality of life."
+      },
+      {
+        "question": "Are there any ongoing infrastructure projects that might affect living in Sector 21B",
+        "answer": "Since Sector 21B is a mature, fully developed sector, major disruptive infrastructure projects are rare. Most development activities focus on necessary maintenance and upgrades to existing civic systems, such as road resurfacing or park enhancements, rather than large-scale construction. This stability ensures a predictable and quiet residential environment for those who buy house in Sector 21B seeking immediate comfort."
+      },
+      {
+        "question": "What kind of security measures are typically found in the residential colonies of Sector 21B",
+        "answer": "Security is paramount in this upscale area. Many blocks feature gated entry points, and residents often employ private security guards or leverage centralized security agencies. The community association is highly active in coordinating safety measures, including installing CCTV cameras in common areas. This comprehensive approach to security contributes significantly to the peaceful and protected atmosphere of the sector for all families."
+      },
+      {
+        "question": "Can Non-Resident Indians (NRIs) easily buy house in Sector 21B and what support do you offer",
+        "answer": "Yes, NRIs can easily purchase property here as the Sector 21B real estate market is transparent and legally sound. We offer specialized services for our NRI clientele including virtual property tours, power of attorney management, and comprehensive legal services tailored to international buyers. We ensure full compliance with FEMA regulations, handling all necessary governmental and financial paperwork to make your investment remote, seamless, and fully compliant."
+      },
+      {
+        "question": "What are the general requirements for bank financing or home loans in Sector 21B properties",
+        "answer": "Properties in Sector 21B are highly valued by major banks due to the clear title history and premium location, making home loan approvals generally easier. Requirements usually include clear property papers, your income documentation, and a stable CIBIL score. We collaborate with all leading banks and financial institutions to secure the best loan terms and competitive interest rates tailored to your specific financial profile and property requirements."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Schedule Your Exclusive Site Visit and Find Your Next House in Sector 21B",
+    "description": [
+      "Ready to take the next step towards owning a premium property in Sector 21B Send us your details now so we can tailor a selection of homes just for you.",
+      "Our property experts are standing by to offer personalized consultations and help you navigate the process to buy house in Sector 21B with confidence and full legal support."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

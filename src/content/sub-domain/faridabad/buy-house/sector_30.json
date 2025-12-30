@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Secure Your Dream Future When You Buy House In Sector 30 Faridabad Today",
+    "description": [
+      "Sector 30 stands out as one of the most prestigious and well-established residential areas for families seeking quality living. If your goal is to buy house in Sector 30, you are choosing an enviable blend of excellent connectivity, mature infrastructure, and serene residential lanes. This locality offers a variety of ready-to-move homes and custom-built houses, catering to discerning buyers looking for value and luxury.",
+      "We provide access to verified listings, ensuring transparency and ease in your property search. From expansive independent villas to modern builder floors, the options to buy house in Sector 30 meet diverse architectural tastes and budget requirements. Start exploring premium properties today and take the first step toward settling in this highly coveted neighborhood where convenience meets class."
+    ],
+    "buttons": [
+      {
+        "label": "View Verified Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Explore Diverse House Configurations and Plot Sizes Available in Premium Sector 30",
+    "description": [
+      "Finding the perfect property requires understanding the underlying plot size and the construction potential it offers. Sector 30 housing stock is renowned for its spacious layouts, designed for comfortable family living. Whether you are looking for a compact, modern unit or a large home for a multi-generational family, the availability here is extensive.",
+      "We detail the most common plot sizes found when you plan to buy house in Sector 30. These dimensions translate directly into the available floor space and luxury amenities you can incorporate into your new home, ensuring you make an informed decision based on your spatial needs and future planning requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot",
+        "description": "Ideal for compact and modern two-bedroom independent houses or well-designed builder floors. A smaller plot size in Sector 30 allows for efficient use of space while maintaining quality construction standards. These properties are often favored by young professionals or small families looking for a foothold in this prime location without a hefty investment. They offer great rental yield potential too."
+      },
+      {
+        "title": "6 Marla Plot",
+        "description": "A popular choice for three-bedroom homes that strike a perfect balance between affordability and space. Houses built on 6 Marla plots in Sector 30 usually feature a dedicated parking space and small front yard. This size provides enough room for comfortable living areas, sizable bedrooms, and often includes a functional terrace space for family gatherings."
+      },
+      {
+        "title": "8 Marla Plot",
+        "description": "Offering substantial square footage for spacious four-bedroom independent houses. Properties on 8 Marla plots allow for greater design flexibility, including the possibility of adding a basement or dedicated servant quarters. When you buy house in Sector 30 on this plot size, you secure a highly sought-after middle-to-large family dwelling."
+      },
+      {
+        "title": "10 Marla Plot",
+        "description": "Luxury redefined, homes on 10 Marla plots are typically large villas or duplex units. These houses benefit from extensive natural light, larger gardens, and multiple car parking facilities. This size is perfect for affluent buyers demanding high-end finishes, dedicated office spaces, and ample private outdoor areas within the security of Sector 30."
+      },
+      {
+        "title": "12 Marla Plot",
+        "description": "These plots accommodate sprawling residences suitable for multi-generational families. Houses here often feature custom architectural designs, premium interiors, and spacious communal areas. Investing in a 12 Marla house in Sector 30 guarantees prestige, offering an abundance of space for leisure, entertaining, and privacy for every family member."
+      },
+      {
+        "title": "14 Marla Plot",
+        "description": "The epitome of luxury living, 14 Marla plots are reserved for grand estates and bespoke mansions. These properties provide maximum space utilization, allowing for features like private swimming pools, home theatres, and expansive lawns. Buyers looking for the very best property options to buy house in Sector 30 frequently target this premium category."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Strategic Connectivity and Key Amenities Near Sector 30",
+    "description": [
+      "Sector 30’s popularity is largely attributed to its outstanding location and connectivity to major city hubs and essential services. This area is ideally situated for those who commute or need quick access to commercial centers and educational institutions. The well-maintained roads and proximity to arterial routes make daily travel hassle-free for residents.",
+      "Understanding the locality is vital before you buy house in Sector 30. The seamless link to the highway and nearby metro stations drastically reduces travel time, enhancing the overall quality of life. Furthermore, the presence of top-tier hospitals, shopping malls, and green parks ensures all necessities and recreational needs are met within minutes."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Key Reasons Why You Should Invest and Buy House in Sector 30 Now",
+    "description": [
+      "Sector 30 consistently ranks highly among residential choices due to its established infrastructure and upward trajectory in property valuation. It offers a secure and high-standard lifestyle that few other sectors can match. Choosing to invest here means securing a valuable asset in a future-proof location.",
+      "We highlight the most compelling reasons why now is the perfect time to secure your dream home and buy house in Sector 30 for long-term satisfaction and excellent capital appreciation."
+    ],
+    "points": [
+      {
+        "title": "Prime Established Infrastructure and Amenities",
+        "description": "Sector 30 boasts mature infrastructure with uninterrupted power supply, excellent water management, and wide, well-paved roads. Unlike newly developed sectors, you gain immediate access to fully operational schools, local markets, and fitness centers right outside your doorstep. This level of establishment guarantees a smooth transition and comfortable living from day one."
+      },
+      {
+        "title": "Exceptional Safety and Community Living",
+        "description": "Safety is paramount for families, and Sector 30 is known for its secure environment and active Resident Welfare Associations RWA. The sector maintains high vigilance, making it an extremely safe place for children and seniors alike. The strong sense of community fosters neighborly bonds and ensures a supportive, peaceful residential atmosphere for all homeowners."
+      },
+      {
+        "title": "Outstanding Connectivity to Delhi and NCR",
+        "description": "The sector’s strategic placement provides swift access to the national capital via the main expressways and proximate metro connectivity. Professionals working across Delhi or Gurugram find Sector 30 highly convenient for their daily commute. This excellent transit access ensures that you stay connected without compromising on the peaceful environment of your home."
+      },
+      {
+        "title": "High Potential for Property Value Appreciation",
+        "description": "Real estate experts consistently flag Sector 30 as a locale with strong future growth potential. The demand for quality residential properties here remains high, driving steady appreciation in property values. When you buy house in Sector 30, you are making a prudent financial investment that promises substantial returns over the medium to long term."
+      },
+      {
+        "title": "Availability of Ready-to-Move and Custom Homes",
+        "description": "The market inventory in Sector 30 offers a wide range of properties, from beautifully maintained resale homes to newly constructed, modern builder floors. This variety means buyers can quickly find a property that perfectly fits their timeline and style preferences, avoiding the wait time associated with new construction projects."
+      },
+      {
+        "title": "Proximity to Top Educational Institutions",
+        "description": "The area is a hub for quality education, hosting several renowned schools and colleges within a short driving distance. Families prioritize reducing their children's commute time, and Sector 30 addresses this need perfectly. This convenience adds significant lifestyle value, making it highly desirable for families with school-going children."
+      },
+      {
+        "title": "Access to Lush Green Spaces and Parks",
+        "description": "Despite being a mature urban locality, Sector 30 maintains beautiful green belts and well-kept public parks. These areas provide essential spaces for morning walks, exercise, and leisure activities, contributing to a healthier lifestyle. The blend of urban convenience and natural beauty is a hallmark of homes here."
+      },
+      {
+        "title": "Verified Listings and Transparent Transactions",
+        "description": "We specialize in providing only verified and legally clear property listings in Sector 30. Our commitment ensures transparent transactions, minimizing risks and simplifying the often complex process of buying a house. Rely on our expertise to guide you through legal documentation and negotiation effectively."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Common Questions About Buying Property and Residential Homes in Sector 30",
+    "description": "We address the most frequent queries buyers have when looking to purchase a residence in the Sector 30 area, providing detailed and reliable answers.",
+    "faqs": [
+      {
+        "question": "What is the average price range when I plan to buy house in Sector 30",
+        "answer": "The price range for houses in Sector 30 is quite broad due to the varying plot sizes and construction quality. Generally, a mid-sized independent house or a premium builder floor starts from approximately INR 2 Crores and can go up significantly to INR 5 Crores or more for large villas on 10 to 14 Marla plots. Factors like road-facing direction, corner location, and interior finish heavily influence the final price, so consulting a local expert is highly recommended for accurate valuation."
+      },
+      {
+        "question": "Are there any newly constructed builder floors available in Sector 30 or only old houses",
+        "answer": "Sector 30 is experiencing significant redevelopment, meaning there is a healthy mix of both old, established homes and brand-new, modern builder floors. Many older properties are being reconstructed into contemporary floors offering lifts, dedicated parking, and premium amenities. If you prefer modern architecture and new construction, highly-finished builder floors are readily available for immediate purchase."
+      },
+      {
+        "question": "What documentation should I check before finalizing a deal to buy property in Sector 30",
+        "answer": "Essential documentation includes verifying the clear title deed, ensuring the property has an updated mutation record, checking the completion or occupancy certificate, and confirming all utility bills are settled. Buyers must also inspect the building plan approval from the relevant municipal authorities. Always engage a reputable property lawyer to conduct thorough due diligence before making any payment."
+      },
+      {
+        "question": "Is Sector 30 considered safe for families and senior citizens",
+        "answer": "Yes, Sector 30 is consistently ranked among the safest residential areas. It is a well-policed neighborhood with active RWA involvement that organizes local security measures. The infrastructure is well-maintained, and the general atmosphere is peaceful and residential, making it ideal for families with young children and elderly residents who require a secure environment."
+      },
+      {
+        "question": "How is the water and electricity supply situation in Sector 30",
+        "answer": "As a premium and well-developed sector, utilities are generally reliable. Sector 30 benefits from robust infrastructure planned years ago. While occasional maintenance is required across the city, the sector receives stable electricity and municipal water supply. Most modern houses also incorporate water storage solutions and backup power inverters for added assurance."
+      },
+      {
+        "question": "What are the loan options when I decide to buy house in Sector 30",
+        "answer": "Since Sector 30 is a fully approved and well-documented residential area, obtaining home loans from all major nationalized and private banks is straightforward. Most properties here are mortgage-friendly. Loan eligibility depends on your income profile and the property's clear title status. We can connect you with preferred banking partners for quick and competitive financing options."
+      },
+      {
+        "question": "Is public transport easily accessible from Sector 30 residential areas",
+        "answer": "Absolutely. Sector 30 enjoys excellent public transport accessibility. Auto-rickshaws and app-based cabs are readily available. Crucially, the sector provides quick access to major bus routes and is located close to the Delhi Metro network, facilitating efficient commuting to other parts of the city and NCR."
+      },
+      {
+        "question": "What kind of parks and recreational facilities are available nearby",
+        "answer": "Sector 30 features several well-maintained municipal parks within its boundaries, offering green spaces for residents. Additionally, there are several sports complexes and fitness centers in the immediate vicinity. Its proximity to larger city parks also ensures ample opportunities for outdoor recreation and exercise."
+      },
+      {
+        "question": "Can foreigners or NRIs buy property in Sector 30 India",
+        "answer": "Yes, Non-Resident Indians NRIs and Persons of Indian Origin PIOs are generally permitted to acquire residential property in India, including houses in Sector 30, subject to compliance with the Foreign Exchange Management Act FEMA regulations. Foreign nationals require specific government approval. We recommend consulting a legal expert specializing in NRI property purchase for the necessary regulatory guidance."
+      },
+      {
+        "question": "Are property taxes and maintenance charges reasonable in this sector",
+        "answer": "Property taxes are calculated based on the area's circle rate and the property's size and age, aligning with municipal guidelines. Maintenance charges are typically managed by the RWA and are usually reasonable, covering common area cleaning, street lighting, and security. Investing in Sector 30 is considered cost-effective compared to ultra-premium, high-rise societies."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Connect With Our Sector 30 Property Specialists Today",
+    "description": [
+      "Ready to take the next step and buy house in Sector 30 Let our dedicated team of local real estate experts simplify your journey. We offer personalized property tours and market insights tailored specifically to your needs.",
+      "Fill out the form below or call us directly to schedule a confidential consultation. We look forward to helping you find your ideal home in this prestigious location."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

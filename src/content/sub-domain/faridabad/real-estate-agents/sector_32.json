@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "sector32.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Trusted Real Estate Agents in Sector 32 Faridabad",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Size Options Available in Sector 32 Faridabad",

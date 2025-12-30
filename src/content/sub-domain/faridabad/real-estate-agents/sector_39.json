@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "sector39.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Trusted Real Estate Agents in Sector 39 Faridabad for Property Buyers",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Size Options Available in Sector 39 Faridabad",
@@ -58,12 +61,36 @@
       "Real estate agents in Sector 39 Faridabad provide insights into surrounding localities, helping buyers make confident location decisions."
     ],
     "locations": [
-      { "title": "Real Estate Agents in Sector 39, Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Real Estate Agents in Sector 37, Faridabad", "path": "/", "icon": "Building" },
-      { "title": "Real Estate Agents in Sector 21, Faridabad", "path": "/", "icon": "Building2" },
-      { "title": "Real Estate Agents in Sector 28, Faridabad", "path": "/", "icon": "Key" },
-      { "title": "Real Estate Agents in Sector 30, Faridabad", "path": "/", "icon": "Landmark" },
-      { "title": "Real Estate Agents in Sector 70, Faridabad", "path": "/", "icon": "Home" }
+      {
+        "title": "Real Estate Agents in Sector 39, Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Real Estate Agents in Sector 37, Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Real Estate Agents in Sector 21, Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Real Estate Agents in Sector 28, Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Real Estate Agents in Sector 30, Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Real Estate Agents in Sector 70, Faridabad",
+        "path": "/",
+        "icon": "Home"
+      }
     ]
   },
   "whyChoose": {

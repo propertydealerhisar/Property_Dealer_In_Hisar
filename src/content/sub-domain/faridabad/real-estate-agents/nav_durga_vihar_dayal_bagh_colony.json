@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "navdurgavihardayalbaghcolony.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Trusted Real Estate Agents in Nav Durga Vihar Faridabad",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Size Options in Nav Durga Vihar Faridabad",
@@ -58,14 +61,46 @@
       "Exploring multiple locations helps buyers understand neighbourhood advantages, accessibility, and future prospects, leading to informed and confident property decisions."
     ],
     "locations": [
-      { "title": "Real Estate Agents in Nav Durga Vihar Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Real Estate Agents in Dayal Bagh Colony Faridabad", "path": "/", "icon": "Key" },
-      { "title": "Real Estate Agents in Sector 70 Faridabad", "path": "/", "icon": "Building2" },
-      { "title": "Real Estate Agents in Sector 9 Faridabad", "path": "/", "icon": "Building" },
-      { "title": "Property Dealers in Central Faridabad", "path": "/", "icon": "Handshake" },
-      { "title": "Residential Plots in Faridabad", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Plot Dealers in Faridabad", "path": "/", "icon": "Tractor" }
+      {
+        "title": "Real Estate Agents in Nav Durga Vihar Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Real Estate Agents in Dayal Bagh Colony Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Real Estate Agents in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Real Estate Agents in Sector 9 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Property Dealers in Central Faridabad",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Residential Plots in Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Independent Houses in Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Plot Dealers in Faridabad",
+        "path": "/",
+        "icon": "Tractor"
+      }
     ]
   },
   "whyChoose": {
@@ -75,14 +110,38 @@
       "With a buyer-first approach and transparent processes, Deal Acres has become a preferred platform for families and investors seeking dependable property guidance."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "Listings are reviewed to ensure authenticity and accuracy." },
-      { "title": "Local Market Expertise", "description": "Deep understanding of Nav Durga Vihar pricing and demand." },
-      { "title": "Transparent Information", "description": "Clear property details support confident buying decisions." },
-      { "title": "User-Friendly Platform", "description": "Easy navigation improves property search experience." },
-      { "title": "Buyer-Focused Guidance", "description": "Advice aligns with genuine buyer needs." },
-      { "title": "Basic Legal Awareness", "description": "Guidance helps buyers feel secure during transactions." },
-      { "title": "End-to-End Support", "description": "Assistance is available from search to finalisation." },
-      { "title": "Trusted by Homebuyers", "description": "Consistent service builds long-term trust." }
+      {
+        "title": "Verified Property Listings",
+        "description": "Listings are reviewed to ensure authenticity and accuracy."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Nav Durga Vihar pricing and demand."
+      },
+      {
+        "title": "Transparent Information",
+        "description": "Clear property details support confident buying decisions."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation improves property search experience."
+      },
+      {
+        "title": "Buyer-Focused Guidance",
+        "description": "Advice aligns with genuine buyer needs."
+      },
+      {
+        "title": "Basic Legal Awareness",
+        "description": "Guidance helps buyers feel secure during transactions."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance is available from search to finalisation."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Consistent service builds long-term trust."
+      }
     ]
   },
   "faqSection": {
@@ -137,6 +196,11 @@
       "Buying property in Nav Durga Vihar, Dayal Bagh Colony Faridabad becomes easier with professional guidance. Expert support helps you compare options, understand pricing, and move forward with confidence.",
       "Share your details to connect with experienced Real Estate Agents in Nav Durga Vihar, Dayal Bagh Colony Faridabad for personalised and reliable assistance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

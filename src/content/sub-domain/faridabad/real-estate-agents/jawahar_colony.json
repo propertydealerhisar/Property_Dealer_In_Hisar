@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "jawaharcolony.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Experienced Real Estate Agents in Jawahar Colony Faridabad for Buyers",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Residential Plot Options Available in Jawahar Colony Faridabad",
@@ -58,13 +61,41 @@
       "These surrounding areas offer diverse residential options across Faridabad."
     ],
     "locations": [
-      { "title": "Real Estate Agents in Jawahar Colony Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Real Estate Agents in Sector 70 Faridabad", "path": "/", "icon": "Building2" },
-      { "title": "Real Estate Agents in Sector 21 Faridabad", "path": "/", "icon": "Key" },
-      { "title": "Real Estate Agents in NIT Faridabad", "path": "/", "icon": "Building" },
-      { "title": "Property Dealers in Central Faridabad", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Residential Plots in Faridabad", "path": "/", "icon": "Tractor" }
+      {
+        "title": "Real Estate Agents in Jawahar Colony Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Real Estate Agents in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Real Estate Agents in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Real Estate Agents in NIT Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Property Dealers in Central Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Independent Houses in Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Residential Plots in Faridabad",
+        "path": "/",
+        "icon": "Tractor"
+      }
     ]
   },
   "whyChoose": {
@@ -74,14 +105,38 @@
       "With strong local knowledge and consistent service quality, Deal Acres has earned the trust of homebuyers and investors across Faridabad."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "Each listing is checked for accuracy and authenticity." },
-      { "title": "Local Area Expertise", "description": "Strong understanding of Jawahar Colony property trends." },
-      { "title": "Transparent Pricing Information", "description": "Clear pricing helps avoid confusion." },
-      { "title": "Easy-to-Use Platform", "description": "Simple navigation improves property discovery." },
-      { "title": "Buyer-First Approach", "description": "Recommendations are aligned with real buyer needs." },
-      { "title": "Basic Legal Guidance", "description": "Support provided for documentation understanding." },
-      { "title": "End-to-End Assistance", "description": "Help available throughout the buying journey." },
-      { "title": "Trusted Market Reputation", "description": "Positive user experiences build long-term trust." }
+      {
+        "title": "Verified Property Listings",
+        "description": "Each listing is checked for accuracy and authenticity."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong understanding of Jawahar Colony property trends."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Clear pricing helps avoid confusion."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple navigation improves property discovery."
+      },
+      {
+        "title": "Buyer-First Approach",
+        "description": "Recommendations are aligned with real buyer needs."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support provided for documentation understanding."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Help available throughout the buying journey."
+      },
+      {
+        "title": "Trusted Market Reputation",
+        "description": "Positive user experiences build long-term trust."
+      }
     ]
   },
   "faqSection": {
@@ -136,6 +191,11 @@
       "Buying property is an important decision, and expert guidance can simplify the process. Professional support helps you understand pricing, property options, and documentation requirements in Jawahar Colony.",
       "Fill in your details to connect with experienced Real Estate Agents in Jawahar Colony Faridabad for personalised assistance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

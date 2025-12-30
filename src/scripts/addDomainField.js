@@ -4,7 +4,7 @@ const path = require("path");
 // ===== CONFIG =====
 const GRAND_PARENT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/hisar" // 👈 yahan se scan start hoga
+  "../content/sub-domain/faridabad/rent-house"
 );
 
 const DOMAIN_VALUE = "www.abc.com";
@@ -12,7 +12,6 @@ const DOMAIN_VALUE = "www.abc.com";
 
 let totalFiles = 0;
 let updatedFiles = 0;
-let skippedFiles = 0;
 
 // 🔁 recursive walk
 function walk(dir) {
@@ -38,16 +37,10 @@ function processJson(filePath) {
     const raw = fs.readFileSync(filePath, "utf-8");
     const json = JSON.parse(raw);
 
-    // ⏭️ already has domain
-    if (json.domain) {
-      skippedFiles++;
-      return;
-    }
-
-    // 🔁 rebuild object to keep order (domain on top)
+    // ✅ ALWAYS replace or add domain
     const newObject = {
-      domain: DOMAIN_VALUE,
       ...json,
+      domain: DOMAIN_VALUE
     };
 
     fs.writeFileSync(
@@ -57,16 +50,15 @@ function processJson(filePath) {
     );
 
     updatedFiles++;
-    console.log("✅ Domain added:", filePath);
+    console.log("✅ Domain updated:", filePath);
   } catch (err) {
     console.error("❌ Error:", filePath, err.message);
   }
 }
 
 // ▶️ RUN
-console.log("🚀 Adding domain field...");
+console.log("🚀 Updating domain field (add + replace)...");
 walk(GRAND_PARENT_FOLDER);
 console.log("🎉 Done!");
 console.log("📄 Total JSON files scanned:", totalFiles);
-console.log("✅ Updated files:", updatedFiles);
-console.log("⏭️ Skipped (already had domain):", skippedFiles);
+console.log("✅ Files updated:", updatedFiles);

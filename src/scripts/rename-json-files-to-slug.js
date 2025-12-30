@@ -6,7 +6,7 @@ const path = require("path");
 // 👇 jis folder ke files rename karni hain
 const TARGET_DIR = path.join(
   __dirname,
-  "../content/sub-domain/faridabad/real-estate-agents"
+  "../content/sub-domain/faridabad/shop-for-rent"
 );
 
 // =========================================
@@ -55,20 +55,31 @@ files.forEach((file) => {
   const newFileName = `${slugName}.json`;
   const newPath = path.join(TARGET_DIR, newFileName);
 
+  // already perfect
   if (file === newFileName) {
     console.log(`✔️ Already correct: ${file}`);
     return;
   }
 
+  // 🔥 CASE-ONLY DIFFERENCE CHECK (WINDOWS FIX)
   if (fs.existsSync(newPath)) {
-    console.warn(
-      `⚠️ Skip (target exists): ${file} → ${newFileName}`
-    );
-    return;
+    if (oldPath.toLowerCase() !== newPath.toLowerCase()) {
+      console.warn(
+        `⚠️ Skip (real conflict): ${file} → ${newFileName}`
+      );
+      return;
+    }
+    // else: same file, case-only difference → allow rename
   }
 
-  fs.renameSync(oldPath, newPath);
+  // 🔁 TEMP RENAME (MANDATORY FOR WINDOWS)
+  const tempPath = oldPath + ".tmp";
+
+  fs.renameSync(oldPath, tempPath);
+  fs.renameSync(tempPath, newPath);
+
   console.log(`🔁 Renamed: ${file} → ${newFileName}`);
 });
+
 
 console.log("\n=========== DONE ===========\n");

@@ -1,4 +1,4 @@
-export const GA_TARGET_DOMAINS = {
+export const GA_TARGET_SUB_DOMAINS = {
 //   "www.agriculturelandforsaleinhisar.com": "G-HRXNSXE7GL",
 //   "www.flatsforsaleinhisar.com": "G-38314VXR2X",
 //   "www.flatsforrentinhisar.com": "G-RW9XBDPTMK",

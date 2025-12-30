@@ -1,5 +1,5 @@
 {
-  "domain": "www.paras.com",
+  "domain": "sector17.realestateagentsinfaridabad.com",
   "hero": {
     "title": "Experienced Real Estate Agents in Sector 17 Faridabad for Confident Decisions",
     "description": [
@@ -16,7 +16,10 @@
         "path": "/"
       }
     ],
-    "images": []
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
   },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Homes in Sector 17 Faridabad",
@@ -58,13 +61,41 @@
       "Faridabad offers several established and developing sectors that cater to varied housing and investment needs."
     ],
     "locations": [
-      { "title": "Real Estate Agents in Sector 17 Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Real Estate Agents in Sector 70 Faridabad", "path": "/", "icon": "Building2" },
-      { "title": "Real Estate Agents in Sector 16 Faridabad", "path": "/", "icon": "Building" },
-      { "title": "Real Estate Agents in Sector 15 Faridabad", "path": "/", "icon": "Key" },
-      { "title": "Real Estate Agents in Sector 28 Faridabad", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Faridabad", "path": "/", "icon": "Home" },
-      { "title": "Residential Plots in Faridabad", "path": "/", "icon": "Tractor" }
+      {
+        "title": "Real Estate Agents in Sector 17 Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Real Estate Agents in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Real Estate Agents in Sector 16 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Real Estate Agents in Sector 15 Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Real Estate Agents in Sector 28 Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Independent Houses in Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Residential Plots in Faridabad",
+        "path": "/",
+        "icon": "Tractor"
+      }
     ]
   },
   "whyChoose": {
@@ -160,6 +191,11 @@
       "Buying or selling property in Sector 17 Faridabad becomes easier with professional guidance. Experienced real estate agents help you understand market realities, compare options, and make confident decisions.",
       "Share your details to connect with trusted Real Estate Agents in Sector 17 Faridabad and receive personalized property assistance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
