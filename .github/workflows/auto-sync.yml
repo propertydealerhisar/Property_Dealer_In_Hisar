@@ -1,0 +1,25 @@
+name: Auto Sync to Other Repos
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to Person 1 Repo
+        run: |
+          git remote add person1 https://x-access-token:${{ secrets.PERSON1_TOKEN }}@github.com/person1/main-project.git
+          git push person1 main --force
+
+      - name: Sync to Person 2 Repo
+        run: |
+          git remote add person2 https://x-access-token:${{ secrets.PERSON2_TOKEN }}@github.com/person2/main-project.git
+          git push person2 main --force
