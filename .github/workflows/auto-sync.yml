@@ -14,7 +14,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Sync to Other Repo
+      - name: Sync to Property Dealer Hisar Repo
         run: |
-          git remote add mirror https://x-access-token:${{ secrets.PROPERTY_DEALER_HISAR_TOKEN }}https://github.com/propertydealerhisar/Property_Dealer_In_Hisar.git
-          git push mirror main --force
+          git remote add mirror https://x-access-token:${{ secrets.PROPERTY_DEALER_HISAR_TOKEN }}@github.com/propertydealerhisar/Property_Dealer_In_Hisar.git
+          git push mirror HEAD:main --force
