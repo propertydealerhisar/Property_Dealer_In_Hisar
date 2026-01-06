@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sainikcolony.plotforsaleinfaridabad.com",
   "hero": {
     "title": "Prime Residential Plots for Sale in Well Connected Sainik Colony",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot for Sale in Sainik Colony Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "House for Sale in Sainik Colony Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floors in Sainik Colony",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Plots in Sector 49 Faridabad",
-        "path": "/",
-        "icon": "Landmark"
-      },
-      {
-        "title": "Flats for Sale Near Sainik Colony",
-        "path": "/",
-        "icon": "Building"
-      },
-      {
-        "title": "Independent Houses in South Faridabad",
+        "title": "House For Rent",
         "path": "/",
         "icon": "Key"
       },
       {
-        "title": "Ready to Build Plots in Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "CheckCircle"
+        "icon": "Building2"
       },
       {
-        "title": "Popular Residential Areas in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
-        "icon": "Compass"
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

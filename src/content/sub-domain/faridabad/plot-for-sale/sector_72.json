@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector72.plotforsaleinfaridabad.com",
   "hero": {
     "title": "Well Connected Residential Plots for Sale in Sector 72 Faridabad",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot for Sale in Sector 72 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "House for Sale in Sector 72 Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floors in Sector 72 Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Plots in Sector 70 Faridabad",
-        "path": "/",
-        "icon": "Landmark"
-      },
-      {
-        "title": "Flats for Sale Near Sector 72",
-        "path": "/",
-        "icon": "Building"
-      },
-      {
-        "title": "Independent Houses in Neharpar Faridabad",
+        "title": "House For Rent",
         "path": "/",
         "icon": "Key"
       },
       {
-        "title": "Ready to Build Plots in Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "CheckCircle"
+        "icon": "Building2"
       },
       {
-        "title": "Upcoming Residential Sectors in Neharpar",
+        "title": "Flat For Rent",
         "path": "/",
-        "icon": "Compass"
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "jalvayuviharatmadpurvillage.plotforsaleinfaridabad.com",
   "hero": {
     "title": "Residential Plots for Sale in Jalvayu Vihar Atmadpur Village",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot for Sale in Jalvayu Vihar Atmadpur Village Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "House for Sale in Jalvayu Vihar Atmadpur Village",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Residential Plots in Atmadpur Village Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "Landmark"
+        "icon": "Key"
       },
       {
-        "title": "Independent Houses Near Jalvayu Vihar",
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Plots Near Sector 33 Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Compass"
+        "icon": "Store"
       },
       {
-        "title": "Ready to Build Plots in Faridabad",
+        "title": "Shop For Sale",
         "path": "/",
-        "icon": "CheckCircle"
+        "icon": "Store"
       },
       {
-        "title": "Affordable Residential Areas in Faridabad",
+        "title": "Plot For Sale",
         "path": "/",
-        "icon": "Layers"
+        "icon": "Landmark"
       },
       {
-        "title": "Property Investment Locations in Faridabad",
+        "title": "Agriculture Land For Sale",
         "path": "/",
-        "icon": "Key"
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

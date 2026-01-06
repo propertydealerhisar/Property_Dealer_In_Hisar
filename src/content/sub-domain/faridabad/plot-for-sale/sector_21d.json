@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21d.plotforsaleinfaridabad.com",
   "hero": {
     "title": "Explore Premium Plots for Sale in Sector 21D Faridabad Today",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot for Sale in Sector 21D Faridabad",
-        "path": "/",
-        "icon": "Land"
-      },
-      {
-        "title": "Plot for Sale in Nearby Sectors Faridabad",
-        "path": "/",
-        "icon": "Land2"
-      },
-      {
-        "title": "House for Sale in Sector 21D Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "House for Sale in Nearby Areas Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "BuildingHouse"
+        "icon": "Key"
       },
       {
-        "title": "Residential Plots Near Sector 21C Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Residential Plots Near Sector 21E Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
-        "icon": "MapMarker"
+        "icon": "Building"
       },
       {
-        "title": "Ready to Build Plots in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "CheckCircle"
+        "icon": "Store"
       },
       {
-        "title": "Investment Land Opportunities in Faridabad",
+        "title": "Shop For Sale",
         "path": "/",
-        "icon": "Stack"
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "hbhcolonysector28.plotforsaleinfaridabad.com",
   "hero": {
     "title": "Prime Residential Plots for Sale in HBH Colony Sector 28",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot for Sale in HBH Colony Sector 28 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "House for Sale in HBH Colony Sector 28 Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floors in HBH Colony Sector 28",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Plots Near Sector 31 Faridabad",
-        "path": "/",
-        "icon": "Landmark"
-      },
-      {
-        "title": "Flats for Sale Near Mathura Road",
-        "path": "/",
-        "icon": "Building"
-      },
-      {
-        "title": "Independent Houses in Central Faridabad",
+        "title": "House For Rent",
         "path": "/",
         "icon": "Key"
       },
       {
-        "title": "Ready to Build Plots in Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "CheckCircle"
+        "icon": "Building2"
       },
       {
-        "title": "Established Residential Areas in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
-        "icon": "Compass"
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

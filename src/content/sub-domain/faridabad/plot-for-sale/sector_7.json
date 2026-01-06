@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector7.plotforsaleinfaridabad.com",
   "hero": {
     "title": "Residential Plots for Sale in Prime Sector 14 Faridabad",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot for Sale in Sector 14 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "House for Sale in Sector 14 Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floors in Sector 14 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "Layers"
+        "icon": "Key"
       },
       {
-        "title": "Residential Plots in Sector 15 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "Landmark"
+        "icon": "Building2"
       },
       {
-        "title": "Independent Houses in Sector 16 Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Plots Near Mathura Road Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Compass"
+        "icon": "Store"
       },
       {
-        "title": "Ready to Build Plots in Central Faridabad",
+        "title": "Shop For Sale",
         "path": "/",
-        "icon": "CheckCircle"
+        "icon": "Store"
       },
       {
-        "title": "High Demand Residential Areas in Faridabad",
+        "title": "Plot For Sale",
         "path": "/",
-        "icon": "Key"
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
