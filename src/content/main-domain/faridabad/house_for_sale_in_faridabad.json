@@ -1,12 +1,12 @@
 {
   "domain": "www.houseforsaleinfaridabad.com",
-
   "heroSection": {
     "badge": "Verified Residential Houses",
     "heading": "Buy the Perfect House for Sale in Faridabad",
-    "description": ["Searching for a house for sale in Faridabad that fits your lifestyle, budget, and future goals?",
-    "Deal Acres helps you discover verified residential properties in the most sought-after locations of Faridabad.",
-    "From independent houses and builder floors to spacious family homes, we bring you trusted options.",
+    "description": [
+      "Searching for a house for sale in Faridabad that fits your lifestyle, budget, and future goals?",
+      "Deal Acres helps you discover verified residential properties in the most sought-after locations of Faridabad.",
+      "From independent houses and builder floors to spacious family homes, we bring you trusted options.",
       "With expert guidance, transparent pricing, and genuine listings, finding a house for sale in Faridabad has never been easier."
     ],
     "buttons": [
@@ -26,7 +26,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
     ]
   },
-
   "welcomeSection": {
     "title": "Trusted platform for smart home buyers in Faridabad",
     "heading": "Explore Verified Houses for Sale in Faridabad",
@@ -34,15 +33,15 @@
       "Buying a house for sale in Faridabad is a major decision, and we make sure you choose the right one.",
       "At Deal Acres, we list verified independent houses, builder floors, and residential homes across prime sectors.",
       "Each property is checked for location value, ownership clarity, and fair market pricing.Whether you are buying for self-use or investment, our listings match every requirement.",
-"Our expert property dealers in Faridabad assist you at every step of the buying journey."
+      "Our expert property dealers in Faridabad assist you at every step of the buying journey."
     ]
   },
-
   "featureWithImage": {
     "badge": "Premium Agriculture Land",
     "title": "Why Deal Acres Is Best for House Buying",
-    "description": ["Choosing the right house for sale in Faridabad requires trust, knowledge, and local expertise.",
-    "Deal Acres brings all three under one platform.",
+    "description": [
+      "Choosing the right house for sale in Faridabad requires trust, knowledge, and local expertise.",
+      "Deal Acres brings all three under one platform.",
       "We focus on buyer safety, verified documentation, and genuine seller connections.",
       "Our goal is to help you invest in a home that offers comfort and long-term value."
     ],
@@ -70,7 +69,6 @@
       "description": "Get expert assistance from trusted property dealers in Faridabad for buying verified residential houses."
     }
   },
-
   "servicesSection": {
     "heading": "Discover Multiple Property Options in Faridabad",
     "description": [
@@ -80,46 +78,45 @@
       {
         "title": "House for Sale in Faridabad",
         "description": "Independent houses and builder floors in prime residential areas.",
-        "icon":"FaHome"
+        "icon": "FaHome"
       },
       {
         "title": "Flat for Rent in Faridabad",
         "description": "Well-maintained rental flats near schools, offices, and metro stations.",
-        "icon":"FaKey"
+        "icon": "FaKey"
       },
       {
         "title": "Flat for Sale in Faridabad",
         "description": "Ready-to-move and under-construction flats with modern amenities.",
-        "icon":"FaBuilding"
+        "icon": "FaBuilding"
       },
       {
         "title": "Shop for Sale in Faridabad",
         "description": "Commercial shops in high-visibility and high-footfall locations.",
-        "icon":"FaStore"
+        "icon": "FaStore"
       },
       {
         "title": "Shop for Rent in Faridabad",
         "description": "Retail spaces ideal for startups, franchises, and growing businesses.",
-        "icon":"FaStore"
+        "icon": "FaStore"
       },
       {
         "title": "Plot for Sale in Faridabad",
         "description": "Residential and investment plots in developing and premium sectors.",
-        "icon":"FaLandmark"
+        "icon": "FaLandmark"
       },
       {
         "title": "Agricultural Land for Sale in Faridabad",
         "description": "Secure land options for long-term investment opportunities.",
-        "icon":"FaTractor"
+        "icon": "FaTractor"
       },
       {
         "title": "To-Let Service in Faridabad",
         "description": "Fast and reliable leasing services for owners and tenants.",
-        "icon":"FaHandshake"
+        "icon": "FaHandshake"
       }
     ]
   },
-
   "whyChooseUs": {
     "heading": "Deal Acres – A Trusted Real Estate Venture",
     "description": [
@@ -137,7 +134,6 @@
       "alt": "Trusted Property Dealer in Faridabad"
     }
   },
-
   "blogsSection": {
     "heading": "Latest Property Blogs & Market Insights",
     "description": [
@@ -148,7 +144,7 @@
       "label": "View All Blogs",
       "path": "/blog"
     },
-     "blogs": [
+    "blogs": [
       {
         "id": 1,
         "title": "Top 10 Neighborhoods for Families in 2023",
@@ -175,7 +171,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Connect with Property Expert",
@@ -214,7 +209,6 @@
       "items": []
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions ",
     "subheading": "Answers to common questions about House for Sale in Faridabad",
@@ -261,10 +255,12 @@
       }
     ]
   },
-"footer": {
+  "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

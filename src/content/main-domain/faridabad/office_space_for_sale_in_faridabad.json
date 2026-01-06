@@ -1,6 +1,5 @@
 {
   "domain": "www.officespaceforsaleinfaridabad.com",
-
   "heroSection": {
     "badge": "Office Space Investment",
     "heading": "Office Space for Sale in Faridabad",
@@ -26,7 +25,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
     ]
   },
-
   "welcomeSection": {
     "title": "Trusted platform for smart home buyers in Faridabad",
     "heading": "Why Choose Office Space for Sale in Faridabad",
@@ -36,7 +34,6 @@
       "Modern office spaces are designed with features such as high-speed elevators, power backup, ample parking, security systems, and flexible floor plates. Whether you are an end-user planning to set up your own office or an investor looking for assured returns, Office space for sale in Faridabad provides a future-ready solution backed by market growth"
     ]
   },
-
   "featureWithImage": {
     "badge": "OFFICE INVESTMENT",
     "title": "Why Deal Acres Is Best for House Buying",
@@ -67,102 +64,99 @@
       "description": "Get expert assistance for selecting the right Office space for sale in Faridabad based on ROI, location, and business suitability."
     }
   },
-
   "servicesSection": {
     "heading": "Explore Other Property Domains in Faridabad",
     "description": [
       "Along with Office space for sale in Faridabad, we provide comprehensive real estate solutions across residential and commercial segments."
     ],
     "services": [
-  {
-    "title": "House for Sale in Faridabad",
-    "description": "Independent homes offering privacy, space, and long-term value.",
-    "icon": "FaHome"
+      {
+        "title": "House for Sale in Faridabad",
+        "description": "Independent homes offering privacy, space, and long-term value.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Flat for Rent in Faridabad",
+        "description": "Rental flats for families, professionals, and students.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "Flat for Sale in Faridabad",
+        "description": "Affordable to luxury apartments with appreciation potential.",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "Shop for Sale in Faridabad",
+        "description": "Retail investment opportunities in high-footfall areas.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Shop for Rent in Faridabad",
+        "description": "Flexible shop rentals for businesses.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Plot for Sale in Faridabad",
+        "description": "Residential and commercial plots for future development.",
+        "icon": "FaLandmark"
+      },
+      {
+        "title": "Agricultural Land for Sale in Faridabad",
+        "description": "Long-term land investment options.",
+        "icon": "FaTractor"
+      },
+      {
+        "title": "To-Let Service in Faridabad",
+        "description": "Quick rental solutions for landlords and tenants.",
+        "icon": "FaHandshake"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "description": "Retail, office, and SCO investments.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "World Street Faridabad",
+        "description": "Iconic commercial and lifestyle destination.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "Independent Builder Floor in Faridabad",
+        "description": "Low-density residential living.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Co-Workation in Faridabad",
+        "description": "Modern flexible workspaces.",
+        "icon": "FaBriefcase"
+      },
+      {
+        "title": "SCO Plots for Sale in Faridabad",
+        "description": "High-yield shop-cum-office investments.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Upcoming Projects in Faridabad",
+        "description": "Early-stage investment opportunities.",
+        "icon": "FaChartLine"
+      },
+      {
+        "title": "Affordable Projects in Faridabad",
+        "description": "Budget-friendly residential developments.",
+        "icon": "FaRupeeSign"
+      },
+      {
+        "title": "Apartment for Rent & Sale in Faridabad",
+        "description": "Modern apartments for living and investment.",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "2BHK, 3BHK & 4BHK Flats for Sale & Rent",
+        "description": "Homes designed for different family needs.",
+        "icon": "FaHome"
+      }
+    ]
   },
-  {
-    "title": "Flat for Rent in Faridabad",
-    "description": "Rental flats for families, professionals, and students.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Flat for Sale in Faridabad",
-    "description": "Affordable to luxury apartments with appreciation potential.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "Shop for Sale in Faridabad",
-    "description": "Retail investment opportunities in high-footfall areas.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Shop for Rent in Faridabad",
-    "description": "Flexible shop rentals for businesses.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Plot for Sale in Faridabad",
-    "description": "Residential and commercial plots for future development.",
-    "icon": "FaLandmark"
-  },
-  {
-    "title": "Agricultural Land for Sale in Faridabad",
-    "description": "Long-term land investment options.",
-    "icon": "FaTractor"
-  },
-  {
-    "title": "To-Let Service in Faridabad",
-    "description": "Quick rental solutions for landlords and tenants.",
-    "icon": "FaHandshake"
-  },
-  {
-    "title": "Commercial Property for Sale in Faridabad",
-    "description": "Retail, office, and SCO investments.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "World Street Faridabad",
-    "description": "Iconic commercial and lifestyle destination.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "Independent Builder Floor in Faridabad",
-    "description": "Low-density residential living.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "Co-Workation in Faridabad",
-    "description": "Modern flexible workspaces.",
-    "icon": "FaBriefcase"
-  },
-  {
-    "title": "SCO Plots for Sale in Faridabad",
-    "description": "High-yield shop-cum-office investments.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Upcoming Projects in Faridabad",
-    "description": "Early-stage investment opportunities.",
-    "icon": "FaChartLine"
-  },
-  {
-    "title": "Affordable Projects in Faridabad",
-    "description": "Budget-friendly residential developments.",
-    "icon": "FaRupeeSign"
-  },
-  {
-    "title": "Apartment for Rent & Sale in Faridabad",
-    "description": "Modern apartments for living and investment.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "2BHK, 3BHK & 4BHK Flats for Sale & Rent",
-    "description": "Homes designed for different family needs.",
-    "icon": "FaHome"
-  }
-]
-
-  },
-
   "whyChooseUs": {
     "heading": "Deal Acres Advantage for Office Buyers",
     "description": [
@@ -179,7 +173,6 @@
       "alt": "Deal Acres Office Investment Advantage"
     }
   },
-
   "blogsSection": {
     "heading": "Featured Blogs & Office Market Insights",
     "description": [
@@ -189,7 +182,8 @@
       "label": "View All Blogs",
       "path": "/blog"
     },
-    "blogs": [ {
+    "blogs": [
+      {
         "id": 1,
         "title": "Top 10 Neighborhoods for Families in 2023",
         "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
@@ -212,9 +206,9 @@
         "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
         "date": "April 10, 2023",
         "category": "Technology"
-      }]
+      }
+    ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -247,7 +241,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us anytime for assistance with Shop for Rent in Hisar, commercial listings, or business property guidance."],
+      "description": [
+        "Contact us anytime for assistance with Shop for Rent in Hisar, commercial listings, or business property guidance."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -264,7 +260,6 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Office Space for Sale in Faridabad",
@@ -311,11 +306,12 @@
       }
     ]
   },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": ["We help you discover premium flats for rent and other properties with expert guidance, transparent processes, and trusted real estate services across the city."]
+      "description": [
+        "We help you discover premium flats for rent and other properties with expert guidance, transparent processes, and trusted real estate services across the city."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

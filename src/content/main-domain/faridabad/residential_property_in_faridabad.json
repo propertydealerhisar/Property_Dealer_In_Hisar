@@ -1,214 +1,214 @@
 {
-    "domain": "www.residentialpropertyinfaridabad.com",
-    "heroSection": {
-        "badge": "Discover Residential Property",
-        "heading": "Discover Your Ideal Living Space Today",
-        "description": [
-            "Finding the right Residential Property in Faridabad now becomes easier with verified listings, budget-based options, and guided support. Whether you are looking for a home to live in, invest in, or rent out, Faridabad offers choices that match lifestyle and aspirations. Explore apartments, independent houses, gated societies, and more — all located across prime sectors with strong connectivity and essential facilities."
-        ],
-        "buttons": [
-            {
-                "label": "Explore Residential Listings",
-                "path": "/"
-            },
-            {
-                "label": "Speak to Property Experts",
-                "path": "/"
-            }
-        ],
-        "backgroundImages": [
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b",
-            "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
-        ]
+  "domain": "www.residentialpropertyinfaridabad.com",
+  "heroSection": {
+    "badge": "Discover Residential Property",
+    "heading": "Discover Your Ideal Living Space Today",
+    "description": [
+      "Finding the right Residential Property in Faridabad now becomes easier with verified listings, budget-based options, and guided support. Whether you are looking for a home to live in, invest in, or rent out, Faridabad offers choices that match lifestyle and aspirations. Explore apartments, independent houses, gated societies, and more — all located across prime sectors with strong connectivity and essential facilities."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Residential Listings",
+        "path": "/"
+      },
+      {
+        "label": "Speak to Property Experts",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
+    ]
+  },
+  "welcomeSection": {
+    "title": "Some Words About Residential Property",
+    "heading": "Why Choose Residential Properties in Faridabad",
+    "description": [
+      "Investing in Residential Property in Faridabad gives you the advantage of affordability, future growth, and excellent connectivity. The city combines well-developed sectors with emerging localities, offering modern housing options for families, students, and working professionals. With metro access, nearby industries, reputed schools, hospitals, and commercial hubs, Faridabad supports everyday living without compromising quality. Whether you prefer peaceful neighborhoods or urban living, residential spaces here deliver long-term value and lifestyle satisfaction — making Faridabad a preferred destination for smart buyers."
+    ]
+  },
+  "featureWithImage": {
+    "badge": "Residential Options",
+    "title": "Residential Options That Match Every Lifestyle",
+    "description": [
+      "Looking for the best Residential Property in Faridabad? From budget-friendly homes to premium residences, the city gives you choices that match your needs, comfort, and financial plans. Whether you want community living, independent floors, or upcoming developments, we support your search with expert guidance backed by property dealer in Faridabad and Deal Acres Faridabad. With transparent comparisons and verified listings, you make confident decisions without confusion or delays."
+    ],
+    "subTitle": "Options That Match Every Lifestyle",
+    "features": [
+      "Homes for families, working professionals, and students",
+      "Options ranging from compact spaces to spacious layouts",
+      "Personalized assistance for easy decision-making"
+    ],
+    "primaryButton": {
+      "label": "View Available Homes",
+      "path": "/"
     },
-    "welcomeSection": {
-        "title": "Some Words About Residential Property",
-        "heading": "Why Choose Residential Properties in Faridabad",
-        "description": [
-            "Investing in Residential Property in Faridabad gives you the advantage of affordability, future growth, and excellent connectivity. The city combines well-developed sectors with emerging localities, offering modern housing options for families, students, and working professionals. With metro access, nearby industries, reputed schools, hospitals, and commercial hubs, Faridabad supports everyday living without compromising quality. Whether you prefer peaceful neighborhoods or urban living, residential spaces here deliver long-term value and lifestyle satisfaction — making Faridabad a preferred destination for smart buyers."
-        ]
+    "secondaryButton": {
+      "label": "Get Personalized Help",
+      "path": "/"
     },
-    "featureWithImage": {
-        "badge": "Residential Options",
-        "title": "Residential Options That Match Every Lifestyle",
-        "description": [
-            "Looking for the best Residential Property in Faridabad? From budget-friendly homes to premium residences, the city gives you choices that match your needs, comfort, and financial plans. Whether you want community living, independent floors, or upcoming developments, we support your search with expert guidance backed by property dealer in Faridabad and Deal Acres Faridabad. With transparent comparisons and verified listings, you make confident decisions without confusion or delays."
-        ],
-        "subTitle": "Options That Match Every Lifestyle",
-        "features": [
-            "Homes for families, working professionals, and students",
-            "Options ranging from compact spaces to spacious layouts",
-            "Personalized assistance for easy decision-making"
-        ],
-        "primaryButton": {
-            "label": "View Available Homes",
-            "path": "/"
-        },
-        "secondaryButton": {
-            "label": "Get Personalized Help",
-            "path": "/"
-        },
-        "image": {
-            "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-            "alt": "Plot for Sale in Faridabad"
-        },
-        "floatingCard": {
-            "title": "Plot Investment Experts",
-            "subtitle": "Faridabad Land Specialists",
-            "description": "Get expert assistance for selecting the right plot for sale in Faridabad based on approvals, location, and future growth."
-        }
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "Plot for Sale in Faridabad"
     },
-    "servicesSection": {
-        "heading": "Explore More Property Services Across Faridabad",
-        "description": [
-            "Along with Residential Property in Faridabad, browse multiple property categories to support your long-term planning or investment goals."
-        ],
-        "services": [
-            {
-                "title": "House for Sale in Faridabad",
-                "description": "Spacious living options across prime sectors and localities",
-                "icon":"FaHome"
-            },
-            {
-                "title": "Flat for Rent in Faridabad",
-                "description": "Ready-to-move homes ideal for flexible living",
-                "icon":"FaKey"
-            },
-            {
-                "title": "Flat for Sale in Faridabad",
-                "description": "Modern apartments with lifestyle-enhancing amenities",
-                "icon":"FaBuilding"
-            },
-            {
-                "title": "Shop for Sale in Faridabad",
-                "description": "Grow your business with ownership-based commercial spaces",
-                "icon":"FaStore"
-            },
-            {
-                "title": "Shop for Rent in Faridabad",
-                "description": "Affordable commercial options for startups and expansion",
-                "icon":"FaStore"
-            },
-            {
-                "title": "Plot for Sale in Faridabad",
-                "description": "Verified options for residential, commercial, and investment-ready land in prime sectors and upcoming zones.",
-                "icon":"FaLandmark"
-            },
-            {
-                "title": "Agricultural Land for Sale in Faridabad",
-                "description": "Buy farm-ready fertile agricultural land perfect for farming, farmhouse plans, and long-term land holding.",
-                "icon":"FaTractor"
-            },
-            {
-                "title": "To-Let Service in Faridabad",
-                "description": "Simplified renting assistance that connects tenants and owners with a smooth renting experience."
-            },
-            {
-                "title": "Commercial Property for Sale in Faridabad",
-                "description": "Choose from offices, warehouses, and retail spaces that offer rental income and strong business potential.",
-                "icon":"FaCity"
-            },
-            {
-                "title": "World Street Faridabad",
-                "description": "Premium commercial destination with retail and offices spaces.",
-                 "icon": "FaCity"
-            },
-            {
-                "title": "Independent Builder Floor in Faridabad",
-                "description": "Low-density homes with privacy and modern architecture.",
-                "icon": "FaHome"
-            },
-            {
-                "title": "Co-Workation in Faridabad",
-                "description": "Flexible coworking spaces for professionals and startups",
-                "icon": "FaBriefcase"
-            },
-            {
-                "title": "SCO Plots for Sale in Faridabad",
-                "description": "Shop-Cum-Office plots for commercial developments.",
-                "icon": "FaStore"
-            },
-            {
-                "title": "Upcoming Projects in Faridabad",
-                "description": "New residential and commercial projects with early investment benefits benefits.",
-                "icon": "FaChartLine"
-            },
-            {
-                "title": "Affordable Projects in Faridabad",
-                "description": "Budget-friendly housing projects under approved schemes.",
-                "icon": "FaRupeeSign"
-            },
-            {
-                "title": "Apartment for Rent in Faridabad",
-                "description": "WWell-maintained apartments in prime residential sectors.",
-                "icon": "FaKey"
-            },
-            {
-                "title": "Apartment for Sale in Faridabad",
-                "description": "Urban living spaces with premium amenities.",
-                "icon": "FaBuilding"
-            },
-            {
-                "title": "2 BHK Flat for Sale in Faridabad",
-                "description": "Compact homes are ideal for small families.",
-                "icon": "FaDoorOpen"
-            },
-            {
-                "title": "3 BHK Flat for Sale in Faridabad",
-                "description": "Spacious apartments for growing families.",
-                "icon": "FaHome"
-            },
-            {
-                "title": "4 BHK Flat for Sale in Faridabad",
-                "description": "Luxury living with expansive layouts.",
-                "icon": "FaCrown"
-            },
-            {
-                "title": "2 BHK Flat for Rent in Faridabad",
-                "description": "Affordable rental options in prime locations.",
-                "icon": "FaKey"
-            },
-            {
-                "title": "3 BHK Flat for Rent in Faridabad",
-                "description": "Comfortable family rental homes.",
-                "icon": "FaKey"
-            },
-            {
-                "title": "4 BHK Flat for Rent in Faridabad",
-                "description": "Premium rental residences.",
-                "icon": "FaKey"
-            }
-        ]
+    "floatingCard": {
+      "title": "Plot Investment Experts",
+      "subtitle": "Faridabad Land Specialists",
+      "description": "Get expert assistance for selecting the right plot for sale in Faridabad based on approvals, location, and future growth."
+    }
+  },
+  "servicesSection": {
+    "heading": "Explore More Property Services Across Faridabad",
+    "description": [
+      "Along with Residential Property in Faridabad, browse multiple property categories to support your long-term planning or investment goals."
+    ],
+    "services": [
+      {
+        "title": "House for Sale in Faridabad",
+        "description": "Spacious living options across prime sectors and localities",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Flat for Rent in Faridabad",
+        "description": "Ready-to-move homes ideal for flexible living",
+        "icon": "FaKey"
+      },
+      {
+        "title": "Flat for Sale in Faridabad",
+        "description": "Modern apartments with lifestyle-enhancing amenities",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "Shop for Sale in Faridabad",
+        "description": "Grow your business with ownership-based commercial spaces",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Shop for Rent in Faridabad",
+        "description": "Affordable commercial options for startups and expansion",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Plot for Sale in Faridabad",
+        "description": "Verified options for residential, commercial, and investment-ready land in prime sectors and upcoming zones.",
+        "icon": "FaLandmark"
+      },
+      {
+        "title": "Agricultural Land for Sale in Faridabad",
+        "description": "Buy farm-ready fertile agricultural land perfect for farming, farmhouse plans, and long-term land holding.",
+        "icon": "FaTractor"
+      },
+      {
+        "title": "To-Let Service in Faridabad",
+        "description": "Simplified renting assistance that connects tenants and owners with a smooth renting experience."
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "description": "Choose from offices, warehouses, and retail spaces that offer rental income and strong business potential.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "World Street Faridabad",
+        "description": "Premium commercial destination with retail and offices spaces.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "Independent Builder Floor in Faridabad",
+        "description": "Low-density homes with privacy and modern architecture.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Co-Workation in Faridabad",
+        "description": "Flexible coworking spaces for professionals and startups",
+        "icon": "FaBriefcase"
+      },
+      {
+        "title": "SCO Plots for Sale in Faridabad",
+        "description": "Shop-Cum-Office plots for commercial developments.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Upcoming Projects in Faridabad",
+        "description": "New residential and commercial projects with early investment benefits benefits.",
+        "icon": "FaChartLine"
+      },
+      {
+        "title": "Affordable Projects in Faridabad",
+        "description": "Budget-friendly housing projects under approved schemes.",
+        "icon": "FaRupeeSign"
+      },
+      {
+        "title": "Apartment for Rent in Faridabad",
+        "description": "WWell-maintained apartments in prime residential sectors.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "Apartment for Sale in Faridabad",
+        "description": "Urban living spaces with premium amenities.",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "2 BHK Flat for Sale in Faridabad",
+        "description": "Compact homes are ideal for small families.",
+        "icon": "FaDoorOpen"
+      },
+      {
+        "title": "3 BHK Flat for Sale in Faridabad",
+        "description": "Spacious apartments for growing families.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "4 BHK Flat for Sale in Faridabad",
+        "description": "Luxury living with expansive layouts.",
+        "icon": "FaCrown"
+      },
+      {
+        "title": "2 BHK Flat for Rent in Faridabad",
+        "description": "Affordable rental options in prime locations.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "3 BHK Flat for Rent in Faridabad",
+        "description": "Comfortable family rental homes.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "4 BHK Flat for Rent in Faridabad",
+        "description": "Premium rental residences.",
+        "icon": "FaKey"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "A Trusted Venture Backed by Deal Acres Network",
+    "description": [
+      "The platform delivering Residential Property in Faridabad is powered by a reliable chain — it is a venture of Property dealer in Faridabad, which itself is a venture of Deal Acres Faridabad, and Deal Acres Faridabad is an initiative under Deal Acres. With such strong support, you receive guidance rooted in trust, market knowledge, and real estate experience.",
+      " We help simplify the buying process, ensuring that homes you explore are genuine, affordable, and aligned with your expectations."
+    ],
+    "points": [
+      "Unlisted free property listing for better visibility",
+      "Free business listing for property owners & service providers",
+      "Verified home options backed by Deal Acres credibility",
+      "Guidance to help you find your suitable home faster"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "Deal Acres Plot Investment"
+    }
+  },
+  "blogsSection": {
+    "heading": "Stay Updated With Residential Market Insights",
+    "description": [
+      "Before selecting a Residential Property in Faridabad, explore our real estate blogs covering locality trends, price updates, home-buying tips, and investment insights. Make informed decisions that support your future."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blog"
     },
-    "whyChooseUs": {
-        "heading": "A Trusted Venture Backed by Deal Acres Network",
-        "description": [
-            "The platform delivering Residential Property in Faridabad is powered by a reliable chain — it is a venture of Property dealer in Faridabad, which itself is a venture of Deal Acres Faridabad, and Deal Acres Faridabad is an initiative under Deal Acres. With such strong support, you receive guidance rooted in trust, market knowledge, and real estate experience.",
-            " We help simplify the buying process, ensuring that homes you explore are genuine, affordable, and aligned with your expectations."
-        ],
-        "points": [
-            "Unlisted free property listing for better visibility",
-            "Free business listing for property owners & service providers",
-            "Verified home options backed by Deal Acres credibility",
-            "Guidance to help you find your suitable home faster"
-        ],
-        "image": {
-            "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-            "alt": "Deal Acres Plot Investment"
-        }
-    },
-    "blogsSection": {
-        "heading": "Stay Updated With Residential Market Insights",
-        "description": [
-            "Before selecting a Residential Property in Faridabad, explore our real estate blogs covering locality trends, price updates, home-buying tips, and investment insights. Make informed decisions that support your future."
-        ],
-        "viewAllButton": {
-            "label": "View All Blogs",
-            "path": "/blog"
-        },
-        "blogs": [
+    "blogs": [
       {
         "id": 1,
         "title": "Top 10 Neighborhoods for Families in 2023",
@@ -234,95 +234,97 @@
         "category": "Technology"
       }
     ]
-    },
-    "contactSection": {
-        "formSection": {
-            "heading": "Book the Right Residential Property in Faridabad Today",
-            "description": [
-                "Submit your enquiry and connect with our Residential Property experts for verified options."
-            ],
-            "fields": [
-                {
-                    "label": "Full Name",
-                    "placeholder": "Your Name",
-                    "type": "text"
-                },
-                {
-                    "label": "Email Address",
-                    "placeholder": "your@email.com",
-                    "type": "email"
-                },
-                {
-                    "label": "Phone Number",
-                    "placeholder": "+91 XXXXX XXXXX",
-                    "type": "text"
-                },
-                {
-                    "label": "Message",
-                    "placeholder": "Tell us your plot requirement",
-                    "type": "textarea"
-                }
-            ],
-            "submitButton": "Submit Enquiry"
+  },
+  "contactSection": {
+    "formSection": {
+      "heading": "Book the Right Residential Property in Faridabad Today",
+      "description": [
+        "Submit your enquiry and connect with our Residential Property experts for verified options."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
         },
-        "contactDetails": {
-            "heading": "Contact Information",
-            "description": [
-                "Get in touch with Deal Acres for verified residential properties in Faridabad."
-            ],
-            "items": []
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+91 XXXXX XXXXX",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Tell us your plot requirement",
+          "type": "textarea"
         }
+      ],
+      "submitButton": "Submit Enquiry"
     },
-    "faqSection": {
-        "heading": "Frequently Asked Questions",
-        "subheading": "Residential Properties in Faridabad – Buyer Guide",
-        "faqs": [
-  {
-    "q": "Why is Residential Property in Faridabad a good choice?",
-    "a": "Faridabad offers affordability, accessibility, and growth potential. You get strong connectivity, well-developed sectors, and spacious homes at competitive prices."
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": [
+        "Get in touch with Deal Acres for verified residential properties in Faridabad."
+      ],
+      "items": []
+    }
   },
-  {
-    "q": "Are there options for budget-friendly residential homes?",
-    "a": "Yes, Residential Property in Faridabad includes flats, floors, and plots that fit varied budgets while still offering comfort and convenience."
+  "faqSection": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Residential Properties in Faridabad – Buyer Guide",
+    "faqs": [
+      {
+        "q": "Why is Residential Property in Faridabad a good choice?",
+        "a": "Faridabad offers affordability, accessibility, and growth potential. You get strong connectivity, well-developed sectors, and spacious homes at competitive prices."
+      },
+      {
+        "q": "Are there options for budget-friendly residential homes?",
+        "a": "Yes, Residential Property in Faridabad includes flats, floors, and plots that fit varied budgets while still offering comfort and convenience."
+      },
+      {
+        "q": "Can I get support during the buying process?",
+        "a": "Absolutely. We provide guided assistance through property dealers in Faridabad, ensuring clarity on legal paperwork, pricing, and property comparisons."
+      },
+      {
+        "q": "What locations are ideal for residential living?",
+        "a": "Sectors like 21C, 85, 88, Green Field, Neharpar, and Greater Faridabad are preferred due to good connectivity, markets, and essential amenities."
+      },
+      {
+        "q": "Are residential properties good for investment?",
+        "a": "Yes, Residential Property in Faridabad offers strong rental demand and long-term appreciation, making it suitable for both living and investment."
+      },
+      {
+        "q": "What types of residential properties are available?",
+        "a": "Apartments, builder floors, plotted homes, gated communities, and independent houses are available, offering flexibility for different lifestyles."
+      },
+      {
+        "q": "Can I find ready-to-move residential options?",
+        "a": "Yes, many projects and independent floors are available for immediate possession, allowing quick shifting."
+      },
+      {
+        "q": "Do residential societies offer amenities?",
+        "a": "Most modern residential societies provide security, parks, clubhouses, gyms, and essential utilities for comfortable living."
+      },
+      {
+        "q": "How safe is Faridabad for families?",
+        "a": "Residential neighborhoods in Faridabad are secure, community-friendly, and well-connected to hospitals and schools, making them ideal for families."
+      },
+      {
+        "q": "How soon can I move after purchasing?",
+        "a": "Once documentation and payment formalities are completed, you can move into your Residential Property in Faridabad without delay, especially in ready-to-move units."
+      }
+    ]
   },
-  {
-    "q": "Can I get support during the buying process?",
-    "a": "Absolutely. We provide guided assistance through property dealers in Faridabad, ensuring clarity on legal paperwork, pricing, and property comparisons."
-  },
-  {
-    "q": "What locations are ideal for residential living?",
-    "a": "Sectors like 21C, 85, 88, Green Field, Neharpar, and Greater Faridabad are preferred due to good connectivity, markets, and essential amenities."
-  },
-  {
-    "q": "Are residential properties good for investment?",
-    "a": "Yes, Residential Property in Faridabad offers strong rental demand and long-term appreciation, making it suitable for both living and investment."
-  },
-  {
-    "q": "What types of residential properties are available?",
-    "a": "Apartments, builder floors, plotted homes, gated communities, and independent houses are available, offering flexibility for different lifestyles."
-  },
-  {
-    "q": "Can I find ready-to-move residential options?",
-    "a": "Yes, many projects and independent floors are available for immediate possession, allowing quick shifting."
-  },
-  {
-    "q": "Do residential societies offer amenities?",
-    "a": "Most modern residential societies provide security, parks, clubhouses, gyms, and essential utilities for comfortable living."
-  },
-  {
-    "q": "How safe is Faridabad for families?",
-    "a": "Residential neighborhoods in Faridabad are secure, community-friendly, and well-connected to hospitals and schools, making them ideal for families."
-  },
-  {
-    "q": "How soon can I move after purchasing?",
-    "a": "Once documentation and payment formalities are completed, you can move into your Residential Property in Faridabad without delay, especially in ready-to-move units."
-  }
-]
-    },
-   "footer": {
+  "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

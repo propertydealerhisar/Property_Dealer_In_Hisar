@@ -1,221 +1,220 @@
 {
-    "domain": "www.houseforrentinfaridabad.com",
-    "heroSection": {
-        "badge": "Verified Rental Houses",
-        "heading": "House for Rent in Faridabad Made Easy",
-        "description": [
-            "Finding a house for rent in Faridabad is now simpler, faster, and more reliable than ever. Faridabad has become one of the most preferred residential destinations in Delhi-NCR, offering a perfect mix of comfort, connectivity, and affordability. Whether you are a working professional, a growing family, or someone relocating for better opportunities, this city has rental homes that match every lifestyle and budget.",
-            "Our platform helps you discover verified and genuine listings, so your search for a house for rent in Faridabad stays transparent and stress-free. From independent houses to spacious builder floors in prime sectors, we bring you homes that feel right from day one.."
-        ],
-        "buttons": [
-            {
-                "label": "Explore Houses for Rent",
-                "path": "/"
-            },
-            {
-                "label": "Post Your Rental Requirement",
-                "path": "/"
-            }
-        ],
-        "backgroundImages": [
-            "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-            "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
-            "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b",
-            "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
-        ]
+  "domain": "www.houseforrentinfaridabad.com",
+  "heroSection": {
+    "badge": "Verified Rental Houses",
+    "heading": "House for Rent in Faridabad Made Easy",
+    "description": [
+      "Finding a house for rent in Faridabad is now simpler, faster, and more reliable than ever. Faridabad has become one of the most preferred residential destinations in Delhi-NCR, offering a perfect mix of comfort, connectivity, and affordability. Whether you are a working professional, a growing family, or someone relocating for better opportunities, this city has rental homes that match every lifestyle and budget.",
+      "Our platform helps you discover verified and genuine listings, so your search for a house for rent in Faridabad stays transparent and stress-free. From independent houses to spacious builder floors in prime sectors, we bring you homes that feel right from day one.."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Post Your Rental Requirement",
+        "path": "/"
+      }
+    ],
+    "backgroundImages": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
+    ]
+  },
+  "welcomeSection": {
+    "title": "Your Smart Way to Rent a Home",
+    "heading": "Why Renting a House in Faridabad Makes Sense",
+    "description": [
+      "Choosing a house for rent in Faridabad gives you the advantage of living in a rapidly growing city that remains budget-friendly compared to other NCR locations. Excellent road networks, metro connectivity, and proximity to Delhi make daily commuting smooth and convenient. The city also offers reputed schools, hospitals, shopping complexes, and green spaces, making it ideal for families.",
+      "Rental houses here provide more privacy and space than apartments, especially for families who prefer independent living. From peaceful residential areas to lively neighbourhoods near commercial hubs, Faridabad has it all. With multiple options across different price ranges, finding a house for rent in Faridabad that fits your needs is easier than ever"
+    ]
+  },
+  "featureWithImage": {
+    "badge": "RENTAL HOUSING",
+    "title": "Verified Houses for Rent Across Prime Locations",
+    "description": [
+      "Our listings cover all major sectors and localities, ensuring you get access to the best house for rent in Faridabad options. Every property is verified to maintain quality, authenticity, and fair pricing. We focus on providing clear details, real images, and transparent rental terms to help tenants make informed decisions.",
+      "Whether you are looking for a furnished house, a semi-furnished option, or an unfurnished independent home, our platform ensures a smooth experience.",
+      "With local expertise and regularly updated listings, finding a reliable house for rent in Faridabad becomes quick and hassle-free."
+    ],
+    "subTitle": "Why Tenants Trust Us",
+    "features": [
+      "Verified and genuine rental listings",
+      "Wide budget-friendly and premium options",
+      "Expert local property guidance"
+    ],
+    "primaryButton": {
+      "label": "View All Rental Houses",
+      "path": "/"
     },
-    "welcomeSection": {
-        "title": "Your Smart Way to Rent a Home",
-        "heading": "Why Renting a House in Faridabad Makes Sense",
-        "description": [
-            "Choosing a house for rent in Faridabad gives you the advantage of living in a rapidly growing city that remains budget-friendly compared to other NCR locations. Excellent road networks, metro connectivity, and proximity to Delhi make daily commuting smooth and convenient. The city also offers reputed schools, hospitals, shopping complexes, and green spaces, making it ideal for families.",
-            "Rental houses here provide more privacy and space than apartments, especially for families who prefer independent living. From peaceful residential areas to lively neighbourhoods near commercial hubs, Faridabad has it all. With multiple options across different price ranges, finding a house for rent in Faridabad that fits your needs is easier than ever"
-        ]
+    "secondaryButton": {
+      "label": "Connect with Property Expert",
+      "path": "/"
     },
-    "featureWithImage": {
-        "badge": "RENTAL HOUSING",
-        "title": "Verified Houses for Rent Across Prime Locations",
-        "description": [
-            "Our listings cover all major sectors and localities, ensuring you get access to the best house for rent in Faridabad options. Every property is verified to maintain quality, authenticity, and fair pricing. We focus on providing clear details, real images, and transparent rental terms to help tenants make informed decisions.",
-            "Whether you are looking for a furnished house, a semi-furnished option, or an unfurnished independent home, our platform ensures a smooth experience.",
-            "With local expertise and regularly updated listings, finding a reliable house for rent in Faridabad becomes quick and hassle-free."
-        ],
-        "subTitle": "Why Tenants Trust Us",
-        "features": [
-            "Verified and genuine rental listings",
-            "Wide budget-friendly and premium options",
-            "Expert local property guidance"
-        ],
-        "primaryButton": {
-            "label": "View All Rental Houses",
-            "path": "/"
-        },
-        "secondaryButton": {
-            "label": "Connect with Property Expert",
-            "path": "/"
-        },
-        "image": {
-            "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-            "alt": "House for Rent in Faridabad"
-        },
-        "floatingCard": {
-            "title": "Rental Property Experts",
-            "subtitle": "Faridabad Local Specialists",
-            "description": "Get expert assistance for finding verified houses for rent in Faridabad across prime residential locations."
-        }
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "House for Rent in Faridabad"
     },
-    "servicesSection": {
-        "heading": "Explore Other Property Options in Faridabad",
-        "description": [
-            "long with rental houses, explore other popular real estate segments designed to meet different property needs across the city."
-        ],
-        "services": [
-            {
-                "title": "House for Sale in Faridabad",
-                "description": "Discover independent homes and villas perfect for long-term investment and comfortable family living in prime residential areas.",
-                "icon":"FaHome"
-
-            },
-            {
-                "title": "Flat for Rent in Faridabad",
-                "description": "Choose from modern flats in gated societies offering amenities, security, and easy connectivity.",
-                "icon":"FaKey"
-            },
-            {
-                "title": "Flat for Sale in Faridabad",
-                "description": "Find premium and affordable flats ideal for first-time buyers and investors alike.",
-                "icon":"FaBuilding"
-            },
-            {
-                "title": "Shop for Sale in Faridabad",
-                "description": "Explore commercial shops in high-footfall areas suitable for business growth.",
-                "icon":"FaStore"
-            },
-            {
-                "title": "Shop for Rent in Faridabad",
-                "description": "Rent well-located shops to establish or expand your business presence.",
-                "icon":"FaStore"
-            },
-            {
-                "title": "Plot for Sale in Faridabad",
-                "description": "Invest in residential and commercial plots with excellent future appreciation.",
-                "icon":"FaLandmark"
-            },
-            {
-                "title": "Agricultural Land for Sale in Faridabad",
-                "description": "Find fertile and well-connected agricultural land for farming or long-term investment.",
-                "icon":"FaTractor"
-            },
-            {
-                "title": "To-Let Service in Faridabad",
-                "description": "Professional to-let solutions to quickly rent out your property without hassle.",
-                "icon":"FaHandshake"
-            },
-            {
-                "title": "Commercial Property for Sale in Faridabad",
-                "description": "Explore offices, showrooms, and commercial spaces in key business zones.",
-                "icon":"FaCity"
-            },
-            {
-                "title": "World Street Faridabad",
-                "description": "Premium retail, office, and entertainment spaces in Faridabad’s iconic commercial hub.",
-                 "icon": "FaCity"
-            },
-            {
-                "title": "Independent Builder Floor in Faridabad",
-                "description": "Spacious builder floors offering privacy, modern layouts, and prime locations.",
-                "icon": "FaHome"
-            },
-            {
-                "title": "Co-Workation in Faridabad",
-                "description": "Flexible co-working and co-living spaces designed for modern professionals.",
-                "icon": "FaBriefcase"
-            },
-            {
-                "title": "SCO Plots for Sale in Faridabad",
-                "description": "High-return Shop-Cum-Office plots in strategic commercial locations.",
-                "icon": "FaStore"
-            },
-            {
-                "title": "Upcoming Projects in Faridabad",
-                "description": "Stay updated with new residential and commercial developments.",
-                "icon": "FaChartLine"
-            },
-            {
-                "title": "Affordable Projects in Faridabad",
-                "description": "Budget-friendly housing projects ideal for end-users and investors.",
-                "icon": "FaRupeeSign"
-            },
-            {
-                "title": "Apartment for Rent in Faridabad",
-                "description": "Well-planned apartments with modern amenities for comfortable living.",
-                "icon": "FaKey"
-            },
-            {
-                "title": "Apartment for Sale in Faridabad",
-                "description": "Apartments designed for lifestyle living and strong investment returns.",
-                "icon": "FaBuilding"
-            },
-            {
-                "title": "2BHK Flat for Sale in Faridabad",
-                "description": "Perfect homes for small families and working professionals.",
-                "icon": "FaDoorOpen"
-            },
-            {
-                "title": "3BHK Flat for Sale in Faridabad",
-                "description": "Spacious homes offering comfort and functionality.",
-                "icon": "FaHome"
-            },
-            {
-                "title": "4BHK Flat for Sale in Faridabad",
-                "description": "Luxury living spaces ideal for large families.",
-                "icon": "FaCrown"
-            },
-            {
-                "title": "2BHK Flat for Rent in Faridabad",
-                "description": "Affordable rental options available in prime sectors.",
-                "icon": "FaKey"
-            },
-            {
-                "title": "3BHK Flat for Rent in Faridabad",
-                "description": "Ideal rental homes for families needing extra space.",
-                "icon": "FaKey"
-            },
-            {
-                "title": "4BHK Flat for Rent in Faridabad",
-                "description": "Premium rental homes for luxury living.",
-                "icon": "FaKey"
-            }
-        ]
+    "floatingCard": {
+      "title": "Rental Property Experts",
+      "subtitle": "Faridabad Local Specialists",
+      "description": "Get expert assistance for finding verified houses for rent in Faridabad across prime residential locations."
+    }
+  },
+  "servicesSection": {
+    "heading": "Explore Other Property Options in Faridabad",
+    "description": [
+      "long with rental houses, explore other popular real estate segments designed to meet different property needs across the city."
+    ],
+    "services": [
+      {
+        "title": "House for Sale in Faridabad",
+        "description": "Discover independent homes and villas perfect for long-term investment and comfortable family living in prime residential areas.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Flat for Rent in Faridabad",
+        "description": "Choose from modern flats in gated societies offering amenities, security, and easy connectivity.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "Flat for Sale in Faridabad",
+        "description": "Find premium and affordable flats ideal for first-time buyers and investors alike.",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "Shop for Sale in Faridabad",
+        "description": "Explore commercial shops in high-footfall areas suitable for business growth.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Shop for Rent in Faridabad",
+        "description": "Rent well-located shops to establish or expand your business presence.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Plot for Sale in Faridabad",
+        "description": "Invest in residential and commercial plots with excellent future appreciation.",
+        "icon": "FaLandmark"
+      },
+      {
+        "title": "Agricultural Land for Sale in Faridabad",
+        "description": "Find fertile and well-connected agricultural land for farming or long-term investment.",
+        "icon": "FaTractor"
+      },
+      {
+        "title": "To-Let Service in Faridabad",
+        "description": "Professional to-let solutions to quickly rent out your property without hassle.",
+        "icon": "FaHandshake"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "description": "Explore offices, showrooms, and commercial spaces in key business zones.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "World Street Faridabad",
+        "description": "Premium retail, office, and entertainment spaces in Faridabad’s iconic commercial hub.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "Independent Builder Floor in Faridabad",
+        "description": "Spacious builder floors offering privacy, modern layouts, and prime locations.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Co-Workation in Faridabad",
+        "description": "Flexible co-working and co-living spaces designed for modern professionals.",
+        "icon": "FaBriefcase"
+      },
+      {
+        "title": "SCO Plots for Sale in Faridabad",
+        "description": "High-return Shop-Cum-Office plots in strategic commercial locations.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Upcoming Projects in Faridabad",
+        "description": "Stay updated with new residential and commercial developments.",
+        "icon": "FaChartLine"
+      },
+      {
+        "title": "Affordable Projects in Faridabad",
+        "description": "Budget-friendly housing projects ideal for end-users and investors.",
+        "icon": "FaRupeeSign"
+      },
+      {
+        "title": "Apartment for Rent in Faridabad",
+        "description": "Well-planned apartments with modern amenities for comfortable living.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "Apartment for Sale in Faridabad",
+        "description": "Apartments designed for lifestyle living and strong investment returns.",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "2BHK Flat for Sale in Faridabad",
+        "description": "Perfect homes for small families and working professionals.",
+        "icon": "FaDoorOpen"
+      },
+      {
+        "title": "3BHK Flat for Sale in Faridabad",
+        "description": "Spacious homes offering comfort and functionality.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "4BHK Flat for Sale in Faridabad",
+        "description": "Luxury living spaces ideal for large families.",
+        "icon": "FaCrown"
+      },
+      {
+        "title": "2BHK Flat for Rent in Faridabad",
+        "description": "Affordable rental options available in prime sectors.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "3BHK Flat for Rent in Faridabad",
+        "description": "Ideal rental homes for families needing extra space.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "4BHK Flat for Rent in Faridabad",
+        "description": "Premium rental homes for luxury living.",
+        "icon": "FaKey"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Deal Acres – Your Trusted Real Estate Partner",
+    "description": [
+      "Deal Acres is a growing real estate venture connecting genuine buyers, tenants, and property owners. As a trusted property dealer in Faridabad and a property dealer in Hisar, Deal Acres focuses on transparency, affordability, and customer satisfaction. Our platform empowers users to explore properties confidently without unnecessary brokerage pressure.",
+      "We aim to simplify real estate by offering digital-first solutions for renting, buying, and selling. ",
+      "Whether you are searching for a house for rent in Faridabad or planning to list your property, Deal Acres provides the right tools and exposure."
+    ],
+    "points": [
+      "Free unlisted property listings",
+      "Free business listings for property owners",
+      "Verified buyer and tenant leads",
+      "Local expert support and guidance"
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "alt": "Trusted Rental Property Platform"
+    }
+  },
+  "blogsSection": {
+    "heading": "Insights, Tips & Property Updates",
+    "description": [
+      "Stay informed with our featured blogs covering rental trends, locality insights, investment tips, and real estate updates. Our content helps you make smarter decisions while searching for a house for rent in Faridabad or any other property type.."
+    ],
+    "viewAllButton": {
+      "label": "View All Blogs",
+      "path": "/blog"
     },
-    "whyChooseUs": {
-        "heading": "Deal Acres – Your Trusted Real Estate Partner",
-        "description": [
-            "Deal Acres is a growing real estate venture connecting genuine buyers, tenants, and property owners. As a trusted property dealer in Faridabad and a property dealer in Hisar, Deal Acres focuses on transparency, affordability, and customer satisfaction. Our platform empowers users to explore properties confidently without unnecessary brokerage pressure.",
-            "We aim to simplify real estate by offering digital-first solutions for renting, buying, and selling. ",
-            "Whether you are searching for a house for rent in Faridabad or planning to list your property, Deal Acres provides the right tools and exposure."
-        ],
-        "points": [
-            "Free unlisted property listings",
-            "Free business listings for property owners",
-            "Verified buyer and tenant leads",
-            "Local expert support and guidance"
-        ],
-        "image": {
-            "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-            "alt": "Trusted Rental Property Platform"
-        }
-    },
-    "blogsSection": {
-        "heading": "Insights, Tips & Property Updates",
-        "description": [
-            "Stay informed with our featured blogs covering rental trends, locality insights, investment tips, and real estate updates. Our content helps you make smarter decisions while searching for a house for rent in Faridabad or any other property type.."
-        ],
-        "viewAllButton": {
-            "label": "View All Blogs",
-            "path": "/blog"
-        },
-        "blogs": [
+    "blogs": [
       {
         "id": 1,
         "title": "Top 10 Neighborhoods for Families in 2023",
@@ -241,95 +240,97 @@
         "category": "Technology"
       }
     ]
-    },
-    "contactSection": {
-        "formSection": {
-            "heading": "Find Your Ideal House for Rent in Faridabad Today",
-            "description": [
-                "Submit your requirement and our experts will help you find a rental home that perfectly fits your lifestyle."
-            ],
-            "fields": [
-                {
-                    "label": "Full Name",
-                    "placeholder": "Your Name",
-                    "type": "text"
-                },
-                {
-                    "label": "Email Address",
-                    "placeholder": "your@email.com",
-                    "type": "email"
-                },
-                {
-                    "label": "Phone Number",
-                    "placeholder": "+91 XXXXX XXXXX",
-                    "type": "text"
-                },
-                {
-                    "label": "Message",
-                    "placeholder": "Tell us your rental requirement",
-                    "type": "textarea"
-                }
-            ],
-            "submitButton": "Submit Requirement"
+  },
+  "contactSection": {
+    "formSection": {
+      "heading": "Find Your Ideal House for Rent in Faridabad Today",
+      "description": [
+        "Submit your requirement and our experts will help you find a rental home that perfectly fits your lifestyle."
+      ],
+      "fields": [
+        {
+          "label": "Full Name",
+          "placeholder": "Your Name",
+          "type": "text"
         },
-        "contactDetails": {
-            "heading": "Contact Information",
-            "description": [
-                "Connect with Deal Acres to explore verified houses for rent in Faridabad."
-            ],
-            "items": []
+        {
+          "label": "Email Address",
+          "placeholder": "your@email.com",
+          "type": "email"
+        },
+        {
+          "label": "Phone Number",
+          "placeholder": "+91 XXXXX XXXXX",
+          "type": "text"
+        },
+        {
+          "label": "Message",
+          "placeholder": "Tell us your rental requirement",
+          "type": "textarea"
         }
+      ],
+      "submitButton": "Submit Requirement"
     },
-    "faqSection": {
-        "heading": "Frequently Asked Questions",
-        "subheading": "Answers to common questions about House for Rent in Faridabad",
-        "faqs": [
-            {
-                "q": "Why choose Faridabad for renting a house?",
-                "a": "Faridabad offers affordable rentals, excellent connectivity to Delhi-NCR, and a wide choice of independent houses suitable for families and professionals"
-            },
-            {
-                "q": "What types of houses are available for rent?",
-                "a": "You can find independent houses, builder floors, villas, and duplex homes across various sectors and localities."
-            },
-            {
-                "q": "Is a house for rent in Faridabad affordable?",
-                "a": "Yes, compared to other NCR cities, Faridabad provides budget-friendly rental options with spacious layouts."
-            },
-            {
-                "q": "Are listings verified on Deal Acres?",
-                "a": "Yes, all house for rent in Faridabad listings are verified to ensure authenticity and transparency."
-            },
-            {
-                "q": "Can I post my rental requirement for free?",
-                "a": "Absolutely. You can post your rental requirement at no cost and connect with genuine property owners."
-            },
-            {
-                "q": "Which sectors are best for renting?",
-                "a": "Popular sectors include Sector 14, 15, 21, 28, 37, and the Neharpar areas."
-            },
-            {
-                "q": "Are furnished houses available?",
-                "a": "Yes, furnished, semi-furnished, and unfurnished houses are available based on your preference."
-            },
-            {
-                "q": "How does Deal Acres help tenants?",
-                "a": "Deal Acres provides verified listings, expert guidance, and direct owner connections."
-            },
-            {
-                "q": "Can NRIs rent houses through Deal Acres?",
-                "a": "Yes, NRIs can explore and finalise a house for rent in Faridabad with our dedicated support."
-            },
-            {
-                "q": "How quickly can I find a rental house?",
-                "a": "With updated listings and local expertise, most users find suitable options within days."
-            }
-        ]
-    },
-    "footer": {
+    "contactDetails": {
+      "heading": "Contact Information",
+      "description": [
+        "Connect with Deal Acres to explore verified houses for rent in Faridabad."
+      ],
+      "items": []
+    }
+  },
+  "faqSection": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Answers to common questions about House for Rent in Faridabad",
+    "faqs": [
+      {
+        "q": "Why choose Faridabad for renting a house?",
+        "a": "Faridabad offers affordable rentals, excellent connectivity to Delhi-NCR, and a wide choice of independent houses suitable for families and professionals"
+      },
+      {
+        "q": "What types of houses are available for rent?",
+        "a": "You can find independent houses, builder floors, villas, and duplex homes across various sectors and localities."
+      },
+      {
+        "q": "Is a house for rent in Faridabad affordable?",
+        "a": "Yes, compared to other NCR cities, Faridabad provides budget-friendly rental options with spacious layouts."
+      },
+      {
+        "q": "Are listings verified on Deal Acres?",
+        "a": "Yes, all house for rent in Faridabad listings are verified to ensure authenticity and transparency."
+      },
+      {
+        "q": "Can I post my rental requirement for free?",
+        "a": "Absolutely. You can post your rental requirement at no cost and connect with genuine property owners."
+      },
+      {
+        "q": "Which sectors are best for renting?",
+        "a": "Popular sectors include Sector 14, 15, 21, 28, 37, and the Neharpar areas."
+      },
+      {
+        "q": "Are furnished houses available?",
+        "a": "Yes, furnished, semi-furnished, and unfurnished houses are available based on your preference."
+      },
+      {
+        "q": "How does Deal Acres help tenants?",
+        "a": "Deal Acres provides verified listings, expert guidance, and direct owner connections."
+      },
+      {
+        "q": "Can NRIs rent houses through Deal Acres?",
+        "a": "Yes, NRIs can explore and finalise a house for rent in Faridabad with our dedicated support."
+      },
+      {
+        "q": "How quickly can I find a rental house?",
+        "a": "With updated listings and local expertise, most users find suitable options within days."
+      }
+    ]
+  },
+  "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

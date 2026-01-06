@@ -1,6 +1,5 @@
 {
   "domain": "www.3bhkflatforsaleinfaridabad.com",
-
   "heroSection": {
     "badge": "Premium Family Homes",
     "heading": "Premium 3BHK Flats for Sale in Faridabad",
@@ -26,7 +25,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0"
     ]
   },
-
   "welcomeSection": {
     "title": "Trusted platform for smart home buyers in Faridabad",
     "heading": "Why Buy a 3BHK Flat in Faridabad",
@@ -35,7 +33,6 @@
       "With continuous infrastructure development and increasing demand, investing in a 3BHK flat for sale in Faridabad ensures comfort today and appreciation tomorrow."
     ]
   },
-
   "featureWithImage": {
     "badge": "3BHK HOME OPTIONS",
     "title": "Why Deal Acres Is Best for House Buying",
@@ -66,107 +63,104 @@
       "description": "Get expert guidance to buy verified and best-priced 3BHK flats for sale in Faridabad."
     }
   },
-
   "servicesSection": {
     "heading": "Explore Other Property Options in Faridabad",
     "description": [
       "Apart from 3BHK flat for sale in Faridabad, Deal Acres offers a wide range of real estate options."
     ],
     "services": [
-  {
-    "title": "House for Sale in Faridabad",
-    "description": "Independent homes for spacious family living.",
-    "icon": "FaHome"
+      {
+        "title": "House for Sale in Faridabad",
+        "description": "Independent homes for spacious family living.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Flat for Rent in Faridabad",
+        "description": "Affordable and premium rental options.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "Flat for Sale in Faridabad",
+        "description": "1BHK, 2BHK, 3BHK, and 4BHK flats.",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "Shop for Sale in Faridabad",
+        "description": "Retail spaces with good footfall.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Shop for Rent in Faridabad",
+        "description": "Commercial rental solutions.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Plot for Sale in Faridabad",
+        "description": "Residential and commercial plots.",
+        "icon": "FaLandmark"
+      },
+      {
+        "title": "Agricultural Land for Sale in Faridabad",
+        "description": "Long-term land investments.",
+        "icon": "FaTractor"
+      },
+      {
+        "title": "To-Let Service in Faridabad",
+        "description": "Rental assistance for owners and tenants.",
+        "icon": "FaHandshake"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "description": "Offices and commercial spaces.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "World Street Faridabad",
+        "description": "Premium commercial destination.",
+        "icon": "FaCity"
+      },
+      {
+        "title": "Independent Builder Floor in Faridabad",
+        "description": "Low-rise residential properties.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "Co-Workation in Faridabad",
+        "description": "Flexible workspaces for professionals.",
+        "icon": "FaBriefcase"
+      },
+      {
+        "title": "SCO Plots for Sale in Faridabad",
+        "description": "High-return commercial plots.",
+        "icon": "FaStore"
+      },
+      {
+        "title": "Upcoming Projects in Faridabad",
+        "description": "New residential launches.",
+        "icon": "FaChartLine"
+      },
+      {
+        "title": "Affordable Projects in Faridabad",
+        "description": "Budget-friendly housing solutions.",
+        "icon": "FaRupeeSign"
+      },
+      {
+        "title": "Apartment for Rent in Faridabad",
+        "description": "Family-friendly rental apartments.",
+        "icon": "FaKey"
+      },
+      {
+        "title": "Apartment for Sale in Faridabad",
+        "description": "Modern apartments with amenities.",
+        "icon": "FaBuilding"
+      },
+      {
+        "title": "2BHK & 4BHK Flats for Sale and Rent",
+        "description": "Homes for different family sizes.",
+        "icon": "FaHome"
+      }
+    ]
   },
-  {
-    "title": "Flat for Rent in Faridabad",
-    "description": "Affordable and premium rental options.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Flat for Sale in Faridabad",
-    "description": "1BHK, 2BHK, 3BHK, and 4BHK flats.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "Shop for Sale in Faridabad",
-    "description": "Retail spaces with good footfall.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Shop for Rent in Faridabad",
-    "description": "Commercial rental solutions.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Plot for Sale in Faridabad",
-    "description": "Residential and commercial plots.",
-    "icon": "FaLandmark"
-  },
-  {
-    "title": "Agricultural Land for Sale in Faridabad",
-    "description": "Long-term land investments.",
-    "icon": "FaTractor"
-  },
-  {
-    "title": "To-Let Service in Faridabad",
-    "description": "Rental assistance for owners and tenants.",
-    "icon": "FaHandshake"
-  },
-  {
-    "title": "Commercial Property for Sale in Faridabad",
-    "description": "Offices and commercial spaces.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "World Street Faridabad",
-    "description": "Premium commercial destination.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "Independent Builder Floor in Faridabad",
-    "description": "Low-rise residential properties.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "Co-Workation in Faridabad",
-    "description": "Flexible workspaces for professionals.",
-    "icon": "FaBriefcase"
-  },
-  {
-    "title": "SCO Plots for Sale in Faridabad",
-    "description": "High-return commercial plots.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Upcoming Projects in Faridabad",
-    "description": "New residential launches.",
-    "icon": "FaChartLine"
-  },
-  {
-    "title": "Affordable Projects in Faridabad",
-    "description": "Budget-friendly housing solutions.",
-    "icon": "FaRupeeSign"
-  },
-  {
-    "title": "Apartment for Rent in Faridabad",
-    "description": "Family-friendly rental apartments.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Apartment for Sale in Faridabad",
-    "description": "Modern apartments with amenities.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "2BHK & 4BHK Flats for Sale and Rent",
-    "description": "Homes for different family sizes.",
-    "icon": "FaHome"
-  }
-]
-
-  },
-
   "whyChooseUs": {
     "heading": "Why Choose Deal Acres for 3BHK Flats",
     "description": [
@@ -183,7 +177,6 @@
       "alt": "Deal Acres 3BHK Advantage"
     }
   },
-
   "blogsSection": {
     "heading": "Featured Blogs & Property Insights",
     "description": [
@@ -193,7 +186,8 @@
       "label": "View All Blogs",
       "path": "/blog"
     },
-    "blogs": [ {
+    "blogs": [
+      {
         "id": 1,
         "title": "Top 10 Neighborhoods for Families in 2023",
         "excerpt": "Discover the best family-friendly neighborhoods with excellent schools, parks, and amenities.",
@@ -216,9 +210,9 @@
         "image": "https://images.unsplash.com/photo-1558002038-1055e2e8ecea?auto=format&fit=crop&w=1170&q=80",
         "date": "April 10, 2023",
         "category": "Technology"
-      }]
+      }
+    ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -251,7 +245,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us anytime for assistance with Shop for Rent in Hisar, commercial listings, or business property guidance."],
+      "description": [
+        "Contact us anytime for assistance with Shop for Rent in Hisar, commercial listings, or business property guidance."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -268,7 +264,6 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "3BHK Flats for Sale in Faridabad – Buyer Guide",
@@ -315,11 +310,12 @@
       }
     ]
   },
-
-   "footer": {
+  "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description": ["We help you discover premium flats for rent and other properties with expert guidance, transparent processes, and trusted real estate services across the city."]
+      "description": [
+        "We help you discover premium flats for rent and other properties with expert guidance, transparent processes, and trusted real estate services across the city."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",
