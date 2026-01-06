@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "greenfieldcolony.flatforrentinfaridabad.com",
   "hero": {
     "title": "Comfortable And Well Located Flats for Rent in Green Field Colony",
     "description": [
@@ -62,36 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Flat for Rent in Green Field Colony Faridabad",
-        "path": "/"
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
       },
       {
-        "title": "Flat for Sale in Green Field Colony Faridabad",
-        "path": "/"
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
       },
       {
-        "title": "House for Rent in Green Field Colony Faridabad",
-        "path": "/"
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
       },
       {
-        "title": "House for Sale in Green Field Colony Faridabad",
-        "path": "/"
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
       },
       {
-        "title": "Builder Floors in Green Field Colony",
-        "path": "/"
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "title": "Rental Homes Near Delhi Border",
-        "path": "/"
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "title": "Ready to Move Flats in Faridabad",
-        "path": "/"
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
       },
       {
-        "title": "Residential Localities in Central Faridabad",
-        "path": "/"
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

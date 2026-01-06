@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "mewlamaharajpursector46.flatforrentinfaridabad.com",
   "hero": {
     "title": "Peaceful And Well Connected Flats for Rent in Mewla Maharajpur",
     "description": [
@@ -62,36 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Flat for Rent in Mewla Maharajpur Sector 46 Faridabad",
-        "path": "/"
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
       },
       {
-        "title": "Flat for Sale in Mewla Maharajpur Sector 46 Faridabad",
-        "path": "/"
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
       },
       {
-        "title": "House for Rent in Mewla Maharajpur Sector 46 Faridabad",
-        "path": "/"
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
       },
       {
-        "title": "House for Sale in Mewla Maharajpur Sector 46 Faridabad",
-        "path": "/"
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
       },
       {
-        "title": "Builder Floors in Mewla Maharajpur",
-        "path": "/"
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "title": "Rental Homes Near Mathura Road",
-        "path": "/"
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "title": "Ready to Move Flats in Sector 46",
-        "path": "/"
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
       },
       {
-        "title": "Residential Localities in Central Faridabad",
-        "path": "/"
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
