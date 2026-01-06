@@ -17,8 +17,8 @@ import { hisarSiteData } from "@/lib/sub-domain/hisarSiteData";
 const Page = async () => {
   const h = await headers();
   const rawHost = h.get("host") || "";
-  // const host = rawHost.replace(/:\d+$/, "");
-const host = "urbanestate.flatsforsaleinhisar.com"
+  const host = rawHost.replace(/:\d+$/, "");
+// const host = "urbanestate.flatsforsaleinhisar.com"
 
   // 🔐 resolve domain + subdomain
   const ctx = resolveRequest(host);
