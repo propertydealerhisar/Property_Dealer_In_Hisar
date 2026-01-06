@@ -56,8 +56,8 @@ export async function generateMetadata() {
 
 export default async function RootLayout({ children }) {
   const h = await headers();
-  // const domain = h.get("host") || "localhost";
-  const domain = "www.agriculturelandforsaleinfaridabad.com"
+  const domain = h.get("host") || "localhost";
+  // const domain = "www.agriculturelandforsaleinfaridabad.com"
     const pageData =
       SITE_DATA.find((item) => item.domain === domain)
 
