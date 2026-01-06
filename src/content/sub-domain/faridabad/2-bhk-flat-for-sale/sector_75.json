@@ -61,14 +61,56 @@
       "The integration of commercial, retail, and residential spaces ensures that all daily needs are met within a compact radius. Sector 75 serves as an anchor point for the residential expansion towards Palwal and Hodal, positioning it as a future landmark location in the entire Faridabad real estate landscape."
     ],
     "locations": [
-      "Sector 76",
-      "Sector 74",
-      "Neharpar Region",
-      "Khedi Road",
-      "Omaxe World Street",
-      "Sohna Road Access",
-      "BPTP Bridge Connectivity",
-      "Sector 85"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

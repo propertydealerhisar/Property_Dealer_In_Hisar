@@ -61,12 +61,56 @@
       "Localities like Sector 28 and Sector 29 are equally well-developed and provide a variety of ready-to-move-in apartments, often at varying price points. Sector 18 and Green Field Colony offer slightly more premium or established independent floor options, respectively. We provide a consolidated view of the best properties across this entire zone, allowing you to make an informed decision based on budget, size, and required amenities. Whether you prioritize connectivity to Delhi or proximity to specific schools, expanding your search radius slightly can unlock even better opportunities for your dream home purchase in Faridabad."
     ],
     "locations": [
-      "Sector 28 Faridabad",
-      "Sector 29 Faridabad",
-      "Green Field Colony Faridabad",
-      "Sector 18",
-      "New Industrial Town Faridabad",
-      "Mathura Road Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

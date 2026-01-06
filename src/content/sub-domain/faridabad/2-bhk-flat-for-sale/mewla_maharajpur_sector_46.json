@@ -61,14 +61,56 @@
       "This central positioning enhances the desirability of the 2 BHK Flat For Sale in Mewla Maharajpur Sector 46. Families appreciate the convenience of nearby Sector 45 and Sector 47 which host reputable schools and healthcare facilities. Investors find the rapidly developing infrastructure surrounding areas like Ashoka Enclave and Sainik Colony promising for future returns. Explore these nearby areas that solidify Sector 46 as a prime residential choice."
     ],
     "locations": [
-      "Sector 45 Faridabad",
-      "Sector 47 Faridabad",
-      "Green Field Colony",
-      "Badarpur Border",
-      "Ashoka Enclave",
-      "Sainik Colony",
-      "NHPC Chowk Metro Station",
-      "Mathura Road NH 44"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

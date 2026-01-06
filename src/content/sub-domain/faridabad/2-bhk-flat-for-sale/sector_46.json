@@ -61,14 +61,56 @@
       "Our comprehensive property portfolio extends beyond the immediate boundaries of Sector 46 to provide you with the best comparative options in the vicinity. This allows potential buyers to weigh the pros and cons of different sub-locations within the broader Faridabad real estate landscape. Whether you are looking for larger independent floors or apartments in high-rise towers, the surrounding locations offer varied housing styles and price points. We are committed to helping you find the location that perfectly aligns with your financial plan and family requirements, ensuring that your investment in a 2 BHK flat is both strategic and emotionally satisfying."
     ],
     "locations": [
-      "Sector 45 Faridabad",
-      "Sector 47 Faridabad",
-      "Sector 49 Faridabad",
-      "Sector 50 Faridabad",
-      "Omaxe Heights Complex",
-      "Sector 46 Institutional Area",
-      "Sector 16 Metro Station Area",
-      "Crown Interiorz Mall vicinity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

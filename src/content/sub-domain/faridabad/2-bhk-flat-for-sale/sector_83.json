@@ -61,14 +61,56 @@
       "From top-tier educational institutions that secure your children’s future to multi-specialty hospitals providing timely medical care, Sector 83 is self-sufficient. Furthermore, the rapid growth of retail and entertainment centers means residents never have to travel far for leisure or shopping needs. This robust ecosystem significantly contributes to the high quality of life and makes finding a 2 BHK flat in Sector 83 a truly value-added proposition for long-term residency."
     ],
     "locations": [
-      "Upcoming Metro Station Accessibility",
-      "Proximity to NH-2 National Highway",
-      "Reputable Schools and Colleges Nearby",
-      "Major Retail Malls and Shopping Complexes",
-      "Multi-specialty Healthcare Hospitals",
-      "Faridabad Business and Industrial Hubs",
-      "Dedicated Green Parks and Recreational Zones",
-      "Easy Access to Peripheral Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

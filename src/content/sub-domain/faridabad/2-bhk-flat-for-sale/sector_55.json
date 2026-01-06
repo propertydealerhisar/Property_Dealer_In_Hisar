@@ -61,14 +61,56 @@
       "The interconnectedness of these sectors means residents benefit from shared infrastructure, including major roads like the Delhi-Mathura Road NH-19, and a wider choice of shopping centers and recreational facilities. Whether you need access to larger hospitals in neighboring sectors or schools known for academic excellence, Sector 55 is perfectly positioned within Faridabad's growth corridor."
     ],
     "locations": [
-      "Sector 56",
-      "Sector 57",
-      "Sector 58",
-      "Green Field Colony",
-      "Neelam Bata Road",
-      "New Industrial Township (NIT)",
-      "Sector 21",
-      "Sector 49"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

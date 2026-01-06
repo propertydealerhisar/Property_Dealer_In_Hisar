@@ -61,14 +61,56 @@
       "Explore flats that benefit from proximity to reputed schools hospitals and large-format retail outlets maximizing your family’s convenience and comfort in Sector 77. We help you choose a property that integrates seamlessly with your professional and personal lifestyle needs within the rapidly developing region of Greater Faridabad."
     ],
     "locations": [
-      "Proximity to Neharpar Residential Hub",
-      "Easy Access to Delhi-Mumbai Expressway",
-      "Near Asian Institute of Medical Sciences",
-      "Close to major Sector 70 Commercial Centers",
-      "Direct Road Link to Kheri Road",
-      "Access to Proposed Metro Corridor Extension",
-      "Near RPS City and Omaxe World Street",
-      "Seamless Connectivity to Badarpur Border"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -61,14 +61,56 @@
       "If you are looking for a 2 BHK flat for sale in Sector 38 you will appreciate the proximity to commercial zones like Sector 37 and the Badarpur border ensuring daily commutes are minimized. Families benefit significantly from neighboring sectors housing prestigious schools established hospitals and sprawling recreational complexes. This central location makes Sector 38 a highly sought-after address for those prioritizing convenience and rapid accessibility to all necessary urban services without compromising on peaceful residential surroundings."
     ],
     "locations": [
-      "Sector 37 Commercial Hub",
-      "Tigaon Road Connectivity",
-      "Badarpur Border Delhi",
-      "Crown Interiorz Mall",
-      "Old Faridabad Metro Station",
-      "Delhi Public School DPS",
-      "Escorts Mujesar Metro Station",
-      "Amrita Hospital Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

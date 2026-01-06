@@ -61,12 +61,56 @@
       "The seamless integration with the broader Faridabad master plan makes acquiring a 2 BHK flat here an exceptionally convenient decision. Explore how superior connectivity enhances the daily life of residents in this thriving sector."
     ],
     "locations": [
-      "Proximity to Bypass Road connectivity to Greater Noida and Palwal",
-      "Easy access to major Delhi Metro stations within a short driving distance",
-      "Nearness to reputed schools like DPS and Amrita Vidyalayam",
-      "Close to healthcare facilities including Asian Hospital and Amrita Hospital",
-      "Established shopping centres and retail hubs in neighboring sectors",
-      "Excellent road network connecting to Sector 81, Sector 85, and Neharpar area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

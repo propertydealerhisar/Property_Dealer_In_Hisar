@@ -61,13 +61,56 @@
       "These areas benefit immensely from the proximity to the main Faridabad Bypass Road, ensuring quick commutes to Noida, Delhi, and Gurugram. We help you compare prices, maintenance standards, and amenity packages across the top residential complexes in Sector 81 to ensure you make the most informed decision possible about your future home investment and find the perfect ready-to-move 2 BHK flat."
     ],
     "locations": [
-      "BPTP Parklands Sector 81",
-      "Puri Constructions Project 81",
-      "Omaxe New World",
-      "Aditya Buildcon Sector 81",
-      "Proximity to Badarpur Border",
-      "Near Sector 80 Commercial Hub",
-      "Connectivity to Noida Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

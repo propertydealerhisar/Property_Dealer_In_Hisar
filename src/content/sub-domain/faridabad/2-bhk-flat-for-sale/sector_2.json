@@ -61,16 +61,56 @@
       "This balanced urban ecosystem ensures residents enjoy maximum convenience and quality of life without compromising on peace. The robust public transport system combined with wide, maintained roads makes internal and external travel highly efficient. Investing here means investing in a location poised for continuous infrastructural enhancement and economic growth."
     ],
     "locations": [
-      "Sector 1 Residential Area",
-      "Sector 3 Commercial Zone",
-      "Sector 4 Developed Infrastructure",
-      "Old Faridabad Metro Station Access",
-      "NH-19 Expressway Connectivity",
-      "Badkal Lake Recreational Spot",
-      "Reputable Educational Institutions",
-      "Major Healthcare Facilities",
-      "Crown Interiorz Mall",
-      "Local Marketplaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -61,12 +61,56 @@
       "Furthermore the area benefits from established social infrastructure. Residents enjoy quick access to reputable schools like Delhi Public School and major healthcare centers ensuring all family needs are met promptly. This strong localized ecosystem makes living in a 2 BHK flat in Dabua Colony incredibly comfortable and convenient."
     ],
     "locations": [
-      "Ballabgarh Industrial Area",
-      "Sector 55 Residential Hub",
-      "Mathura Road NH-19 Access",
-      "Pali Road Connectivity",
-      "Old Faridabad Metro Station",
-      "Badarpur Border Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

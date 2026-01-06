@@ -61,14 +61,56 @@
       "Schools such as DPS and Amity are just a short drive away, alongside multi-specialty hospitals ensuring immediate medical care when needed. Furthermore, the burgeoning retail landscape nearby provides ample shopping and entertainment options. Investing in a 2 BHK flat for sale in Sector 37 is choosing stability, growth, and unparalleled convenience in the NCR property market. This sector represents a perfect balance between serene residential living and dynamic urban accessibility."
     ],
     "locations": [
-      "Green Field Colony",
-      "Badarpur Metro Station",
-      "Escorts Mujesar Metro Station",
-      "NH-19 National Highway",
-      "Crown Plaza Mall",
-      "Manav Rachna University",
-      "Sector 41 Commercial Hub",
-      "Kailash Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

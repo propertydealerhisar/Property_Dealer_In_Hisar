@@ -61,14 +61,56 @@
       "The location ensures that families have immediate access to top schools reputed hospitals and vibrant local markets. When you buy a 2 BHK flat here you are investing in accessibility and a lifestyle where daily necessities are always within a short drive. The upcoming infrastructure projects further solidify Jalvayu Vihar’s reputation as a highly desirable residential hub in Faridabad."
     ],
     "locations": [
-      "Major Schools and Educational Institutes in Proximity",
-      "Reputed Healthcare and Multi-Specialty Hospitals nearby",
-      "Easy Access to National Highway 2 NH-2",
-      "Well Connected to Ballabgarh and Faridabad Metro Stations",
-      "Established Local Market and Retail Centers",
-      "Green Parks and Recreational Zones for Families",
-      "Quick Commute to Industrial and Corporate Hubs",
-      "Immediate Access to Public Transportation Facilities"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

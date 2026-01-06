@@ -61,14 +61,56 @@
       "From top-rated educational institutions and leading healthcare facilities to bustling shopping centers and recreational parks Sector 22 ensures everything you need is right at your doorstep. Investing in a 2 BHK flat here guarantees not only a comfortable home but also access to a thriving community and supportive neighborhood environment."
     ],
     "locations": [
-      "Reputed Schools and Educational Institutions",
-      "Major Private and Government Hospitals",
-      "Proximity to NH-44 Mathura Road",
-      "Local Markets and Daily Needs Stores",
-      "Parks Green Spaces and Recreational Areas",
-      "Nearby Metro Stations for Rapid Transit",
-      "Banks ATMs and Financial Institutions",
-      "Shopping Malls and Entertainment Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

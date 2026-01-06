@@ -61,12 +61,56 @@
       "The proximity to essential transport hubs, including the Old Faridabad Metro Station, ensures fast, reliable access to the entire Delhi NCR region, making it an ideal residential spot for working professionals. Furthermore, Sector 6 is surrounded by well-regarded educational institutions, reputed hospitals, and major commercial markets, making daily errands quick and convenient. This mature infrastructure ensures that your investment in a 2 BHK flat here is future-proof and provides immediate quality of life improvement."
     ],
     "locations": [
-      "Old Faridabad Metro Station",
-      "Main Mathura Road NH 44 Connectivity",
-      "Renowned Educational Institutions DPS",
-      "Large Commercial Markets Sector 7",
-      "Public Transport and Bus Stops Access",
-      "Major Healthcare Facilities ESI Hospital"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

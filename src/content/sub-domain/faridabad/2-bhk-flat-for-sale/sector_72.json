@@ -61,14 +61,56 @@
       "The locality is self-sufficient with renowned schools, high-quality hospitals, and vibrant retail markets all within a short radius. This makes the purchase of a 2 BHK flat for sale in Sector 72 not just a property transaction but an investment into a lifestyle of total convenience and growth potential. Its location near major industrial sectors ensures tenant demand remains consistently high, appealing strongly to discerning investors."
     ],
     "locations": [
-      "Proximity to Bypass Road",
-      "Easy Access to Metro Stations",
-      "Near Delhi Public School DPS",
-      "Close to Amrita Hospital",
-      "Well-developed Internal Road Network",
-      "Connecting to Greater Faridabad Sectors",
-      "Upcoming Commercial Zones Nearby",
-      "Direct Route to Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

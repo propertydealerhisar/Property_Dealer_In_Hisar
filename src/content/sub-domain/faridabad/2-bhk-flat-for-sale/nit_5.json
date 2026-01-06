@@ -61,14 +61,56 @@
       "Exploring nearby locations provides a broader perspective on the market dynamics and helps in finding the perfect community environment. Whether you prioritize proximity to specific schools or need easy access to the railway station, these surrounding zones offer excellent alternatives to consider for your next home purchase in Faridabad."
     ],
     "locations": [
-      "NIT 1 Faridabad",
-      "NIT 2 Faridabad",
-      "NIT 3 Faridabad",
-      "NIT 4 Faridabad",
-      "Old Faridabad",
-      "Sector 15A",
-      "Green Field Colony",
-      "Ajronda"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -61,14 +61,56 @@
       "The connectivity corridor along the Bypass Road makes several prominent areas easily accessible. This robust infrastructure network supports the rising residential demand and ensures easy transport access. We list key adjacent sectors and projects that contribute to the robust ecosystem surrounding 2 BHK flats in Sector 70 Neharpar."
     ],
     "locations": [
-      "Sector 75 Residential Hub",
-      "Sector 71 Commercial Center",
-      "BPTP Parklands Community",
-      "Sector 81 Business District",
-      "Neharpar Bypass Road Link",
-      "Kheri Road Access Point",
-      "Sohna Road Connectivity",
-      "Proposed Metro Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

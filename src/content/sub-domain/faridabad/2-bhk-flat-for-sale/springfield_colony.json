@@ -61,14 +61,56 @@
       "Whether you commute daily or prefer quick access to weekend leisure spots, owning a 2 BHK flat in Springfield Colony puts you right at the center of convenience. We list properties that ensure minimal travel time and maximum accessibility to all key areas."
     ],
     "locations": [
-      "Proximity to NH-44 Delhi-Agra Highway",
-      "Short drive to Badarpur Border and Delhi Metro",
-      "Near major reputed schools and universities",
-      "Quick access to commercial shopping centers and markets",
-      "Well-connected public transport network",
-      "Close to leading multi-specialty hospitals",
-      "Easy approach to Faridabad Industrial Area",
-      "Direct routes to recreational parks and movie theaters"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

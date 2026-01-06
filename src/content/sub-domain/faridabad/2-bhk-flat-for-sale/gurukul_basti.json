@@ -61,12 +61,56 @@
       "Our team provides expert comparative analysis helping you weigh the pros and cons of purchasing in different neighborhoods considering factors like connectivity, future infrastructure plans, and price appreciation forecasts. Let us guide your search for the perfect 2 BHK flat for sale making sure you make an informed decision within the vibrant real estate market of Faridabad."
     ],
     "locations": [
-      "2 BHK Flat in Sector 37 Faridabad",
-      "Apartments for Sale in Green Field Colony Faridabad",
-      "Flats near Palla Road",
-      "Ready to Move Homes in New Industrial Town NIT",
-      "Residential Properties in Ballabgarh Housing Board",
-      "Budget 2 BHK Homes near Old Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

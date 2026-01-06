@@ -61,12 +61,56 @@
       "The area is self-sufficient with reputed schools healthcare facilities shopping centres and entertainment zones all within a short radius. Its proximity to key industrial areas and the vibrant commerce of Faridabad ensures high rental demand and strong property appreciation making Lakkarpur an intelligent choice for both end-users and long-term investors seeking stability and returns."
     ],
     "locations": [
-      "Sector 37 Faridabad Connectivity",
-      "Proximity to Badarpur Border Delhi",
-      "Easy Access to Mathura Road NH 19",
-      "Near Sarai Metro Station and Escorts Mujesar",
-      "Surrounding Areas like Green Field Colony",
-      "Established Social Infrastructure and Markets"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

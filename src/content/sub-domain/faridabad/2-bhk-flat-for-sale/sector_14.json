@@ -61,12 +61,56 @@
       "For those seeking slightly newer development or larger society complexes, sectors closer to the Metro link, such as Sector 17, provide diverse housing inventory including larger 2 BHK and 3 BHK options with modern society amenities like clubs and swimming pools. Sector 14 remains the gold standard for convenience and established living, but these adjacent zones provide excellent alternatives that retain proximity to key civic amenities like the Sector 15 market and major roadways connecting to the rest of Faridabad."
     ],
     "locations": [
-      "Sector 15 Faridabad",
-      "Sector 16 Faridabad",
-      "Sector 17 Faridabad",
-      "Sector 12 Housing Board",
-      "Old Faridabad",
-      "Nehru Colony Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

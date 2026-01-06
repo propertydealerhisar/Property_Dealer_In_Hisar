@@ -61,14 +61,56 @@
       "This comparative exploration ensures you find the absolute best property that fits your commuting needs, educational requirements, and lifestyle preferences. Review these nearby areas which also present strong options for 2 BHK Flat For Sale and potential rental income generation in the broader Faridabad region."
     ],
     "locations": [
-      "Ashoka Enclave Part 2",
-      "Green Field Colony Faridabad",
-      "Sector 37 Faridabad",
-      "Surajkund Road Residential Area",
-      "Charmwood Village Apartments",
-      "New Industrial Town NIT Faridabad",
-      "Sainik Colony Area",
-      "Sector 31 Residential Options"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

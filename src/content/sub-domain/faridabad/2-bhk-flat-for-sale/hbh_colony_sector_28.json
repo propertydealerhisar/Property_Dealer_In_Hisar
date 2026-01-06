@@ -61,12 +61,56 @@
       "The location provides seamless connectivity to key industrial and commercial hubs in Faridabad while maintaining a serene neighborhood environment. Finding a 2 BHK Flat For Sale in HBH Colony Sector 28 places you at the center of convenience near top schools hospitals and major retail outlets."
     ],
     "locations": [
-      "Walking Distance to Local Markets and Daily Needs Stores",
-      "5 Minutes Drive to NH-44 Delhi-Agra National Highway",
-      "Close Proximity to Escorts Mujesar Metro Station",
-      "Easy Access to Reputed Schools and Colleges",
-      "Nearness to Large Healthcare Facilities and Hospitals",
-      "Quick Commute to Sector 28 Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

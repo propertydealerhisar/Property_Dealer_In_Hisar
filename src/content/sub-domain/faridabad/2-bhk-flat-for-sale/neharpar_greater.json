@@ -61,13 +61,56 @@
       "While Neharpar itself provides excellent value, understanding its proximity to established commercial and educational hubs is crucial. The connectivity to the Delhi-Mumbai Expressway and the bypass road makes daily commuting highly manageable. Our team provides detailed comparisons of 2 BHK properties, highlighting location-specific advantages such as proximity to the proposed sports complex or major shopping centers, ensuring your final selection aligns perfectly with your lifestyle needs and investment goals in Greater Faridabad."
     ],
     "locations": [
-      "Sector 75 Faridabad",
-      "Sector 80 Neharpar",
-      "Omaxe World Street Area",
-      "BPTP Parklands Residential Hub",
-      "Sector 85 Connectivity Corridor",
-      "Greenfield Colony Proximity",
-      "Old Faridabad Metro Link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

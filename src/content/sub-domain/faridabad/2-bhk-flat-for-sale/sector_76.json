@@ -61,12 +61,56 @@
       "The planning around Sector 76 emphasizes holistic urban development including wide roads, organized commercial spaces, and ample public utilities. Investing in a 2 BHK flat here means securing a home in an area where infrastructure is continually improving, guaranteeing long-term residential satisfaction and investment returns. Review the key connectivity points below that define the advantage of choosing Sector 76 Faridabad."
     ],
     "locations": [
-      "NH-19 Delhi-Agra Highway Access",
-      "Proximity to Proposed Metro Station",
-      "Reputed Schools and Educational Institutes",
-      "Major Multispecialty Hospitals Nearby",
-      "Large Retail Shopping Complexes",
-      "Upcoming Business and IT Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

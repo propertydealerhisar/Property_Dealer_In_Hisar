@@ -61,14 +61,56 @@
       "The accessibility to NH-44 makes travel into Delhi particularly efficient a major draw for NCR commuters looking for high-quality living outside the capital’s immediate congestion. When you secure a 2 BHK flat for sale here you are buying into a mature neighborhood that is already fully developed with parks markets and utility services in place. This eliminates the waiting period associated with newer developing areas providing immediate livability. Furthermore the neighboring sectors like Sector 21D and Sector 15 offer diverse dining and entertainment options enriching the lifestyle of Sector 21C residents making it a highly interconnected community hub."
     ],
     "locations": [
-      "Sector 21D Faridabad",
-      "NH-44 Delhi-Mathura Road",
-      "Badarpur Border Delhi",
-      "Crown Interiorz Mall",
-      "Sector 16 Market",
-      "Sarai Metro Station",
-      "Asian Hospital",
-      "Sector 15 Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

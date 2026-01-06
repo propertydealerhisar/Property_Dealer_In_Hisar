@@ -61,14 +61,56 @@
       "The connectivity matrix of Sector 80 ensures that residents are never far from essential services or entertainment options. Major schools reputed hospitals and extensive retail complexes are all situated within a short drive. This prime location combined with the inherent efficiency and affordability of a 2 BHK flat presents an unbeatable property proposition in the NCR market. Explore how the superb locational advantages of Sector 80 support a high-quality, modern lifestyle right at the cusp of urban sophistication."
     ],
     "locations": [
-      "NH-2 Delhi-Mathura Expressway proximity",
-      "Easy access to Faridabad's commercial hub",
-      "Near proposed metro corridor extension points",
-      "Close proximity to reputable educational institutions",
-      "Well-connected through public transport networks",
-      "Short drive to major healthcare facilities",
-      "Surrounded by developing retail and entertainment zones",
-      "Seamless connectivity to Noida and Gurugram via major roads"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

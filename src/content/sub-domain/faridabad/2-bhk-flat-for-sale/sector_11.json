@@ -61,11 +61,56 @@
       "Expanding your search horizon ensures you make the most informed decision regarding your new home in Faridabad. Whether you need a 3 BHK upgrade or are looking at independent floors for more space, our portfolio covers the best residential investment opportunities surrounding Sector 11, ensuring you find the perfect match for your family’s needs."
     ],
     "locations": [
-      "2 BHK Flat in Sector 10 Faridabad",
-      "3 BHK Flat in Sector 11 Faridabad",
-      "Residential Plots in Sector 14",
-      "Commercial Property near Sector 11",
-      "Independent Floors in Sector 15"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

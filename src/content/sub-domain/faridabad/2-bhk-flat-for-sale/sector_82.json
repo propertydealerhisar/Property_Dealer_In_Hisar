@@ -61,13 +61,56 @@
       "Understanding the surrounding micro-market is crucial when making a property investment. Areas neighboring Sector 82 complement its residential appeal by providing additional shopping, leisure, and educational opportunities. We ensure our clients are fully informed about the regional advantages, highlighting how Sector 82 serves as a gateway to both Faridabad’s established markets and Gurgaon’s commercial zones. Explore the vibrant neighborhoods that enhance the value proposition of owning a 2 BHK apartment in this excellent locality."
     ],
     "locations": [
-      "Sector 81",
-      "Sector 83",
-      "Sector 85",
-      "BPTP Parklands",
-      "Neharpar",
-      "Greater Faridabad",
-      "Omaxe City"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -61,14 +61,56 @@
       "The connectivity via major highways like the Surajkund Road and Badarpur-Faridabad elevated expressway ensures smooth travel. This superb location strengthens the value proposition of any 2 BHK Flat For Sale in Charmwood Village guaranteeing high demand and strong appreciation potential."
     ],
     "locations": [
-      "Badarpur Border 5 minutes drive",
-      "Mohan Cooperative Industrial Estate",
-      "Jasola Vihar and Apollo Hospital",
-      "Eros Mall and Crown Plaza Shopping Center",
-      "Sarita Vihar Metro Station",
-      "South Delhi Access via Surajkund Road",
-      "World-class Schools DPS and Modern School",
-      "Tughlakabad Fort Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -61,13 +61,56 @@
       "Beyond infrastructure, Aitmadpur Sector 33 is supported by robust social infrastructure. You will find numerous highly-rated educational institutions, world-class healthcare facilities, and diverse shopping destinations nearby. Investing in a 2 BHK Flat For Sale in Aitmadpur Sector 33 means investing in a location poised for rapid infrastructure growth and long-term appreciation, solidifying its status as a desirable residential destination within the Faridabad region."
     ],
     "locations": [
-      "NH-19 Access",
-      "Badarpur Border Delhi",
-      "Escorts Mujesar Metro Station",
-      "World Street Faridabad",
-      "Crown Interiorz Mall",
-      "Sector 31 Commercial Market",
-      "Reputable Multi-Specialty Hospitals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

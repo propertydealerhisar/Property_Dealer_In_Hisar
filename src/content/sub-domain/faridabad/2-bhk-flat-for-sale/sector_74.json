@@ -61,12 +61,56 @@
       "Proximity to established educational institutions and world-class healthcare centers is a major draw for families considering relocation. Unlike older more congested areas of the city Sector 74 benefits from modern urban planning ensuring wide roads less traffic congestion and better civic infrastructure services. This location successfully balances peaceful residential living with the essential requirements of modern urban life making it highly desirable for potential residents and future appreciation."
     ],
     "locations": [
-      "Reputable Educational Institutes",
-      "Major Multispecialty Hospitals",
-      "Integrated Commercial Shopping Malls",
-      "Easy Access to FNG Expressway",
-      "Nearby Proposed Metro Stations",
-      "Established Corporate Business Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

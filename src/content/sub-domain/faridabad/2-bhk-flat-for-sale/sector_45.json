@@ -61,14 +61,56 @@
       "The surroundings of Sector 45 are characterized by planned development, green spaces, and well-maintained roads. Exploring properties here means investing in an area poised for significant future growth, guaranteeing convenience and a high quality of life. Below are some key areas and complexes that contribute to the sector's robust infrastructure and resident satisfaction."
     ],
     "locations": [
-      "Omaxe New Heights",
-      "Sector 46 Residential Area",
-      "Green Field Colony Access",
-      "Crown Plaza Mall Connectivity",
-      "Sarai Metro Station Proximity",
-      "NHPC Chowk Link Road",
-      "Sector 37 Commercial Hub",
-      "Ajronda Sector 15 Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

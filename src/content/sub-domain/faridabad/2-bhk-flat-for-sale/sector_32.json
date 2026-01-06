@@ -61,14 +61,56 @@
       "Whether you need proximity to your workplace or easy weekend access to entertainment options, these 2 BHK flats in Sector 32 provide the ideal central base. Review these critical nearby points of interest that enhance the appeal and investment potential of the property listings available right now."
     ],
     "locations": [
-      "Top-rated schools and educational institutions",
-      "Multi-specialty hospitals and medical centers",
-      "Major shopping malls and retail complexes",
-      "Easily accessible Metro Station links",
-      "Proximity to major corporate offices",
-      "Direct access to highways like NH-19",
-      "Local markets and daily needs stores nearby",
-      "Recreational spots and public libraries"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -61,12 +61,56 @@
       "Our comprehensive map tool allows you to visualize connectivity to major roads like the Delhi-Mathura Highway and the nearest metro lines. Expanding your search circle ensures you do not miss out on excellent opportunities nearby that might offer specialized amenities or unique community features. Let us guide you through the best investment zones and residential markets surrounding Sector 5."
     ],
     "locations": [
-      "2 BHK Flat For Sale in Sector 6",
-      "2 BHK Flat For Sale in Sector 7",
-      "3 BHK Flat For Sale in Sector 8 Faridabad",
-      "Apartments in Sector 10 Faridabad",
-      "Residential Properties in Green Field Colony",
-      "Flats Near Neelam Bata Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

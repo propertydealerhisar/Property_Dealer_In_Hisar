@@ -61,14 +61,56 @@
       "Living in NIT 2 means less commuting time and more family time. Residents benefit from quick access to the Faridabad Railway Station, making intercity travel smooth. Furthermore, numerous reputable schools, multi-specialty hospitals, and major shopping complexes like Crown Plaza are easily reachable. This high degree of urban convenience solidifies why a 2 BHK flat for sale in NIT 2 is highly desirable for buyers and tenants alike."
     ],
     "locations": [
-      "NIT 1",
-      "NIT 3",
-      "Neelam Bata Road",
-      "Faridabad Railway Station",
-      "Old Faridabad Metro Station",
-      "Bata Chowk Metro Station",
-      "Sector 15 Market",
-      "Mujesar Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

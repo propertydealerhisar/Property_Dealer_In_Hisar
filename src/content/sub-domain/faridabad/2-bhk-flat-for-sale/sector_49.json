@@ -61,14 +61,56 @@
       "When considering a 2 BHK Flat For Sale in Sector 49 you are not just buying an apartment you are investing in a comprehensive ecosystem. Nearby areas provide expansive green spaces reputable schools like DPS and leading healthcare providers making daily life immensely convenient. We guide you through the local ecosystem helping you select a property that optimizes accessibility to all critical amenities and improves overall quality of life in this rapidly developing part of Faridabad."
     ],
     "locations": [
-      "Sector 48 Residential Projects",
-      "Sector 50 Commercial Hubs",
-      "Neharpar Greater Faridabad",
-      "Faridabad Bypass Road Access",
-      "Old Faridabad Railway Station Connectivity",
-      "Ajronda Metro Station Proximity",
-      "Badarpur Border Access Points",
-      "Upcoming Shopping Malls and Retail Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

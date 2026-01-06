@@ -61,12 +61,56 @@
       "Beyond transport links, the sector is surrounded by world-class educational institutions like DPS and Modern School ensuring excellent options for families with children. Healthcare needs are addressed by major hospitals like Asian and Fortis located just a short drive away. The presence of numerous shopping centers, local markets, and recreational parks enhances the livability quotient significantly. This established infrastructure ensures that when you purchase a 2 BHK flat for sale in Sector 31, you are investing in a lifestyle of convenience and growth rather than just property. We help you map out the essential services closest to your potential new home."
     ],
     "locations": [
-      "NH-44 Expressway",
-      "Faridabad Metro Station",
-      "Reputed Educational Institutions",
-      "Leading Multispecialty Hospitals",
-      "Major Shopping Malls",
-      "Sector 30 Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

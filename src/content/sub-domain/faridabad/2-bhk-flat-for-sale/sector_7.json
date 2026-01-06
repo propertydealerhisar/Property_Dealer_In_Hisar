@@ -61,14 +61,56 @@
       "We categorize listings based on age of construction, floor level, and specific building amenities. Unlike generic searches, we highlight listings near key local landmarks such as the Sector 7 community center and popular local parks. We are committed to helping you navigate the inventory to find the perfect two-bedroom home that maximizes space utility and offers exceptional value for money in the Faridabad real estate landscape."
     ],
     "locations": [
-      "Sector 7 Main Residential Blocks",
-      "Sector 7 HUDA Market Vicinity",
-      "Near Sector 7 Community Centre",
-      "Adjacent to Sector 8 Faridabad",
-      "Properties Near NH-44 Bypass",
-      "Sector 7 Pocket A",
-      "Sector 7 Corner Flats",
-      "Gated Societies in Sector 7"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

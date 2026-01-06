@@ -60,7 +60,58 @@
       "Sector 88 stands out as a prime residential zone in Faridabad primarily due to its exceptional infrastructure planning and connectivity links Residents of a 2 BHK flat for sale here benefit from seamless travel options The sector is strategically located close to the Faridabad-Noida-Ghaziabad FNG Expressway ensuring rapid access to the neighboring cities and the entire NCR region Furthermore the nearest Metro Station provides a crucial link for daily commuters making office travel hassle-free and time-efficient.",
       "Beyond physical connectivity Sector 88 is surrounded by established social infrastructure Top-tier educational institutions hospitals and major shopping centers are within a 10 to 15-minute drive This proximity ensures that all daily needs from schooling and healthcare to entertainment and retail therapy are easily met The availability of essential amenities coupled with robust connectivity makes owning a 2 BHK flat in Sector 88 not just a home purchase but an investment in convenience and a high quality of life Explore our detailed neighborhood guides and see why Sector 88 is the perfect location for your next apartment"
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Eight Reasons to Invest in a 2 BHK Flat For Sale in Sector 88 Faridabad Today",

@@ -61,14 +61,56 @@
       "Whether you need swift access to Delhi, proximity to industrial zones, or prefer a quieter neighboring area, Dayal Bagh Colony acts as an excellent hub. Review the areas listed below to see how our 2 BHK flats for sale provide optimal positional advantages within the wider Faridabad real estate landscape."
     ],
     "locations": [
-      "Ballabgarh",
-      "Sector 56",
-      "Green Field Colony",
-      "NH-19 Highway Access",
-      "Sector 37",
-      "New Industrial Township NIT",
-      "Surajkund Road",
-      "Tigaon Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

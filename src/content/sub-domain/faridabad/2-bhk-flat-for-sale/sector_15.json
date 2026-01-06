@@ -61,14 +61,56 @@
       "Whether you are looking for alternative routes, specific schooling options, or diverse retail experiences, the connectivity from Sector 15 is unbeatable. This ensures residents have quick access to everything they need making your decision to buy a 2 BHK flat here highly strategic."
     ],
     "locations": [
-      "Sector 16 Faridabad",
-      "Sector 14 Faridabad",
-      "New Industrial Township NIT",
-      "Sector 17 Faridabad",
-      "Green Field Colony",
-      "NHPC Chowk",
-      "Sector 19 Faridabad",
-      "Badarpur Border"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

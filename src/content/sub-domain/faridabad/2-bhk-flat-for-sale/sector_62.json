@@ -61,12 +61,56 @@
       "It provides quick access to the Delhi-Mathura Highway and is served by robust local transport options ensuring you are never far from the essentials. Reputed schools like DAV Public School and numerous healthcare centers are situated just minutes away offering unmatched convenience for families. This sector is designed for future growth ensuring that your investment appreciates steadily over time. Explore the key proximate areas that enhance the value proposition of owning a 2 BHK apartment in this promising locality of Faridabad."
     ],
     "locations": [
-      "DLF Area",
-      "Greater Faridabad",
-      "Proposed Metro Link",
-      "Shopping Complexes",
-      "Institutional Hub",
-      "NH-19 Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

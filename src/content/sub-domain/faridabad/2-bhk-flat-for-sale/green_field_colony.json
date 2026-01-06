@@ -58,14 +58,56 @@
       "The location provides excellent access to Badarpur Border, linking you directly to South Delhi within minutes. Furthermore, the presence of renowned schools, large hospitals, and bustling commercial centres nearby ensures that all family needs are met conveniently. When you buy a 2 BHK Flat in Green Field Colony, you are investing in connectivity and community growth."
     ],
     "locations": [
-      "Badarpur Metro Station Delhi",
-      "Crown Interiorz Mall",
-      "NH-2 Mathura Road Expressway",
-      "Escorts Mujesar Metro Station",
-      "Sector 37 Faridabad Residential Hub",
-      "Sarai Khawaja Industrial Area",
-      "Surajkund Tourist Complex",
-      "Apollo Hospital Sector 19"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

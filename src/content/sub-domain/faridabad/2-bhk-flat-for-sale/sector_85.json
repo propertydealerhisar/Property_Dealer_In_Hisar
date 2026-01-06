@@ -61,14 +61,56 @@
       "This area benefits from well-planned infrastructure, robust road networks, and developing social amenities. Residents enjoy quick access to major highways, proposed metro lines, and established educational and healthcare institutions. This strategic positioning makes the 2 BHK flats in Sector 85 exceptionally appealing to families seeking balance and convenience."
     ],
     "locations": [
-      "Faridabad-Noida-Ghaziabad FNG Expressway connectivity",
-      "Near proposed Metro Corridor expansions",
-      "Proximity to major industrial and commercial sectors of Faridabad",
-      "Easy access to established schools and higher education institutes",
-      "Quick drive to reputable multi-specialty hospitals",
-      "Developing retail hubs and shopping centers nearby",
-      "Direct link to NH-44 for travel towards Delhi and Gurugram",
-      "Green spaces and parks within easy walking distance"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

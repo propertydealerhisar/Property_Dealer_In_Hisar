@@ -61,14 +61,56 @@
       "We help you compare and contrast the different options near Sector 21D ensuring you make an informed decision based on pricing amenities and future growth prospects. These adjacent areas are well-developed featuring robust civic amenities and reliable transportation links ensuring smooth connectivity across the broader Faridabad region."
     ],
     "locations": [
-      "Sector 21C Faridabad",
-      "Sector 21B Faridabad",
-      "Green Field Colony Faridabad",
-      "Sector 17 Faridabad",
-      "Sector 16 Faridabad",
-      "Charmwood Village",
-      "Surajkund Road Area",
-      "Ashoka Enclave"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

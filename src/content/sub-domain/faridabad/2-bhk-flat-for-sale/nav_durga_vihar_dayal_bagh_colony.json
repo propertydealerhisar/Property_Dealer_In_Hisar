@@ -61,12 +61,56 @@
       "Investing in a 2 BHK Flat For Sale in Nav Durga Vihar Dayal Bagh Colony means securing a property in a rapidly developing zone that promises substantial infrastructural growth and connectivity improvements. This strategic position ensures excellent capital appreciation potential and access to neighboring premium localities and commercial hubs in central Faridabad."
     ],
     "locations": [
-      "Green Field Colony Access",
-      "Sector 37 Residential Hub",
-      "Badarpur Border Connectivity",
-      "Tughlakabad Institutional Area",
-      "Crown Interiorz Mall Proximity",
-      "NHPC Chowk Metro Station Link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

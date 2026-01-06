@@ -61,13 +61,56 @@
       "Investing in a 2 BHK Flat For Sale in New Industrial Township places you at the heart of convenience. The area is flanked by established residential sectors and commercial markets, meaning essential services like grocery stores, banks, and entertainment zones are just minutes away. This mature infrastructure minimizes the adjustment period for new residents and maximizes the long-term appreciation potential of your asset. Explore the key proximate locations that enhance the value proposition of living here."
     ],
     "locations": [
-      "NIT 1 and NIT 2 Faridabad",
-      "Sector 16 and Sector 17 Commercial Hubs",
-      "Mathura Road NH-44 Access",
-      "Proximity to Badarpur Border",
-      "Near Bata Chowk Metro Station",
-      "Ajronda Chowk Connectivity",
-      "Old Faridabad Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -61,16 +61,56 @@
       "Whether you are commuting for work or leisure, the accessibility offered by this location adds tremendous value to your decision to buy a 2 BHK flat here. The well-planned road network and strong public transport links solidify Sector 29 as a highly convenient residential hub."
     ],
     "locations": [
-      "Sector 30",
-      "Sector 28",
-      "Green Field Colony",
-      "NHPC Chowk Metro Station",
-      "Sector 31",
-      "Neelam Chowk",
-      "Badarpur Border",
-      "Sector 27",
-      "Mathura Road NH-44",
-      "Ballabgarh"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
