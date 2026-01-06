@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit5.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Perfect 3 BHK Flat For Sale in NIT 5 Faridabad Prime Location",
     "description": [
@@ -60,7 +60,58 @@
       "NIT 5 is strategically located to offer the best of Faridabad connectivity. It provides seamless access to the Delhi-Mathura Road (NH-44) and the Faridabad Metro network, making commuting into Delhi or Gurugram effortless. Residents benefit from being close to major commercial hubs and entertainment zones, yet maintaining a quiet, residential environment.",
       "The local infrastructure surrounding every 3 BHK Flat For Sale in NIT 5 is robust, featuring well-maintained roads, reliable water supply, and excellent public transport options. This area continues to witness significant infrastructural growth, further enhancing the long-term appreciation potential of your property investment."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Investing in a 3 BHK Flat For Sale in NIT 5 is Your Smartest Move",

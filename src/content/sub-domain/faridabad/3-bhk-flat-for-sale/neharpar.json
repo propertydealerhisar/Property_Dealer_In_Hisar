@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "neharpar.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Neharpar Faridabad Today",
     "description": [
@@ -61,15 +61,56 @@
       "We specialize in properties located in the most sought-after pockets of Greater Faridabad ensuring buyers secure a flat that offers high rental yield potential and sustained capital growth. Each location listed below represents a prime opportunity to invest in a thriving community, guaranteeing proximity to future commercial developments and necessary civic utilities. Explore these high-potential areas now."
     ],
     "locations": [
-      "Sector 75 Neharpar",
-      "Sector 80 Greater Faridabad",
-      "Sector 81 Premium Units",
-      "Sector 84 New Launches",
-      "Sector 85 Luxury Living",
-      "Sector 86 Family Apartments",
-      "Sector 87 High Rises",
-      "Sector 88 Investment Flats",
-      "Sector 89 Residential Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

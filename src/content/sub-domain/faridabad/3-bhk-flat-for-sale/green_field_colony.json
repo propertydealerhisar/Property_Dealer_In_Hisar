@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "greenfieldcolony.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal 3 BHK Flat For Sale in Green Field Colony Faridabad Today",
     "description": [
@@ -61,13 +61,56 @@
       "The location provides seamless connectivity to commercial centers educational institutions and healthcare facilities ensuring all your daily needs are met within a short drive. Explore these adjacent areas which further boost the residential appeal of securing a 3 BHK flat For Sale in Green Field Colony Faridabad."
     ],
     "locations": [
-      "Surajkund Road Faridabad",
-      "Charmwood Village Faridabad",
-      "Sector 37 Faridabad",
-      "Sainik Colony Faridabad",
-      "Pali Road Faridabad",
-      "Tughlakabad Extension Faridabad",
-      "NHPC Colony Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

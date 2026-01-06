@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector38.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Premium 3 BHK Flat For Sale in Sector 38 Your Ideal Family Home Awaits",
     "description": [
@@ -60,7 +60,58 @@
       "Sector 38 stands out as a highly sought-after location for purchasing a 3 BHK Flat For Sale due to its comprehensive social and physical infrastructure. It offers the ideal balance between urban accessibility and peaceful neighborhood living. The area is strategically located providing seamless access to major business centers shopping malls and entertainment complexes all within a short drive.",
       "The locality boasts proximity to renowned international schools top-tier hospitals and vibrant local markets making daily life incredibly convenient for families. Furthermore Sector 38 benefits from planned development robust utility services and well-maintained roads contributing to a high quality of life. This strong locational advantage not only enhances daily comfort but also guarantees strong capital appreciation for your investment over time cementing Sector 38 as the smartest choice for serious homebuyers."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Eight Compelling Reasons to Invest in a 3 BHK Flat For Sale in Sector 38 Today",

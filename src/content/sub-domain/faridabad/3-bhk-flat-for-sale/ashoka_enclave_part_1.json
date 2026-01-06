@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "ashokaenclavepart1.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Ashoka Enclave Part 1 Today Prime Location",
     "description": [
@@ -61,12 +61,56 @@
       "Choosing a 3 BHK Flat For Sale in Ashoka Enclave Part 1 means choosing a vibrant supportive community where everything you need is just minutes away. This area is rapidly evolving yet successfully maintains its traditional welcoming charm making it highly desirable for long-term residency and significant capital appreciation. We help you navigate the best pockets within the enclave ensuring maximum value and lifestyle quality for your important purchase."
     ],
     "locations": [
-      "Direct Linkage to Delhi-Ghaziabad Expressway",
-      "Proximity to Key Metro Stations and Rapid Transit",
-      "Access to Top Rated Schools and Educational Institutes",
-      "Immediate Reach to Major Healthcare Facilities and Hospitals",
-      "Abundant Local Markets and Convenience Shopping Centers",
-      "Easily Accessible Recreational Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

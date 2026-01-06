@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector32.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Sector 32 Faridabad Luxury Living Awaits",
     "description": [
@@ -61,14 +61,56 @@
       "Investing in a 3 BHK Flat For Sale in Sector 32 Faridabad guarantees that your home is never far from where you need to be. We focus on properties that offer the dual advantage of high living standards and excellent locational benefits. Review our prime location advantages below."
     ],
     "locations": [
-      "NH-44 Access Faridabad",
-      "Badarpur Border Faridabad",
-      "Sector 31 Metro Station Faridabad",
-      "Crown Interiorz Mall Faridabad",
-      "Escorts Mujesar Metro Station Faridabad",
-      "Delhi Public School Faridabad",
-      "Asian Institute of Medical Sciences Faridabad",
-      "Nehru Place Commercial Hub Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

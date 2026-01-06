@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector85.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Luxury 3 BHK Flat For Sale in Sector 85 Find Your Dream Ready-to-Move Home",
     "description": [
@@ -61,12 +61,56 @@
       "We provide detailed insights into the best ready-to-move and under-construction 3 BHK options. Our listings focus on projects known for timely delivery, clear legal titles, and high appreciation potential. Let us help you navigate the choices, ensuring you select a property that aligns perfectly with your lifestyle needs and financial goals within this high-growth micro-market."
     ],
     "locations": [
-      "Signature Global Park",
-      "DLF Ultima Residences",
-      "Vatika Township Sector 85",
-      "Sare Homes Crescent Parc",
-      "Ready-to-Move Flats Near Dwarka Expressway",
-      "New Launch Projects in Sector 85"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

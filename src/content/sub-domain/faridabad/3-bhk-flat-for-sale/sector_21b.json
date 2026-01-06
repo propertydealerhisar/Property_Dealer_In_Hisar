@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21b.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Sector 21B Gurugram Noida Expressway",
     "description": [
@@ -61,12 +61,56 @@
       "The true value of a 3 BHK flat for sale in Sector 21B lies in its proximity to established social infrastructure. Residents benefit from quick access to leading educational institutions, world-class hospitals, and prominent shopping destinations. Investing here means choosing unparalleled convenience and future growth potential in a rapidly appreciating real estate corridor."
     ],
     "locations": [
-      "Proximity to Major National Highway NH-44",
-      "Easy Drive to Faridabad Railway Station",
-      "Near Asian Institute of Medical Sciences",
-      "Minutes from Crown Interiorz Mall",
-      "Close to Delhi Public School DPS",
-      "Direct Access to Local Sector 20 Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

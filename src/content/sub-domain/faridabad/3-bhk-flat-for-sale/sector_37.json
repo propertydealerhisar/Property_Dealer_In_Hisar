@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector37.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Ideal 3 BHK Flat For Sale in Sector 37 Your Perfect Family Home Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "Essential services are just minutes away, including major healthcare facilities like Asian Institute of Medical Sciences and numerous esteemed educational institutions, ensuring that family needs are met promptly. Furthermore, the local area is developing rapidly, with new retail parks and recreational areas constantly emerging, enhancing the lifestyle quotient. Finding the perfect home means finding the perfect neighborhood, and Sector 37 truly delivers on both fronts."
     ],
     "locations": [
-      "Badarpur Metro Station",
-      "NH 44 Expressway Connectivity",
-      "Sector 36 Residential Area",
-      "Surajkund Tourist Complex",
-      "Crown Interiorz Mall",
-      "Escorts Mujesar Metro Link"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

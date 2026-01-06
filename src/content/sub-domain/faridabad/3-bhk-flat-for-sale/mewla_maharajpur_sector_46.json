@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "mewlamaharajpursector46.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Mewla Maharajpur Sector 46 Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "The connectivity provided by the nearby highway and metro stations transforms daily commuting into a hassle-free experience. When you invest in a 3 BHK Flat For Sale in Mewla Maharajpur Sector 46, you are not just buying a home you are securing a life of convenience supported by robust local infrastructure and proximity to all urban necessities."
     ],
     "locations": [
-      "Sector 45 Faridabad",
-      "Sector 47 Faridabad",
-      "Greenfield Colony Faridabad",
-      "Neharpar Greater Faridabad",
-      "Badarpur Border Faridabad",
-      "Surajkund Faridabad",
-      "Ajronda Faridabad",
-      "Sector 44 Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

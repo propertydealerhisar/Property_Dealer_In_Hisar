@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector22.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Finding Your Dream 3 BHK Flat For Sale in Sector 22 The Perfect Family Home Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "Proximity to the nearest metro station (or major transit link) significantly reduces commute times, making the area popular among working professionals. We understand that convenience is key, so our featured properties are situated close to essential services, combining urban accessibility with peaceful residential comfort."
     ],
     "locations": [
-      "Major Expressway Access Points",
-      "Reputable Schools and Universities",
-      "Leading Healthcare Facilities and Hospitals",
-      "Commercial Shopping Complexes and Malls",
-      "Nearby Corporate IT Parks and Business Centers",
-      "Nearest Metro Station Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "gurukulbasti.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Dream 3 BHK Flat For Sale in Gurukul Basti Today",
     "description": [
@@ -61,14 +61,56 @@
       "The seamless road network ensures quick travel to commercial hubs, educational institutions, and healthcare facilities. Investing here means minimizing commute times and maximizing quality family time, making a 3 BHK Flat For Sale in Gurukul Basti an exceptionally practical investment choice."
     ],
     "locations": [
-      "Major Expressways Access",
-      "Reputable Schools nearby",
-      "Local Shopping Markets",
-      "Hospitals and Clinics",
-      "Metro Station Proximity",
-      "Banks and ATMs",
-      "Community Parks and Gardens",
-      "Gyms and Fitness Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

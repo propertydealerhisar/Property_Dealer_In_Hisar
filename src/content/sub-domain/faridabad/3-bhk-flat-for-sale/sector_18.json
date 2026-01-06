@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector18.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Sector 18 Faridabad Prime Residential Hub",
     "description": [
@@ -61,14 +61,56 @@
       "The sector enjoys proximity to the Delhi-Mathura Road NH-19, offering swift travel to Delhi NCR regions. This strategic advantage, combined with well-maintained internal roads and green parks, contributes significantly to the high appreciation potential of a 3 BHK Flat For Sale in Sector 18. Explore neighboring areas that enhance the appeal of this location."
     ],
     "locations": [
-      "Sector 19 Faridabad",
-      "Sector 17 Faridabad",
-      "Badarpur Border Faridabad",
-      "Old Faridabad Metro Station Faridabad",
-      "Neelam Chowk Faridabad",
-      "Crown Interiorz Mall Faridabad",
-      "Asian Institute of Medical Sciences Faridabad",
-      "Aravalli Golf Course Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

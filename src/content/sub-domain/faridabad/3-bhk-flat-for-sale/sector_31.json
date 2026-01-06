@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector31.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Finding Your Ideal 3 BHK Flat For Sale in Sector 31 Gurgaon a Premium Residential Choice",
     "description": [
@@ -61,14 +61,56 @@
       "Investing in a 3 BHK flat for sale in Sector 31 means placing yourself at the heart of convenience. The sector boasts superb connectivity to national highways and is seamlessly linked to business districts shopping centers and healthcare facilities making daily commutes negligible and enhancing your quality of life."
     ],
     "locations": [
-      "DLF Cyber City & Golf Course Road",
-      "IGI Airport Terminal 3 Access",
-      "Reputed Schools DPS Amity",
-      "Major Retail & Shopping Malls",
-      "NH-48 National Highway Link",
-      "Sector 29 Entertainment Hub",
-      "Medanta The Medicity Hospital",
-      "Rapid Metro Connectivity Stations"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

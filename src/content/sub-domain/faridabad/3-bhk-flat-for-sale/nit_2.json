@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit2.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in NIT 2 Faridabad Prime Location Today",
     "description": [
@@ -61,14 +61,56 @@
       "The locality boasts proximity to key employment sectors, renowned educational institutions, and sophisticated healthcare facilities. Furthermore, the area is well-served by local markets, shopping complexes, and recreational green spaces, ensuring a high quality of life. This robust infrastructure supports a stable residential environment, making the decision to buy a 3 BHK flat in NIT 2 a wise long-term choice for discerning buyers and investors alike. Explore the proximity of these key locations that enhance the value proposition of your new home."
     ],
     "locations": [
-      "Neelam Chowk Ajronda Metro Station",
-      "Crown Interiorz Mall",
-      "Escorts Mujesar Metro Station",
-      "Sector 16 Market",
-      "Asian Institute of Medical Sciences",
-      "DAV Public School",
-      "Badarpur Border Delhi Access",
-      "Pahladpur Industrial Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

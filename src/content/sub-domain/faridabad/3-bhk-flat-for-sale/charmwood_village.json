@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "charmwoodvillage.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream Lifestyle Find the Best 3 BHK Flat For Sale in Charmwood Village",
     "description": [
@@ -61,12 +61,56 @@
       "The proximity to the Badarpur Metro Station and the immediate connection to the Delhi-Faridabad Skyway ensure smooth transportation options. Furthermore the area is already home to established infrastructure including top-tier educational institutions such as DPS and Apeejay and leading healthcare facilities. Investing in a 3 BHK flat here means securing a home in an area guaranteed for sustained capital appreciation due to its foundational planning and robust connectivity. It truly offers the best of both worlds suburban peace and city access making it a prime destination for discerning buyers seeking quality residential investment."
     ],
     "locations": [
-      "Badarpur Metro Station Proximity",
-      "Immediate Access to NH44 Delhi-Faridabad Highway",
-      "Close to South Delhi Saket and GK",
-      "Proximity to Mohan Cooperative Industrial Estate",
-      "Near Reputable Schools DPS and Apeejay",
-      "Easy Drive to Surajkund Tourist Complex"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

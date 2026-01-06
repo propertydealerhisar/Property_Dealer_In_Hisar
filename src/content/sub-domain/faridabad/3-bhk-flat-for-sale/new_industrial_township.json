@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "newindustrialtownship.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal 3 BHK Flat For Sale in New Industrial Township Prime Locations Today",
     "description": [
@@ -61,12 +61,56 @@
       "The growth trajectory of specific zones within NIT promises excellent capital appreciation in the medium term. We have analyzed the key drivers of residential demand focusing on zones that benefit from infrastructural projects and proximity to planned Metro extensions. Our location selection criteria ensure that you are investing in a thriving community not just a standalone apartment building. Consult with our experts to understand the localized pricing trends and projected returns in these desirable sectors before committing to a purchase."
     ],
     "locations": [
-      "Sector 80 NIT",
-      "Sector 85 Industrial Area",
-      "Greenfield NIT Extension",
-      "Metro Bypass Road Zone",
-      "Main Mathura Road Proximity",
-      "Central NIT Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

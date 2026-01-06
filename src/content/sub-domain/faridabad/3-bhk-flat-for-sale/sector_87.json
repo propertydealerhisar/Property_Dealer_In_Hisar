@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector87.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Sector 87 Ready to Move Options Available Now",
     "description": [
@@ -61,12 +61,56 @@
       "This sector is specifically designed to be self-sufficient yet perfectly connected to the larger metropolitan area. Proximity to major highways ensures quick travel while local schools hospitals and shopping complexes provide immediate convenience. Explore the map to see how strategically placed your 3 BHK flat in Sector 87 will be in relation to all essential points of interest."
     ],
     "locations": [
-      "Major Expressways Access Points",
-      "Top Educational Institutions and Schools",
-      "Amrita Hospital and Healthcare Facilities",
-      "Local Shopping Malls and Retail Hubs",
-      "Proposed Metro Station Linkage",
-      "Nearby Business and IT Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector11.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Ideal 3 BHK Flat For Sale in Sector 11 Your Dream Home Awaits",
     "description": [
@@ -61,14 +61,56 @@
       "The sector provides quick access to major highways, connecting you effortlessly to the wider region. Furthermore, top educational institutions, multi-specialty hospitals, and vibrant retail centers are just minutes away. This comprehensive access confirms why a 3 BHK flat For Sale in Sector 11 maintains strong property appreciation potential and desirability among home seekers."
     ],
     "locations": [
-      "Major Schools and Educational Campuses",
-      "Regional Metro Station Access Points",
-      "Leading Multi-Specialty Hospitals",
-      "Major City Commercial Hubs",
-      "NH-44 National Highway Connectivity",
-      "Dedicated Local Market Areas",
-      "Green Parks and Recreational Zones",
-      "Proximity to Upcoming Retail Centers"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

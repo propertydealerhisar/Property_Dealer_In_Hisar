@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector29.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Luxurious 3 BHK Flat For Sale in Sector 29 Premium Residential Hub",
     "description": [
@@ -61,14 +61,56 @@
       "The connectivity ensures that whether you are traveling to the airport, the city center, or major commercial districts, your new 3 BHK flat serves as the perfect starting point. Below are some of the key locational advantages that enhance the value proposition of owning a 3 BHK Flat For Sale in Sector 29."
     ],
     "locations": [
-      "Proximity to NH-48 and major expressways",
-      "Short drive to prominent corporate parks and IT centers",
-      "Close distance to top-rated hospitals and healthcare centers",
-      "Easy access to metro stations and public transit nodes",
-      "Surrounded by renowned international schools and colleges",
-      "Minutes away from major shopping malls and fine dining restaurants",
-      "Near established parks and recreational green spaces",
-      "Well-maintained internal sector roads and street lighting"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

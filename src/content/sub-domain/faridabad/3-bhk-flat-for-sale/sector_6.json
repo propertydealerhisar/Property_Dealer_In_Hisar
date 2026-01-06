@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector6.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Sector 6 Faridabad Today for Premium Urban Living",
     "description": [
@@ -61,13 +61,56 @@
       "Beyond connectivity the neighborhood is packed with amenities crucial for family life. Residents enjoy close proximity to esteemed educational institutions world-class healthcare facilities and buzzing retail and dining options. This strong supporting ecosystem ensures that all your daily and emergency needs are met within a short radius enhancing the desirability and livability quotient of your new 3 BHK home."
     ],
     "locations": [
-      "Major Expressway Access Points",
-      "Nearby Metro Stations and Public Transport Hubs",
-      "Top-Rated Private and Public Schools",
-      "Advanced Multi-Specialty Hospitals",
-      "Shopping Malls and Local Markets",
-      "Green Parks and Recreational Zones",
-      "Banking and Financial Institutions"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector72.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Sector 72 Gurgaon The Ultimate Residential Hub",
     "description": [
@@ -61,14 +61,56 @@
       "This connectivity is crucial for working professionals and families prioritizing easy access to the region’s best educational and commercial facilities without enduring long commutes."
     ],
     "locations": [
-      "Southern Peripheral Road SPR connectivity 2 minutes",
-      "NH 48 Delhi Jaipur Expressway access 10 minutes",
-      "Vatika Business Park & Corporate Hub 5 minutes",
-      "Golf Course Extension Road 10 minutes drive",
-      "Indira Gandhi International Airport IGI 40 minutes",
-      "DPS International School 8 minutes",
-      "Medanta The Medicity Hospital 20 minutes",
-      "Upcoming Metro Station access nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

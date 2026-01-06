@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector8.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Sector 8 Faridabad Today",
     "description": [
@@ -61,12 +61,56 @@
       "Key educational institutions like DPS Faridabad and healthcare centers like Asian Institute of Medical Sciences are just minutes away. This unparalleled connectivity significantly enhances the value of any 3 BHK Flat For Sale in Sector 8. Furthermore the proximity to the Faridabad Metro Station simplifies public transport access for daily commuters. Investing here means you are positioned at the nexus of convenience and growth guaranteeing a superior quality of life in Faridabad."
     ],
     "locations": [
-      "Sector 9 Faridabad",
-      "Sector 10 Faridabad",
-      "Sector 7 Faridabad",
-      "Old Faridabad Railway Station Faridabad",
-      "Crown Interiorz Mall Faridabad",
-      "Ajronda Metro Station Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

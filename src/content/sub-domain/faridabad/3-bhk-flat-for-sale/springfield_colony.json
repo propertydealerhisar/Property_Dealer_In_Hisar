@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "springfieldcolony.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal 3 BHK Flat For Sale in Springfield Colony Faridabad Today",
     "description": [
@@ -61,15 +61,56 @@
       "When evaluating a 3 BHK flat here, proximity to metro stations like Bata Chowk or Escorts Mujesar is a significant advantage for daily commuters, greatly reducing travel time and improving work-life balance. This highly sought-after location makes purchasing property here a smart logistical choice."
     ],
     "locations": [
-      "Old Faridabad",
-      "Sector 31",
-      "Sector 28",
-      "Sector 19",
-      "Sector 21C",
-      "Ashoka Enclave",
-      "Greater Faridabad",
-      "Sector 80",
-      "Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

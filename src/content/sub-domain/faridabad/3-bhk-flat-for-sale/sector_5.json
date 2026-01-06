@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector5.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Sector 5 The Perfect Family Home Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "Beyond transport the area is a hub for retail education and healthcare. Within a short drive you can access top-tier schools renowned hospitals and bustling shopping centers. This convergence of quality infrastructure and vital services confirms Sector 5 as an ideal location for families prioritizing convenience and quality of life."
     ],
     "locations": [
-      "Major Expressway Access",
-      "Top Rated Schools Nearby",
-      "Reputable Healthcare Facilities",
-      "Upcoming Metro Stations",
-      "Major IT Hub Proximity",
-      "Retail Shopping Malls"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

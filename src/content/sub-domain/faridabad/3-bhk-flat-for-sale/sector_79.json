@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector79.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Sector 79 Gurgaon Prime Location",
     "description": [
@@ -61,14 +61,56 @@
       "This area is specifically designed to offer a peaceful environment away from the city clutter while retaining necessary urban access. Essential social infrastructure, including top-tier schools, healthcare facilities, and retail centers, are all within a 15-minute drive. The proximity to nature, especially the Aravalli range, adds immense value, providing fresh air and recreational opportunities. Investing in a 3 BHK property here means prioritizing convenience, future appreciation, and a balanced lifestyle."
     ],
     "locations": [
-      "Dwarka Expressway Access Point",
-      "Southern Peripheral Road SPR Junction",
-      "NH-48 Delhi-Jaipur Highway Access",
-      "Cloverleaf Interchange at Dwarka Expressway",
-      "Upcoming Metro Station Extension",
-      "Proximity to IMT Manesar Industrial Area",
-      "New Town Centre Malls and Retail Hubs",
-      "Major Private Schools DPS and St Xavier's"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

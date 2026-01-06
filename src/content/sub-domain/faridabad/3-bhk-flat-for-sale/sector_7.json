@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector7.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Best 3 BHK Flat For Sale in Sector 7 Your Ideal Family Home Awaits",
     "description": [
@@ -61,14 +61,56 @@
       "The comprehensive local infrastructure ensures that daily errands and emergency needs are managed effortlessly. From vibrant local markets to large retail chains and reputable educational establishments Sector 7 delivers convenience and quality ensuring a balanced lifestyle for all members of your family."
     ],
     "locations": [
-      "Top Rated Schools nearby",
-      "Major Multispecialty Hospitals",
-      "Shopping Malls and Retail Outlets",
-      "Upcoming Metro Station Connectivity",
-      "Parks and Recreational Green Spaces",
-      "Quick Access to National Highway 44",
-      "Banking and Financial Institutions",
-      "Local Eateries and Fine Dining Options"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

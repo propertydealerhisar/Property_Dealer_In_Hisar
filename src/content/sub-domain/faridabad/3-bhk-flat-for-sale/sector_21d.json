@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21d.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Exclusive 3 BHK Flat For Sale in Sector 21D Your Gateway to Modern Luxury Living",
     "description": [
@@ -61,14 +61,56 @@
       "We list the most important nearby amenities that underscore why Sector 21D is the optimal choice for your residential investment. From top-rated schools like DPS and Amity to large hospitals and bustling shopping centers everything you need is within a five-kilometer radius ensuring convenience and high livability scores."
     ],
     "locations": [
-      "Delhi Metro Station Connectivity within 5 minutes drive",
-      "Easy Access to NH-44 and Delhi-Agra Expressway",
-      "Proximity to Major IT and Business Parks of Faridabad",
-      "Leading Schools and Educational Institutions Nearby",
-      "World Class Healthcare Facilities in Immediate Vicinity",
-      "Shopping Malls and Entertainment Zones Close By",
-      "Green Parks and Recreational Open Spaces",
-      "Secured and Well Maintained Infrastructure"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

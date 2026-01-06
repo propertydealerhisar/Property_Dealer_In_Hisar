@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector44.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Sector 44 Offering Luxury Living and Prime Connectivity",
     "description": [
@@ -61,12 +61,56 @@
       "This locality is surrounded by highly reputable educational institutions, healthcare facilities, and popular retail destinations. The planned infrastructure ensures minimal traffic congestion and a clean, green environment, making it a favorite among affluent buyers seeking a peaceful yet central address for their family home."
     ],
     "locations": [
-      "Sector 44 Metro Station Access",
-      "Close Proximity to Major Hospitals",
-      "Leading International Schools Nearby",
-      "Malls and Retail Hubs within 15 minutes",
-      "Direct Access to Expressway",
-      "Commercial Business District Accessibility"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

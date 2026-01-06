@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector74.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Dream 3 BHK Flat For Sale in Sector 74 Faridabad Today",
     "description": [
@@ -61,13 +61,56 @@
       "Furthermore, the proximity to upcoming infrastructural developments and existing commercial hubs guarantees convenience. Schools, hospitals, and shopping centers are merely minutes away, ensuring all essential services are within easy reach of your new 3 BHK home in Faridabad."
     ],
     "locations": [
-      "Sector 75 Faridabad",
-      "Sector 76 Faridabad",
-      "Sector 77 Faridabad",
-      "Sector 70 Faridabad",
-      "Sector 85 Faridabad",
-      "IMT Industrial Area Faridabad",
-      "Delhi-Mumbai Expressway Access Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

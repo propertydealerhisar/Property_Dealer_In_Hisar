@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector4.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Perfect 3 BHK Flat For Sale in Sector 4 Faridabad for Your Family",
     "description": [
@@ -61,12 +61,56 @@
       "Residents enjoy quick access to major highways reputed educational institutions world-class healthcare facilities and vibrant shopping complexes. The established nature of the sector means that infrastructure like roads sewage and power supply is reliable minimizing the common issues faced in newly developing areas. Explore the benefits of living at the epicenter of convenience and growth."
     ],
     "locations": [
-      "Sector 5 Faridabad",
-      "Sector 6 Faridabad",
-      "Sector 7 Faridabad",
-      "New Industrial Town Faridabad",
-      "Old Faridabad Faridabad",
-      "Mathura Road Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

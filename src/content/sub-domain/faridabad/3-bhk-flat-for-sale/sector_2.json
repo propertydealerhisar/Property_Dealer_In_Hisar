@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector2.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Sector 2 Prime Residential Hub Today",
     "description": [
@@ -61,14 +61,56 @@
       "The infrastructure surrounding this sector is robust supporting a high quality of life. From reputable schools to large shopping complexes everything you need is just a short drive away. This convenient ecosystem significantly enhances the long-term value and livability of any property investment here."
     ],
     "locations": [
-      "Proximity to National Highway Access Points",
-      "Major Metro Station Connectivity within 10 Minutes",
-      "Leading Multi-Specialty Hospitals Nearby",
-      "Reputed International and CBSE Schools",
-      "Large Retail Malls and Entertainment Centers",
-      "Dedicated Green Parks and Recreational Spaces",
-      "Fast Access to Commercial IT Hubs",
-      "Well-Developed Internal Road Networks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

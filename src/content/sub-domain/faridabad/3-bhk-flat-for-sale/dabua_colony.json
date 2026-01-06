@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "dabuacolony.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Ideal 3 BHK Flat For Sale in Dabua Colony Affordable Ready-to-Move Homes Today",
     "description": [
@@ -61,12 +61,56 @@
       "Living in a 3 BHK flat in Dabua Colony means benefiting from established social amenities that enhance quality of life. The proximity to main highways and future development corridors ensures sustained property value appreciation. We provide detailed location maps and neighborhood guides to help you visualize your life here highlighting the unparalleled accessibility that makes Dabua Colony a preferred residential destination."
     ],
     "locations": [
-      "Reputed CBSE and International Schools Nearby",
-      "Multispecialty Healthcare and Clinics Access",
-      "Major Local Market and Retail Hubs",
-      "Easy Access to Metro and Bus Stations",
-      "Banks and ATMs Within Walking Distance",
-      "Recreational Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

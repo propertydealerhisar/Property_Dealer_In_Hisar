@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "jawaharcolony.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Ideal 3 BHK Flat For Sale in Jawahar Colony Your Perfect Family Home Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "The proximity to crucial facilities like top-tier schools healthcare centers sprawling markets and recreational parks enhances the livability score of any property here. We understand that finding a home means finding a community and Jawahar Colony provides a thriving established community ensuring all your daily needs are met within a short distance of your new 3 BHK flat."
     ],
     "locations": [
-      "Leading Educational Institutions and CBSE Schools",
-      "Major Multispecialty Hospitals and Clinics",
-      "Retail Shopping Centers and Local Mandis",
-      "Direct Access to Metro Stations or Major Highways",
-      "Recreational Parks and Green Spaces",
-      "Banking and Financial Services Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

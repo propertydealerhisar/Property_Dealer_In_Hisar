@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector28.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Ideal 3 BHK Flat For Sale in Sector 28 Gurgaon Premium Residences",
     "description": [
@@ -60,7 +60,58 @@
       "Sector 28 is strategically positioned to offer residents the very best of urban convenience without sacrificing peace. Major retail destinations premium healthcare centres like the prominent hospitals and sprawling public parks are just a short drive away.",
       "This central location ensures that all essential services and luxury lifestyle needs are met effortlessly. When considering a 3 BHK Flat For Sale in Sector 28 evaluate not just the property itself but the enriched ecosystem that surrounds it promising high capital appreciation and daily ease."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Partner with Us to Find Your Perfect 3 BHK Flat in Sector 28 Today",

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21a.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Finding Your Perfect 3 BHK Flat For Sale in Sector 21A Faridabad Luxury Living",
     "description": [
@@ -61,14 +61,56 @@
       "The location provides swift access to the Delhi-Mathura Highway and is close to major metro stations ensuring seamless commuting for professionals. Moreover Sector 21A is surrounded by established social infrastructure including leading educational institutions multispecialty hospitals and premium shopping destinations consolidating its status as a top residential choice."
     ],
     "locations": [
-      "Crown Interiorz Mall",
-      "Escorts Fortis Hospital",
-      "Badarpur Border Delhi",
-      "Old Faridabad Metro Station",
-      "NHPC Chowk Connectivity",
-      "Delhi Public School DPS",
-      "Surajkund Tourist Complex",
-      "Major Commercial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

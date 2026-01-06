@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector9.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal 3 BHK Flat For Sale in Sector 9 A Prime Location for Families",
     "description": [
@@ -61,12 +61,56 @@
       "Families appreciate the close proximity to top-rated schools healthcare facilities and vibrant marketplaces making daily errands effortless. This established infrastructure guarantees that your investment is not just in a home but in a lifestyle characterized by convenience and reduced travel time."
     ],
     "locations": [
-      "Major Highway Access Points",
-      "Leading International Schools",
-      "Multi-Specialty Hospitals",
-      "Retail Hubs and Malls",
-      "Central Business District Access",
-      "Parks and Green Spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

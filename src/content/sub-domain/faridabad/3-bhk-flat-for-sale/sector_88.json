@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector88.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Perfect 3 BHK Flat For Sale in Sector 88 Your Dream Home Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "The seamless blend of residential tranquility and urban convenience makes buying a 3 BHK flat here highly desirable for end-users seeking quality lifestyle and investors looking for guaranteed growth and excellent rental yield potential within a premium neighborhood."
     ],
     "locations": [
-      "Proximity to Key Business Hubs and IT Parks",
-      "Major Retail Malls and High Street Shopping Centers",
-      "Leading Hospitals and Specialized Medical Facilities",
-      "Top-Rated Educational Institutions and Schools",
-      "Direct Access to National Highways and Expressways",
-      "Green Parks and Dedicated Recreational Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

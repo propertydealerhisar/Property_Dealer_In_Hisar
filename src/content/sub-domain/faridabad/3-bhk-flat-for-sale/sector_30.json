@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector30.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Spacious Luxury 3 BHK Flat For Sale in Sector 30 Faridabad Today",
     "description": [
@@ -61,12 +61,56 @@
       "Understanding the proximity to key landmarks like the Metro station major highways and commercial centers is vital for maximizing both lifestyle satisfaction and long-term property value. We specialize in areas that provide a seamless blend of residential calm and accessibility to the heart of the NCR."
     ],
     "locations": [
-      "Sector 31 Faridabad",
-      "Sector 29 Faridabad",
-      "Sector 28 Faridabad",
-      "Green Fields Colony Faridabad",
-      "New Industrial Township Faridabad",
-      "Crown Plaza Area Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

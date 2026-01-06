@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector46.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Perfect 3 BHK Flat For Sale in Sector 46 Ultimate Urban Living",
     "description": [
@@ -60,7 +60,58 @@
       "Sector 46 is strategically positioned offering exceptional connectivity to major business districts and essential services. This central location dramatically cuts down commute times making it highly desirable for professionals and families alike. The area boasts seamless access to the Golf Course Road Extension and National Highway facilitating easy travel across the region.",
       "The infrastructure surrounding Sector 46 is robust featuring well-maintained roads reliable public transport options and proximity to metro stations. Finding a 3 BHK Flat For Sale in Sector 46 guarantees that you are always close to top-tier schools renowned hospitals luxury shopping malls and vibrant dining options enhancing the overall quality of life. This harmonious balance of accessibility and modern amenities establishes Sector 46 as a premier residential address."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Compelling Reasons to Invest in a 3 BHK Flat For Sale in Sector 46 Now",

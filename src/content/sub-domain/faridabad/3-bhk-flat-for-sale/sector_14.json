@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector14.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Sector 14 Premium Residences",
     "description": [
@@ -61,12 +61,56 @@
       "When considering a 3 BHK Flat For Sale in Sector 14 you are investing in unmatched connectivity. The sector sits strategically linking major commercial corridors and ensuring rapid transit to key landmarks. This connectivity combined with the safety and serenity of the neighbourhood makes it an exceptional residential choice for those who value both convenience and community."
     ],
     "locations": [
-      "Close proximity to the main Sector 14 market offering diverse retail and dining options",
-      "Excellent road connectivity to the National Highway and major expressways",
-      "Direct access to prominent schools and colleges within a 1-kilometer radius",
-      "Short drive time to leading hospitals and specialized healthcare centers",
-      "Easy commuting access to surrounding corporate hubs and employment centers",
-      "Well-maintained parks and large green belts offering recreation spaces"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

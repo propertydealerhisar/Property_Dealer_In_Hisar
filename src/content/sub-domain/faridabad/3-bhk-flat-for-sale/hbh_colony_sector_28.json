@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "hbhcolonysector28.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in HBH Colony Sector 28 Gurugram",
     "description": [
@@ -61,12 +61,56 @@
       "The presence of nearby metro stations further enhances public transport options providing seamless connectivity across the city. Families benefit significantly from the proximity to renowned educational institutions like DPS and Amity International as well as world-class healthcare facilities such as Max Hospital and Fortis Memorial Research Institute. The convenience extends to lifestyle needs with major retail destinations malls and entertainment centers located just minutes away. This perfect blend of urban convenience and tranquil residential life solidifies HBH Colony's reputation as a prime investment spot."
     ],
     "locations": [
-      "Cyber Hub & Cyber City",
-      "Golf Course Road Extension",
-      "DLF Phase 1 Residential Area",
-      "MG Road Metro Station",
-      "Fortis Hospital Gurugram",
-      "Indira Gandhi International Airport"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

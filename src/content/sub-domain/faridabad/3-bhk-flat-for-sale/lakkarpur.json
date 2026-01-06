@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "lakkarpur.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Perfect 3 BHK Flat For Sale in Lakkarpur Today A Seamless Lifestyle Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "The seamless connectivity to schools hospitals shopping centers and expressways ensures that residents enjoy maximum convenience. Investing in a 3 BHK flat for sale in Lakkarpur means securing a property in a location poised for significant growth guaranteeing higher returns on investment in the coming years. Explore the neighborhood and see why residents love living here."
     ],
     "locations": [
-      "Sector 35 Connectivity",
-      "Delhi-NCR Expressway Access",
-      "Major Commercial Markets",
-      "Reputed Educational Institutions",
-      "Healthcare Facilities Proximity",
-      "Upcoming Metro Corridor"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

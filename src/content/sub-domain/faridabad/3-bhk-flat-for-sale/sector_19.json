@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector19.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover the Ideal 3 BHK Flat For Sale in Sector 19 Faridabad for Your Family",
     "description": [
@@ -61,14 +61,56 @@
       "Sectors like Sector 15 and Sector 16 are known for their established infrastructure and proximity to commercial hubs, often appealing to professionals. Conversely, sectors closer to the Delhi-Badarpur border or the Greater Faridabad region offer newer construction and wider avenues, sometimes at a varied price point. Every location listed here maintains robust connectivity to the Delhi Metro network and major highways, ensuring easy travel across the NCR. We provide comprehensive data on average property rates, current occupancy levels, and future development prospects for each neighboring sector, helping you locate the perfect 3 BHK investment across Faridabad."
     ],
     "locations": [
-      "Sector 15 Faridabad",
-      "Sector 16 Faridabad",
-      "Sector 21C Faridabad",
-      "Greenfield Colony Faridabad",
-      "Ashoka Enclave Faridabad",
-      "Sector 8 Faridabad",
-      "Neelam Bata Road Faridabad",
-      "Sector 7 Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

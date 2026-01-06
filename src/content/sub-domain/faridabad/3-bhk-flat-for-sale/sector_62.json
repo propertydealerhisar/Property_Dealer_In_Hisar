@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector62.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Dream 3 BHK Flat For Sale in Sector 62 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "All these listed areas ensure quick and convenient access to the crucial FNG Expressway and various major corporate and industrial centers, solidifying the investment value. Whether you seek immediate habitation or long-term growth, exploring these adjacent sectors is a wise strategic move in the Faridabad real estate landscape."
     ],
     "locations": [
-      "Sector 63 Faridabad",
-      "Sector 64 Faridabad",
-      "Sector 65 Faridabad",
-      "Sector 66 Faridabad",
-      "Sector 60 Faridabad",
-      "Sector 70 Faridabad",
-      "Neharpar Area Faridabad",
-      "Sector 80 Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

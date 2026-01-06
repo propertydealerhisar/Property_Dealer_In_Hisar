@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector16.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream Lifestyle with a Premium 3 BHK Flat For Sale in Sector 16",
     "description": [
@@ -61,14 +61,56 @@
       "The locality is designed for comfortable living minimizing commute times and maximizing quality time spent at home. Review the crucial landmarks and connectivity points that make Sector 16 an unparalleled residential choice for discerning homebuyers seeking both convenience and status in their address."
     ],
     "locations": [
-      "Proximity to Major NH-48 Highway",
-      "Short Drive to Corporate Business Parks",
-      "Immediate Access to Reputed Schools and Colleges",
-      "Well-Established Healthcare Facilities Nearby",
-      "Upcoming Metro Station Connectivity",
-      "Multiple Large Retail Malls and Shopping Complexes",
-      "Adjacent to Lush Green Parks and Open Spaces",
-      "Easy Commute to the Railway Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit1.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Dream 3 BHK Flat For Sale in NIT 1 Faridabad Prime Location",
     "description": [
@@ -61,12 +61,56 @@
       "The connectivity here is unbeatable. Residents benefit from being close to the main Mathura Road, providing fast access toward Palwal and Delhi. The entire area is well-served by local transport and is a short drive from major commercial establishments. This convenience drastically improves daily living, saving precious time and reducing travel stress. Investigate the vital landmarks and essential services that surround your potential new 3 BHK flat in this thriving locality."
     ],
     "locations": [
-      "Near Neelam Chowk",
-      "Walking distance to Metro Station",
-      "Proximity to DAV Public School",
-      "Easy Access to Sector 15 Market",
-      "Close to Escorts Mujesar Metro Station",
-      "Near Asian Hospital Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

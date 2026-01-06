@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "indercolonysector31.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Discover Your Ideal 3 BHK Flat For Sale in Inder Colony Sector 31 Today",
     "description": [
@@ -61,12 +61,56 @@
       "Furthermore residents enjoy immediate proximity to essential infrastructure including top-rated educational institutions multispecialty hospitals and vibrant retail markets. Investing in a 3 BHK Flat For Sale in Inder Colony Sector 31 places you at the heart of convenience guaranteeing long-term property appreciation and a hassle-free superior lifestyle."
     ],
     "locations": [
-      "Top Rated Schools and Colleges",
-      "Multispecialty Healthcare Facilities",
-      "Vibrant Local Shopping Centers",
-      "Quick Access to the Expressway",
-      "Nearby Metro Station Links",
-      "Large Public Parks and Recreation Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

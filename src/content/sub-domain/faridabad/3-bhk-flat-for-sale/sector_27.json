@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector27.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream 3 BHK Flat For Sale in Sector 27 The Epitome of Modern Living",
     "description": [
@@ -61,12 +61,56 @@
       "The locale is mature and well-established featuring excellent civic infrastructure. From reliable utility services to meticulously maintained public spaces Sector 27 guarantees a high quality of urban life coupled with the tranquility of a residential enclave. Explore how this connectivity enhances your investment potential."
     ],
     "locations": [
-      "Major Expressway Access Points",
-      "Reputed International Schools",
-      "Leading Healthcare Facilities and Hospitals",
-      "Upscale Retail and Shopping Malls",
-      "Metro Station Proximity and Commuter Rail",
-      "Green Parks and Recreational Grounds"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

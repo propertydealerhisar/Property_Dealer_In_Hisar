@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector77.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Experience Premium Living Find Your Ideal 3 BHK Flat For Sale in Sector 77",
     "description": [
@@ -62,28 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Major Highway Access",
-        "detail": "Immediate connectivity to the major expressway linking major cities"
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
       },
       {
-        "title": "Upcoming Metro Station",
-        "detail": "Proximity to the proposed Metro corridor enhancing future public transport"
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
       },
       {
-        "title": "Leading Educational Institutions",
-        "detail": "Located near reputed international schools and colleges"
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
       },
       {
-        "title": "Healthcare Facilities",
-        "detail": "Quick access to top multi-speciality hospitals and clinics"
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
       },
       {
-        "title": "Commercial and Business Hubs",
-        "detail": "Close proximity to commercial centers and IT parks minimizing work travel"
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
       },
       {
-        "title": "Retail and Entertainment Zones",
-        "detail": "Minutes away from premium shopping malls restaurants and multiplexes"
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

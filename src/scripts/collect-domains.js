@@ -6,7 +6,7 @@ const path = require("path");
 // 👇 parent folder jahan saari json files hain
 const PARENT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/faridabad/2-bhk-flat-for-sale"
+  "../content/sub-domain/faridabad/3-bhk-flat-for-sale"
 );
 
 // 👇 output json file

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector3.3bhkflatforsaleinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal 3 BHK Flat For Sale in Sector 3 Today Start Luxurious Living",
     "description": [
@@ -61,14 +61,56 @@
       "Sector 3’s planning ensures that everything you need is just a short drive away significantly enhancing the quality of life for its residents. Investing in a property here guarantees access to stable water supply reliable electricity and well-maintained roads. This mature development minimizes future uncertainties making it a safe and stable choice for real estate investment. Review the important landmarks and facilities that make Sector 3 a prime residential destination for purchasing your dream 3 BHK flat."
     ],
     "locations": [
-      "Top Schools nearby",
-      "Major Healthcare Centers",
-      "Local Shopping Complexes",
-      "Metro Station Access Points",
-      "Recreational Parks and Green Spaces",
-      "Business and IT Hubs",
-      "Financial Institution Branches",
-      "Dining and Entertainment Options"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
