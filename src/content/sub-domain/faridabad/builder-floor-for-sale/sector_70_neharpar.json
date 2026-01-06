@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector70neharpar.builderfloorforsaleinfaridabad.com",
   "hero": {
     "title": "Modern Builder Floors for Sale in Sector 70 Neharpar Faridabad",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Builder Floor for Sale",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floor for Rent",
+        "title": "House For Rent",
         "path": "/",
         "icon": "Key"
       },
       {
-        "title": "Flat for Sale",
+        "title": "Flat For Sale",
         "path": "/",
         "icon": "Building2"
       },
       {
-        "title": "Flat for Rent",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Independent House for Sale",
+        "title": "Shop For Rent",
         "path": "/",
         "icon": "Store"
       },
       {
-        "title": "Plot for Sale",
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
         "path": "/",
         "icon": "Landmark"
       },
       {
-        "title": "Commercial Property for Sale",
+        "title": "Agriculture Land For Sale",
         "path": "/",
-        "icon": "BriefcaseBusiness"
+        "icon": "Tractor"
       },
       {
-        "title": "Property Dealers in Neharpar",
+        "title": "To-Let Service",
         "path": "/",
         "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

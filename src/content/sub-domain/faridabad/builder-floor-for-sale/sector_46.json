@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector46.builderfloorforsaleinfaridabad.com",
   "hero": {
     "title": "Modern Builder Floors for Sale in Sector 46 Faridabad",
     "description": [
@@ -62,34 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Builder Floor for Sale in Sector 46 Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floor for Sale in Sector 45 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Key"
       },
       {
-        "title": "Builder Floor for Sale in Sector 21 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "Home"
+        "icon": "Building2"
       },
       {
-        "title": "Builder Floor for Sale in Sector 29 Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Building"
       },
       {
-        "title": "Builder Floor for Sale in Sector 15 Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
       },
       {
-        "title": "Builder Floor for Sale in Sector 70 Faridabad",
+        "title": "Shop For Sale",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

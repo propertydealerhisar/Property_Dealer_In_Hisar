@@ -4,7 +4,7 @@ const path = require("path");
 // 🔹 Target folder
 const FOLDER_PATH = path.resolve(
   __dirname,
-  "../content/sub-domain/faridabad/affordable-house"
+  "../content/sub-domain/faridabad/builder-floor-for-sale"
 );
 
 // 🔹 New locations array (FIXED)

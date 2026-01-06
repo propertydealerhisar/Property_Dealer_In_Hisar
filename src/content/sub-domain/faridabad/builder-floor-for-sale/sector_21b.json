@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21b.builderfloorforsaleinfaridabad.com",
   "hero": {
     "title": "Comfortable Builder Floor Living in Sector 21B Faridabad",
     "description": [
@@ -62,34 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Builder Floor for Sale in Sector 21B Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floor for Sale in Sector 21A Faridabad",
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
         "path": "/",
         "icon": "Building2"
       },
       {
-        "title": "Builder Floor for Sale in Sector 21C Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Builder Floor for Sale in Sector 28 Faridabad",
-        "path": "/",
-        "icon": "Landmark"
-      },
-      {
-        "title": "Independent House for Sale",
+        "title": "Shop For Rent",
         "path": "/",
         "icon": "Store"
       },
       {
-        "title": "Residential Plot for Sale",
+        "title": "Shop For Sale",
         "path": "/",
-        "icon": "Map"
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

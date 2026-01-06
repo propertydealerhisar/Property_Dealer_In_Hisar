@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "gurukulbasti.builderfloorforsaleinfaridabad.com",
   "hero": {
     "title": "Comfortable Builder Floors Offering Peaceful Living in Gurukul Basti Faridabad",
     "description": [
@@ -62,34 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Builder Floor for Sale in Gurukul Basti Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Builder Floor for Sale in Sector 70 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "Building"
+        "icon": "Key"
       },
       {
-        "title": "Builder Floor for Sale in Sector 49 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
         "icon": "Building2"
       },
       {
-        "title": "Builder Floor for Sale in Greenfield Colony",
+        "title": "Flat For Rent",
         "path": "/",
-        "icon": "Landmark"
+        "icon": "Building"
       },
       {
-        "title": "Independent House for Sale",
+        "title": "Shop For Rent",
         "path": "/",
         "icon": "Store"
       },
       {
-        "title": "Residential Plot for Sale",
+        "title": "Shop For Sale",
         "path": "/",
-        "icon": "Map"
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
