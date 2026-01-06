@@ -62,29 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Office Space for Sale in NIT 1 Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "BriefcaseBusiness"
+        "icon": "Home"
       },
       {
-        "title": "Office Space for Sale in NIT 2 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "Building"
+        "icon": "Key"
       },
       {
-        "title": "Office Space for Sale in NIT 5 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
         "icon": "Building2"
       },
       {
-        "title": "Office Space for Sale in Sector 15 Faridabad",
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
         "path": "/",
         "icon": "Landmark"
       },
       {
-        "title": "Office Space for Sale in Sector 16 Faridabad",
+        "title": "Agriculture Land For Sale",
         "path": "/",
-        "icon": "Briefcase"
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
