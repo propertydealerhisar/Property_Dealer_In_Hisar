@@ -1,82 +1,151 @@
-import hisarDomains from "@/config/main-domains/hisar.json";
-import faridabadDomains from "@/config/main-domains/faridabad.json";
-import gurgaonDomains from "@/config/main-domains/gurgaon.json";
-
-import hisarSubs from "@/config/sub-domains/hisar.json";
-import faridabadSubs from "@/config/sub-domains/faridabad.json";
-import gurgaonSubs from "@/config/sub-domains/gurgaon.json";
+import parentDomains from "@/lib/sub-domain/domains.json";
+import domainIndex from "@/lib/sub-domain/sub-domains.json";
 
 export function resolveRequest(host) {
   if (!host) return null;
 
-  // ✅ ALLOW localhost (DEV ONLY)
+  // ✅ DEV ONLY
   if (host.includes("localhost")) {
     return {
-      city: "hisar",          // ya jo default chaho
-      subdomain: "localhost",
-      fullDomain: "localhost",
       host: "localhost",
       isLocalhost: true,
     };
   }
 
-  // 🔒 STEP 1: clean host
-  // - www hatao
-  // - port hatao
-  // - lowercase
-  const cleanHost = host
-    .replace(/^www\./, "")
-    .replace(/:\d+$/, "")
-    .toLowerCase();
+  // 🔒 clean host (sirf port hatao)
+  const cleanHost = host.replace(/:\d+$/, "").toLowerCase();
 
   // example:
-  // sector21p.flatsforsaleinhisar.com
+  // sector21p.houseforsaleinhisar.com
   const parts = cleanHost.split(".");
-  const subdomain = parts[0];                  // sector21p
-  const fullDomain = parts.slice(1).join("."); // flatsforsaleinhisar.com
 
-  console.log("subdomain",subdomain);
-  console.log("fulldomain",fullDomain);
-  console.log("host =>",host);
-  
+  if (parts.length < 2) return null;
 
-  
-  let city = null;
-  let allowedHosts = [];
+  const parentDomain = parts.slice(1).join("."); // houseforsaleinhisar.com
 
-  // 🔎 STEP 2: city detect by main domain
-  if (hisarDomains.includes(`www.${fullDomain}`)) {
-    city = "hisar";
-    allowedHosts = hisarSubs;
-  } else if (faridabadDomains.includes(`www.${fullDomain}`)) {
-    city = "faridabad";
-    allowedHosts = faridabadSubs;
-  } else if (gurgaonDomains.includes(`www.${fullDomain}`)) {
-    city = "gurgaon";
-    allowedHosts = gurgaonSubs;
+  // 🔴 STEP 1: parent domain validation
+  if (!parentDomains.includes(parentDomain) &&
+      !parentDomains.includes(`www.${parentDomain}`)) {
+    return null;
   }
-    
-  console.log("city =>",city);
-  
-  // ❌ domain not allowed
-  if (!city) return null;
 
-  // 🔐 STEP 3: FULL HOST validation
-  // (subdomain + parent domain together)
-  const fullHostKey = `${subdomain}.${fullDomain}`;
-
-  if (!allowedHosts.includes(fullHostKey)) {
+  // 🔴 STEP 2: full domain validation (content exist?)
+  if (!domainIndex[cleanHost]) {
     return null;
   }
 
   // ✅ VALID REQUEST
   return {
-    city,
-    subdomain,
-    fullDomain,
     host: cleanHost,
+    parentDomain,
   };
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// import hisarDomains from "@/config/main-domains/hisar.json";
+// import faridabadDomains from "@/config/main-domains/faridabad.json";
+// import gurgaonDomains from "@/config/main-domains/gurgaon.json";
+
+// import hisarSubs from "@/config/sub-domains/hisar.json";
+// import faridabadSubs from "@/config/sub-domains/faridabad.json";
+// import gurgaonSubs from "@/config/sub-domains/gurgaon.json";
+
+// export function resolveRequest(host) {
+//   if (!host) return null;
+
+//   // ✅ ALLOW localhost (DEV ONLY)
+//   if (host.includes("localhost")) {
+//     return {
+//       city: "hisar",          // ya jo default chaho
+//       subdomain: "localhost",
+//       fullDomain: "localhost",
+//       host: "localhost",
+//       isLocalhost: true,
+//     };
+//   }
+
+//   // 🔒 STEP 1: clean host
+//   // - www hatao
+//   // - port hatao
+//   // - lowercase
+//   const cleanHost = host
+//     .replace(/^www\./, "")
+//     .replace(/:\d+$/, "")
+//     .toLowerCase();
+
+//   // example:
+//   // sector21p.flatsforsaleinhisar.com
+//   const parts = cleanHost.split(".");
+//   const subdomain = parts[0];                  // sector21p
+//   const fullDomain = parts.slice(1).join("."); // flatsforsaleinhisar.com
+
+//   console.log("subdomain",subdomain);
+//   console.log("fulldomain",fullDomain);
+//   console.log("host =>",host);
+  
+
+  
+//   let city = null;
+//   let allowedHosts = [];
+
+//   // 🔎 STEP 2: city detect by main domain
+//   if (hisarDomains.includes(`www.${fullDomain}`)) {
+//     city = "hisar";
+//     allowedHosts = hisarSubs;
+//   } else if (faridabadDomains.includes(`www.${fullDomain}`)) {
+//     city = "faridabad";
+//     allowedHosts = faridabadSubs;
+//   } else if (gurgaonDomains.includes(`www.${fullDomain}`)) {
+//     city = "gurgaon";
+//     allowedHosts = gurgaonSubs;
+//   }
+    
+//   console.log("city =>",city);
+  
+//   // ❌ domain not allowed
+//   if (!city) return null;
+
+//   // 🔐 STEP 3: FULL HOST validation
+//   // (subdomain + parent domain together)
+//   const fullHostKey = `${subdomain}.${fullDomain}`;
+
+//   if (!allowedHosts.includes(fullHostKey)) {
+//     return null;
+//   }
+
+//   // ✅ VALID REQUEST
+//   return {
+//     city,
+//     subdomain,
+//     fullDomain,
+//     host: cleanHost,
+//   };
+// }
 
 
 

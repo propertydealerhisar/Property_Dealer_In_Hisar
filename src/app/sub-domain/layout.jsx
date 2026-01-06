@@ -61,6 +61,7 @@ export default async function SubdomainLayout({ children }) {
   const rawHost = h.get("host") || "localhost";
   const host = rawHost.replace(/:\d+$/, "");
 
+
   // 🔍 Resolve subdomain context
   const ctx = resolveRequest(host);
 
