@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector70neharpar.officespaceforrentinfaridabad.com",
   "hero": {
     "title": "Premium Office Space for Rent in Sector 70 Neharpar",
     "description": [
@@ -62,24 +62,24 @@
     ],
     "locations": [
       {
-        "title": "Office Space For Rent",
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
         "path": "/",
         "icon": "Key"
       },
       {
-        "title": "Office Space For Sale",
-        "path": "/",
-        "icon": "BriefcaseBusiness"
-      },
-      {
-        "title": "Commercial Property For Rent",
-        "path": "/",
-        "icon": "Building"
-      },
-      {
-        "title": "Commercial Property For Sale",
+        "title": "Flat For Sale",
         "path": "/",
         "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
       },
       {
         "title": "Shop For Rent",
@@ -92,24 +92,24 @@
         "icon": "Store"
       },
       {
-        "title": "Co-working Space",
-        "path": "/",
-        "icon": "Users"
-      },
-      {
-        "title": "Warehouse For Rent",
-        "path": "/",
-        "icon": "Warehouse"
-      },
-      {
-        "title": "Industrial Property For Rent",
+        "title": "Plot For Sale",
         "path": "/",
         "icon": "Landmark"
       },
       {
-        "title": "Business Rentals in Faridabad",
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
         "path": "/",
         "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

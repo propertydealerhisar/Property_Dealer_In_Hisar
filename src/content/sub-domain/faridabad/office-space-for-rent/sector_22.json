@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector22.officespaceforrentinfaridabad.com",
   "hero": {
     "title": "Well Connected and Affordable Office Space for Rent in Sector 22",
     "description": [
@@ -62,54 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Office Space for Rent in Sector 22 Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "BriefcaseBusiness"
+        "icon": "Home"
       },
       {
-        "title": "Office Space for Rent in Sector 21 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "BriefcaseBusiness"
+        "icon": "Key"
       },
       {
-        "title": "Office Space for Rent in Sector 23 Faridabad",
-        "path": "/",
-        "icon": "BriefcaseBusiness"
-      },
-      {
-        "title": "Office Space for Rent in Sector 28 Faridabad",
-        "path": "/",
-        "icon": "BriefcaseBusiness"
-      },
-      {
-        "title": "Commercial Property for Rent",
-        "path": "/",
-        "icon": "Store"
-      },
-      {
-        "title": "Shop for Rent",
-        "path": "/",
-        "icon": "Store"
-      },
-      {
-        "title": "Corporate Office Space",
+        "title": "Flat For Sale",
         "path": "/",
         "icon": "Building2"
       },
       {
-        "title": "IT Office Space",
+        "title": "Flat For Rent",
         "path": "/",
-        "icon": "Cpu"
+        "icon": "Building"
       },
       {
-        "title": "Business Center for Rent",
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
         "path": "/",
         "icon": "Handshake"
       },
       {
-        "title": "Coworking Space",
+        "title": "Commercial Property For Sale",
         "path": "/",
-        "icon": "Users"
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
