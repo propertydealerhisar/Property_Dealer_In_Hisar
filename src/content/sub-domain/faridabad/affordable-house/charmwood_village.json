@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "charmwoodvillage.affordablehouseinfaridabad.com",
   "hero": {
     "title": "Affordable and Premium Lifestyle Houses for Sale in Charmwood Village",
     "description": [
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Affordable House in Charmwood Village Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Affordable House in Surajkund Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Key"
       },
       {
-        "title": "Affordable House in Sector 21C Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "Home"
+        "icon": "Building2"
       },
       {
-        "title": "Affordable House in Badarpur Border",
-        "path": "/",
-        "icon": "Home"
-      },
-      {
-        "title": "Independent House for Sale",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Builder Floor for Sale",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Layers"
+        "icon": "Store"
       },
       {
-        "title": "Residential Property for Sale",
+        "title": "Shop For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
