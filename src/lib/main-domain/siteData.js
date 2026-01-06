@@ -43,7 +43,7 @@ import world_street_in_faridabad from "@/content/main-domain/faridabad/world_str
 import plot_in_faridabad from "@/content/main-domain/faridabad/plot_in_faridabad.json";
 import residential_property_in_faridabad from "@/content/main-domain/faridabad/residential_property_in_faridabad.json";
 import rent_house_in_faridabad from "@/content/main-domain/faridabad/rent_house_in_faridabad.json";
-
+import buy_house_in_faridabad from "@/content/main-domain/faridabad/buy_house_in_faridabad.json";
 
 
 export const SITE_DATA = [
@@ -89,5 +89,6 @@ export const SITE_DATA = [
     world_street_in_faridabad,
     plot_in_faridabad,
     residential_property_in_faridabad,
-    rent_house_in_faridabad
+    rent_house_in_faridabad,
+    buy_house_in_faridabad
 ];
