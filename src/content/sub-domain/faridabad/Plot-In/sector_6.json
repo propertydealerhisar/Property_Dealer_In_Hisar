@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector6.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Prime and Connected Sector 6 Faridabad",
+    "title": "Residential Plots in Prime and Connected Sector 6 Faridabad",
     "description": [
       "Sector 6 Faridabad is one of the well-established and centrally located residential sectors, known for its planned infrastructure, wide roads, and calm living environment. Buyers searching for a plot in Sector 6 Faridabad prefer this location because of its strong connectivity to Mathura Road, NH-44, and important commercial and residential hubs of the city. The sector offers a balanced lifestyle with greenery, organized development, and easy access to daily essentials.",
       "Plots in Sector 6 Faridabad are highly valued due to limited availability and steady residential demand. The locality is surrounded by reputed schools, hospitals, markets, parks, and reliable public transport options. With stable property appreciation, a secure neighborhood, and mature civic amenities, Sector 6 continues to be a trusted choice for homebuyers and investors looking for residential land in Faridabad."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Sector 6 Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Sector 3 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 7 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 11 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Central Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

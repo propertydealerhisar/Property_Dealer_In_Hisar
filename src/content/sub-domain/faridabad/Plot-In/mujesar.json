@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "mujesar.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Well Connected Mujesar Faridabad",
+    "title": "Residential Plots in Well Connected Mujesar Faridabad",
     "description": [
       "Mujesar Faridabad is a well-established residential and industrial locality known for its strategic location and strong connectivity. Buyers searching for a plot in Mujesar Faridabad are attracted to the area because it offers easy access to Mathura Road, Ballabgarh, and major industrial hubs. The locality is well connected through road and metro networks, making daily commuting smooth for working professionals and families.",
       "Plots in Mujesar Faridabad are suitable for both residential use and long-term investment. The area is surrounded by schools, hospitals, markets, factories, and employment centers, ensuring a convenient lifestyle. With continuous urban development and stable demand, Mujesar remains a reliable location for buyers looking to purchase residential plots in Faridabad at practical price points."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Mujesar Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Ballabgarh Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 24 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 25 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in East Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

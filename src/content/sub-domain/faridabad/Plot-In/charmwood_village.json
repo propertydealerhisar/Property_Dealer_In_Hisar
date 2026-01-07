@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "charmwoodvillage.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Premium Charmwood Village Faridabad",
+    "title": "Residential Plots in Premium Charmwood Village Faridabad",
     "description": [
       "Charmwood Village Faridabad is a well-known and premium residential locality, appreciated for its greenery, planned infrastructure, and peaceful living environment. Buyers searching for a plot in Charmwood Village Faridabad are drawn to its excellent location near Surajkund Road, smooth connectivity to Delhi, and proximity to South Faridabad’s developed sectors. The area offers wide internal roads, parks, and a calm atmosphere that supports quality residential living.",
       "Plots in Charmwood Village Faridabad are ideal for families looking to build independent homes in a secure and upscale neighborhood. The locality is surrounded by reputed schools, hospitals, shopping complexes, and recreational spaces, ensuring everyday convenience. Due to limited plot availability and consistent demand, Charmwood Village also holds strong long-term investment value, making it a preferred choice for both end-users and investors."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Charmwood Village Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Surajkund Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 21 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 46 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in South Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

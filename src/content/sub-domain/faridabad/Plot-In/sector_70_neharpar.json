@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector70neharpar.plotinfaridabad.com",
   "hero": {
-    "title": "Well-Planned Residential Plots for Sale in Sector 70 Neharpar Faridabad",
+    "title": "Well-Planned Residential Plots in Sector 70 Neharpar Faridabad",
     "description": [
       "Sector 70 Neharpar Faridabad is emerging as one of the most preferred residential destinations for buyers looking for a secure and future-ready investment. Known for its wide roads, planned infrastructure, and proximity to major sectors, buying a plot in Sector 70 Neharpar Faridabad offers the freedom to build a home as per your lifestyle and budget. The locality enjoys smooth connectivity to Delhi, Noida, Gurugram, and central Faridabad through major highways and arterial roads.",
       "Plots in Sector 70 Neharpar Faridabad are ideal for both end-users and long-term investors. The area is surrounded by schools, hospitals, shopping complexes, and upcoming commercial hubs, making daily life convenient. With continuous development in Neharpar Faridabad and rising demand for residential land, Sector 70 stands out as a smart choice for buyers seeking value appreciation, legal clarity, and peaceful living."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Sector 70 Neharpar Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Sector 75 Neharpar Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 78 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 84 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Neharpar Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Land for Sale",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Property in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

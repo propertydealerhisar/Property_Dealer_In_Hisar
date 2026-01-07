@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "navdurgavihardayalbaghcolony.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Nav Durga Vihar Dayal Bagh Colony",
+    "title": "Residential Plots in Nav Durga Vihar Dayal Bagh Colony",
     "description": [
       "Nav Durga Vihar in Dayal Bagh Colony Faridabad is a well-settled residential locality known for its peaceful environment and strong connectivity to central Faridabad. Buyers searching for a plot in Nav Durga Vihar, Dayal Bagh Colony Faridabad are attracted by its established neighborhood, wide internal roads, and proximity to essential civic amenities. The area offers a balanced lifestyle with easy access to markets, schools, hospitals, and public transport facilities.",
       "Plots in Nav Durga Vihar, Dayal Bagh Colony Faridabad are suitable for families planning to build independent homes in a calm yet well-connected location. Due to limited land availability and steady residential demand, the locality also holds good long-term investment potential. Its close connection to Mathura Road and nearby residential sectors makes Nav Durga Vihar a reliable choice for plot buyers looking for stability, convenience, and future value."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Nav Durga Vihar Dayal Bagh Colony Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Dayal Bagh Colony Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 9 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 10 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Central Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

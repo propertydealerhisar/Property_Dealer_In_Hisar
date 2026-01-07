@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "jalvayuviharatmadpurvillage.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Jalvayu Vihar Atmadpur Village Faridabad",
+    "title": "Residential Plots in Jalvayu Vihar Atmadpur Village Faridabad",
     "description": [
       "Jalvayu Vihar in Atmadpur Village Faridabad is a peaceful and fast-developing residential locality that attracts buyers looking for calm surroundings with city connectivity. Buyers searching for a plot in Jalvayu Vihar, Atmadpur Village Faridabad prefer this area due to its planned layout, low-density environment, and proximity to key roads connecting central Faridabad and nearby sectors. The locality offers a balanced lifestyle with cleaner surroundings and less congestion compared to crowded city areas.",
       "Plots in Jalvayu Vihar, Atmadpur Village Faridabad are suitable for families planning to build independent homes as well as investors looking for future appreciation. The area is witnessing gradual infrastructure development, better road access, and increasing residential demand. With nearby schools, daily-need markets, and improving public transport connectivity, Jalvayu Vihar is emerging as a reliable option for buyers seeking affordable yet promising residential land in Faridabad."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Jalvayu Vihar Atmadpur Village Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Atmadpur Village Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 91 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 85 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

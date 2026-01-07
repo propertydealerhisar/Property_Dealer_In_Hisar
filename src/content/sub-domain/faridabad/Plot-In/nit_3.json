@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit3.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Prime NIT 3 Faridabad",
+    "title": "Residential Plots in Prime NIT 3 Faridabad",
     "description": [
       "NIT 3 Faridabad is a well-established residential locality located in the heart of old Faridabad. Buyers looking for a plot in NIT 3 Faridabad prefer this area due to its strong civic infrastructure, wide roads, and proximity to daily-need markets, schools, hospitals, and public transport. The locality offers a practical and comfortable lifestyle with a well-settled neighborhood that has grown steadily over the years.",
       "Plots in NIT 3 Faridabad are ideal for families planning to construct independent homes in a central and accessible area. Due to limited availability of vacant land and consistent residential demand, the locality also offers good long-term investment potential. Easy connectivity to Mathura Road, Metro stations, and nearby NIT sectors makes NIT 3 a reliable choice for buyers seeking stability, convenience, and future appreciation."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in NIT 3 Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in NIT 1 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in NIT 2 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in NIT 5 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Central Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

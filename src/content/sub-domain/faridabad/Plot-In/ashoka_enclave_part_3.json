@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "ashokaenclavepart3.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Well Connected Ashoka Enclave Part 3",
+    "title": "Residential Plots in Well Connected Ashoka Enclave Part 3",
     "description": [
       "Ashoka Enclave Part 3 Faridabad is a well-established residential locality known for its strategic location, smooth connectivity, and comfortable living environment. Buyers searching for a plot in Ashoka Enclave Part 3 Faridabad prefer this area due to its proximity to Mathura Road, metro stations, and major commercial zones of Faridabad. The locality is planned with wide internal roads, green surroundings, and an organized residential layout that supports peaceful urban living.",
       "Plots in Ashoka Enclave Part 3 Faridabad are ideal for families planning to build independent homes in a mature and secure neighborhood. The area is surrounded by reputed schools, hospitals, local markets, and daily convenience facilities, making it suitable for end-users. With limited availability of plots and steady residential demand, Ashoka Enclave Part 3 also offers strong long-term investment potential."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Ashoka Enclave Part 3 Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Ashoka Enclave Part 1 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Ashoka Enclave Part 2 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 9 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Central Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

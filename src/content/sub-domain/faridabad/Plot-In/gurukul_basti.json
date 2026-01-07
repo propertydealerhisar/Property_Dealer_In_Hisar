@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "gurukulbasti.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Well Connected Gurukul Basti Faridabad",
+    "title": "Residential Plots in Well Connected Gurukul Basti Faridabad",
     "description": [
       "Gurukul Basti Faridabad is an emerging residential locality known for its convenient location, affordable property options, and easy access to essential city amenities. Buyers looking for a plot in Gurukul Basti Faridabad prefer this area due to its proximity to main roads, nearby markets, schools, hospitals, and daily-need facilities. The locality offers a simple yet practical residential environment, making it suitable for families planning to build independent homes within city limits.",
       "Plots in Gurukul Basti Faridabad are ideal for both end-use and long-term investment. The area is witnessing gradual development, improved infrastructure, and increasing residential demand. With growing connectivity, availability of multiple plot sizes, and a community-focused neighborhood, Gurukul Basti presents a good opportunity for buyers seeking value-driven residential land in Faridabad."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in Gurukul Basti Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Sector 31 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 30 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Jawahar Colony Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Central Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

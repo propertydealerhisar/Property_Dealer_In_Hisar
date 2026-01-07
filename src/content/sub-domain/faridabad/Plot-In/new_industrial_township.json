@@ -1,7 +1,7 @@
 {
-  "domain": "www.abc.com",
+  "domain": "newindustrialtownship.plotinfaridabad.com",
   "hero": {
-    "title": "Residential Plots for Sale in Well Connected New Industrial Township",
+    "title": "Residential Plots in Well Connected New Industrial Township",
     "description": [
       "New Industrial Township (NIT) Faridabad is one of the oldest and most established areas of the city, known for its strong infrastructure, excellent connectivity, and mixed residential-commercial environment. Buyers searching for a plot in New Industrial Township Faridabad prefer this locality due to its central location, proximity to Mathura Road, metro stations, markets, schools, hospitals, and major employment zones. The area offers a practical lifestyle with all daily necessities available within short distances.",
       "Plots in New Industrial Township Faridabad are ideal for those who want to build independent homes in a well-settled neighborhood with stable property demand. Due to limited land availability and consistent buyer interest, NIT remains attractive for long-term investment as well. With developed roads, reliable civic amenities, and easy access to Delhi and nearby sectors, New Industrial Township continues to be a trusted and high-value location for residential plot buyers."
@@ -62,39 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Plot in New Industrial Township Faridabad",
+        "title": "House For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Home"
       },
       {
-        "title": "Plot in Sector 16 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Key"
       },
       {
-        "title": "Plot in Sector 15 Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "MapPin"
+        "icon": "Building2"
       },
       {
-        "title": "Plot in Sector 28 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Residential Plot in Central Faridabad",
-        "path": "/",
-        "icon": "Layers"
-      },
-      {
-        "title": "Residential Land for Sale in Faridabad",
+        "title": "Flat For Rent",
         "path": "/",
         "icon": "Building"
       },
       {
-        "title": "Residential Property in Faridabad",
+        "title": "Shop For Rent",
         "path": "/",
-        "icon": "Home"
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
