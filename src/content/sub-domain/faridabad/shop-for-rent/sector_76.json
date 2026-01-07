@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector76.shopforrentinfaridabad.com",
   "hero": {
     "title": "Modern Commercial Shops for Rent in Sector 76 Faridabad",
     "description": [
@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Shop for Rent in Sector 76 Faridabad",
-        "path": "/",
-        "icon": "Store"
-      },
-      {
-        "title": "Commercial Shops in Sector 75 Faridabad",
-        "path": "/",
-        "icon": "Briefcase"
-      },
-      {
-        "title": "Retail Shops in Sector 77 Faridabad",
-        "path": "/",
-        "icon": "MapPin"
-      },
-      {
-        "title": "Shops for Rent in Greater Faridabad",
-        "path": "/",
-        "icon": "Building"
-      },
-      {
-        "title": "House for Sale in Sector 76 Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Flats for Rent in Sector 76 Faridabad",
+        "title": "House For Rent",
         "path": "/",
-        "icon": "Layers"
+        "icon": "Key"
       },
       {
-        "title": "Commercial Properties in Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "TrendingUp"
+        "icon": "Building2"
       },
       {
-        "title": "Investment Properties in Greater Faridabad",
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
         "path": "/",
         "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },
