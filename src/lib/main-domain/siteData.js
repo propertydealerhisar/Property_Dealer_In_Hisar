@@ -44,7 +44,7 @@ import plot_in_faridabad from "@/content/main-domain/faridabad/plot_in_faridabad
 import residential_property_in_faridabad from "@/content/main-domain/faridabad/residential_property_in_faridabad.json";
 import rent_house_in_faridabad from "@/content/main-domain/faridabad/rent_house_in_faridabad.json";
 import buy_house_in_faridabad from "@/content/main-domain/faridabad/buy_house_in_faridabad.json";
-
+import affordable_house_in_faridabad from "@/content/main-domain/faridabad/affordable_house_in_faridabad.json";
 
 export const SITE_DATA = [
   agriculture_land_for_sale_in_hisar,
@@ -90,5 +90,6 @@ export const SITE_DATA = [
     plot_in_faridabad,
     residential_property_in_faridabad,
     rent_house_in_faridabad,
-    buy_house_in_faridabad
+    buy_house_in_faridabad,
+    affordable_house_in_faridabad
 ];
