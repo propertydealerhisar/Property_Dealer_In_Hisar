@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21c.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Family Home Easily Rent House in Sector 21C Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "Residents enjoy immediate proximity to the Main Market, reputed healthcare facilities like Fortis Escorts Hospital, and several high-ranking educational institutions. The area’s superb planning ensures that parks, recreational facilities, and necessary retail outlets are just a short drive away, enhancing the overall quality of life when you choose this location for your next rental home."
     ],
     "locations": [
-      "Sector 21D",
-      "Sector 20A",
-      "Sector 21A",
-      "Crown Interiorz Mall",
-      "NH 44",
-      "Badarpur Border",
-      "Sarai Metro Station",
-      "Sector 15A"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

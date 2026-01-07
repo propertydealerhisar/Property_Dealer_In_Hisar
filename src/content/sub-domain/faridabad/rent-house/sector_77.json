@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector77.renthouseinfaridabad.com",
   "hero": {
     "title": "Discover the Perfect House for Rent in Sector 77 Faridabad Modern Living Spaces",
     "description": [
@@ -61,14 +61,56 @@
       "The neighbourhood is rapidly developing its commercial and educational landscape. Residents benefit from nearby shopping complexes renowned educational institutions and high-quality medical facilities ensuring all daily needs are met within a short distance. This integrated approach to urban planning ensures a balanced and convenient lifestyle for everyone living here promoting community well-being and reducing travel time for essential services."
     ],
     "locations": [
-      "NH-44 Access Point",
-      "KMP Expressway Connectivity",
-      "Modern Retail Outlets and Malls",
-      "Leading International Schools",
-      "Reputable Healthcare Centers",
-      "Local Green Parks and Sports Complexes",
-      "Upcoming Metro Rail Extension",
-      "Proximity to Industrial Hubs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector83.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Dream Rent House in Sector 83 Faridabad Premium Residential Hub",
     "description": [
@@ -61,14 +61,56 @@
       "The location’s strength lies in its balanced development, featuring gated societies adjacent to green belts and well-planned retail spaces. Whether you prioritize easy access to the main highway or a quiet, internal colony street, Sector 83 offers diverse living environments for those looking to Rent House in Sector 83."
     ],
     "locations": [
-      "BPTP Parklands",
-      "Sector 82 Residential Complex",
-      "Sector 84 Commercial Hub",
-      "Neharpar Region",
-      "Greater Faridabad Connectivity",
-      "Pali-Surajkund Road Access",
-      "Near Asian Hospital Area",
-      "Close to Delhi-Mumbai Expressway Entry"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

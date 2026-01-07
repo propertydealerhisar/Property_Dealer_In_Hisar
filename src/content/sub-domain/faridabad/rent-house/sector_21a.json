@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21a.renthouseinfaridabad.com",
   "hero": {
     "title": "Find the Perfect Independent House for Rent in Sector 21A Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The sector borders several other prime residential areas and benefits from immediate access to arterial roads. This connectivity significantly reduces commute times and enhances the overall quality of living for residents."
     ],
     "locations": [
-      "Sector 21B Faridabad",
-      "Sector 19 Residential Area",
-      "Sector 20 Commercial Hub",
-      "Mathura Road National Highway",
-      "Badarpur Border Connectivity",
-      "NH 44 Access Points",
-      "Sarai Metro Station",
-      "Neelam Chowk Ajronda"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector29.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Dream Rental Home Effortlessly Rent House in Sector 29 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "Its well-planned layout includes easily accessible markets, parks, and recreational areas, making everyday errands effortless. Explore the key areas and amenities that make Sector 29 a premium location for securing your next rental property."
     ],
     "locations": [
-      "NH-44 Delhi-Mathura Road Access",
-      "Sector 28 Commercial Market",
-      "Crown Interiorz Mall",
-      "Faridabad Metro Stations",
-      "Prominent Schools and Colleges",
-      "Reputable Multi-Speciality Hospitals",
-      "Lush Green Local Parks",
-      "Quick access to Sector 31"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

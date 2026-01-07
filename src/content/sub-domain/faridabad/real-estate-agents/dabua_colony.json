@@ -62,44 +62,54 @@
     ],
     "locations": [
       {
-        "title": "Real Estate Agents in Dabua Colony Faridabad",
+        "title": "House For Sale",
         "path": "/",
         "icon": "Home"
       },
       {
-        "title": "Real Estate Agents in NIT Faridabad",
-        "path": "/",
-        "icon": "Building2"
-      },
-      {
-        "title": "Real Estate Agents in Sector 70 Faridabad",
-        "path": "/",
-        "icon": "Building"
-      },
-      {
-        "title": "Real Estate Agents in Sector 21C Faridabad",
+        "title": "House For Rent",
         "path": "/",
         "icon": "Key"
       },
       {
-        "title": "Property Dealers in Central Faridabad",
+        "title": "Flat For Sale",
         "path": "/",
-        "icon": "Handshake"
+        "icon": "Building2"
       },
       {
-        "title": "Residential Plots in Faridabad",
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
         "path": "/",
         "icon": "Landmark"
       },
       {
-        "title": "Independent Houses in Faridabad",
-        "path": "/",
-        "icon": "Home"
-      },
-      {
-        "title": "Affordable Properties in Faridabad",
+        "title": "Agriculture Land For Sale",
         "path": "/",
         "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
       }
     ]
   },

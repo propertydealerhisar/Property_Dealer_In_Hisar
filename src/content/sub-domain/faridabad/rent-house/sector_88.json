@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector88.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Independent Rent House in Sector 88 Faridabad Premium Residential Locations",
     "description": [
@@ -61,14 +61,56 @@
       "We highlight key nearby locations that enhance the value proposition of renting a house in Sector 88, ensuring all your daily needs, from education and healthcare to entertainment, are met within a short drive. The seamless connection to the metro and major highways is a critical factor for families deciding where to settle down in the Faridabad area."
     ],
     "locations": [
-      "Omaxe World Street Shopping",
-      "BPTP Parklands Residential",
-      "Noida-Faridabad Expressway Access",
-      "Escorts Mujesar Metro Station",
-      "Amrita Hospital Faridabad",
-      "Asian Institute of Medical Sciences",
-      "SRS Mall Sector 12",
-      "Proximity to Sector 86 & 85"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

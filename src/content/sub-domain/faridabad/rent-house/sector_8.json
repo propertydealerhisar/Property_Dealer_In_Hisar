@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector8.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Home Quickly When You Rent House in Sector 8 Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "Understanding the neighboring areas helps renters appreciate the comprehensive development and accessibility of Sector 8. Whether you need proximity to the metro line, major hospitals, or vibrant shopping complexes, renting here places you at the nexus of all crucial city infrastructure."
     ],
     "locations": [
-      "Sector 9 Faridabad",
-      "Sector 7 Faridabad",
-      "Sector 10 Faridabad",
-      "Neelam Chowk",
-      "Ajronda Chowk Metro Station",
-      "Sector 11 Faridabad",
-      "Old Faridabad Railway Station",
-      "Crown Interiorz Mall"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "mujesar.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Independent House for Rent in Mujesar Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The location’s strength lies in its excellent transportation links. Easy access to the Mujesar Metro Station makes commuting across the city simple and efficient. Furthermore proximity to the Mathura Road National Highway ensures quick travel to Delhi Noida and other parts of the NCR. This strategic advantage makes the decision to rent house in Mujesar a remarkably smart choice for long-term comfort professional convenience and overall quality of life."
     ],
     "locations": [
-      "Mujesar Metro Station Proximity for Easy Commutes",
-      "Immediate Access to NH-44 Highway Connectivity",
-      "Nearby Reputable Schools and Educational Centers",
-      "Local Markets and Daily Needs Shopping Centers",
-      "Proximity to Key Industrial Area Sectors and Factories",
-      "Accessible Healthcare Facilities and Specialized Clinics",
-      "Direct Road Connectivity to Ballabgarh and Palwal",
-      "Well-Maintained Green Spaces and Neighborhood Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

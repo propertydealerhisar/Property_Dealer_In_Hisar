@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector75.renthouseinfaridabad.com",
   "hero": {
     "title": "Rent House in Sector 75 Faridabad Discover Premium Verified Rental Listings",
     "description": [
@@ -61,14 +61,56 @@
       "Explore these adjoining localities if you require alternatives or are interested in specific types of societies or residential complexes. Each area maintains the high standards of living expected in this developing part of the city."
     ],
     "locations": [
-      "Sector 76 Residential Apartments",
-      "Sector 77 Rental Homes",
-      "BPTP Parklands Extension",
-      "BPTP Princess Park Rentals",
-      "Omaxe New Heights Sector 78",
-      "Greenfield Colony Proximity",
-      "Sector 80 Independent Houses",
-      "Neharpar Region Rentals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

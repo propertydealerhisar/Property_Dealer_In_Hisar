@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "springfieldcolony.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Dream Home Instantly When You Rent House in Springfield Colony Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "Residents benefit significantly from proximity to highly reputed educational institutions, comprehensive multi-specialty hospitals, and vibrant local and modern shopping centers. Whether your priority is easy school access for children, quick medical services, or a short drive to your workplace, Springfield Colony offers unparalleled urban convenience. We specifically highlight houses for rent that are optimally located near parks, essential commercial markets, and reliable public transport links, enhancing your overall quality of life in this dynamic and secure locality."
     ],
     "locations": [
-      "Badkhal Metro Station Access Point",
-      "Proximity to NH-19 Delhi-Agra Highway",
-      "Easy Reach of Sector 19 Commercial Market",
-      "Near Asian Institute of Medical Sciences Hospital",
-      "Connectivity to Faridabad Railway Station",
-      "Short Drive to Crown Interiorz Mall",
-      "Access to Reputed Local Schools like DPS",
-      "Direct Link to Surajkund Road Tourist Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

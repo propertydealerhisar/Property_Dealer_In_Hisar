@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector49.renthouseinfaridabad.com",
   "hero": {
     "title": "Seamlessly Rent House in Sector 49 Faridabad Find Your Ideal Family Home Today",
     "description": [
@@ -61,14 +61,56 @@
       "The sector is strategically positioned near the Greater Faridabad Bypass Road, linking it efficiently to Noida and Delhi. Furthermore, its closeness to commercial areas and the Metro ensures residents spend less time traveling and more time enjoying their rental home and community life. Review the key nearby locations that enhance the value of renting a house here."
     ],
     "locations": [
-      "Sector 48 Faridabad",
-      "Sector 50 Faridabad",
-      "Neharpar area connectivity",
-      "Badarpur Border access",
-      "Delhi-Faridabad Expressway",
-      "Crown Plaza Mall",
-      "NHPC Chowk Metro Station",
-      "SRS Mall and Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

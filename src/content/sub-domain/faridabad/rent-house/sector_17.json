@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector17.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Family Home Secure and Affordable Rent House in Sector 17 Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "The sector benefits hugely from the presence of the Neelam Chowk Ajronda Metro Station nearby which drastically cuts down travel time to Delhi and surrounding areas. Furthermore Sector 17 is bordered by established sectors like Sector 16 and Sector 18 enhancing its overall appeal and access to premium schools hospitals and bustling local markets."
     ],
     "locations": [
-      "Sector 17 Market Complex",
-      "Neelam Chowk Ajronda Metro Station",
-      "Crown Plaza Shopping Area",
-      "Proximity to Sector 18 Faridabad",
-      "Escorts Mujesar Metro Link",
-      "Established School Districts",
-      "Main Mathura Road Connectivity",
-      "HUDA Market Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

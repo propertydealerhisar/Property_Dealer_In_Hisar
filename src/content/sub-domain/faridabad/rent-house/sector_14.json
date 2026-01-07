@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector14.renthouseinfaridabad.com",
   "hero": {
     "title": "Find the Ideal House to Rent in Sector 14 Faridabad Secure Premium Living Today",
     "description": [
@@ -61,14 +61,56 @@
       "Beyond the sector itself, the proximity to established markets, metro connectivity, and entertainment zones significantly enhances the quality of life for residents. When you rent house in Sector 14, you are not just acquiring a residence you are securing access to the best amenities Faridabad has to offer."
     ],
     "locations": [
-      "Sector 15 Main Market",
-      "Crown Interiorz Mall",
-      "National Highway 44 Mathura Road",
-      "Old Faridabad Metro Station",
-      "Bata Chowk Industrial Area",
-      "Sainik Colony",
-      "Sector 12 Commercial Hub",
-      "Escorts Mujesar Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

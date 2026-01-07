@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector55.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Dream Independent House to Rent in Sector 55 Faridabad Today",
     "description": [
@@ -61,12 +61,56 @@
       "Residents benefit from the well-planned road network and proximity to the Metro link, enhancing daily travel convenience significantly. Understanding the surrounding environment is crucial when deciding on a rental property. Sector 55’s location ensures all essential services, including hospitals, supermarkets, and parks, are just minutes away. This centrality makes it a premium residential choice for professionals and families prioritizing convenience and mobility."
     ],
     "locations": [
-      "Sector 56",
-      "Sector 54",
-      "Sector 53",
-      "Sainik Colony",
-      "NH-44 Access Points",
-      "Badarpur Border Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector22.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Rental Property Today and Rent House in Sector 22 Faridabad Effortlessly",
     "description": [
@@ -61,14 +61,56 @@
       "The accessibility to major highways and metro links significantly enhances the appeal of Sector 22 for tenants commuting across the NCR region. We highlight adjacent areas and important landmarks to help you gauge travel times and neighborhood conveniences before finalizing your rental agreement in Faridabad."
     ],
     "locations": [
-      "Sector 21 A",
-      "Sector 23",
-      "Sector 21 D",
-      "National Highway 19 (NH 19)",
-      "Badarpur Border",
-      "Sarai Metro Station",
-      "Old Faridabad",
-      "Neelam Bata Road"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

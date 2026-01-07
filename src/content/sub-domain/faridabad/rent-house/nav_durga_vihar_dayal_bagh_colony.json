@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "navdurgavihardayalbaghcolony.renthouseinfaridabad.com",
   "hero": {
     "title": "Rent House in Nav Durga Vihar Dayal Bagh Colony Faridabad Find Your Ideal Home Now",
     "description": [
@@ -61,12 +61,56 @@
       "The connectivity ensures seamless travel whether you are commuting to Delhi NCR or accessing industrial areas within Faridabad. Proximity to major roads schools hospitals and markets means daily life is incredibly convenient. Choosing to Rent House in Nav Durga Vihar Dayal Bagh Colony places you at the heart of convenience and community providing significant benefits over peripheral areas. Explore the neighborhood and see why residents consistently rate this area highly for long term rentals."
     ],
     "locations": [
-      "Proximity to Dayal Bagh Market and Shopping Areas",
-      "Easy Access to National Highway 19 NH-19",
-      "Nearby Reputable Schools and Colleges",
-      "Well-established Healthcare Facilities and Hospitals",
-      "Quick Commute to Sector 11 and Sector 15 Commercial Hubs",
-      "Excellent Public Transport Accessibility including Bus Routes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

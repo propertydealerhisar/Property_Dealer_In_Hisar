@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector87.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Dream Rental Property Find the Perfect Rent House in Sector 87 Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "Beyond connectivity, Sector 87 is surrounded by essential social infrastructure including premier schools, multi-specialty hospitals, and vibrant retail markets. This established ecosystem ensures that every necessity is just a short drive away, making your decision to rent a house here an investment in convenience and quality of life. Explore how easily accessible these crucial points are from your potential new rental home."
     ],
     "locations": [
-      "Neharpar Residential Zone",
-      "Badarpur Border Connectivity",
-      "Amrita Hospital Faridabad",
-      "Puri PRSS Market and Shopping Complex",
-      "Upcoming Metro Extension Points",
-      "Sector 86 Commercial Hub",
-      "Delhi-Mumbai Expressway Access",
-      "Sohna Road Linkage"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

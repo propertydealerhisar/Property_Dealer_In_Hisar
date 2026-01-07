@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector74.renthouseinfaridabad.com",
   "hero": {
     "title": "Experience Premium Living When You Rent House in Sector 74 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The sector benefits from well-maintained roads and its proximity to major highways dramatically reduces travel time. This centrality ensures high demand for properties and makes the decision to rent house in Sector 74 a smart lifestyle choice. We highlight key points of interest and transport links that define the convenience of residing here."
     ],
     "locations": [
-      "Proximity to Badarpur Border Delhi",
-      "Easy Access to Bata Chowk Metro Station",
-      "NH-44 National Highway Connectivity",
-      "Nearby Commercial Hubs and Malls",
-      "Reputable Schools and Hospitals",
-      "Industrial Model Township IMT Faridabad",
-      "Extensive Public Transport Network",
-      "Access to Local Markets and Parks"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21d.renthouseinfaridabad.com",
   "hero": {
     "title": "Discover the Finest Independent House Rental Options in Sector 21D Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "Essential services such as world-class hospitals, premium shopping centers, and vibrant entertainment zones are only minutes away, elevating the daily living experience. Choosing to Rent House in Sector 21D means investing in convenience, where everything you need is within a short driving radius, maximizing your family time and minimizing travel stress. The area boasts well-maintained internal roads and robust security infrastructure, adding to its appeal as a top-tier residential location in the NCR region."
     ],
     "locations": [
-      "Delhi-Faridabad Skyway Access",
-      "Crown Interiorz Mall",
-      "Escorts Mujesar Metro Station",
-      "Asian Institute of Medical Sciences",
-      "DPS Faridabad and Modern School",
-      "Sector 17 Local Market Hub",
-      "Badarpur Border Connectivity",
-      "NH 44 Highway Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

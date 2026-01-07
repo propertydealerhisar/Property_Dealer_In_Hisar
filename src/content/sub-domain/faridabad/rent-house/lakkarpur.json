@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "lakkarpur.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Perfect Family Abode Rent House in Lakkarpur Faridabad Without Hassle",
     "description": [
@@ -61,12 +61,56 @@
       "The areas adjacent to Lakkarpur benefit from similar infrastructure and amenities yet may offer slightly varied price points or house types. Whether you are looking towards the established parts of Green Field Colony or seeking modern complexes in nearby sectors, we provide comprehensive data on all adjacent rental markets. Utilizing this localized knowledge ensures you find the perfect blend of location price and property type when you choose to rent house in Lakkarpur Faridabad or its surrounding vibrant community."
     ],
     "locations": [
-      "Green Field Colony Residential Rentals",
-      "Sainik Colony Housing Options",
-      "Surajkund Rental Properties",
-      "New Industrial Township NIT Rentals",
-      "Badarpur Border Connectivity",
-      "Tughlakabad Extension Rental Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

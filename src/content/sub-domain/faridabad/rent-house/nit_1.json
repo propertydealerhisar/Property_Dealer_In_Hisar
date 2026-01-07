@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit1.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Independent House for Rent in NIT 1 Faridabad Today",
     "description": [
@@ -61,13 +61,56 @@
       "Residents benefit immensely from the proximity to key transport infrastructure links. The nearest Metro Station is easily accessible via short commute, and the area is extremely well-served by local auto and bus transport options running frequently. Additionally, NIT 1 is adjacent to important educational institutions and state-of-the-art multi-specialty healthcare facilities, ensuring all essential family needs are met efficiently within a short operational radius. This unparalleled central positioning is a primary and enduring reason why discerning families consistently prefer to Rent House in NIT 1 over newer, comparatively less established surrounding sectors."
     ],
     "locations": [
-      "NIT 2 Main Market",
-      "Sector 15 Community Centre",
-      "Old Faridabad Railway Station",
-      "Neelam Chowk Ajronda Metro Station",
-      "Badarpur Border Connectivity",
-      "Faridabad Bus Stand",
-      "Escorts Mujesar Metro Station"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

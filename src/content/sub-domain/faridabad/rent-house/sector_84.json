@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector84.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Independent House for Rent in Sector 84 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "Essential services like prominent educational institutions such as DPS and Amity are nearby making this area highly desirable for families. Healthcare needs are met by leading multi-specialty hospitals accessible within a short driving distance. Furthermore the development of local HUDA markets and shopping centers ensures that daily necessities groceries and recreational needs are easily satisfied. Renting a house in Sector 84 means prioritizing convenience without sacrificing quality residential living in Greater Faridabad."
     ],
     "locations": [
-      "Bypass Road Connectivity",
-      "Proximity to FNG Expressway",
-      "Near Major Educational Hubs",
-      "Sector 85 Residential Cluster",
-      "Adjacent to Commercial Zones",
-      "Easy Access to Delhi Metro Link",
-      "Local Shopping Complexes",
-      "Healthcare Facilities Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector64.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Rental Home in Sector 64 Faridabad Finding the Perfect Space",
     "description": [
@@ -61,13 +61,56 @@
       "This sector is known for its blend of well-planned residential development and easy access to the main bypass road leading towards Delhi and Agra. Choosing the right spot depends on whether you seek peace and quiet or proximity to bustling market areas. Our experts can guide you through the advantages of each location helping you secure a rental agreement in a spot that perfectly aligns with your lifestyle and commute requirements."
     ],
     "locations": [
-      "Sector 65 Faridabad (Neighboring Residential Area)",
-      "Sector 63 Faridabad (Developing Commercial Hub)",
-      "Amarpuram Colony (Established Local Connectivity)",
-      "Puri Amanvilas (Nearby Premium Housing Society)",
-      "Neharpar Area (Wider Greater Faridabad Region)",
-      "Escorts Mujesar Metro Station (Key Transport Link)",
-      "Delhi Mumbai Expressway Access Point (Major Connectivity)"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

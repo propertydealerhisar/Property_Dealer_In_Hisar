@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector82.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Perfect Family Home When You Rent House in Sector 82 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "Beyond physical connectivity, renting a house in Sector 82 places you near premium schools, sprawling shopping centers, and leading hospitals, ensuring all lifestyle needs are met within a short drive. The proximity to key sectors like 81 and 83 enhances local market access and social infrastructure."
     ],
     "locations": [
-      "Sector 81 Residential Hub",
-      "Sector 83 Commercial Zone",
-      "BPTP Parklands Community",
-      "Omaxe City Township",
-      "Nahar Singh Metro Station Access",
-      "Delhi-Mumbai Expressway Link",
-      "Puri Pratham Residential Area",
-      "Amrita Hospital Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

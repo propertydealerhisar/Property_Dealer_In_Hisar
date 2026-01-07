@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector27d.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal House for Rent in Sector 27D Faridabad A Premier Residential Location",
     "description": [
@@ -61,14 +61,56 @@
       "When you rent house in Sector 27D Faridabad, you gain immediate proximity to excellent educational institutions, top-tier healthcare facilities, and vibrant local markets, enhancing the overall convenience of daily life significantly."
     ],
     "locations": [
-      "Sector 28 Commercial Market",
-      "NH-44 Delhi-Agra Highway Access",
-      "Badarpur Border Connectivity",
-      "Crown Interiorz Mall & Entertainment",
-      "Escorts Mujesar Metro Station",
-      "Faridabad Industrial Area",
-      "Mathura Road NH-2",
-      "South Delhi Travel Time"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

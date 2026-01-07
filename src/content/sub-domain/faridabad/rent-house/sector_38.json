@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector38.renthouseinfaridabad.com",
   "hero": {
     "title": "Seamlessly Rent House in Sector 38 Faridabad Find Your Ideal Family Home Today",
     "description": [
@@ -61,14 +61,56 @@
       "The neighbourhood boasts robust social infrastructure including highly reputed schools hospitals like Asian Hospital and numerous retail shopping centers ensuring all daily needs are met within a short radius. This strong local ecosystem makes finding and settling into your new rental home in Sector 38 a truly rewarding experience."
     ],
     "locations": [
-      "Close Proximity to NH-44",
-      "Near Asian Hospital Faridabad",
-      "Excellent Access to Metro Station",
-      "Well-developed Commercial Markets",
-      "Reputed Schools and Universities Nearby",
-      "Seamless Public Transport Availability",
-      "Green Parks and Recreational Areas",
-      "Quick Access to Sector 37 and Badkal"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

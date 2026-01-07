@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "gurukulbasti.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal House for Rent in Gurukul Basti Faridabad Hassle-Free",
     "description": [
@@ -61,14 +61,56 @@
       "When you choose to rent a house in Gurukul Basti, you also gain easy access to the established infrastructure of areas like Sector 21 and neighboring villages. We ensure our property search covers all these connected locations, providing you with a comprehensive overview of the local rental market. This integrated approach means you are not limited to one specific pin code but can explore options that offer superior value or better commute times based on your professional needs. Let us guide you through the local geography to ensure your final choice is perfectly located."
     ],
     "locations": [
-      "Old Faridabad",
-      "Sector 21 A Faridabad",
-      "Sector 22 Residential Area",
-      "Neelam Bata Road",
-      "Mathura Road Connectivity",
-      "SGM Nagar Residential Area",
-      "Green Field Colony",
-      "Ajronda Chowk Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

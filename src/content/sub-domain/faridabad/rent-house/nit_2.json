@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit2.renthouseinfaridabad.com",
   "hero": {
     "title": "Seamlessly Find Your Perfect Rent House in NIT 2 Faridabad Verified Listings",
     "description": [
@@ -61,14 +61,56 @@
       "Understanding the proximity to these nearby localities is crucial for determining the overall convenience and quality of life. NIT 2 serves as an ideal residential anchor, providing peaceful living while maintaining quick links to the business and industrial pulse of the wider Faridabad region."
     ],
     "locations": [
-      "NIT 1 Faridabad",
-      "NIT 3 Residential Area",
-      "Old Faridabad Sector",
-      "Sector 17 Commercial Zone",
-      "Sector 18 Upscale Residency",
-      "BK Chowk Major Junction",
-      "Railway Station Colony Access",
-      "Nehru Colony Residential"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

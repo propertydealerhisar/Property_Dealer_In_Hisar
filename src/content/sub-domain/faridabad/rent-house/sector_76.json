@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector76.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Perfect Independent House and Kothi Rentals in Sector 76 Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "The rapid infrastructural development including better road networks and planned transit systems makes Sector 76 an investment hotspot and a desirable place to live. Accessing the main bypass road and connecting highways is effortless linking you directly to Delhi Noida and Gurugram seamlessly. Explore the areas where connectivity meets convenience."
     ],
     "locations": [
-      "SRS City Adjacent Sector",
-      "Proximity to Bypass Road",
-      "Near Amrita Hospital",
-      "Easy Access to FNG Expressway",
-      "Connectivity to Sector 75 Markets",
-      "Omaxe New Heights nearby",
-      "Central Faridabad Linkages",
-      "Close to major schools"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

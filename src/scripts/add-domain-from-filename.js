@@ -6,11 +6,11 @@ const path = require("path");
 // 👇 folder jahan json files hain
 const TARGET_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/faridabad/Plot-In"
+  "../content/sub-domain/faridabad/rent-house"
 );
 
 // 👇 parent domain
-const PARENT_DOMAIN = "plotinfaridabad.com";
+const PARENT_DOMAIN = "renthouseinfaridabad.com";
 
 // =========================================
 

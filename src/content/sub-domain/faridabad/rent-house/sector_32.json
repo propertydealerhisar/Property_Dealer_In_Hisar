@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector32.renthouseinfaridabad.com",
   "hero": {
     "title": "Discover the Best Options when you Decide to Rent House in Sector 32 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The area is served by excellent public transportation options, including proximity to the nearest Metro Station, making city travel effortless. Furthermore, the social infrastructure is fully developed, meaning top hospitals, expansive shopping centers, and vibrant local markets are just minutes away from any house you rent in Sector 32. This combination of superior location and comprehensive amenities solidifies Sector 32 as a premier choice for secure and convenient residential rentals. We ensure all our listed homes are located within well-maintained, accessible sub-localities that enhance your daily living experience."
     ],
     "locations": [
-      "Mathura Road NH-44 Access",
-      "Proximity to Badarpur Border",
-      "Sector 32 Local Market",
-      "Crown Plaza Mall",
-      "Asian Institute of Medical Sciences",
-      "Near Sector 28 Metro Station",
-      "Easy access to Greater Faridabad",
-      "DPS Faridabad"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

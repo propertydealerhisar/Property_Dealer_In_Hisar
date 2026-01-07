@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector80.renthouseinfaridabad.com",
   "hero": {
     "title": "Finding the Ideal Rent House in Sector 80 Faridabad Hassle-Free and Quick Search",
     "description": [
@@ -61,12 +61,56 @@
       "We understand that location context matters when searching for a rental house The sectors surrounding Sector 80 are equally developed and complement the lifestyle here ensuring you are never far from essential facilities and top-tier infrastructure This area is ideal for those working in Noida, Delhi, or the main Faridabad industrial area."
     ],
     "locations": [
-      "Sector 81 Faridabad",
-      "Sector 79 Residential Hub",
-      "Sector 82 Premium Residences",
-      "Neharpar Region Connectivity",
-      "Greater Faridabad Extension",
-      "FNG Expressway Access Points"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

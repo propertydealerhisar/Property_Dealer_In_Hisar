@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector4.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Dream House for Rent in Sector 4 Faridabad Immediate Availability and Verified Listings",
     "description": [
@@ -61,12 +61,56 @@
       "The sector itself is well-planned with internal green parks and established market clusters. Important nearby locations include the Old Faridabad Railway Station, several reputed hospitals like Asian Institute of Medical Sciences, and the bustling main market area of Sector 10. Living in Sector 4 places you at the intersection of convenience, education, and healthcare infrastructure, enhancing the quality of life significantly for all residents."
     ],
     "locations": [
-      "Proximity to Old Faridabad Metro Station",
-      "Easy access to NH 44 Delhi-Mathura Road",
-      "Well-connected internal residential lanes",
-      "Nearby Sector 3 Market and shopping complex",
-      "Close to major schools and educational institutions",
-      "Walking distance to local parks and green belts"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

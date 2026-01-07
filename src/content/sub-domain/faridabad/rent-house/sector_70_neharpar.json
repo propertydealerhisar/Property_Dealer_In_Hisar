@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector70neharpar.renthouseinfaridabad.com",
   "hero": {
     "title": "Discover the Perfect Rent House in Sector 70 Neharpar Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The locality is designed for convenience, with essential services like top educational institutions, modern hospitals, and bustling commercial complexes situated just minutes away. This eliminates the need for long commutes for daily necessities or schooling. Investing your time and resources to rent house in Sector 70 Neharpar means choosing a location that truly prioritizes resident welfare and future growth potential in the Faridabad region."
     ],
     "locations": [
-      "NH-44 Highway Access",
-      "KMP Expressway Proximity",
-      "World Street Commercial Hub",
-      "Prominent Schools and Colleges",
-      "Reputable Multi-Specialty Hospitals",
-      "Badarpur Metro Station connectivity",
-      "Sector 70 Local Market",
-      "Nearby Banks and ATMs"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

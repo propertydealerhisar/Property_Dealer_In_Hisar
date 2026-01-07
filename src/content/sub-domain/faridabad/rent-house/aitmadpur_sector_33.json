@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "aitmadpursector33.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Home Rent House in Aitmadpur Sector 33 Faridabad Today for Comfortable Living",
     "description": [
@@ -61,12 +61,56 @@
       "Explore nearby areas like Sector 34, Green Field Colony, and parts of New Industrial Town (NIT) for extended access to major retail outlets, multi-specialty hospitals, and entertainment centers. Our listings often highlight properties that leverage these neighboring amenities while enjoying the established, quieter residential character of Aitmadpur Sector 33."
     ],
     "locations": [
-      "Sector 34 Residential Rentals",
-      "Green Field Colony Housing Options",
-      "Proximity to NIT Faridabad",
-      "Easy Access to Mathura Road",
-      "NHPC Chowk Connectivity",
-      "Badarpur Border Linkages"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

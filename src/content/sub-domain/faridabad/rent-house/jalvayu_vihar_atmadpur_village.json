@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "jalvayuviharatmadpurvillage.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Family Home Rent House in Jalvayu Vihar Atmadpur Village Faridabad Today",
     "description": [
@@ -61,12 +61,56 @@
       "Key infrastructure like top-tier schools such as DAV Public School and Modern School, specialized hospitals like Asian Hospital, and bustling market centers like the Sector 15 Market are all within a short driving radius. This ensures that every need, from education to emergency care and daily shopping, is easily met when you Rent House in Jalvayu Vihar Atmadpur Village. We highlight properties that offer the best balance between quiet residential living and urban accessibility, ensuring you never feel disconnected from the pulse of the city while enjoying the tranquility of your secure home."
     ],
     "locations": [
-      "Sector 15 Main Market Faridabad for Daily Needs",
-      "Direct Access to National Highway 19 for Intercity Travel",
-      "Proximity to Badarpur Border for Delhi Commuters",
-      "Leading Educational Institutions within a 10-minute Drive",
-      "Major Healthcare Facilities and Multi-Specialty Clinics nearby",
-      "Raja Nahar Singh Metro Station Connectivity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

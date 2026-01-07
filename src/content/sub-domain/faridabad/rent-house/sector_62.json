@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector62.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Home Find the Best Options to Rent House in Sector 62 Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "Beyond transportation the sector is surrounded by leading educational institutions healthcare facilities and vibrant marketplaces. Everything you need is just a short drive away ensuring a high quality of life without sacrificing urban amenities. We highlight the key locational advantages that make Sector 62 one of Faridabad’s most desirable residential neighborhoods."
     ],
     "locations": [
-      "Escorts Mujesar Metro Station",
-      "Proximity to NH-44 Delhi-Agra Highway",
-      "Asian Institute of Medical Sciences",
-      "SRS Mall and Commercial Complex",
-      "Sector 64 Industrial Hub Access",
-      "Top Rated Schools and Colleges",
-      "Easy Access to Noida via FNG Expressway",
-      "Local Markets and Daily Need Stores"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

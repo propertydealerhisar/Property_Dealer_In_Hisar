@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit3.renthouseinfaridabad.com",
   "hero": {
     "title": "Find the Perfect Rental House in NIT 3 Faridabad Your Ideal Home Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "The locality boasts excellent connectivity via the Mathura Road National Highway 44 and is close to several metro stations simplifying daily commutes to Delhi Gurgaon and other parts of Faridabad. We focus on listings near these crucial points ensuring that your rental experience is convenient and connected to all necessary urban amenities."
     ],
     "locations": [
-      "NIT 1 Market Area",
-      "NIT 5 Residential Blocks",
-      "Bata Chowk Metro Station",
-      "Old Faridabad Railway Station",
-      "Sector 15A Residential Hub",
-      "Neelam Chowk Major Intersection"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

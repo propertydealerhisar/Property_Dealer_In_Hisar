@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "nit5.renthouseinfaridabad.com",
   "hero": {
     "title": "Rent House in NIT 5 Faridabad Find Your Perfect Family Home Without the Stress",
     "description": [
@@ -61,14 +61,56 @@
       "If you are expanding your rental search beyond the immediate confines of NIT 5, consider these neighboring localities that offer comparable amenities, excellent connectivity via the Mathura Road National Highway 19, and similar price points for quality rental accommodation."
     ],
     "locations": [
-      "NIT 1 Faridabad",
-      "NIT 2 Faridabad",
-      "NIT 3 Faridabad",
-      "NIT 4 Faridabad",
-      "Old Faridabad Sector",
-      "Sector 16 Residential Area",
-      "Sector 17 Market",
-      "Green Field Colony"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

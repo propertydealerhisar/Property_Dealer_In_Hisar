@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "dabuacolony.renthouseinfaridabad.com",
   "hero": {
     "title": "Discover Affordable and Verified Listings to Rent House in Dabua Colony Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "We provide insights into connectivity to areas like Old Faridabad NIT and various sectors allowing you to weigh travel time affordability and community benefits. Finding a suitable rental house is about finding the right neighborhood and Dabua Colony excels in providing both accessibility and a strong residential feel."
     ],
     "locations": [
-      "Old Faridabad Railway Station Proximity",
-      "NIT 5 Commercial Hub",
-      "Sector 3 Area",
-      "Jawahar Colony Residential Zone",
-      "Mujesar Metro Connectivity",
-      "Palla Industrial Area Access",
-      "Sant Nagar Housing",
-      "Key Schools and Hospitals Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

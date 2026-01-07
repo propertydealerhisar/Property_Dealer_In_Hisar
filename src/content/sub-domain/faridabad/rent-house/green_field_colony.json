@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "greenfieldcolony.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Family Home Easily Rent House in Green Field Colony Faridabad",
     "description": [
@@ -61,12 +61,56 @@
       "The connectivity extends beyond just Delhi access. Green Field Colony is centrally located near essential infrastructure in Faridabad, including major hospitals like Asian and Fortis, top-tier schools, and bustling commercial markets in Sector 37 and Surajkund. This excellent positioning ensures that choosing to rent house in Green Field Colony means choosing convenience, access to quality healthcare, and superior education opportunities for your entire family."
     ],
     "locations": [
-      "Badarpur Metro Station Access",
-      "Surajkund Road Connectivity",
-      "Proximity to Sector 37 Market",
-      "Easy Access to Tughlakabad",
-      "Close to Crown Interiorz Mall",
-      "Excellent Schooling Options nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

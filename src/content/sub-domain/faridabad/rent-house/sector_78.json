@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector78.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Dream Rental Home in Sector 78 Faridabad Secure the Best Property Deals Now",
     "description": [
@@ -61,13 +61,56 @@
       "The sector benefits from planned infrastructure development including wide roads effective drainage systems and proximity to the KMP Expressway link providing seamless movement across the NCR Region Furthermore residents enjoy easy access to nearby shopping centers supermarkets and recreational zones making daily chores effortless We provide rental listings near major landmarks and transport nodes ensuring your new home in Sector 78 Faridabad is perfectly situated for modern urban living"
     ],
     "locations": [
-      "Near Sector 75 Commercial Hub",
-      "Proximity to Badarpur Metro Link",
-      "Houses Near FNG Expressway Access",
-      "Residential Zones close to RPS City",
-      "Quiet Lanes near local Parks",
-      "Properties close to Amrita Hospital",
-      "Accessibility to Major Schools"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

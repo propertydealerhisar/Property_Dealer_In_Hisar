@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector21b.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Family Home Rent House in Sector 21B Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The strategic advantage of Sector 21B includes excellent access to major highways reputed educational institutions top-tier healthcare facilities and large retail hubs This central positioning solidifies its status as a top choice for those looking to Rent House in Sector 21B seeking convenience and high quality of life."
     ],
     "locations": [
-      "Sector 21C and 21D",
-      "Crown Interiorz Mall",
-      "Mathura Road NH-44",
-      "Sarai Metro Station",
-      "Sector 19 Residential Area",
-      "Escorts Mujesar Metro",
-      "Neelam Bata Road",
-      "Old Faridabad Market"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

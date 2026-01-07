@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector9.renthouseinfaridabad.com",
   "hero": {
     "title": "Finding the Perfect Rent House in Sector 9 Faridabad Your Ultimate Residential Guide",
     "description": [
@@ -61,12 +61,56 @@
       "Renting a house near the Sector 9 market area offers unmatched daily convenience while choosing a property closer to Sector 10 provides quicker access to major road networks and hospitals. We help you weigh these locational benefits against your family's specific lifestyle requirements."
     ],
     "locations": [
-      "Sector 10 Residential Area",
-      "Sector 8 Retail Hub",
-      "Sector 11 Connectivity Point",
-      "Main Market Area Sector 9",
-      "Mathura Road NH-44 Access",
-      "Proximity to Bata Chowk Metro"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

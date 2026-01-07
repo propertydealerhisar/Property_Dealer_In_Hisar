@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "charmwoodvillage.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Dream Family Home Rent House in Charmwood Village Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "Residents benefit from immediate proximity to world-class educational institutions like DPS and Modern School top-tier healthcare facilities and exclusive retail hubs like Eros Mall and local Charmwood Plaza markets. Finding the right rental home also means considering proximity to key areas such as the Surajkund Tourist Complex and major corporate parks in Mohan Co-operative. The convenience of the Delhi Metro (Badarpur Station is nearby) makes the daily commute seamless. Choosing to rent house in Charmwood Village means prioritizing location accessibility and quality of life simultaneously."
     ],
     "locations": [
-      "Near Eros Mall Market and Charmwood Plaza",
-      "Close to Delhi Public School DPS Charmwood",
-      "Easy Access to Surajkund Road and Faridabad Bypass",
-      "Proximity to Badarpur Metro Station Connectivity",
-      "Green Belts and Central Parks Sector 39 Access",
-      "Adjacent to Sector 37 Commercial Hub Faridabad",
-      "Excellent Connectivity to South Delhi Sarita Vihar",
-      "Healthcare Facilities and Top Hospitals Nearby"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

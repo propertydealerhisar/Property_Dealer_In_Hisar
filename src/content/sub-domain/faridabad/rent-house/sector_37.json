@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector37.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Family Home Rent House in Sector 37 Faridabad Today",
     "description": [
@@ -61,12 +61,56 @@
       "When you Rent House in Sector 37 you are investing in a lifestyle defined by ease and accessibility. We highlight the key surrounding locations and amenities that make this sector highly desirable ensuring you fully understand the advantages of residing in this established neighborhood."
     ],
     "locations": [
-      "NHPC Chowk Metro Station",
-      "Badarpur Border Delhi",
-      "Asian Institute of Medical Sciences",
-      "Sector 37 Main Market",
-      "Sector 35 Residential Area",
-      "Delhi-Faridabad Expressway"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

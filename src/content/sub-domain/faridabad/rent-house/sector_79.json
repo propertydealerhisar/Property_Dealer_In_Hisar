@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector79.renthouseinfaridabad.com",
   "hero": {
     "title": "Finding Your Ideal Property and Quick Move-In Options When You Rent House in Sector 79 Faridabad",
     "description": [
@@ -61,11 +61,56 @@
       "The connectivity via major roads and highways like the KMP Expressway access point significantly boosts the location’s appeal for those working across the NCR. Choosing to rent house in Sector 79 means settling in a location where future growth is secured providing excellent long-term residential stability and quality of life."
     ],
     "locations": [
-      "Proximity to Bypass Road",
-      "Easy Access to KMP Expressway",
-      "Upcoming Metro Connectivity Potential",
-      "Nearby Schools and Educational Institutions",
-      "Green Parks and Recreational Zones"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

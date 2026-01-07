@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "newindustrialtownship.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Rental House in New Industrial Township Faridabad Instantly",
     "description": [
@@ -61,14 +61,56 @@
       "We highlight areas known for good community living, consistent utility supply, and effective local administration, helping you pinpoint the exact location that matches your lifestyle and commuting needs in Faridabad."
     ],
     "locations": [
-      "NIT 1 Residential Area",
-      "NIT 2 and Market Proximity",
-      "NIT 3 and Sector 16 Access",
-      "NIT 5 and Railway Road Connectivity",
-      "Old Faridabad Bordering Colonies",
-      "Green Field Colony Access Points",
-      "Sector 11 and 12 Adjacent Areas",
-      "Ballabhgarh Main Road Rentals"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

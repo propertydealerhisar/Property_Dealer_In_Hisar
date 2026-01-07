@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector85.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Independent House Rental in Sector 85 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "This locality is close to some of Faridabad's best educational institutions and healthcare facilities including Amrita Hospital and several renowned international schools The proximity to major commercial sectors and shopping complexes makes daily errands and weekend excursions incredibly easy ensuring that while you enjoy the peace of an independent home you are never far from the city's pulse Making the decision to Rent House in Sector 85 is an investment in quality living."
     ],
     "locations": [
-      "NH-19 National Highway Connectivity",
-      "Proximity to Amrita Hospital Faridabad",
-      "Sector 84 Commercial Hub Access",
-      "Nearby Reputable Schools and Colleges",
-      "Easy Access to Faridabad Metro Stations",
-      "Omaxe World Street Shopping Destination",
-      "Good Connectivity to Greater Faridabad Sectors",
-      "Upcoming Infrastructure Projects"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

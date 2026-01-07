@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "jawaharcolony.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Rental Home Find the Best Deals to Rent House in Jawahar Colony Faridabad Today",
     "description": [
@@ -61,12 +61,56 @@
       "We understand that finding the perfect rental property often involves assessing multiple adjacent localities. Whether you need proximity to the Metro station or specific schools, understanding the nearby rental market helps you make an informed choice. Our property listings span key neighborhoods like Sector 15, New Industrial Town NIT, and various parts of Old Faridabad. We help you compare rental rates, infrastructure quality, and community feel across these areas so you can confidently secure the ideal place to rent house near Jawahar Colony or in its immediate vicinity, ensuring your commute and daily life are streamlined and efficient."
     ],
     "locations": [
-      "NIT 1 Faridabad Rental Homes",
-      "Sector 15 Faridabad Rental Options",
-      "Old Faridabad Rental Market",
-      "New Industrial Town NIT Houses",
-      "Green Field Colony Rentals",
-      "Sector 14 Faridabad Residences"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

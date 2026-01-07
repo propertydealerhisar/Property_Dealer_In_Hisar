@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector11.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Independent House to Rent in Sector 11 Faridabad",
     "description": [
@@ -61,14 +61,56 @@
       "This strategic placement reinforces precisely why searching to Rent House in Sector 11 is a popular choice among professionals, long-term residents, and established families. The sector is conveniently situated near the established commercial zone of NIT Faridabad, providing quick access to large retail outlets, banking services, and high-quality dining options. Furthermore, the excellent availability of public transport, including crucial metro connectivity via nearby stations, makes daily travel for all family members exceptionally convenient and stress-free. Explore Sector 11's beautifully maintained green parks and secure internal lanes that contribute significantly to its peaceful, high-quality residential character."
     ],
     "locations": [
-      "Sector 10 Faridabad",
-      "Sector 12 Faridabad",
-      "NIT Area Commercial Hub",
-      "Mathura Road NH-44 Access",
-      "Asian Hospital Connectivity",
-      "Faridabad Bypass Road Link",
-      "Escorts Mujesar Metro Station",
-      "Badarpur Border Delhi"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

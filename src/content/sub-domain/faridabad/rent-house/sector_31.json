@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector31.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure the Best Independent House for Rent in Sector 31 Faridabad Right Now",
     "description": [
@@ -61,14 +61,56 @@
       "Proximity to the National Highway makes commuting smooth while internal sector roads are wide and well-maintained. This accessibility combined with the presence of top schools healthcare facilities and retail markets nearby solidify Sector 31 as a premier rental destination in Faridabad."
     ],
     "locations": [
-      "Ajronda Chowk Connectivity",
-      "Proximity to NH-2 Mathura Road",
-      "Nearby Sector 30 Market Area",
-      "Easy Access to Metro Stations",
-      "Local Parks and Green Spaces",
-      "DPS and Vidya Mandir School Zone",
-      "Near Sarvodaya Hospital",
-      "Sector 31 Local Shopping Complexes"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

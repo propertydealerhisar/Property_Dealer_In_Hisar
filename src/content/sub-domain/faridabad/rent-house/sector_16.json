@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector16.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Ideal Rental Home Find the Best Deals to Rent House in Sector 16 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The proximity to the Sector 16 Market provides immediate access to daily essentials and retail therapy ensuring a self-sufficient and convenient residential experience Furthermore the sector is well-served by public transportation including the nearby metro stations enhancing its status as a prime residential area."
     ],
     "locations": [
-      "Sector 15 Faridabad",
-      "Sector 17 Market Area",
-      "Mathura Road NH-44 Access",
-      "Crown Interiorz Mall",
-      "Badarpur Border Delhi",
-      "Faridabad Metro Station",
-      "Mewla Maharajpur",
-      "Escorts Mujesar"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

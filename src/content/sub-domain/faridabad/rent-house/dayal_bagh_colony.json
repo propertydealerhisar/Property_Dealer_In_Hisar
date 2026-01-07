@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "dayalbaghcolony.renthouseinfaridabad.com",
   "hero": {
     "title": "Find the Perfect Home to Rent House in Dayal Bagh Colony Faridabad Today",
     "description": [
@@ -61,12 +61,56 @@
       "Furthermore the colony is serviced by reliable public transportation including easy access to the nearest Metro stations significantly enhancing connectivity. Residents benefit from nearby high-quality educational institutions world-class hospitals and thriving commercial centers offering extensive retail and entertainment options. We help you find a rental property in Dayal Bagh Colony that not only offers a beautiful home but also provides unparalleled logistical advantages."
     ],
     "locations": [
-      "Top-Rated Educational Institutions Nearby",
-      "Advanced Multi-Specialty Hospitals Access",
-      "Proximity to Local and Major Shopping Malls",
-      "Seamless Access to Key Metro Stations",
-      "Easy Drive to Delhi-Mathura Highway NH-44",
-      "Abundant Local Markets and Grocery Stores"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

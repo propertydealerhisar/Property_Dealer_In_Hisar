@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "ashokaenclavepart1.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Family Home Rent House in Ashoka Enclave Part 1 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The infrastructure surrounding Ashoka Enclave Part 1 includes well-maintained roads and reliable public transport options, ensuring easy mobility. Residents enjoy immediate access to high-quality educational institutions, multi-specialty hospitals like Asian Hospital, and popular shopping destinations such as Crown Plaza Mall. This blend of residential tranquility and essential urban access solidifies Ashoka Enclave Part 1 as the preferred area to Rent House in Faridabad for discerning families seeking convenience."
     ],
     "locations": [
-      "Badarpur Border Delhi",
-      "Surajkund Road Faridabad",
-      "Asian Hospital and Medical Center",
-      "Sector 37 Commercial Market",
-      "Sarai Metro Station Access",
-      "Okhla Industrial Area Connectivity",
-      "Greater Kailash Delhi via Road",
-      "Crown Interiorz Mall"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

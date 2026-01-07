@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector44.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Family Home Rent House in Sector 44 Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "The area boasts proximity to premier educational institutions including DPS Faridabad and other renowned schools, making it ideal for families. Healthcare facilities, including major hospitals like Asian Institute of Medical Sciences, are just minutes away. This location also benefits from numerous local markets, parks, and recreational areas, enhancing the quality of life for residents. We understand that location is paramount when you rent house in Sector 44, and our listings highlight properties maximizing access to these critical infrastructural benefits."
     ],
     "locations": [
-      "Crown Interiorz Mall Shopping Hub",
-      "Asian Institute of Medical Sciences Hospital",
-      "NHPC Chowk Metro Station Connectivity",
-      "DPS Sector 19 Educational Facility",
-      "Main Mathura Road NH 19 Access",
-      "Sector 45 Residential Area Proximity",
-      "Badarpur Border Delhi Connectivity",
-      "Local Market and Daily Needs Area"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

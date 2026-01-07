@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "ashokaenclave.renthouseinfaridabad.com",
   "hero": {
     "title": "Secure Your Perfect Independent Rent House in Ashoka Enclave Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "Beyond easy transport, the locality boasts robust social infrastructure. Residents benefit from immediate access to top-tier educational institutions healthcare facilities and vibrant shopping and entertainment hubs. Living here means minimizing transit time and maximizing quality of life, placing everything you need right at your doorstep. Review the key nearby landmarks that enhance the desirability of Ashoka Enclave Faridabad."
     ],
     "locations": [
-      "Badarpur Border and Delhi Access",
-      "Escorts Mujesar Metro Station",
-      "Crown Plaza Mall and Cinema",
-      "Fortis Escorts Hospital",
-      "NH-44 Mathura Road Highway Access",
-      "Ryan International School",
-      "Surajkund Tourist Complex",
-      "Sector 12 Commercial Hub"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

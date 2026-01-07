@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "greenfieldcolony.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal House for Rent in Greenfield Colony Faridabad Today",
     "description": [
@@ -61,14 +61,56 @@
       "Beyond the colony's bounds, residents enjoy quick access to major hubs like Badarpur, Surajkund, and Sector 37. This seamless connectivity ensures that renting a house here means you are never far from major job centers, entertainment complexes, and quality healthcare facilities. We focus on properties that maximize these locational advantages, offering rentals that provide convenience without compromising on residential quality."
     ],
     "locations": [
-      "Badarpur Border Delhi Access",
-      "Surajkund Road Connectivity",
-      "Sector 37 Faridabad Marketplace",
-      "Sarai Metro Station Area",
-      "Charmwood Village Adjacent",
-      "Delhi Tughlaqabad Link",
-      "Mathura Road National Highway Access",
-      "BPTP Elite Floors Proximity"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector39.renthouseinfaridabad.com",
   "hero": {
     "title": "Find Your Ideal Home Rent House in Sector 39 Faridabad Prime Residential Hub",
     "description": [
@@ -61,14 +61,56 @@
       "Sector 39 is uniquely positioned to benefit from proximity to educational hubs and healthcare facilities making it a convenient choice for families. Finding a house for rent here means reduced travel time and enhanced quality of life. Explore the connectivity advantages that make Sector 39 Faridabad an unmatched choice for your next home."
     ],
     "locations": [
-      "Sector 37 Residential Colony",
-      "Mathura Road NH-44 Connectivity",
-      "Proximity to Badkhal Metro Station",
-      "Sector 40 and 41 Commercial Areas",
-      "Old Faridabad Railway Station Access",
-      "Major Banks and ATM Hubs nearby",
-      "Escorts Mujesar Metro Station Link",
-      "FNG Expressway Future Access"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {

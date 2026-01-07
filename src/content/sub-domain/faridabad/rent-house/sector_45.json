@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector45.renthouseinfaridabad.com",
   "hero": {
     "title": "Find the Perfect Independent House for Rent in Sector 45 Faridabad Today",
     "description": [
@@ -60,7 +60,58 @@
       "Sector 45 boasts strategic access to key areas of Faridabad and the entire NCR region. The sector is conveniently located near the main bypass road, ensuring quick travel to Delhi, Noida, and Gurgaon without navigating heavy city traffic. Residents benefit significantly from close proximity to major educational institutions, ensuring quality schooling is never far away.",
       "Healthcare facilities like Asian Hospital and Metro Heart Institute are easily reachable, providing immediate medical attention and peace of mind. For daily commuting, the nearest Metro station connects the area efficiently to the rest of the city, significantly easing travel burdens for working professionals. This excellent infrastructure makes Sector 45 highly desirable for families and professionals seeking a balanced life. When you choose to rent a house in Sector 45, you are investing in a lifestyle defined by convenience and accessibility, supported by robust local amenities and superb transport links."
     ],
-    "locations": []
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
   },
   "whyChoose": {
     "title": "Why Sector 45 Faridabad is the Best Place to Rent Your Next Independent House",

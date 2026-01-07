@@ -1,5 +1,5 @@
 {
-  "domain": "www.abc.com",
+  "domain": "sector10.renthouseinfaridabad.com",
   "hero": {
     "title": "Discover the Best Place to Rent House in Sector 10 Faridabad Your Ideal Home Awaits",
     "description": [
@@ -61,12 +61,56 @@
       "The convenience factor is truly unmatched, featuring leading hospitals like Asian Hospital, renowned educational institutions, and vibrant shopping complexes just minutes away. This central location makes finding a house for rent in Sector 10 a strategic decision for professionals and families prioritizing convenience, security, and a high quality of life."
     ],
     "locations": [
-      "Sector 11 Market Proximity",
-      "NH-44 Highway Access",
-      "Neelam Chowk Central Hub",
-      "Escorts Mujesar Metro Station",
-      "Crown Plaza Mall",
-      "Asian Institute of Medical Sciences"
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
