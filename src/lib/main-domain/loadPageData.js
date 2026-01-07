@@ -1,19 +1,14 @@
 import fs from "fs";
 import path from "path";
 
-// 🔹 index JSON ka naya path
+// ✅ index file (same pattern as sub-domain)
 const INDEX_PATH = path.join(
   process.cwd(),
   "src/lib/main-domain/main-domain-index.json"
 );
 
-// 🔹 actual content base
-const CONTENT_BASE = path.join(
-  process.cwd(),
-  "content/main-domain"
-);
-
 export function loadPageData(domain) {
+  if (!domain) return null;
   if (!fs.existsSync(INDEX_PATH)) return null;
 
   const index = JSON.parse(
@@ -23,8 +18,10 @@ export function loadPageData(domain) {
   const relativePath = index[domain];
   if (!relativePath) return null;
 
+  // ✅ IMPORTANT FIX: src/content/main-domain
   const fullPath = path.join(
-    CONTENT_BASE,
+    process.cwd(),
+    "src/content/main-domain",
     relativePath
   );
 
