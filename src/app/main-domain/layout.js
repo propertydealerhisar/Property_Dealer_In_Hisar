@@ -53,13 +53,18 @@ export async function generateMetadata() {
         GOOGLE_VERIFICATION[domain] ||
         GOOGLE_VERIFICATION["localhost"],
     },
+     icons: {
+      icon: "/favicon.ico",
+      shortcut: "/favicon.ico",
+      apple: "/favicon.ico",
+    },
   };
 }
 
 export default async function RootLayout({ children }) {
   const h = await headers();
   const domain = h.get("host") || "localhost";
-  // const domain = "www.toletserviceinhisar.com"
+  // const domain = "www.affordableapartmentsingurgaon.com"
      const pageData = loadPageData(domain);
      
   if (!pageData) return notFound();
@@ -75,6 +80,7 @@ export default async function RootLayout({ children }) {
   return (
     <html lang="en">
        <head>
+         <link rel="icon" href="/favicon.ico" />
         {/* ✅ Domain-wise GTM */}
         <GoogleTagManager gtmId={gtmId} />
 
