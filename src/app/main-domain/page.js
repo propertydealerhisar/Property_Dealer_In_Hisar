@@ -17,7 +17,7 @@ export default async function Home() {
   const h = await headers();
 
   const domain = h.get("host") || "localhost";
-  // const domain = "www.plotingurgaon.in"
+  // const domain = "www.affordablehouseingurgaon.com"
 
   // ✅ index-based direct lookup
   const pageData = loadPageData(domain);

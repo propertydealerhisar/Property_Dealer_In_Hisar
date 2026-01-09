@@ -63,10 +63,11 @@ export async function generateMetadata() {
 
 export default async function RootLayout({ children }) {
   const h = await headers();
-  const domain = h.get("host") || "localhost";
-  // const domain = "www.plotingurgaon.in"
+  // const domain = h.get("host") || "localhost";
+  // const domain = "www.affordablehouseingurgaon.com"
      const pageData = loadPageData(domain);
      
+     if(!pageData) console.log("Page data not found for domain:", domain);
   if (!pageData) return notFound();
 
     const gtmId = GTM_IDS[domain] || GTM_IDS["localhost"];
