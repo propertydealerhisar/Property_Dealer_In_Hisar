@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Secure Prime Office Space For Sale in Sector 91 Faridabad Your Next Business Address",
+    "description": [
+      "Sector 91 Faridabad is rapidly emerging as a central hub for commercial activities offering unparalleled connectivity and a vibrant business environment. If you are searching for high-yield investment opportunities or the perfect headquarters for your growing enterprise, finding the right office space here is crucial. We offer a curated selection of commercial properties designed to meet modern operational demands, from compact private offices to expansive corporate suites.",
+      "Investing in office space in Sector 91 means positioning your business at the nexus of connectivity robust infrastructure and professional foot traffic. Explore ready-to-move-in options or customizable shell spaces that allow you to design your workspace exactly as you envision it. Start your search now and capitalize on the booming commercial real estate market of Sector 91."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Investment Brochure",
+        "path": "/brochure"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Diverse Commercial Property Options Available for Sale in Sector 91 Faridabad",
+    "description": [
+      "The commercial landscape of Sector 91 is incredibly versatile catering to businesses of all scales and industries. We understand that one size does not fit all when it comes to professional workspace. Our portfolio includes everything from small office setups ideal for startups and consultants to large floor plates suitable for IT firms and corporate branch offices. Each listing has been vetted for legal clarity and strategic location ensuring you invest only in properties that promise maximum returns and operational efficiency.",
+      "Whether you require a dedicated retail outlet on the ground floor or a premium top-floor office suite with panoramic views, our expert team guides you through the complexities of commercial property acquisition. We focus on properties near major transportation links and residential sectors guaranteeing easy access for employees and clients alike. Find the perfect commercial match for your business objectives in Sector 91."
+    ],
+    "features": [
+      {
+        "title": "Small Plug-and-Play Units",
+        "description": "Ideal for startups freelancers or small consultation firms these units are fully fitted and ready for immediate occupation. They minimize initial setup costs while maximizing efficiency in a prime commercial location in Sector 91. Perfect for those needing a professional address without extensive overheads."
+      },
+      {
+        "title": "Mid-Sized Corporate Offices",
+        "description": "Designed for growing enterprises these spaces offer flexible layouts to accommodate teams between 20 to 50 employees. Located in modern commercial towers, they provide amenities like dedicated parking high-speed internet connectivity and professional security services essential for sustained corporate operation."
+      },
+      {
+        "title": "Large Customizable Floor Plates",
+        "description": "Investors and major corporations seeking headquarters will benefit from large customizable floor plates. These shell spaces offer the freedom to design bespoke offices cabins and conference rooms to perfectly align with corporate branding and operational workflow requirements in Sector 91 Faridabad."
+      },
+      {
+        "title": "Ground Floor Retail Spaces",
+        "description": "While primarily focused on offices, Sector 91 also offers high-visibility ground floor units suitable for premium retail banking or service centers. These locations benefit from high foot traffic and excellent frontage promising superior brand visibility and customer interaction opportunities."
+      },
+      {
+        "title": "Premium IT Office Suites",
+        "description": "Specifically located in buildings equipped with robust power backup fiber-optic infrastructure and secure data centers these suites cater perfectly to the demands of the IT and BPO sectors. These properties ensure continuous high-performance operations which are critical for tech companies."
+      },
+      {
+        "title": "Serviced Office Solutions",
+        "description": "For businesses requiring maximum flexibility, we list serviced office units where rent includes utilities maintenance and reception services. This is a hassle-free investment solution providing immediate high-end professional presence in the heart of Sector 91’s commercial zone."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Strategic Location and Exceptional Connectivity of Sector 91 Commercial Hub",
+    "description": [
+      "Sector 91’s strategic placement within the developing micro-market of Faridabad makes it an ideal spot for commercial investment. This area benefits significantly from its proximity to major highways ensuring seamless connectivity to both Delhi and Gurgaon. This superior location dramatically enhances employee commute satisfaction and client accessibility which are vital factors for business longevity and growth.",
+      "Furthermore, the sector is well-supported by robust social infrastructure including high-quality residential catchment areas educational institutions and healthcare facilities. This means a continuous supply of talent and a steady flow of potential customers are always nearby. Investing here places you directly in the path of Faridabad's future economic expansion."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Office Space For Sale in Sector 91 Faridabad for Your Investment Portfolio",
+    "description": [
+      "The decision to purchase commercial real estate should be driven by future projection and current stability. Sector 91 offers both a stable existing infrastructure and immense potential for capital appreciation making it a standout choice for discerning investors and owner-occupiers. The demand for modern office space is consistently rising here propelled by government initiatives and corporate migration from congested city centers.",
+      "Our expertise in the Sector 91 market ensures you receive transparent data and personalized advice tailored to your financial goals. We help you navigate legal processes analyze rental yields and select properties that guarantee long-term value creation. Choose Sector 91 choose guaranteed commercial success."
+    ],
+    "points": [
+      {
+        "title": "High Capital Appreciation Potential",
+        "description": "As a developing commercial corridor, Sector 91 is forecast to experience significant capital value growth over the next five to seven years. Early investment in high-quality office space ensures maximum return on investment as infrastructure development solidifies and corporate demand intensifies."
+      },
+      {
+        "title": "Robust Rental Yield Environment",
+        "description": "The consistent influx of new businesses seeking professional space ensures competitive rental rates and low vacancy risks. Investors can expect attractive and stable rental yields making office space for sale in Sector 91 a reliable source of passive income generation."
+      },
+      {
+        "title": "Modern Grade A Office Infrastructure",
+        "description": "Properties listed in Sector 91 often feature modern architecture high-speed elevators central air conditioning and advanced security systems. This Grade A infrastructure attracts blue-chip tenants and validates the long-term value of your commercial asset."
+      },
+      {
+        "title": "Excellent Connectivity for Commuters",
+        "description": "Proximity to major arterial roads like the National Highway and planned metro extension routes drastically reduces commute times. This connectivity is a major draw for large employers looking to attract and retain top talent in the wider Delhi NCR region."
+      },
+      {
+        "title": "Favorable State Government Policies",
+        "description": "Haryana state has introduced policies encouraging commercial development and investment in peripheral areas like Sector 91 Faridabad. These policies often translate into easier approvals and better business climate overall benefiting property owners."
+      },
+      {
+        "title": "Diverse Sizing Options Available",
+        "description": "Our inventory ranges widely catering to every need from 500 sq ft boutique offices to 5000 sq ft multi-level complexes. This diversity allows investors to tailor their portfolio exactly to their risk profile and target tenant demographic maximizing market exposure."
+      },
+      {
+        "title": "Professional Property Management",
+        "description": "Many commercial complexes in Sector 91 offer integrated property management services handling maintenance security and tenant relations. This significantly reduces the burden on the owner ensuring smooth operation and preservation of property value."
+      },
+      {
+        "title": "Established Business Ecosystem",
+        "description": "Operating near established retail residential and institutional zones creates a ready ecosystem of supporting services and potential B2B opportunities. Your office space investment benefits from being part of an already thriving commercial community."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Buying Office Space in Sector 91",
+    "description": "Get instant answers to your key queries regarding commercial investment financing and legal due diligence in the Sector 91 Faridabad market.",
+    "faqs": [
+      {
+        "question": "What is the typical return on investment expected from office space for sale in Sector 91",
+        "answer": "The typical Return on Investment ROI for commercial properties in Sector 91 Faridabad is highly competitive primarily driven by strong rental demand and capital appreciation. Investors generally look at rental yields in the range of 6 percent to 8 percent annually depending on the building class and exact location. Furthermore, projected infrastructure growth in this specific micro-market suggests a potential capital appreciation of 15 percent to 25 percent over a five-year holding period making it an attractive long-term investment destination."
+      },
+      {
+        "question": "Are the commercial projects in Sector 91 RERA registered and legally compliant",
+        "answer": "Yes it is crucial to only invest in commercial projects that are RERA registered. We exclusively list properties and office space for sale in Sector 91 that have undergone thorough legal vetting ensuring compliance with all regulatory standards set by RERA. Our advisory team verifies all title deeds occupancy certificates and necessary permits before recommending any property to our clients ensuring complete legal peace of mind during the acquisition process."
+      },
+      {
+        "question": "What are the common maintenance charges for office spaces in this area",
+        "answer": "Maintenance charges vary based on the amenities provided the size of the unit and the overall complexity of the commercial tower. Generally, these charges cover common area electricity security landscaping elevator maintenance and waste management. Buyers should expect to pay between Rs 10 to Rs 20 per square foot per month which should be factored into the overall operational cost of the office space."
+      },
+      {
+        "question": "Is financing available for buying commercial property in Sector 91 Faridabad",
+        "answer": "Yes major national and private banks offer robust financing options for commercial property purchases including office space in Sector 91. Banks typically fund up to 60 percent to 70 percent of the property value depending on the borrower's profile and the property type. We can connect buyers with experienced loan advisors to help secure favorable terms and expedite the financing application process."
+      },
+      {
+        "question": "What factors influence the price of an office unit in Sector 91",
+        "answer": "Several key factors influence the pricing of office space in Sector 91. These include the floor level units on higher floors often command a premium the overall building grade Class A versus Class B the proximity to the main road or highway access the availability of dedicated parking and the extent of internal fit-outs already completed in the unit. Location within the sector is paramount with central hubs being the most expensive."
+      },
+      {
+        "question": "Can Non-Resident Indians NRI invest in commercial property here",
+        "answer": "Absolutely Non-Resident Indians NRI are legally permitted to purchase commercial properties including office space in Sector 91 Faridabad. The acquisition must comply with FEMA Foreign Exchange Management Act guidelines. NRIs typically purchase property through repatriable funds and must ensure all transactional documents are managed correctly. Our team specializes in assisting NRI clients with regulatory compliance."
+      },
+      {
+        "question": "What is the typical lease duration for tenants in Sector 91 office buildings",
+        "answer": "Commercial leases in Sector 91 generally follow industry standards. The standard lock-in period often ranges from 3 years to 5 years depending on the tenant profile and the size of the office space. Corporate tenants usually prefer longer leases offering stability to investors. Lease agreements often include a rental escalation clause typically around 15 percent every three years."
+      },
+      {
+        "question": "Should I buy a bare shell or a fully furnished office space",
+        "answer": "The choice depends on your objective. Bare shell units offer maximum flexibility for customization which is ideal if you are buying for self-use or targeting specific large corporate tenants. Fully furnished plug-and-play offices offer immediate rental income and are ideal for passive investors who want minimal setup hassle and quick tenant acquisition."
+      },
+      {
+        "question": "How is the security handled in major commercial complexes in Sector 91",
+        "answer": "Major commercial complexes in Sector 91 prioritize security featuring multi-tiered security systems. These typically include 24/7 security personnel CCTV surveillance boom barriers controlled access systems and fire safety compliance features. This comprehensive security framework ensures a safe working environment for all occupants and protects commercial assets."
+      },
+      {
+        "question": "What kind of businesses are typically attracted to Sector 91 office space",
+        "answer": "Sector 91 attracts a diverse range of businesses including IT and ITeS companies consulting firms financial services providers corporate branch offices and marketing agencies. Its strategic location connectivity and modern infrastructure make it appealing to companies looking for a cost-effective alternative to Gurgaon while maintaining high operational standards."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Partner with Our Commercial Real Estate Experts Today",
+    "description": [
+      "Ready to find the ideal office space for sale in Sector 91 Faridabad? Our dedicated commercial property advisors are here to provide personalized guidance market analysis and private viewing schedules. We simplify the complex process of commercial acquisition ensuring a smooth and confident transaction.",
+      "Contact us now to discuss your specific spatial needs investment budget and long-term business strategy. Let us help you unlock the potential of Faridabad's most promising commercial zone."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

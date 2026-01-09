@@ -4,7 +4,7 @@ const path = require("path");
 // ===== CONFIG =====
 const GRAND_PARENT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/faridabad/rent-house"
+  "../content/sub-domain/gurgaon"
 );
 
 const DOMAIN_VALUE = "www.abc.com";

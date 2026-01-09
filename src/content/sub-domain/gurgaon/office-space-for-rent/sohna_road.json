@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Secure Premium Office Space For Rent in Sohna Road Gurgaon Prime Locations Today",
+    "description": [
+      "We specialize in connecting ambitious businesses with the perfect commercial office space on Sohna Road. This corridor is rapidly emerging as Gurgaon’s next big business hub offering strategic connectivity to the Golf Course Extension Road and NH-48. Finding the ideal workplace requires more than just square footage it demands a supportive environment that scales with your growth. Our curated listings include modern Grade A buildings flexible coworking spaces and bespoke enterprise suites designed for maximum productivity and corporate presence.",
+      "Whether you are a fast-growing startup or a multinational corporation relocating for better infrastructure we offer personalized rental solutions that meet your budget and operational needs. Start your search here and leverage the unparalleled advantages of an address on Sohna Road the gateway to future business success. Explore high-visibility office space for rent in Sohna Road that positions your company ahead of the curve."
+    ],
+    "buttons": [
+      {
+        "label": "View All Office Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule A Site Visit",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Diverse Commercial Office Space Options Available for Rent on Sohna Road",
+    "description": [
+      "The Sohna Road commercial real estate market offers a spectrum of rental opportunities catering to every business size and operational model. We understand that modern businesses require flexibility and specialized infrastructure which is why our inventory ranges from small serviced offices ideal for satellite teams to large warm shell spaces ready for bespoke corporate fit-outs. Beyond just the physical space these properties are chosen based on essential criteria like security power backup high-speed internet readiness and ample parking facilities.",
+      "Choosing your office location on Sohna Road means positioning your company in a high-visibility corridor ensuring easy access for employees and clients alike. We simplify the rental process providing transparent pricing and detailed property management support ensuring a smooth transition into your new commercial address. Explore the distinct categories below to determine which type of commercial office space for rent in Sohna Road best aligns with your strategic goals for expansion and efficiency."
+    ],
+    "features": [
+      {
+        "title": "Serviced Office Suites",
+        "description": "Ideal for small teams startups or companies needing immediate, fully furnished, plug-and-play solutions. These offices come equipped with shared amenities like reception services meeting rooms and high-speed Wi-Fi included in the rental cost. Serviced offices offer maximum flexibility and minimal setup time allowing you to focus purely on your core business operations right from day one."
+      },
+      {
+        "title": "Grade A Enterprise Floors",
+        "description": "Designed for large corporations and MNCs requiring substantial floor plates in premium buildings. These spaces feature modern glass facades efficient central air conditioning systems and high-speed elevators. Renting a Grade A enterprise floor on Sohna Road ensures you secure a prestigious address that enhances your corporate image and provides an unparalleled working environment for hundreds of employees."
+      },
+      {
+        "title": "Customizable Bare Shell Spaces",
+        "description": "Perfect for businesses that require complete control over their office design and layout. Bare shell units provide an empty canvas allowing you to implement specific brand aesthetics specialized technical setups or unique zoning requirements. While requiring initial fit-out capital these spaces offer the ultimate long-term customization and operational efficiency for your unique needs."
+      },
+      {
+        "title": "IT/ITES Specific Buildings",
+        "description": "These commercial complexes are purpose-built to meet the high demands of the Information Technology and IT Enabled Services sectors. Features include high floor-to-ceiling heights robust fiber optic backbone infrastructure and increased power load capacity. Secure a specialized office space for rent in Sohna Road that minimizes downtime and maximizes technological performance for critical operations."
+      },
+      {
+        "title": "Coworking Hot Desks & Private Cabins",
+        "description": "Offering flexible membership plans ideal for freelancers remote workers or project-based teams. Coworking centers along Sohna Road provide a vibrant professional community environment with access to networking events and premium facilities on a pay-as-you-go or monthly basis. Private cabins offer the security of a dedicated office within the dynamic energy of a shared workspace."
+      },
+      {
+        "title": "Retail & Ground Floor Frontage",
+        "description": "High visibility commercial units suited for businesses requiring direct street access and prominent brand exposure. These spaces are often located on the lower floors of business centers offering dual functionality for both office use and customer-facing operations. Excellent for banking institutions retail showrooms or service centers aiming to capture local foot traffic on Sohna Road."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Major Commercial Centers and Business Towers on Sohna Road Gurgaon",
+    "description": [
+      "Sohna Road is not a single location but a sprawling business ecosystem composed of several prestigious commercial towers and integrated business parks. Renting office space here provides excellent proximity to major residential sectors ensuring an accessible commute for your workforce. Key commercial nodes like Sector 49 Sector 50 and Sector 67 are highly sought after offering established infrastructure and robust support services.",
+      "These areas benefit from the superior connectivity provided by the Southern Peripheral Road SPR making travel seamless between central Gurgaon and the new sectors. We list commercial properties exclusively in towers known for their professional management excellent maintenance records and compliance with modern safety standards. Investing in an office space on Sohna Road is a clear statement of growth and commitment to quality positioning your brand among other industry leaders in a dynamic setting."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Rent Office Space on Sohna Road The Definitive Business Advantage",
+    "description": [
+      "Selecting the right office space is a critical business decision that impacts talent retention operations and brand perception. Sohna Road offers a unique blend of affordability relative to established micro-markets like Cyber City and superior future connectivity via the upcoming infrastructure projects including the extended Metro line planning.",
+      "Our platform elevates your search process providing professional guidance and unbiased listings. We focus on providing office space rental solutions that offer long-term value not just short-term leases ensuring your investment in a prime commercial address on Sohna Road is scalable and secure."
+    ],
+    "points": [
+      {
+        "title": "Strategic Connectivity and Future Growth Potential",
+        "description": "Sohna Road sits strategically at the intersection of several key roads offering smooth transit to Delhi NCR and Manesar. Ongoing infrastructure development including major road upgrades and proposed mass transit systems guarantees increased property value and accessibility for your business in the coming years. This location assures your office space remains future-proof."
+      },
+      {
+        "title": "Diverse Inventory from Serviced to Bare Shell",
+        "description": "We maintain an extensive portfolio encompassing every type of commercial requirement from ready-to-move fully furnished offices to large open shell spaces spanning thousands of square feet. This diversity ensures that whether you need 5 seats or 500 seats we can quickly pinpoint the most suitable office space for rent in Sohna Road matching your exact specifications and timeline."
+      },
+      {
+        "title": "Competitive Rental Rates Compared to Prime Gurgaon Areas",
+        "description": "Enjoy the benefits of a premium Gurgaon address without the exorbitant costs associated with Golf Course Road or Cyber Hub. Sohna Road provides high-quality Grade A office buildings at a significantly better value per square foot offering substantial savings on your annual operational expenditure while maintaining prestige."
+      },
+      {
+        "title": "Access to a Large Skilled Talent Pool",
+        "description": "Due to excellent connectivity and proximity to major residential areas like Sector 49 and Sector 65 the Sohna Road corridor attracts a vast reservoir of skilled professionals. Locating your office here improves employee commute times making your company a more attractive employer and streamlining your talent acquisition efforts."
+      },
+      {
+        "title": "World-Class Infrastructure and Modern Building Design",
+        "description": "The majority of commercial projects on Sohna Road are newly developed featuring modern architecture earthquake-resistant structures 100% power backup and advanced security management systems. These buildings are designed to meet global corporate standards providing a safe and sophisticated environment for your team."
+      },
+      {
+        "title": "Comprehensive Lease Negotiation Support",
+        "description": "Our expert team provides unparalleled assistance throughout the negotiation process ensuring you secure the most favorable lease terms including rent escalation clauses common area maintenance charges and fit-out periods. We protect your business interests ensuring a fair transparent and beneficial rental agreement for your office space."
+      },
+      {
+        "title": "Transparent Listings and Verified Property Management",
+        "description": "We only feature verified listings from reputed developers and owners guaranteeing transparency in pricing and property details. All commercial properties listed are managed professionally ensuring high standards of maintenance and timely resolution of facility issues once you occupy your rented office space."
+      },
+      {
+        "title": "Employee Lifestyle Amenities and Conveniences",
+        "description": "Commercial complexes along Sohna Road are integrated with retail food courts fine dining restaurants and fitness centers. This ensures your employees have access to excellent facilities and conveniences promoting better work-life balance and overall job satisfaction just steps away from their commercial office space."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Common Questions About Renting Commercial Office Space in Sohna Road",
+    "description": "We answer the most frequently asked questions regarding lease agreements property features and the commercial environment on Sohna Road helping you make an informed decision about your next workplace.",
+    "faqs": [
+      {
+        "question": "What is the typical lock-in period for an office space lease on Sohna Road",
+        "answer": "The standard lock-in period for commercial office space for rent in Sohna Road typically ranges from 30 to 36 months depending on the building class and the size of the unit being leased. For larger enterprise deals or properties in Grade A buildings landlords may sometimes request a lock-in period closer to 60 months. This is negotiated during the lease finalization and is usually coupled with an equivalent security deposit amount to ensure commitment from both parties."
+      },
+      {
+        "question": "Are there parking facilities available for tenants and visitors in Sohna Road office buildings",
+        "answer": "Yes premium commercial buildings along Sohna Road offer extensive multi-level basement parking and sometimes dedicated surface parking for tenants. The allocation of parking spots is generally based on the leased area often calculated at one bay per 1000 square feet of office space. Adequate visitor parking is also typically provided although often for a fee or limited duration ensuring ease of access for clients and guests."
+      },
+      {
+        "question": "What are the average maintenance charges included in the rent for commercial space",
+        "answer": "Maintenance charges often referred to as Common Area Maintenance CAM fees are separate from the base rent and cover services like security housekeeping common area electricity elevator upkeep and HVAC maintenance. On Sohna Road these charges typically range between ₹15 to ₹25 per square foot per month and are billed monthly or quarterly depending on the specific building management policy and service level agreement."
+      },
+      {
+        "question": "Is Sohna Road well-connected via public transportation like the Metro",
+        "answer": "While Sohna Road does not currently have a direct operational Metro station planned extensions are underway and the area is well-served by the existing Rapid Metro network which connects efficiently to various bus routes and dedicated shuttle services. Furthermore the location boasts excellent connectivity via the internal road network and proximity to NH 48 ensuring smooth travel via cabs and private vehicles making it highly accessible."
+      },
+      {
+        "question": "Can I negotiate the fit-out period for a bare shell office space",
+        "answer": "Absolutely the fit-out period is a crucial negotiable term for bare shell office space for rent in Sohna Road. Landlords understand that significant time is needed for civil electrical and interior work. Depending on the size of the space and the complexity of the design a rent-free fit-out period ranging from 45 days to 90 days is generally granted before the lease officially commences and the rental obligations begin."
+      },
+      {
+        "question": "What kind of security measures are in place in major Sohna Road commercial complexes",
+        "answer": "Major commercial complexes implement high-level security protocols including 24/7 CCTV surveillance centralized control rooms and guarded access points. Many buildings also utilize automated boom barriers access card systems for employee entry and dedicated security patrols ensuring a secure working environment for all tenants their assets and their employees around the clock."
+      },
+      {
+        "question": "Are small furnished office spaces available for less than 50 employees",
+        "answer": "Yes Sohna Road has seen a significant increase in demand for smaller flexible office solutions. We offer numerous listings for fully furnished private cabins and managed office spaces that comfortably accommodate teams of 10 to 50 employees eliminating the need for large capital expenditure on interior fit-outs and furniture for smaller organizations."
+      },
+      {
+        "question": "What factors influence the effective rental price of an office unit",
+        "answer": "The final effective rental price of an office space is influenced by several factors including the building's Grade classification Grade A commands a higher price the floor level higher floors often cost more the view the tenure of the lease commitment and whether the space is furnished or unfurnished. We provide a detailed breakdown of all components to ensure clarity on the total cost of renting office space."
+      },
+      {
+        "question": "How soon can I move into a serviced office space on Sohna Road",
+        "answer": "One of the key advantages of a serviced office space is immediate occupancy. Once the necessary paperwork including the service agreement and payment of the security deposit is completed you can often move into your new serviced office within 24 to 48 hours making it the quickest solution for urgent business relocation needs on Sohna Road."
+      },
+      {
+        "question": "Do I need a real estate broker to find suitable office space for rent in Sohna Road",
+        "answer": "While it is possible to search independently utilizing a professional commercial real estate broker is highly recommended. We provide exclusive access to off-market listings perform due diligence on property titles and, most importantly, possess the localized market knowledge necessary to negotiate the best possible lease terms saving you time and money and mitigating potential legal issues."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Connect With Our Sohna Road Commercial Office Space Experts",
+    "description": [
+      "Ready to move your business to the most dynamic corridor in Gurgaon? Our team of commercial leasing specialists is prepared to offer tailored advice and exclusive access to off-market listings.",
+      "Contact us today to discuss your exact requirements and secure a personalized tour of available commercial office space for rent in Sohna Road Gurgaon. Let us find your business’s next strategic home."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

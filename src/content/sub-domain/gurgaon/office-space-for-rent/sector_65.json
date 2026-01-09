@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Secure the Best Office Space For Rent in Sector 65 Faridabad Your Business Deserves",
+    "description": [
+      "Welcome to the commercial heartbeat of Faridabad Sector 65 a prime location renowned for its modern infrastructure and exceptional business ecosystem. We offer a curated selection of premium Office Space For Rent in Sector 65 designed to meet the diverse needs of startups SMEs and established corporations alike. Whether you require a sleek fully-furnished suite or a customisable bare-shell unit we connect you directly with spaces that inspire productivity and drive growth.",
+      "Sector 65 provides unparalleled connectivity making employee commutes easy and client visits seamless. Leverage this strategic advantage to elevate your brand presence. Our listings feature Grade A commercial complexes with world-class amenities including 24/7 power backup high-speed internet and professional security. Start your search today and find the perfect commercial address that aligns with your operational goals and budget in Sector 65 Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Premium Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Get Custom Rental Quote",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Discover Flexible and Modern Office Space Solutions Available in Sector 65 Now",
+    "description": [
+      "The commercial landscape of Sector 65 Faridabad offers tremendous versatility catering to almost every business size and operational requirement. Choosing the right type of Office Space For Rent in Sector 65 is crucial for efficiency and employee satisfaction. We specialise in identifying properties that offer superior infrastructure value and strategic location benefits ensuring your rental investment translates into long-term business success.",
+      "From high-tech serviced offices perfect for immediate occupancy to large open-plan floors ready for bespoke corporate fit-outs we simplify the search process. Our portfolio includes properties that boast contemporary architecture ample parking and proximity to key transportation hubs. Let us help you navigate the options and secure an office that reflects your corporate ambition and commitment to quality."
+    ],
+    "features": [
+      {
+        "title": "Private Cabin Offices for Small Teams",
+        "description": "Ideal for startups consultancies and small teams requiring privacy and focus. These compact yet efficient units provide a professional environment without the commitment of managing large infrastructure. Find dedicated ready-to-use private cabins in high-end commercial buildings within Sector 65 featuring robust IT support and essential services included in the rental package."
+      },
+      {
+        "title": "Fully Furnished Ready-to-Move Spaces",
+        "description": "Minimize downtime and capital expenditure with our fully furnished Office Space For Rent in Sector 65 Faridabad. These spaces come equipped with ergonomic seating state-of-the-art meeting rooms and established networking infrastructure. Perfect for businesses needing immediate operational readiness and a polished corporate image from day one in this vibrant business zone."
+      },
+      {
+        "title": "Bare Shell Offices for Customisation",
+        "description": "For established companies seeking complete design control bare shell offices offer a blank canvas. This option allows you to design the internal layout cabling HVAC and aesthetics precisely according to your brand guidelines and functional needs. Secure spacious bare shell units in prime Sector 65 towers providing maximum flexibility for your long-term headquarters planning."
+      },
+      {
+        "title": "Flexible Coworking Desks and Hot Desks",
+        "description": "Benefit from unparalleled flexibility with coworking options available across Sector 65. Whether you are a freelancer a remote worker or need temporary satellite space coworking provides a vibrant community access to premium amenities and short-term lease options. Enjoy cost-efficiency networking opportunities and high-speed connectivity in a dynamic shared environment."
+      },
+      {
+        "title": "Large Corporate Suites for Enterprise",
+        "description": "We offer extensive floor plates and contiguous spaces suitable for large corporations and BPOs needing capacity for hundreds of employees. These corporate suites often include dedicated entrances high-speed elevators and tailored security protocols. These premium Office Space For Rent in Sector 65 provide the scale and infrastructure required for enterprise-level operations and significant future expansion."
+      },
+      {
+        "title": "All-inclusive Serviced Offices",
+        "description": "Serviced offices simplify administration by consolidating rent utilities maintenance security and sometimes even secretarial services into one monthly fee. This model is ideal for international businesses entering the Faridabad market or local firms focusing purely on core operations. Enjoy a premium managed office environment in Sector 65 without the operational burden."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Strategic Connectivity and Key Business Infrastructure near Sector 65 Faridabad",
+    "description": [
+      "Sector 65 is not just a location it is a commercial destination built for optimal accessibility and sustained business activity. Its geographical placement provides excellent links to major arterial roads including the Delhi-Mathura Road NH-19 ensuring smooth logistics and ease of access from Delhi Noida and other parts of Haryana. This superb connectivity reduces commute times for your workforce a critical factor in today's competitive job market.",
+      "The area is supported by robust social and commercial infrastructure including modern malls high-quality residential sectors and essential civic services. Locating your Office Space For Rent in Sector 65 positions you near potential clients suppliers and top-tier talent. This vibrant mix enhances the business ecosystem making Sector 65 a powerful choice for future-forward companies aiming for exponential growth and market visibility in Faridabad."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Securing Your Next Office Space For Rent in Sector 65 is a Smart Business Move",
+    "description": [
+      "Choosing the right location impacts operational efficiency and corporate identity profoundly. Sector 65 Faridabad stands out as a high-potential commercial zone offering a perfect balance of affordability modernity and strategic positioning. Our expertise ensures you secure an office that is not only cost-effective but also future-proofed for expansion.",
+      "We provide comprehensive support from initial viewing through lease negotiation ensuring transparency and the best possible terms for your Office Space For Rent in Sector 65. Trust our local market knowledge to unlock premium opportunities that are often not publicly listed."
+    ],
+    "points": [
+      {
+        "title": "Prime Location and Visibility",
+        "description": "Sector 65 offers high visibility on major routes ensuring maximum brand exposure for your company. Establishing your presence here immediately elevates your perceived value among clients and competitors. The area is recognised for its Grade A infrastructure attracting a discerning clientele and top-tier corporate neighbours enhancing your networking potential and market standing in Faridabad."
+      },
+      {
+        "title": "Modern Commercial Infrastructure",
+        "description": "The commercial complexes in Sector 65 are built to international standards featuring high-speed elevators advanced fire safety systems and aesthetically pleasing facades. You benefit from modern architecture energy-efficient designs and dedicated facilities management. This commitment to quality infrastructure guarantees a smooth and professional working environment for all tenants."
+      },
+      {
+        "title": "Cost-Effective Rental Pricing",
+        "description": "While offering premium amenities Sector 65 remains highly competitive in rental rates compared to established metros like Delhi or Gurugram. This cost advantage allows businesses to allocate more resources to growth and operations without compromising on location quality. Finding affordable Office Space For Rent in Sector 65 ensures excellent value for money."
+      },
+      {
+        "title": "Robust Security and Safety Measures",
+        "description": "All our listed properties prioritise tenant safety featuring 24/7 manned security surveillance CCTV monitoring and controlled access points. This comprehensive security framework ensures the protection of your assets data and personnel allowing your teams to focus entirely on their work in a secure environment within Faridabad Sector 65."
+      },
+      {
+        "title": "Uninterrupted Power and Backup",
+        "description": "Business continuity is guaranteed with dedicated power backup systems installed across all major commercial complexes in Sector 65. Minimize operational disruptions due to power fluctuations or outages ensuring servers remain running and productivity stays high regardless of external utility issues. Reliability is a non-negotiable feature we assure you."
+      },
+      {
+        "title": "Excellent Local Amenities Proximity",
+        "description": "The surrounding area of Sector 65 boasts numerous conveniences including high-street retail centres fine dining restaurants banks and gyms. These nearby amenities improve employee satisfaction and provide convenient options for client entertainment and team lunches all within short walking distance of your Office Space For Rent in Sector 65."
+      },
+      {
+        "title": "Flexible Leasing Terms Available",
+        "description": "We understand that business needs evolve rapidly. Our portfolio includes properties offering flexible lease structures from short-term coworking agreements to long-term traditional leases. We help negotiate terms that provide the necessary stability while retaining the agility your growing business demands in the competitive Faridabad market."
+      },
+      {
+        "title": "Dedicated Expert Local Support",
+        "description": "Our team are Sector 65 specialists offering unparalleled market insight and negotiation expertise. We guide you through documentation RERA compliance and legal formalities ensuring a hassle-free transition into your new office. Rely on us for unbiased advice and transparent dealings throughout the rental process."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Answers to Common Questions About Renting Office Space in Sector 65 Faridabad",
+    "description": "Get detailed information on leases amenities and procedures regarding premium Office Space For Rent in Sector 65 Faridabad.",
+    "faqs": [
+      {
+        "question": "What is the typical lock-in period for an Office Space For Rent in Sector 65",
+        "answer": "The standard commercial lock-in period in major Faridabad commercial complexes including Sector 65 usually ranges from 12 to 36 months depending on the size of the space and the fit-out investment made by the landlord. For smaller serviced offices or coworking spaces the lock-in period can be significantly shorter sometimes as little as 3 to 6 months offering greater flexibility for short-term projects. Always clarify the lock-in period before finalising the lease as early termination can incur significant penalties based on the negotiated agreement."
+      },
+      {
+        "question": "Are maintenance charges included in the advertised rental price for offices here",
+        "answer": "Maintenance charges are generally segregated. In traditional bare shell leases the rent typically covers the base space cost while Common Area Maintenance CAM charges are billed separately covering shared utilities security common area upkeep and lift maintenance. Serviced offices however usually quote an all-inclusive price where maintenance is bundled into the single monthly fee. It is crucial to review the lease agreement carefully to understand what is included under CAM and who is responsible for internal maintenance and repairs within your specific Office Space For Rent in Sector 65."
+      },
+      {
+        "question": "What kind of parking facilities are available with Sector 65 commercial properties",
+        "answer": "Most premium commercial complexes in Sector 65 Faridabad offer dedicated multi-level basement parking for tenants and limited surface parking for visitors. The allocation of parking slots is usually proportional to the square footage of the rented office space typically ranging from one slot per 700 to 1000 square feet. We can help confirm the specific parking ratio for any listed Office Space For Rent in Sector 65 and negotiate additional parking if required for your staff and clients."
+      },
+      {
+        "question": "Is Sector 65 well-connected by public transport for employee commuting",
+        "answer": "Yes Sector 65 boasts excellent public transport connectivity. It is strategically located near major bus routes and provides relatively quick access to the operational Faridabad Metro line. The connectivity to NH-19 ensures that autos taxis and ride-sharing services are readily available making daily commutes hassle-free for employees residing across Faridabad or in the NCR region. This accessibility makes Office Space For Rent in Sector 65 highly desirable for talent retention."
+      },
+      {
+        "question": "Can I customise the interiors of a rented office space in Sector 65",
+        "answer": "The extent of customisation depends entirely on the type of lease. If you opt for a bare shell Office Space For Rent in Sector 65 you have complete freedom to design the interiors subject to structural and safety approvals from the building management. For furnished or serviced offices modifications are typically restricted to minor cosmetic changes like wall art or branding signage. Major structural changes always require prior written consent from the landlord and adherence to building codes."
+      },
+      {
+        "question": "What security deposit is required for commercial rentals in this area",
+        "answer": "The standard security deposit for commercial Office Space For Rent in Sector 65 is typically equivalent to 3 to 6 months rent. This deposit is held by the landlord throughout the lease period and is refundable upon lease expiry assuming no damage to the property beyond normal wear and tear and full clearance of outstanding dues. The exact number of months often depends on the duration of the lease and the financial profile of the tenant company."
+      },
+      {
+        "question": "What are the common lease durations offered for commercial units here",
+        "answer": "For traditional commercial leases in Sector 65 the standard duration is 3 years with an optional renewal clause for another 3 years sometimes involving a pre-agreed rental escalation. Shorter terms of 1 to 2 years may be available for smaller units or in exceptional circumstances. Coworking and serviced offices offer much shorter terms ranging from month-to-month to annual contracts providing maximum operational flexibility."
+      },
+      {
+        "question": "Do I need RERA registration for commercial renting in Sector 65",
+        "answer": "RERA Real Estate Regulatory Authority primarily governs the sale and development of properties. While direct renting transactions are not typically covered by RERA the building itself if recently developed and sold is RERA compliant. You should ensure that your chosen Office Space For Rent in Sector 65 is in a legally compliant building and that all documentation adheres to standard commercial real estate practices and local municipal laws."
+      },
+      {
+        "question": "Are there any hidden costs associated with renting office space in Sector 65",
+        "answer": "We ensure transparency but tenants should be aware of potential costs beyond the base rent. These often include the aforementioned CAM charges utility consumption electricity and water deposits stamp duty and registration fees for the lease agreement and Goods and Services Tax GST on rental components. Our team provides a full breakdown of all associated costs before you sign the agreement."
+      },
+      {
+        "question": "How quickly can I move into a newly rented office space in this sector",
+        "answer": "Move-in time varies significantly based on the office type. Fully furnished and serviced offices can often accommodate occupancy within a few days or one week after lease signing and deposit payment. Bare shell Office Space For Rent in Sector 65 requires extensive fit-out time which can range from 3 to 6 months depending on the scale and complexity of the interior work required for your operational needs."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Start Your Search for Premium Office Space For Rent in Sector 65 Today",
+    "description": [
+      "Ready to secure the ideal commercial space that propels your business forward in Faridabad We are here to provide tailored listings expert insights and seamless negotiation support.",
+      "Contact our commercial real estate specialists now for personalised recommendations and private viewing appointments in Sector 65 Faridabad."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

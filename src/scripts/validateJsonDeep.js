@@ -4,7 +4,7 @@ const path = require("path");
 // 🔴 GRAND PARENT FOLDER (yahin se scan start hoga)
 const ROOT_PATH = path.resolve(
   __dirname,
-  "../content/sub-domain/faridabad"   // 👈 apna grand parent path yahan set karo
+  "../content/sub-domain/gurgaon"   // 👈 apna grand parent path yahan set karo
 );
 
 // ---------------- UTILS ----------------

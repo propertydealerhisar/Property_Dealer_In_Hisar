@@ -1,12 +1,13 @@
 {
   "domain": "",
-
   "heroSection": {
     "badge": "Builder Floor for Rent",
     "heading": "Builder Floor for Rent in Gurgaon",
-    "description": ["Builder Floor for Rent in Gurgaon is the perfect choice for tenants who prefer privacy, space, and independent living within the city’s prime residential sectors. Gurgaon offers a wide range of builder floors that combine the comfort of a standalone home with the convenience of urban infrastructure. These floors are ideal for families, working professionals, and corporate tenants looking for a peaceful yet well-connected living environment.",
-"Unlike apartments, a Builder Floor for Rent in Gurgaon provides low-density living, separate entrances, better ventilation, and a more personalized lifestyle. Most builder floors come with modern interiors, parking facilities, power backup, and proximity to schools, hospitals, offices, and metro stations. With flexible rental options, tenants can easily find a home that fits their budget and location preference.",
-"At Deal Acres, a trusted property dealer in Gurgaon, we bring you verified and ready-to-move Builder Floor for Rent in Gurgaon options across prime locations. From semi-furnished to fully furnished floors, our listings ensure comfort, transparency, and hassle-free renting."],
+    "description": [
+      "Builder Floor for Rent in Gurgaon is the perfect choice for tenants who prefer privacy, space, and independent living within the city’s prime residential sectors. Gurgaon offers a wide range of builder floors that combine the comfort of a standalone home with the convenience of urban infrastructure. These floors are ideal for families, working professionals, and corporate tenants looking for a peaceful yet well-connected living environment.",
+      "Unlike apartments, a Builder Floor for Rent in Gurgaon provides low-density living, separate entrances, better ventilation, and a more personalized lifestyle. Most builder floors come with modern interiors, parking facilities, power backup, and proximity to schools, hospitals, offices, and metro stations. With flexible rental options, tenants can easily find a home that fits their budget and location preference.",
+      "At Deal Acres, a trusted property dealer in Gurgaon, we bring you verified and ready-to-move Builder Floor for Rent in Gurgaon options across prime locations. From semi-furnished to fully furnished floors, our listings ensure comfort, transparency, and hassle-free renting."
+    ],
     "buttons": [
       {
         "label": "View Builder Floors for Rent",
@@ -24,17 +25,15 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Independent Living with Comfort & Privacy",
     "heading": "Why Choose a Builder Floor for Rent in Gurgaon",
     "description": [
       "Choosing a Builder Floor for Rent in Gurgaon means enjoying a perfect balance between independence and urban convenience. Gurgaon’s builder floors are mostly located in well-planned residential sectors, offering a calm environment away from overcrowded apartment complexes. Tenants enjoy fewer neighbors, enhanced privacy, and spacious layouts designed for modern living.",
-"A Builder Floor for Rent in Gurgaon is especially popular among families and professionals who value quiet surroundings and personalized spaces. These properties often come with dedicated parking, wide balconies, and independent utilities. With excellent road connectivity and easy access to business hubs like Cyber City, Golf Course Road, and Sohna Road, builder floors offer both comfort and connectivity.",
-"As a reliable property dealer in Gurgaon, Deal Acres ensures that every Builder Floor for Rent in Gurgaon listed on our platform is verified for ownership, condition, and rental value. Our expert team helps tenants find the right floor that matches their lifestyle, budget, and preferred location."
+      "A Builder Floor for Rent in Gurgaon is especially popular among families and professionals who value quiet surroundings and personalized spaces. These properties often come with dedicated parking, wide balconies, and independent utilities. With excellent road connectivity and easy access to business hubs like Cyber City, Golf Course Road, and Sohna Road, builder floors offer both comfort and connectivity.",
+      "As a reliable property dealer in Gurgaon, Deal Acres ensures that every Builder Floor for Rent in Gurgaon listed on our platform is verified for ownership, condition, and rental value. Our expert team helps tenants find the right floor that matches their lifestyle, budget, and preferred location."
     ]
   },
-
   "featureWithImage": {
     "badge": "Builder Floor in Gurgaon",
     "title": "Why Rent a Builder Floor in Gurgaon",
@@ -66,110 +65,128 @@
       "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
     }
   },
-
   "servicesSection": {
     "heading": "Explore Other Property Services in Gurgaon",
-    "description": ["Deal Acres offers a wide range of real estate services across Gurgaon to meet every property need:"],
+    "description": [
+      "Deal Acres offers a wide range of real estate services across Gurgaon to meet every property need:"
+    ],
     "services": [
-  {
-    "title": "House for Sale in Gurgaon",
-    "description": "Independent houses and villas with verified ownership and premium locations.",
-    "icon": "FaHome"
+      {
+        "title": "Flats for Rent in Gurgaon",
+        "description": "Discover premier rental flats in prime Gurgaon locations providing immediate access to essential urban amenities and excellent transport links.",
+        "icon": "FaHome",
+        "path": "https://flatsforrentingurgaon.com"
+      },
+      {
+        "title": "Flats for Sale in Gurgaon",
+        "description": "Secure your ideal investment with a vast selection of ready-to-move-in flats available for purchase across burgeoning Gurgaon neighborhoods.",
+        "icon": "FaDollarSign",
+        "path": "https://flatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Plots for Sale in Gurgaon",
+        "description": "Explore lucrative opportunities to acquire residential and commercial plots ready for immediate development in high-growth corridors of Gurgaon.",
+        "icon": "FaLandmark",
+        "path": "https://plotsforsaleingurgaon.com"
+      },
+      {
+        "title": "Apartments for Rent in Gurgaon",
+        "description": "Browse sophisticated apartment listings offering premium features and maintenance services ensuring a comfortable and luxurious living experience.",
+        "icon": "FaBuilding",
+        "path": "https://apartmentsforrentingurgaon.com"
+      },
+      {
+        "title": "Rent House in Gurgaon",
+        "description": "Find the perfect independent house for rent ensuring privacy space and dedicated amenities suitable for large families seeking comfort.",
+        "icon": "FaKey",
+        "path": "https://renthouseingurgaon.com"
+      },
+      {
+        "title": "Buy House in Gurgaon",
+        "description": "Navigate the market to purchase freehold houses providing long-term security substantial appreciation potential and bespoke customization options.",
+        "icon": "FaMoneyBillWave",
+        "path": "https://buyhouseingurgaon.com"
+      },
+      {
+        "title": "Affordable Apartments in Gurgaon",
+        "description": "Access budget-friendly modern apartments offering excellent value without compromising on quality connectivity or essential community facilities.",
+        "icon": "FaTags",
+        "path": "https://affordableapartmentsingurgaon.com"
+      },
+      {
+        "title": "House for Sale in Gurgaon",
+        "description": "Exclusive listings of independent houses available for sale featuring spacious layouts prime locations and robust structural integrity guaranteed.",
+        "icon": "FaHome",
+        "path": "https://houseforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Property in Gurgaon",
+        "description": "Comprehensive catalog of residential assets including villas flats and houses designed to meet diverse lifestyle needs and investment goals.",
+        "icon": "FaClipboardList",
+        "path": "https://residentialpropertyingurgaon.com"
+      },
+      {
+        "title": "Affordable House in Gurgaon",
+        "description": "Specialized collection of reasonably priced houses designed for first-time buyers seeking quality construction and established neighborhood settings.",
+        "icon": "FaPiggyBank",
+        "path": "https://affordablehouseingurgaon.com"
+      },
+      {
+        "title": "Shop for Rent in Gurgaon",
+        "description": "Secure high-visibility commercial retail space for rent ensuring maximum customer footfall and immediate business operational readiness in Gurgaon.",
+        "icon": "FaStore",
+        "path": "https://shopforrentingurgaon.com"
+      },
+      {
+        "title": "Real Estate Agents in Gurgaon",
+        "description": "Connect with experienced local property advisors providing personalized guidance expert negotiations and seamless transaction management for clients.",
+        "icon": "FaUserTie",
+        "path": "https://realestateagentsingurgaon.com"
+      },
+      {
+        "title": "2 BHK Flats for Sale in Gurgaon",
+        "description": "Dedicated inventory of premium 2 BHK flats ideal for small families or young professionals seeking compact efficient and modern living spaces.",
+        "icon": "FaBed",
+        "path": "https://2bhkflatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Projects in Gurgaon",
+        "description": "Explore upcoming and ongoing new construction residential developments offering modern amenities innovative design and future investment potential.",
+        "icon": "FaHardHat",
+        "path": "https://residentialprojectsingurgaon.com"
+      },
+      {
+        "title": "Shop for Sale in Gurgaon",
+        "description": "Acquire ownership of commercial retail units situated strategically in bustling markets ensuring high returns on investment and business growth.",
+        "icon": "FaShoppingCart",
+        "path": "https://shopforsaleingurgaon.com"
+      },
+      {
+        "title": "Luxury Apartments in Gurgaon",
+        "description": "Elite collection of upscale apartments boasting bespoke interiors high-end facilities and exclusive access to world-class community amenities.",
+        "icon": "FaGem",
+        "path": "https://luxuryapartmentsingurgaon.com"
+      },
+      {
+        "title": "Office Space for Rent in Gurgaon",
+        "description": "Lease professional commercial office environments offering flexible layouts excellent connectivity and state-of-the-art infrastructure ready for business.",
+        "icon": "FaBriefcase",
+        "path": "https://officespaceforrentingurgaon.com"
+      },
+      {
+        "title": "Studio Apartments in Gurgaon",
+        "description": "Compact efficient studio living spaces perfect for singles or students prioritizing location minimal maintenance and convenient urban access.",
+        "icon": "FaGlobe",
+        "path": "https://studioapartmentsingurgaon.com"
+      },
+      {
+        "title": "Plot in Gurgaon",
+        "description": "Invest in strategically located open land parcels offering flexibility for custom construction catering to specific long-term development plans.",
+        "icon": "FaMapMarkedAlt",
+        "path": "https://plotingurgaon.in"
+      }
+    ]
   },
-  {
-    "title": "Flat for Rent in Gurgaon",
-    "description": "Ready-to-move rental flats near offices, metro stations, and schools.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Flat for Sale in Gurgaon",
-    "description": "Affordable and luxury flats with modern amenities.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "Shop for Sale in Gurgaon",
-    "description": "Retail spaces in high-footfall commercial areas.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Shop for Rent in Gurgaon",
-    "description": "Flexible retail rental options for businesses.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Plot for Sale in Gurgaon",
-    "description": "Residential and commercial plots in developing sectors.",
-    "icon": "FaLandmark"
-  },
-  {
-    "title": "Agricultural Land for Sale in Gurgaon",
-    "description": "Verified agricultural land for long-term investment.",
-    "icon": "FaTractor"
-  },
-  {
-    "title": "To-Let Service in Gurgaon",
-    "description": "Quick leasing solutions for all property types.",
-    "icon": "FaHandshake"
-  },
-  {
-    "title": "Commercial Property for Sale in Gurgaon",
-    "description": "Office spaces and business units with high ROI.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "World Street Gurgaon",
-    "description": "Premium commercial destination for retail and offices.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "Independent Builder Floor in Gurgaon",
-    "description": "Buy premium builder floors in prime locations.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "Co-Workation in Gurgaon",
-    "description": "Flexible co-living and co-working solutions.",
-    "icon": "FaBriefcase"
-  },
-  {
-    "title": "SCO Plots for Sale in Faisalabad",
-    "description": "Strategic commercial plots for scalable businesses.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Upcoming Projects in Gurgaon",
-    "description": "Early investment opportunities in new developments.",
-    "icon": "FaChartLine"
-  },
-  {
-    "title": "Affordable Projects in Gurgaon",
-    "description": "Budget-friendly housing with growth potential.",
-    "icon": "FaRupeeSign"
-  },
-  {
-    "title": "Apartment for Rent in Gurgaon",
-    "description": "Comfortable rental apartments in gated communities.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Apartment for Sale in Gurgaon",
-    "description": "Modern apartments with lifestyle amenities.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "2BHK / 3BHK / 4BHK Flats for Sale in Gurgaon",
-    "description": "Homes for different family sizes and budgets.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "2BHK / 3BHK / 4BHK Flats for Rent in Gurgaon",
-    "description": "Rental homes across prime locations.",
-    "icon": "FaKey"
-  }
-]
-
-  },
-
   "whyChooseUs": {
     "heading": "Rental Solutions Powered by Deal Acres",
     "description": [
@@ -187,7 +204,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Featured Blog on Rental Trends in Gurgaon",
     "description": [
@@ -224,7 +240,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -257,7 +272,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "description": [
+        "Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -274,59 +291,58 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Everything you need to know about house prices, locations, investment benefits, and expert support in Gurgaon.",
-    "faqs":[
-  {
-    "q": "What is a Builder Floor for Rent in Gurgaon?",
-    "a": "A builder floor for rent in Gurgaon is an independent floor in a low-rise building, offering greater privacy and spacious living compared to apartments."
+    "faqs": [
+      {
+        "q": "What is a Builder Floor for Rent in Gurgaon?",
+        "a": "A builder floor for rent in Gurgaon is an independent floor in a low-rise building, offering greater privacy and spacious living compared to apartments."
+      },
+      {
+        "q": "Who should rent a builder floor in Gurgaon?",
+        "a": "Families, working professionals, and corporate tenants looking for independent and peaceful living often prefer builder floors."
+      },
+      {
+        "q": "Are builder floors more expensive than apartments?",
+        "a": "Rental prices vary by location and size, but many builder floors for rent in Gurgaon are competitively priced compared to apartments."
+      },
+      {
+        "q": "Which locations are best for builder floors in Gurgaon?",
+        "a": "Popular locations include DLF Phases, South City, Palam Vihar, and Sushant Lok."
+      },
+      {
+        "q": "Are furnished builder floors available for rent in Gurgaon?",
+        "a": "Yes, both fully furnished and semi-furnished builder floors are available for rent in Gurgaon."
+      },
+      {
+        "q": "Is parking available with builder floors?",
+        "a": "Most builder floors in Gurgaon offer dedicated parking spaces for residents."
+      },
+      {
+        "q": "Can I list my builder floor for free on Deal Acres?",
+        "a": "Yes, Deal Acres provides free and unlisted property listing services for builder floors."
+      },
+      {
+        "q": "How does Deal Acres verify builder floor listings?",
+        "a": "Each builder floor listing is verified for ownership, property condition, and fair rental value."
+      },
+      {
+        "q": "Is renting through Deal Acres safe?",
+        "a": "Yes, Deal Acres ensures transparency, verified listings, and secure rental transactions."
+      },
+      {
+        "q": "How do I book a builder floor for rent in Gurgaon?",
+        "a": "You can contact Deal Acres to schedule a site visit and complete the rental process with expert assistance."
+      }
+    ]
   },
-  {
-    "q": "Who should rent a builder floor in Gurgaon?",
-    "a": "Families, working professionals, and corporate tenants looking for independent and peaceful living often prefer builder floors."
-  },
-  {
-    "q": "Are builder floors more expensive than apartments?",
-    "a": "Rental prices vary by location and size, but many builder floors for rent in Gurgaon are competitively priced compared to apartments."
-  },
-  {
-    "q": "Which locations are best for builder floors in Gurgaon?",
-    "a": "Popular locations include DLF Phases, South City, Palam Vihar, and Sushant Lok."
-  },
-  {
-    "q": "Are furnished builder floors available for rent in Gurgaon?",
-    "a": "Yes, both fully furnished and semi-furnished builder floors are available for rent in Gurgaon."
-  },
-  {
-    "q": "Is parking available with builder floors?",
-    "a": "Most builder floors in Gurgaon offer dedicated parking spaces for residents."
-  },
-  {
-    "q": "Can I list my builder floor for free on Deal Acres?",
-    "a": "Yes, Deal Acres provides free and unlisted property listing services for builder floors."
-  },
-  {
-    "q": "How does Deal Acres verify builder floor listings?",
-    "a": "Each builder floor listing is verified for ownership, property condition, and fair rental value."
-  },
-  {
-    "q": "Is renting through Deal Acres safe?",
-    "a": "Yes, Deal Acres ensures transparency, verified listings, and secure rental transactions."
-  },
-  {
-    "q": "How do I book a builder floor for rent in Gurgaon?",
-    "a": "You can contact Deal Acres to schedule a site visit and complete the rental process with expert assistance."
-  }
-]
-
-  },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

@@ -12,7 +12,7 @@ const MASTER_JSON_PATH = path.join(
 // 👇 folder jisme sab json scan honge
 const GRAND_PARENT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/faridabad"
+  "../content/sub-domain/gurgaon"
 );
 
 // ===========================

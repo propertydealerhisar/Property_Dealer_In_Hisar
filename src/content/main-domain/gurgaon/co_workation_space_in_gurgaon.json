@@ -1,11 +1,12 @@
 {
   "domain": "",
-
   "heroSection": {
     "badge": "Co-Workation Space in Gurgaon",
     "heading": "Premium Co-Workation Space in Gurgaon",
-    "description": ["The concept of Co-Workation Space in Gurgaon is redefining how professionals work, collaborate, and stay productive. Designed for startups, freelancers, remote teams, and growing businesses, co-workation spaces combine modern workspaces with flexibility, comfort, and community living. Gurgaon, being a major corporate and lifestyle hub, offers the perfect environment for a seamless work-life blend.",
-    "At Deal Acres, we bring you curated and verified Co-Workation Space in Gurgaon options located in prime business districts and emerging hubs. Whether you are a digital nomad, entrepreneur, or corporate team, our listings ensure high-speed connectivity, modern amenities, and a professional environment. Each Co-Workation Space in Gurgaon is chosen to support productivity, networking, and convenience—making work more efficient and enjoyable."],
+    "description": [
+      "The concept of Co-Workation Space in Gurgaon is redefining how professionals work, collaborate, and stay productive. Designed for startups, freelancers, remote teams, and growing businesses, co-workation spaces combine modern workspaces with flexibility, comfort, and community living. Gurgaon, being a major corporate and lifestyle hub, offers the perfect environment for a seamless work-life blend.",
+      "At Deal Acres, we bring you curated and verified Co-Workation Space in Gurgaon options located in prime business districts and emerging hubs. Whether you are a digital nomad, entrepreneur, or corporate team, our listings ensure high-speed connectivity, modern amenities, and a professional environment. Each Co-Workation Space in Gurgaon is chosen to support productivity, networking, and convenience—making work more efficient and enjoyable."
+    ],
     "buttons": [
       {
         "label": "Explore Co-Workation Spaces",
@@ -23,7 +24,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Work Smart. Live Flexible. Grow Faster.",
     "heading": "Why Choose Co-Workation Space in Gurgaon",
@@ -33,7 +33,6 @@
       "With easy access to metro stations, expressways, cafes, and social hubs, Co-Workation Space in Gurgaon supports both professional growth and personal well-being. Whether you need a short-term workspace or a long-term flexible setup, Gurgaon’s co-workation ecosystem offers scalable solutions for modern workstyles."
     ]
   },
-
   "featureWithImage": {
     "badge": "Verified Co-Workation Spaces",
     "title": "Explore Verified Co-Workation Spaces Across Gurgaon",
@@ -66,130 +65,128 @@
       "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
     }
   },
-
   "servicesSection": {
     "heading": "Trusted Property Dealer in Gurgaon",
-    "description": ["Deal Acres is a reliable property dealer in Gurgaon, offering curated solutions for Co-Workation Space in Gurgaon and other real estate needs. As a customer-centric venture, we focus on verified listings, transparent processes, and personalized support. Our aim is to help professionals and businesses find workspaces that enhance productivity and lifestyle balance."],
+    "description": [
+      "Deal Acres is a reliable property dealer in Gurgaon, offering curated solutions for Co-Workation Space in Gurgaon and other real estate needs. As a customer-centric venture, we focus on verified listings, transparent processes, and personalized support. Our aim is to help professionals and businesses find workspaces that enhance productivity and lifestyle balance."
+    ],
     "services": [
-  {
-    "title": "House for Sale in Gurgaon",
-    "description": "Explore independent houses and villas offering privacy, spacious layouts, and premium living across prime residential sectors of Gurgaon.",
-    "icon": "FaHome"
+      {
+        "title": "Flats for Rent in Gurgaon",
+        "description": "Discover premier rental flats in prime Gurgaon locations providing immediate access to essential urban amenities and excellent transport links.",
+        "icon": "FaHome",
+        "path": "https://flatsforrentingurgaon.com"
+      },
+      {
+        "title": "Flats for Sale in Gurgaon",
+        "description": "Secure your ideal investment with a vast selection of ready-to-move-in flats available for purchase across burgeoning Gurgaon neighborhoods.",
+        "icon": "FaDollarSign",
+        "path": "https://flatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Plots for Sale in Gurgaon",
+        "description": "Explore lucrative opportunities to acquire residential and commercial plots ready for immediate development in high-growth corridors of Gurgaon.",
+        "icon": "FaLandmark",
+        "path": "https://plotsforsaleingurgaon.com"
+      },
+      {
+        "title": "Apartments for Rent in Gurgaon",
+        "description": "Browse sophisticated apartment listings offering premium features and maintenance services ensuring a comfortable and luxurious living experience.",
+        "icon": "FaBuilding",
+        "path": "https://apartmentsforrentingurgaon.com"
+      },
+      {
+        "title": "Rent House in Gurgaon",
+        "description": "Find the perfect independent house for rent ensuring privacy space and dedicated amenities suitable for large families seeking comfort.",
+        "icon": "FaKey",
+        "path": "https://renthouseingurgaon.com"
+      },
+      {
+        "title": "Buy House in Gurgaon",
+        "description": "Navigate the market to purchase freehold houses providing long-term security substantial appreciation potential and bespoke customization options.",
+        "icon": "FaMoneyBillWave",
+        "path": "https://buyhouseingurgaon.com"
+      },
+      {
+        "title": "Affordable Apartments in Gurgaon",
+        "description": "Access budget-friendly modern apartments offering excellent value without compromising on quality connectivity or essential community facilities.",
+        "icon": "FaTags",
+        "path": "https://affordableapartmentsingurgaon.com"
+      },
+      {
+        "title": "House for Sale in Gurgaon",
+        "description": "Exclusive listings of independent houses available for sale featuring spacious layouts prime locations and robust structural integrity guaranteed.",
+        "icon": "FaHome",
+        "path": "https://houseforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Property in Gurgaon",
+        "description": "Comprehensive catalog of residential assets including villas flats and houses designed to meet diverse lifestyle needs and investment goals.",
+        "icon": "FaClipboardList",
+        "path": "https://residentialpropertyingurgaon.com"
+      },
+      {
+        "title": "Affordable House in Gurgaon",
+        "description": "Specialized collection of reasonably priced houses designed for first-time buyers seeking quality construction and established neighborhood settings.",
+        "icon": "FaPiggyBank",
+        "path": "https://affordablehouseingurgaon.com"
+      },
+      {
+        "title": "Shop for Rent in Gurgaon",
+        "description": "Secure high-visibility commercial retail space for rent ensuring maximum customer footfall and immediate business operational readiness in Gurgaon.",
+        "icon": "FaStore",
+        "path": "https://shopforrentingurgaon.com"
+      },
+      {
+        "title": "Real Estate Agents in Gurgaon",
+        "description": "Connect with experienced local property advisors providing personalized guidance expert negotiations and seamless transaction management for clients.",
+        "icon": "FaUserTie",
+        "path": "https://realestateagentsingurgaon.com"
+      },
+      {
+        "title": "2 BHK Flats for Sale in Gurgaon",
+        "description": "Dedicated inventory of premium 2 BHK flats ideal for small families or young professionals seeking compact efficient and modern living spaces.",
+        "icon": "FaBed",
+        "path": "https://2bhkflatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Projects in Gurgaon",
+        "description": "Explore upcoming and ongoing new construction residential developments offering modern amenities innovative design and future investment potential.",
+        "icon": "FaHardHat",
+        "path": "https://residentialprojectsingurgaon.com"
+      },
+      {
+        "title": "Shop for Sale in Gurgaon",
+        "description": "Acquire ownership of commercial retail units situated strategically in bustling markets ensuring high returns on investment and business growth.",
+        "icon": "FaShoppingCart",
+        "path": "https://shopforsaleingurgaon.com"
+      },
+      {
+        "title": "Luxury Apartments in Gurgaon",
+        "description": "Elite collection of upscale apartments boasting bespoke interiors high-end facilities and exclusive access to world-class community amenities.",
+        "icon": "FaGem",
+        "path": "https://luxuryapartmentsingurgaon.com"
+      },
+      {
+        "title": "Office Space for Rent in Gurgaon",
+        "description": "Lease professional commercial office environments offering flexible layouts excellent connectivity and state-of-the-art infrastructure ready for business.",
+        "icon": "FaBriefcase",
+        "path": "https://officespaceforrentingurgaon.com"
+      },
+      {
+        "title": "Studio Apartments in Gurgaon",
+        "description": "Compact efficient studio living spaces perfect for singles or students prioritizing location minimal maintenance and convenient urban access.",
+        "icon": "FaGlobe",
+        "path": "https://studioapartmentsingurgaon.com"
+      },
+      {
+        "title": "Plot in Gurgaon",
+        "description": "Invest in strategically located open land parcels offering flexibility for custom construction catering to specific long-term development plans.",
+        "icon": "FaMapMarkedAlt",
+        "path": "https://plotingurgaon.in"
+      }
+    ]
   },
-  {
-    "title": "Flat for Rent in Gurgaon",
-    "description": "Find comfortable rental flats near business hubs, metro connectivity, and lifestyle zones—ideal for professionals and families.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Flat for Sale in Gurgaon",
-    "description": "Choose from ready-to-move and upcoming flats with modern amenities and excellent location advantages.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "Shop for Sale in Gurgaon",
-    "description": "Retail investment opportunities in high-footfall commercial areas ensuring stable income.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Shop for Rent in Gurgaon",
-    "description": "Flexible shop rentals suitable for startups, franchises, and established businesses.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Plot for Sale in Gurgaon",
-    "description": "Residential and commercial plots ideal for construction and long-term appreciation.",
-    "icon": "FaLandmark"
-  },
-  {
-    "title": "Agricultural Land for Sale in Gurgaon",
-    "description": "Land parcels suitable for farming, farmhouse development, or future growth.",
-    "icon": "FaTractor"
-  },
-  {
-    "title": "To-Let Service in Gurgaon",
-    "description": "Professional leasing services connecting property owners with verified tenants.",
-    "icon": "FaHandshake"
-  },
-  {
-    "title": "Commercial Property for Sale in Gurgaon",
-    "description": "Office spaces and retail units offering strong ROI and corporate demand.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "World Street Gurgaon",
-    "description": "A premium global-themed commercial destination for business and retail investments.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "Independent Builder Floor in Gurgaon",
-    "description": "Low-density residential floors offering independent living and privacy.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "Co-Workation in Gurgaon",
-    "description": "Modern co-workation spaces designed for flexible working and comfortable stays.",
-    "icon": "FaBriefcase"
-  },
-  {
-    "title": "SCO Plots for Sale in Faisalabad",
-    "description": "Strategically located commercial plots ideal for mixed-use developments.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Upcoming Projects in Gurgaon",
-    "description": "Early access to new residential and commercial developments.",
-    "icon": "FaChartLine"
-  },
-  {
-    "title": "Affordable Projects in Gurgaon",
-    "description": "Budget-friendly housing solutions with essential amenities.",
-    "icon": "FaRupeeSign"
-  },
-  {
-    "title": "Apartment for Rent in Gurgaon",
-    "description": "Well-designed rental apartments in prime and emerging locations.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Apartment for Sale in Gurgaon",
-    "description": "Modern apartments suitable for both end-users and investors.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "2 BHK Flat for Sale in Gurgaon",
-    "description": "Compact homes ideal for professionals and small families.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "3 BHK Flat for Sale in Gurgaon",
-    "description": "Spacious apartments designed for comfortable family living.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "4 BHK Flat for Sale in Gurgaon",
-    "description": "Luxury residences offering premium lifestyle features.",
-    "icon": "FaCrown"
-  },
-  {
-    "title": "2 BHK Flat for Rent in Gurgaon",
-    "description": "Affordable rental homes near business corridors.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "3 BHK Flat for Rent in Gurgaon",
-    "description": "Family-friendly rental homes in well-developed sectors.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "4 BHK Flat for Rent in Gurgaon",
-    "description": "High-end rental properties with modern amenities.",
-    "icon": "FaKey"
-  }
-]
-
-  },
-
   "whyChooseUs": {
     "heading": "Deal Acres – Smart Co-Workation Platform",
     "description": [
@@ -208,7 +205,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Workspace Insights & Featured Blogs",
     "description": [
@@ -245,7 +241,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -278,7 +273,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "description": [
+        "Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -295,59 +292,58 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Everything you need to know about house prices, locations, investment benefits, and expert support in Gurgaon.",
     "faqs": [
-  {
-    "q": "What is a Co-Workation Space in Gurgaon?",
-    "a": "A co-workation space in Gurgaon combines workspace and stay options, offering flexibility, comfort, and enhanced productivity."
+      {
+        "q": "What is a Co-Workation Space in Gurgaon?",
+        "a": "A co-workation space in Gurgaon combines workspace and stay options, offering flexibility, comfort, and enhanced productivity."
+      },
+      {
+        "q": "Who should use co-workation spaces?",
+        "a": "Freelancers, startups, remote teams, digital nomads, and entrepreneurs benefit the most from co-workation spaces."
+      },
+      {
+        "q": "Are co-workation spaces fully furnished?",
+        "a": "Yes, most co-workation spaces in Gurgaon are fully furnished and ready to use."
+      },
+      {
+        "q": "Do co-workation spaces offer accommodation?",
+        "a": "Yes, many co-workation setups include comfortable stay facilities along with dedicated workspaces."
+      },
+      {
+        "q": "Is Gurgaon suitable for co-workation?",
+        "a": "Absolutely. Gurgaon offers excellent connectivity, modern infrastructure, and lifestyle amenities ideal for co-workation."
+      },
+      {
+        "q": "Are short-term stays available in co-workation spaces?",
+        "a": "Yes, flexible rental plans and short-term stay options are commonly available."
+      },
+      {
+        "q": "What amenities are included in co-workation spaces?",
+        "a": "Amenities typically include high-speed internet, meeting rooms, housekeeping, security, common areas, and recreational spaces."
+      },
+      {
+        "q": "How does Deal Acres help with co-workation spaces?",
+        "a": "Deal Acres provides verified listings, site visit coordination, and expert guidance to help you choose the right co-workation space."
+      },
+      {
+        "q": "Are co-workation spaces cost-effective?",
+        "a": "Yes, co-workation spaces reduce office and accommodation overheads while offering flexible and cost-effective pricing."
+      },
+      {
+        "q": "How can I find the best co-workation space in Gurgaon?",
+        "a": "You can connect with Deal Acres to explore verified co-workation space options in Gurgaon with expert assistance."
+      }
+    ]
   },
-  {
-    "q": "Who should use co-workation spaces?",
-    "a": "Freelancers, startups, remote teams, digital nomads, and entrepreneurs benefit the most from co-workation spaces."
-  },
-  {
-    "q": "Are co-workation spaces fully furnished?",
-    "a": "Yes, most co-workation spaces in Gurgaon are fully furnished and ready to use."
-  },
-  {
-    "q": "Do co-workation spaces offer accommodation?",
-    "a": "Yes, many co-workation setups include comfortable stay facilities along with dedicated workspaces."
-  },
-  {
-    "q": "Is Gurgaon suitable for co-workation?",
-    "a": "Absolutely. Gurgaon offers excellent connectivity, modern infrastructure, and lifestyle amenities ideal for co-workation."
-  },
-  {
-    "q": "Are short-term stays available in co-workation spaces?",
-    "a": "Yes, flexible rental plans and short-term stay options are commonly available."
-  },
-  {
-    "q": "What amenities are included in co-workation spaces?",
-    "a": "Amenities typically include high-speed internet, meeting rooms, housekeeping, security, common areas, and recreational spaces."
-  },
-  {
-    "q": "How does Deal Acres help with co-workation spaces?",
-    "a": "Deal Acres provides verified listings, site visit coordination, and expert guidance to help you choose the right co-workation space."
-  },
-  {
-    "q": "Are co-workation spaces cost-effective?",
-    "a": "Yes, co-workation spaces reduce office and accommodation overheads while offering flexible and cost-effective pricing."
-  },
-  {
-    "q": "How can I find the best co-workation space in Gurgaon?",
-    "a": "You can connect with Deal Acres to explore verified co-workation space options in Gurgaon with expert assistance."
-  }
-]
-
-  },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

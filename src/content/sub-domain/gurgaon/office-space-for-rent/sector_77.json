@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Premium Office Space For Rent in Sector 77 Faridabad Find Your Ideal Business Location Today",
+    "description": [
+      "Launch your business into a new orbit by securing top-tier Office Space For Rent in Sector 77 Faridabad. This rapidly developing commercial hub offers a strategic advantage combining modern infrastructure with superb connectivity to the main industrial corridors and the Delhi NCR region.",
+      "We offer a curated selection of commercial properties ranging from flexible coworking desks and executive suites to entire corporate floors designed for scalability and efficiency. Whether you are a fast-growing startup or an established enterprise seeking Grade A office premises Sector 77 provides the perfect backdrop for professional success. Discover rental options that match your budget and growth projections without compromising on location or quality."
+    ],
+    "buttons": [
+      {
+        "label": "View Available Office Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Diverse Commercial Spaces Designed to Suit Every Business Requirement in Sector 77",
+    "description": [
+      "Finding the right work environment is crucial for productivity and employee retention. Our portfolio of Office Space For Rent in Sector 77 covers the full spectrum of commercial needs ensuring that you find a property perfectly aligned with your corporate culture and operational demands.",
+      "Explore flexible lease terms and fully managed office solutions that minimize upfront capital expenditure and allow you to focus purely on your core business activities. Sector 77 Faridabad is built to support future growth and dynamic business environments."
+    ],
+    "features": [
+      {
+        "title": "Small Team Suites",
+        "description": "Ideal for startups and teams of 5 to 15 people seeking a private lockable unit. These offices provide essential amenities high-speed internet and dedicated meeting room access ensuring minimal operational hassle. Secure your efficient and affordable office space rental in a prime Sector 77 location today."
+      },
+      {
+        "title": "Mid-Sized Managed Offices",
+        "description": "Perfect for established companies needing space for 20 to 50 employees. Managed offices include IT support housekeeping and reception services simplifying facility management entirely. Renting in Sector 77 means access to professional infrastructure without the overhead of ownership."
+      },
+      {
+        "title": "Large Corporate Floors",
+        "description": "Customizable floor plates available for multinational corporations or large domestic businesses requiring 100+ workstations. These spaces offer branding opportunities dedicated entrances and are strategically located near major transportation links in Sector 77 Faridabad."
+      },
+      {
+        "title": "Premium Coworking Spaces",
+        "description": "Benefit from flexible desk solutions hot desks and dedicated workstations ideal for freelancers remote employees or small teams needing scalability. Coworking options in Sector 77 offer networking opportunities and cost efficiency with all utility bills included."
+      },
+      {
+        "title": "Executive Cabin Rentals",
+        "description": "High-end private cabins suitable for senior management consultants or specialized teams requiring quiet focused work environments. These cabins come furnished with ergonomic luxury furniture and offer high privacy within the larger office ecosystem of Sector 77."
+      },
+      {
+        "title": "Custom Built-to-Suit Options",
+        "description": "For businesses with specific architectural or technological requirements we offer tailored build-out solutions. Secure a long-term lease in Sector 77 and let us design and construct your office space precisely to your company standards guaranteeing a perfect fit from day one."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Connectivity and Commercial Proximity of Sector 77 Faridabad Business Hub",
+    "description": [
+      "Sector 77 is fast emerging as a cornerstone of Faridabad's modern commercial landscape offering unmatched accessibility. The area benefits from excellent road networks connecting it seamlessly to the major highways including the FNG corridor and the Delhi-Mumbai Expressway ensuring smooth logistical operations for any company.",
+      "Renting Office Space in Sector 77 places your organization close to major residential catchment areas providing convenient commute options for employees. Furthermore its proximity to industrial sectors and neighboring commercial developments enhances its appeal as a central business district. This strategic location minimizes transport delays and maximizes operational efficiency making it an ideal choice for businesses focused on growth and market reach in the NCR region."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Eight Compelling Reasons to Choose Office Space For Rent in Sector 77 Today",
+    "description": [
+      "Make an informed decision about your next business address. Sector 77 Faridabad offers advantages that few other areas can match providing a holistic environment for corporate success and employee well-being.",
+      "From state-of-the-art security systems to unparalleled infrastructural quality choosing Sector 77 means investing in a future-ready workplace solution designed for optimal performance."
+    ],
+    "points": [
+      {
+        "title": "Strategic Growth Corridor Location",
+        "description": "Sector 77 sits on a major developmental axis positioning your business perfectly for future expansion and visibility. This area is designated for commercial priority ensuring long-term infrastructural investment and consistent development support from local authorities."
+      },
+      {
+        "title": "Modern Grade A Infrastructure",
+        "description": "All available office buildings in this sector meet high international standards offering advanced fire safety systems high-speed elevators central air conditioning and robust power backup facilities ensuring zero downtime for critical business operations."
+      },
+      {
+        "title": "Superior Connectivity Options",
+        "description": "Enjoy effortless commuting via wide roads and accessible public transport links. The connectivity here reduces employee stress and ensures timely arrival of staff and visitors enhancing overall operational punctuality and efficiency."
+      },
+      {
+        "title": "Flexible Leasing Models Available",
+        "description": "We offer tailor-made lease structures including short-term agreements and long-term commitments with expansion clauses. This flexibility allows businesses of all sizes to manage cash flow effectively and scale their office space requirements as needed."
+      },
+      {
+        "title": "Abundant Parking Solutions",
+        "description": "Unlike older commercial areas Sector 77 properties are equipped with ample multi-level parking facilities for both tenants and visitors addressing one of the most common challenges in city office rentals."
+      },
+      {
+        "title": "High Security and Surveillance",
+        "description": "Office complexes feature 24/7 manned security professional security guards CCTV surveillance and controlled access points ensuring a secure working environment for your assets data and personnel around the clock."
+      },
+      {
+        "title": "Proximity to Key Amenities",
+        "description": "Your staff will benefit from nearby retail centers fine dining restaurants banking facilities and fitness centers enhancing work-life balance and providing convenient options for corporate meetings and client entertainment."
+      },
+      {
+        "title": "Competitive Rental Rates",
+        "description": "Relative to equivalent Grade A properties in Gurugram or Noida renting office space in Sector 77 offers significant cost savings without sacrificing quality location or modern facilities providing excellent value for money."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space Rentals in Sector 77 Faridabad",
+    "description": "We address the most common queries potential tenants have regarding leasing terms amenities and the commercial environment of Sector 77.",
+    "faqs": [
+      {
+        "question": "What is the typical lock-in period for renting commercial office space in Sector 77 Faridabad",
+        "answer": "The standard lock-in period for commercial properties in major Sector 77 buildings generally ranges between 12 to 36 months depending on the size of the space and the negotiation power of the tenant. Larger corporate leases requiring significant custom build-outs might require a longer lock-in period typically three years or more to amortize the landlord's fit-out investment. It is essential to review the specific lease terms for your chosen property to understand the exact commitment required before signing the agreement."
+      },
+      {
+        "question": "Are the Office Spaces For Rent in Sector 77 furnished or unfurnished",
+        "answer": "Both furnished and unfurnished options are widely available in Sector 77. Coworking spaces and managed offices are typically fully furnished ready-to-move-in solutions inclusive of desks chairs and basic IT infrastructure. Traditional corporate floors often come as bare shells or semi-furnished allowing tenants the freedom to design and customize the space according to their corporate specifications and branding guidelines. Our listings clearly specify the furnishing status of each rental property."
+      },
+      {
+        "question": "What are the common extra charges besides the base rent in Sector 77 offices",
+        "answer": "Beyond the base monthly rent tenants should budget for common area maintenance CAM charges electricity consumption charges utility bills like water and internet and property taxes if applicable based on the lease structure. CAM charges usually cover security cleaning maintenance of elevators and common restrooms. Always clarify the inclusion or exclusion of these operating expenses OpEx with your leasing agent to avoid unexpected costs."
+      },
+      {
+        "question": "Is Sector 77 Faridabad considered a Grade A commercial location for IT or BPO firms",
+        "answer": "Yes Sector 77 is rapidly gaining recognition as a preferred Grade A commercial destination particularly suitable for IT BPO and KPO operations due to its modern infrastructure high-speed fiber optic connectivity and proximity to skilled labor pools residing in nearby residential sectors. The buildings here adhere to modern safety and accessibility standards which are non-negotiable for large tech corporations."
+      },
+      {
+        "question": "How close is Sector 77 to the nearest Metro Station and major highways",
+        "answer": "Sector 77 enjoys excellent road connectivity being closely situated near the main National Highway 19 NH-19 ensuring rapid access to Delhi and other NCR regions. While the Metro is currently expanding the nearest operational stations are a short drive away accessible via feeder services or a quick cab ride significantly reducing commute times compared to central Delhi locations."
+      },
+      {
+        "question": "Can I easily expand my office space within the same building in Sector 77 if my business grows",
+        "answer": "Many developers and property managers in Sector 77 offer flexible expansion options. We prioritize buildings that have contiguous vacant space or offer contractual rights of first refusal for adjacent units. Discussing your future growth projections with us allows us to secure a lease agreement that facilitates seamless scaling without the disruptive need to relocate entirely."
+      },
+      {
+        "question": "What security features are standard in commercial office complexes in Sector 77",
+        "answer": "Standard security features include 24-hour professional security personnel controlled access using access cards for entry CCTV monitoring across common areas fire detection and suppression systems and dedicated emergency exits. Some premium buildings also offer biometric access control for enhanced security layers."
+      },
+      {
+        "question": "Do I need a security deposit when renting an office space and how much is it usually",
+        "answer": "Yes a security deposit is standard practice for renting commercial office space in Sector 77. The amount typically ranges from three to six months worth of the total monthly rent depending on the landlord the size of the unit and the length of the lease term. This deposit is refundable upon the satisfactory conclusion of the lease agreement after deductions for any damages or outstanding dues."
+      },
+      {
+        "question": "Are there suitable options for single executive offices or small satellite teams in Sector 77",
+        "answer": "Absolutely Sector 77 offers excellent flexibility. You can choose from dedicated desks in premium coworking centers private executive cabins within managed offices or small serviced suites specifically designed for teams ranging from one to five members allowing maximum focus and cost efficiency for small operations."
+      },
+      {
+        "question": "How do I start the process of renting an office space in Sector 77 Faridabad with your agency",
+        "answer": "Starting the process is simple and straightforward. Contact our specialized commercial real estate team via the inquiry form below or call our dedicated number. We will discuss your exact requirements including size budget and desired amenities then schedule curated site visits to the best available Office Space For Rent in Sector 77 that match your criteria. We manage the negotiation and paperwork ensuring a smooth tenancy transition."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Secure Your Premium Office Space For Rent in Sector 77 Today",
+    "description": [
+      "Ready to move your business to Faridabad's most exciting commercial address Sector 77",
+      "Get in touch with our expert leasing team for a personalized consultation and receive the latest list of verified commercial properties available for immediate occupancy."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

@@ -1,12 +1,13 @@
 {
   "domain": "",
-
   "heroSection": {
     "badge": "Projects in Gurgaon for Smart Buyers",
     "heading": "Affordable Projects in Gurgaon for Smart Buyers",
-    "description": ["Affordable projects in Gurgaon are redefining the way homebuyers invest in quality living without stretching their budget. Gurgaon has rapidly emerged as a preferred destination for modern housing, offering excellent connectivity, growing infrastructure, and well-planned residential zones. With affordable projects in Gurgaon, buyers can now own thoughtfully designed homes near workplaces, schools, hospitals, and commercial hubs.",
-"These projects are ideal for first-time homebuyers, salaried professionals, and investors looking for high growth potential Developed under government-approved policies and trusted developers, Affordable projects in Gurgaon combine value pricing with modern amenities. From smart apartments to integrated townships, these homes are built to meet everyday needs while ensuring long-term appreciation.",
-"At Deal Acres, a trusted property dealer in Gurgaon, we help you explore verified Affordable projects in Gurgaon that match your budget, lifestyle, and plans. Whether you are planning to live or invest, we guide you at every step with transparent dealings and expert insights."],
+    "description": [
+      "Affordable projects in Gurgaon are redefining the way homebuyers invest in quality living without stretching their budget. Gurgaon has rapidly emerged as a preferred destination for modern housing, offering excellent connectivity, growing infrastructure, and well-planned residential zones. With affordable projects in Gurgaon, buyers can now own thoughtfully designed homes near workplaces, schools, hospitals, and commercial hubs.",
+      "These projects are ideal for first-time homebuyers, salaried professionals, and investors looking for high growth potential Developed under government-approved policies and trusted developers, Affordable projects in Gurgaon combine value pricing with modern amenities. From smart apartments to integrated townships, these homes are built to meet everyday needs while ensuring long-term appreciation.",
+      "At Deal Acres, a trusted property dealer in Gurgaon, we help you explore verified Affordable projects in Gurgaon that match your budget, lifestyle, and plans. Whether you are planning to live or invest, we guide you at every step with transparent dealings and expert insights."
+    ],
     "buttons": [
       {
         "label": "Explore Affordable Projects",
@@ -24,24 +25,22 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Budget Homes, Better Living in Gurgaon",
     "heading": "Why Choose Affordable Projects in Gurgaon",
     "description": [
       "Choosing Affordable projects in Gurgaon is not just about cost savings; it’s about making a smart real-estate decision. Gurgaon offers a perfect balance of affordability, urban convenience, and future growth. With improving infrastructure like expressways, metro extensions, and commercial corridors, Affordable projects in Gurgaon are gaining strong demand among buyers.",
-"These projects are strategically located near employment hubs, making daily commuting easier and stress-free. Buyers benefit from essential amenities such as parks, lifts, security, power backup, and community spaces. Many Affordable projects in Gurgaon are part of gated developments that ensure safety and peaceful living.",
-"As a venture of Deal Acres, we bring you curated listings of approved and verified projects. Our experience as a property dealer in Gurgaon allows us to identify projects with legal clarity, builder credibility, and high appreciation potential. Investing in Affordable projects in Gurgaon today means securing a comfortable lifestyle and strong returns tomorrow."
+      "These projects are strategically located near employment hubs, making daily commuting easier and stress-free. Buyers benefit from essential amenities such as parks, lifts, security, power backup, and community spaces. Many Affordable projects in Gurgaon are part of gated developments that ensure safety and peaceful living.",
+      "As a venture of Deal Acres, we bring you curated listings of approved and verified projects. Our experience as a property dealer in Gurgaon allows us to identify projects with legal clarity, builder credibility, and high appreciation potential. Investing in Affordable projects in Gurgaon today means securing a comfortable lifestyle and strong returns tomorrow."
     ]
   },
-
   "featureWithImage": {
     "badge": "Verified Affordable Housing Options",
     "title": "Explore Verified Affordable Housing Options",
     "description": [
       "Affordable projects in Gurgaon offer a wide range of housing choices designed for different needs and budgets. From compact apartments for nuclear families to spacious layouts for growing households, these projects focus on efficient design and smart utilisation of space.",
-"Most Affordable projects in Gurgaon are located in fast-developing sectors such as Sohna Road, New Gurgaon, Dwarka Expressway belt, and surrounding growth corridors. These areas promise future infrastructure development, making them ideal for long-term investment.",
-"As a leading property dealer in Gurgaon, Deal Acres ensures that each project listed on our platform meets quality benchmarks. Our listings focus on transparency, affordability, and customer satisfaction. Whether you are searching for your dream home or a high-yield investment, Affordable projects in Gurgaon provide unmatched value."
+      "Most Affordable projects in Gurgaon are located in fast-developing sectors such as Sohna Road, New Gurgaon, Dwarka Expressway belt, and surrounding growth corridors. These areas promise future infrastructure development, making them ideal for long-term investment.",
+      "As a leading property dealer in Gurgaon, Deal Acres ensures that each project listed on our platform meets quality benchmarks. Our listings focus on transparency, affordability, and customer satisfaction. Whether you are searching for your dream home or a high-yield investment, Affordable projects in Gurgaon provide unmatched value."
     ],
     "subTitle": "Verified Affordable Housing Options",
     "features": [
@@ -67,115 +66,133 @@
       "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
     }
   },
-
   "servicesSection": {
     "heading": "Property Options Across Gurgaon",
-    "description": ["Below are popular real estate services and categories available through Deal Acres, your trusted property dealer in Gurgaon:"],
+    "description": [
+      "Below are popular real estate services and categories available through Deal Acres, your trusted property dealer in Gurgaon:"
+    ],
     "services": [
-  {
-    "title": "House for Sale in Gurgaon",
-    "description": "Explore independent houses and villas in prime locations with verified ownership and competitive pricing.",
-    "icon": "FaHome"
+      {
+        "title": "Flats for Rent in Gurgaon",
+        "description": "Discover premier rental flats in prime Gurgaon locations providing immediate access to essential urban amenities and excellent transport links.",
+        "icon": "FaHome",
+        "path": "https://flatsforrentingurgaon.com"
+      },
+      {
+        "title": "Flats for Sale in Gurgaon",
+        "description": "Secure your ideal investment with a vast selection of ready-to-move-in flats available for purchase across burgeoning Gurgaon neighborhoods.",
+        "icon": "FaDollarSign",
+        "path": "https://flatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Plots for Sale in Gurgaon",
+        "description": "Explore lucrative opportunities to acquire residential and commercial plots ready for immediate development in high-growth corridors of Gurgaon.",
+        "icon": "FaLandmark",
+        "path": "https://plotsforsaleingurgaon.com"
+      },
+      {
+        "title": "Apartments for Rent in Gurgaon",
+        "description": "Browse sophisticated apartment listings offering premium features and maintenance services ensuring a comfortable and luxurious living experience.",
+        "icon": "FaBuilding",
+        "path": "https://apartmentsforrentingurgaon.com"
+      },
+      {
+        "title": "Rent House in Gurgaon",
+        "description": "Find the perfect independent house for rent ensuring privacy space and dedicated amenities suitable for large families seeking comfort.",
+        "icon": "FaKey",
+        "path": "https://renthouseingurgaon.com"
+      },
+      {
+        "title": "Buy House in Gurgaon",
+        "description": "Navigate the market to purchase freehold houses providing long-term security substantial appreciation potential and bespoke customization options.",
+        "icon": "FaMoneyBillWave",
+        "path": "https://buyhouseingurgaon.com"
+      },
+      {
+        "title": "Affordable Apartments in Gurgaon",
+        "description": "Access budget-friendly modern apartments offering excellent value without compromising on quality connectivity or essential community facilities.",
+        "icon": "FaTags",
+        "path": "https://affordableapartmentsingurgaon.com"
+      },
+      {
+        "title": "House for Sale in Gurgaon",
+        "description": "Exclusive listings of independent houses available for sale featuring spacious layouts prime locations and robust structural integrity guaranteed.",
+        "icon": "FaHome",
+        "path": "https://houseforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Property in Gurgaon",
+        "description": "Comprehensive catalog of residential assets including villas flats and houses designed to meet diverse lifestyle needs and investment goals.",
+        "icon": "FaClipboardList",
+        "path": "https://residentialpropertyingurgaon.com"
+      },
+      {
+        "title": "Affordable House in Gurgaon",
+        "description": "Specialized collection of reasonably priced houses designed for first-time buyers seeking quality construction and established neighborhood settings.",
+        "icon": "FaPiggyBank",
+        "path": "https://affordablehouseingurgaon.com"
+      },
+      {
+        "title": "Shop for Rent in Gurgaon",
+        "description": "Secure high-visibility commercial retail space for rent ensuring maximum customer footfall and immediate business operational readiness in Gurgaon.",
+        "icon": "FaStore",
+        "path": "https://shopforrentingurgaon.com"
+      },
+      {
+        "title": "Real Estate Agents in Gurgaon",
+        "description": "Connect with experienced local property advisors providing personalized guidance expert negotiations and seamless transaction management for clients.",
+        "icon": "FaUserTie",
+        "path": "https://realestateagentsingurgaon.com"
+      },
+      {
+        "title": "2 BHK Flats for Sale in Gurgaon",
+        "description": "Dedicated inventory of premium 2 BHK flats ideal for small families or young professionals seeking compact efficient and modern living spaces.",
+        "icon": "FaBed",
+        "path": "https://2bhkflatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Projects in Gurgaon",
+        "description": "Explore upcoming and ongoing new construction residential developments offering modern amenities innovative design and future investment potential.",
+        "icon": "FaHardHat",
+        "path": "https://residentialprojectsingurgaon.com"
+      },
+      {
+        "title": "Shop for Sale in Gurgaon",
+        "description": "Acquire ownership of commercial retail units situated strategically in bustling markets ensuring high returns on investment and business growth.",
+        "icon": "FaShoppingCart",
+        "path": "https://shopforsaleingurgaon.com"
+      },
+      {
+        "title": "Luxury Apartments in Gurgaon",
+        "description": "Elite collection of upscale apartments boasting bespoke interiors high-end facilities and exclusive access to world-class community amenities.",
+        "icon": "FaGem",
+        "path": "https://luxuryapartmentsingurgaon.com"
+      },
+      {
+        "title": "Office Space for Rent in Gurgaon",
+        "description": "Lease professional commercial office environments offering flexible layouts excellent connectivity and state-of-the-art infrastructure ready for business.",
+        "icon": "FaBriefcase",
+        "path": "https://officespaceforrentingurgaon.com"
+      },
+      {
+        "title": "Studio Apartments in Gurgaon",
+        "description": "Compact efficient studio living spaces perfect for singles or students prioritizing location minimal maintenance and convenient urban access.",
+        "icon": "FaGlobe",
+        "path": "https://studioapartmentsingurgaon.com"
+      },
+      {
+        "title": "Plot in Gurgaon",
+        "description": "Invest in strategically located open land parcels offering flexibility for custom construction catering to specific long-term development plans.",
+        "icon": "FaMapMarkedAlt",
+        "path": "https://plotingurgaon.in"
+      }
+    ]
   },
-  {
-    "title": "Flat for Rent in Gurgaon",
-    "description": "Find ready-to-move rental flats near offices, schools, and metro connectivity.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Flat for Sale in Gurgaon",
-    "description": "Browse affordable and premium flats with modern amenities and flexible payment plans.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "Shop for Sale in Gurgaon",
-    "description": "Invest in high-footfall commercial shops ideal for retail and business growth.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Shop for Rent in Gurgaon",
-    "description": "Get well-located retail spaces for rent in malls and local markets.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Plot for Sale in Gurgaon",
-    "description": "Choose residential and commercial plots in fast-growing sectors.",
-    "icon": "FaLandmark"
-  },
-  {
-    "title": "Agricultural Land for Sale in Gurgaon",
-    "description": "Verified agricultural land options suitable for long-term investment.",
-    "icon": "FaTractor"
-  },
-  {
-    "title": "To-Let Service in Gurgaon",
-    "description": "Quick and reliable property leasing solutions.",
-    "icon": "FaHandshake"
-  },
-  {
-    "title": "Commercial Property for Sale in Gurgaon",
-    "description": "Office spaces and commercial units with high ROI potential.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "World Street Gurgaon",
-    "description": "Premium commercial destination offering retail and office spaces.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "Independent Builder Floor in Gurgaon",
-    "description": "Low-density living with independent floors and modern design.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "Co-Workation in Gurgaon",
-    "description": "Flexible co-living and co-working spaces for professionals.",
-    "icon": "FaBriefcase"
-  },
-  {
-    "title": "SCO Plots for Sale in Faisalabad",
-    "description": "Strategic commercial plots for scalable business opportunities.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Upcoming Projects in Gurgaon",
-    "description": "Early-bird investment options in upcoming developments.",
-    "icon": "FaChartLine"
-  },
-  {
-    "title": "Affordable Projects in Gurgaon",
-    "description": "Budget-friendly housing options with high future growth.",
-    "icon": "FaRupeeSign"
-  },
-  {
-    "title": "Apartment for Rent in Gurgaon",
-    "description": "Ready-to-move apartments with flexible rental terms.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Apartment for Sale in Gurgaon",
-    "description": "Modern apartments in gated communities.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "2BHK / 3BHK / 4BHK Flats for Sale in Gurgaon",
-    "description": "Homes tailored to different family sizes and budgets.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "2BHK / 3BHK / 4BHK Flats for Rent in Gurgaon",
-    "description": "Comfortable rental homes in prime locations.",
-    "icon": "FaKey"
-  }
-]
-
-  },
-
   "whyChooseUs": {
     "heading": "Trusted Property Solutions by Deal Acres",
     "description": [
       "At Deal Acres, we specialise in connecting buyers with the best Affordable projects in Gurgaon. As a reliable property dealer in Gurgaon, our mission is to simplify property buying through expert guidance, verified listings, and end-to-end support.",
-"Our platform allows users to explore unlisted free property listings, helping buyers and sellers connect without hidden costs. We also offer free business listings for developers and property owners, making Deal Acres a transparent and inclusive real-estate ecosystem."
+      "Our platform allows users to explore unlisted free property listings, helping buyers and sellers connect without hidden costs. We also offer free business listings for developers and property owners, making Deal Acres a transparent and inclusive real-estate ecosystem."
     ],
     "points": [
       "Dedicated property consultation support",
@@ -188,7 +205,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Featured Blog Insights on Affordable Housing",
     "description": [
@@ -225,7 +241,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -258,7 +273,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "description": [
+        "Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -275,59 +292,58 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Everything you need to know about house prices, locations, investment benefits, and expert support in Gurgaon.",
     "faqs": [
-  {
-    "q": "What are the affordable projects in Gurgaon?",
-    "a": "Affordable projects in Gurgaon are budget-friendly residential developments launched under approved housing policies, offering quality homes at reasonable prices."
+      {
+        "q": "What are the affordable projects in Gurgaon?",
+        "a": "Affordable projects in Gurgaon are budget-friendly residential developments launched under approved housing policies, offering quality homes at reasonable prices."
+      },
+      {
+        "q": "Who should invest in affordable projects in Gurgaon?",
+        "a": "First-time homebuyers, salaried professionals, small families, and investors seeking steady returns should consider affordable projects in Gurgaon."
+      },
+      {
+        "q": "Are affordable projects in Gurgaon safe investments?",
+        "a": "Yes, when purchased through trusted platforms like Deal Acres, these projects are verified for legal clarity, approvals, and builder credibility."
+      },
+      {
+        "q": "Which locations offer the best affordable projects in Gurgaon?",
+        "a": "Sohna Road, New Gurgaon, and Dwarka Expressway are key areas offering promising affordable projects in Gurgaon."
+      },
+      {
+        "q": "Do affordable projects in Gurgaon offer modern amenities?",
+        "a": "Yes, most affordable projects include amenities such as lifts, parks, security, power backup, and community spaces."
+      },
+      {
+        "q": "Can I get home loan support for affordable projects in Gurgaon?",
+        "a": "Yes, many banks and financial institutions provide easy home loan options for affordable projects in Gurgaon."
+      },
+      {
+        "q": "Are affordable projects in Gurgaon good for rental income?",
+        "a": "Yes, due to high housing demand, affordable projects in Gurgaon offer stable and consistent rental income."
+      },
+      {
+        "q": "How does Deal Acres help buyers?",
+        "a": "Deal Acres provides verified listings, free consultations, expert guidance, and complete end-to-end buying support."
+      },
+      {
+        "q": "Can I list my property for free on Deal Acres?",
+        "a": "Yes, Deal Acres offers free and unlisted property listing options for owners."
+      },
+      {
+        "q": "How do I book a site visit?",
+        "a": "You can easily book a site visit through Deal Acres with the help of our property experts."
+      }
+    ]
   },
-  {
-    "q": "Who should invest in affordable projects in Gurgaon?",
-    "a": "First-time homebuyers, salaried professionals, small families, and investors seeking steady returns should consider affordable projects in Gurgaon."
-  },
-  {
-    "q": "Are affordable projects in Gurgaon safe investments?",
-    "a": "Yes, when purchased through trusted platforms like Deal Acres, these projects are verified for legal clarity, approvals, and builder credibility."
-  },
-  {
-    "q": "Which locations offer the best affordable projects in Gurgaon?",
-    "a": "Sohna Road, New Gurgaon, and Dwarka Expressway are key areas offering promising affordable projects in Gurgaon."
-  },
-  {
-    "q": "Do affordable projects in Gurgaon offer modern amenities?",
-    "a": "Yes, most affordable projects include amenities such as lifts, parks, security, power backup, and community spaces."
-  },
-  {
-    "q": "Can I get home loan support for affordable projects in Gurgaon?",
-    "a": "Yes, many banks and financial institutions provide easy home loan options for affordable projects in Gurgaon."
-  },
-  {
-    "q": "Are affordable projects in Gurgaon good for rental income?",
-    "a": "Yes, due to high housing demand, affordable projects in Gurgaon offer stable and consistent rental income."
-  },
-  {
-    "q": "How does Deal Acres help buyers?",
-    "a": "Deal Acres provides verified listings, free consultations, expert guidance, and complete end-to-end buying support."
-  },
-  {
-    "q": "Can I list my property for free on Deal Acres?",
-    "a": "Yes, Deal Acres offers free and unlisted property listing options for owners."
-  },
-  {
-    "q": "How do I book a site visit?",
-    "a": "You can easily book a site visit through Deal Acres with the help of our property experts."
-  }
-]
-
-  },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

@@ -1,11 +1,12 @@
 {
-  "domain": "",
-
+  "domain": "www.residentialprojectsingurgaon.com",
   "heroSection": {
     "badge": "Residential Projects",
     "heading": "Premium Residential Projects in Gurgaon",
-    "description": ["Projects in Gurgaon, a city known for modern infrastructure, planned development, and lifestyle-driven communities. Gurgaon has emerged as one of India’s fastest-growing real estate destinations, offering a wide range of residential options—from luxury apartments and builder floors to affordable housing and gated communities.",
-    "At Deal Acres, we bring you verified and curated Residential Projects in Gurgaon that cater to homebuyers, investors, and families seeking long-term value. Whether you are looking for a ready-to-move home or an upcoming project with high appreciation potential, our listings cover every budget and preference. Each residential project is selected for its location advantage, developer credibility, and future growth prospects, ensuring you make a smart and secure property decision."],
+    "description": [
+      "Projects in Gurgaon, a city known for modern infrastructure, planned development, and lifestyle-driven communities. Gurgaon has emerged as one of India’s fastest-growing real estate destinations, offering a wide range of residential options—from luxury apartments and builder floors to affordable housing and gated communities.",
+      "At Deal Acres, we bring you verified and curated Residential Projects in Gurgaon that cater to homebuyers, investors, and families seeking long-term value. Whether you are looking for a ready-to-move home or an upcoming project with high appreciation potential, our listings cover every budget and preference. Each residential project is selected for its location advantage, developer credibility, and future growth prospects, ensuring you make a smart and secure property decision."
+    ],
     "buttons": [
       {
         "label": "Explore Residential Projects",
@@ -23,7 +24,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Trusted platform for smart home buyers in Gurgaon",
     "heading": "Why Invest in Residential Projects in Gurgaon",
@@ -33,7 +33,6 @@
       "Proximity to Delhi, IGI Airport, and major employment corridors like Cyber City and Golf Course Road further enhances the investment appeal of Residential Projects in Gurgaon. With reputed developers launching new projects and infrastructure projects like Dwarka Expressway boosting growth, Gurgaon remains one of the most promising residential markets in NCR."
     ]
   },
-
   "featureWithImage": {
     "badge": "Top Residential Projects",
     "title": "Explore Top Residential Projects Across Gurgaon",
@@ -66,130 +65,128 @@
       "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
     }
   },
-
   "servicesSection": {
     "heading": "Trusted Property Dealer in Gurgaon",
-    "description": ["Deal Acres is a leading property dealer in Gurgaon, specializing in Residential Projects in Gurgaon and other real estate segments. As a customer-first venture, we focus on ethical dealings, verified listings, and personalized assistance. Our goal is to help buyers and investors find homes that match their lifestyle, budget, and future plans with complete peace of mind."],
+    "description": [
+      "Deal Acres is a leading property dealer in Gurgaon, specializing in Residential Projects in Gurgaon and other real estate segments. As a customer-first venture, we focus on ethical dealings, verified listings, and personalized assistance. Our goal is to help buyers and investors find homes that match their lifestyle, budget, and future plans with complete peace of mind."
+    ],
     "services": [
-  {
-    "title": "House for Sale in Gurgaon",
-    "description": "Explore independent houses and villas offering complete ownership, spacious layouts, and premium living in Gurgaon’s prime residential sectors. Ideal for families seeking privacy and long-term value.",
-    "icon": "FaHome"
+      {
+        "title": "Flats for Rent in Gurgaon",
+        "description": "Discover premier rental flats in prime Gurgaon locations providing immediate access to essential urban amenities and excellent transport links.",
+        "icon": "FaHome",
+        "path": "https://flatsforrentingurgaon.com"
+      },
+      {
+        "title": "Flats for Sale in Gurgaon",
+        "description": "Secure your ideal investment with a vast selection of ready-to-move-in flats available for purchase across burgeoning Gurgaon neighborhoods.",
+        "icon": "FaDollarSign",
+        "path": "https://flatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Plots for Sale in Gurgaon",
+        "description": "Explore lucrative opportunities to acquire residential and commercial plots ready for immediate development in high-growth corridors of Gurgaon.",
+        "icon": "FaLandmark",
+        "path": "https://plotsforsaleingurgaon.com"
+      },
+      {
+        "title": "Apartments for Rent in Gurgaon",
+        "description": "Browse sophisticated apartment listings offering premium features and maintenance services ensuring a comfortable and luxurious living experience.",
+        "icon": "FaBuilding",
+        "path": "https://apartmentsforrentingurgaon.com"
+      },
+      {
+        "title": "Rent House in Gurgaon",
+        "description": "Find the perfect independent house for rent ensuring privacy space and dedicated amenities suitable for large families seeking comfort.",
+        "icon": "FaKey",
+        "path": "https://renthouseingurgaon.com"
+      },
+      {
+        "title": "Buy House in Gurgaon",
+        "description": "Navigate the market to purchase freehold houses providing long-term security substantial appreciation potential and bespoke customization options.",
+        "icon": "FaMoneyBillWave",
+        "path": "https://buyhouseingurgaon.com"
+      },
+      {
+        "title": "Affordable Apartments in Gurgaon",
+        "description": "Access budget-friendly modern apartments offering excellent value without compromising on quality connectivity or essential community facilities.",
+        "icon": "FaTags",
+        "path": "https://affordableapartmentsingurgaon.com"
+      },
+      {
+        "title": "House for Sale in Gurgaon",
+        "description": "Exclusive listings of independent houses available for sale featuring spacious layouts prime locations and robust structural integrity guaranteed.",
+        "icon": "FaHome",
+        "path": "https://houseforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Property in Gurgaon",
+        "description": "Comprehensive catalog of residential assets including villas flats and houses designed to meet diverse lifestyle needs and investment goals.",
+        "icon": "FaClipboardList",
+        "path": "https://residentialpropertyingurgaon.com"
+      },
+      {
+        "title": "Affordable House in Gurgaon",
+        "description": "Specialized collection of reasonably priced houses designed for first-time buyers seeking quality construction and established neighborhood settings.",
+        "icon": "FaPiggyBank",
+        "path": "https://affordablehouseingurgaon.com"
+      },
+      {
+        "title": "Shop for Rent in Gurgaon",
+        "description": "Secure high-visibility commercial retail space for rent ensuring maximum customer footfall and immediate business operational readiness in Gurgaon.",
+        "icon": "FaStore",
+        "path": "https://shopforrentingurgaon.com"
+      },
+      {
+        "title": "Real Estate Agents in Gurgaon",
+        "description": "Connect with experienced local property advisors providing personalized guidance expert negotiations and seamless transaction management for clients.",
+        "icon": "FaUserTie",
+        "path": "https://realestateagentsingurgaon.com"
+      },
+      {
+        "title": "2 BHK Flats for Sale in Gurgaon",
+        "description": "Dedicated inventory of premium 2 BHK flats ideal for small families or young professionals seeking compact efficient and modern living spaces.",
+        "icon": "FaBed",
+        "path": "https://2bhkflatsforsaleingurgaon.com"
+      },
+      {
+        "title": "Residential Projects in Gurgaon",
+        "description": "Explore upcoming and ongoing new construction residential developments offering modern amenities innovative design and future investment potential.",
+        "icon": "FaHardHat",
+        "path": "https://residentialprojectsingurgaon.com"
+      },
+      {
+        "title": "Shop for Sale in Gurgaon",
+        "description": "Acquire ownership of commercial retail units situated strategically in bustling markets ensuring high returns on investment and business growth.",
+        "icon": "FaShoppingCart",
+        "path": "https://shopforsaleingurgaon.com"
+      },
+      {
+        "title": "Luxury Apartments in Gurgaon",
+        "description": "Elite collection of upscale apartments boasting bespoke interiors high-end facilities and exclusive access to world-class community amenities.",
+        "icon": "FaGem",
+        "path": "https://luxuryapartmentsingurgaon.com"
+      },
+      {
+        "title": "Office Space for Rent in Gurgaon",
+        "description": "Lease professional commercial office environments offering flexible layouts excellent connectivity and state-of-the-art infrastructure ready for business.",
+        "icon": "FaBriefcase",
+        "path": "https://officespaceforrentingurgaon.com"
+      },
+      {
+        "title": "Studio Apartments in Gurgaon",
+        "description": "Compact efficient studio living spaces perfect for singles or students prioritizing location minimal maintenance and convenient urban access.",
+        "icon": "FaGlobe",
+        "path": "https://studioapartmentsingurgaon.com"
+      },
+      {
+        "title": "Plot in Gurgaon",
+        "description": "Invest in strategically located open land parcels offering flexibility for custom construction catering to specific long-term development plans.",
+        "icon": "FaMapMarkedAlt",
+        "path": "https://plotingurgaon.in"
+      }
+    ]
   },
-  {
-    "title": "Flat for Rent in Gurgaon",
-    "description": "Find fully furnished and semi-furnished flats for rent near corporate hubs, metro stations, and commercial areas. Perfect for professionals and families.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Flat for Sale in Gurgaon",
-    "description": "Discover ready-to-move and under-construction flats in top locations with modern amenities and excellent connectivity.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "Shop for Sale in Gurgaon",
-    "description": "Invest in retail shops located in high-footfall areas, markets, and commercial complexes for strong rental returns.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Shop for Rent in Gurgaon",
-    "description": "Choose from a wide range of rental shops ideal for startups, franchises, and established businesses.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Plot for Sale in Gurgaon",
-    "description": "Buy residential and commercial plots in developing and premium sectors of Gurgaon for long-term investment and construction flexibility.",
-    "icon": "FaLandmark"
-  },
-  {
-    "title": "Agricultural Land for Sale in Gurgaon",
-    "description": "Explore agricultural land suitable for farming, farmhouse development, or future land appreciation.",
-    "icon": "FaTractor"
-  },
-  {
-    "title": "To-Let Service in Gurgaon",
-    "description": "Professional leasing services connecting landlords with verified tenants quickly and efficiently.",
-    "icon": "FaHandshake"
-  },
-  {
-    "title": "Commercial Property for Sale in Gurgaon",
-    "description": "Office spaces, IT parks, and commercial units offering high rental yield and corporate demand.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "World Street Gurgaon",
-    "description": "A premium commercial destination offering retail, office, and investment opportunities.",
-    "icon": "FaCity"
-  },
-  {
-    "title": "Independent Builder Floor in Gurgaon",
-    "description": "Low-density residential options offering privacy, independent access, and premium living.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "Co-Workation in Gurgaon",
-    "description": "Flexible co-working and co-living spaces designed for startups and professionals.",
-    "icon": "FaBriefcase"
-  },
-  {
-    "title": "SCO Plots for Sale in Faisalabad",
-    "description": "Strategically located SCO plots ideal for commercial and mixed-use development.",
-    "icon": "FaStore"
-  },
-  {
-    "title": "Upcoming Projects in Gurgaon",
-    "description": "Get early access to new residential and commercial launches with high appreciation potential.",
-    "icon": "FaChartLine"
-  },
-  {
-    "title": "Affordable Projects in Gurgaon",
-    "description": "Budget-friendly housing projects with modern amenities and strong connectivity.",
-    "icon": "FaRupeeSign"
-  },
-  {
-    "title": "Apartment for Rent in Gurgaon",
-    "description": "Well-designed apartments available for rent in prime and budget locations.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "Apartment for Sale in Gurgaon",
-    "description": "Premium and mid-segment apartments suitable for end-users and investors.",
-    "icon": "FaBuilding"
-  },
-  {
-    "title": "2 BHK Flat for Sale in Gurgaon",
-    "description": "Ideal homes for small families and professionals offering affordability and comfort.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "3 BHK Flat for Sale in Gurgaon",
-    "description": "Spacious family apartments with premium amenities and prime locations.",
-    "icon": "FaHome"
-  },
-  {
-    "title": "4 BHK Flat for Sale in Gurgaon",
-    "description": "Luxury living spaces designed for elite lifestyles.",
-    "icon": "FaCrown"
-  },
-  {
-    "title": "2 BHK Flat for Rent in Gurgaon",
-    "description": "Affordable rental homes close to offices and metro connectivity.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "3 BHK Flat for Rent in Gurgaon",
-    "description": "Comfortable rental options for families in well-developed sectors.",
-    "icon": "FaKey"
-  },
-  {
-    "title": "4 BHK Flat for Rent in Gurgaon",
-    "description": "High-end rental properties offering luxury and exclusivity.",
-    "icon": "FaKey"
-  }
-]
-
-  },
-
   "whyChooseUs": {
     "heading": "Deal Acres – A Smart Real Estate Venture",
     "description": [
@@ -208,7 +205,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Insights, Trends & Featured Blogs",
     "description": [
@@ -245,7 +241,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -278,7 +273,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "description": [
+        "Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -295,59 +292,58 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Everything you need to know about house prices, locations, investment benefits, and expert support in Gurgaon.",
     "faqs": [
-  {
-    "q": "What are Residential Projects in Gurgaon?",
-    "a": "Residential projects in Gurgaon include apartments, builder floors, villas, and housing developments designed for comfortable living with modern amenities."
+      {
+        "q": "What are Residential Projects in Gurgaon?",
+        "a": "Residential projects in Gurgaon include apartments, builder floors, villas, and housing developments designed for comfortable living with modern amenities."
+      },
+      {
+        "q": "Why should I invest in Residential Projects in Gurgaon?",
+        "a": "Gurgaon offers strong infrastructure, a large corporate presence, high housing demand, and excellent appreciation potential, making it ideal for residential investment."
+      },
+      {
+        "q": "Which locations are best for residential projects in Gurgaon?",
+        "a": "Top locations include Golf Course Road, Dwarka Expressway, Sohna Road, New Gurgaon, and SPR (Southern Peripheral Road)."
+      },
+      {
+        "q": "Are there affordable residential projects in Gurgaon?",
+        "a": "Yes, Gurgaon has multiple affordable and mid-segment residential projects offering modern amenities."
+      },
+      {
+        "q": "Can I get a home loan for residential projects in Gurgaon?",
+        "a": "Most banks and NBFCs provide home loans for approved residential projects in Gurgaon."
+      },
+      {
+        "q": "Are upcoming residential projects a good investment?",
+        "a": "Yes, upcoming residential projects in Gurgaon often come with lower entry prices and higher future appreciation potential."
+      },
+      {
+        "q": "How does Deal Acres verify residential projects?",
+        "a": "Deal Acres verifies legal approvals, builder credentials, project documentation, and market value before listing any residential project."
+      },
+      {
+        "q": "Do residential projects in Gurgaon offer rental income?",
+        "a": "Yes, Gurgaon's strong working population and corporate ecosystem ensure high rental demand for residential properties."
+      },
+      {
+        "q": "Is Gurgaon suitable for end-use living?",
+        "a": "Absolutely. Gurgaon offers quality schools, hospitals, malls, offices, metro connectivity, and green spaces for comfortable living."
+      },
+      {
+        "q": "How can Deal Acres help me buy a home?",
+        "a": "Deal Acres provides verified listings, expert advice, site visit assistance, price negotiation support, and complete documentation help."
+      }
+    ]
   },
-  {
-    "q": "Why should I invest in Residential Projects in Gurgaon?",
-    "a": "Gurgaon offers strong infrastructure, a large corporate presence, high housing demand, and excellent appreciation potential, making it ideal for residential investment."
-  },
-  {
-    "q": "Which locations are best for residential projects in Gurgaon?",
-    "a": "Top locations include Golf Course Road, Dwarka Expressway, Sohna Road, New Gurgaon, and SPR (Southern Peripheral Road)."
-  },
-  {
-    "q": "Are there affordable residential projects in Gurgaon?",
-    "a": "Yes, Gurgaon has multiple affordable and mid-segment residential projects offering modern amenities."
-  },
-  {
-    "q": "Can I get a home loan for residential projects in Gurgaon?",
-    "a": "Most banks and NBFCs provide home loans for approved residential projects in Gurgaon."
-  },
-  {
-    "q": "Are upcoming residential projects a good investment?",
-    "a": "Yes, upcoming residential projects in Gurgaon often come with lower entry prices and higher future appreciation potential."
-  },
-  {
-    "q": "How does Deal Acres verify residential projects?",
-    "a": "Deal Acres verifies legal approvals, builder credentials, project documentation, and market value before listing any residential project."
-  },
-  {
-    "q": "Do residential projects in Gurgaon offer rental income?",
-    "a": "Yes, Gurgaon's strong working population and corporate ecosystem ensure high rental demand for residential properties."
-  },
-  {
-    "q": "Is Gurgaon suitable for end-use living?",
-    "a": "Absolutely. Gurgaon offers quality schools, hospitals, malls, offices, metro connectivity, and green spaces for comfortable living."
-  },
-  {
-    "q": "How can Deal Acres help me buy a home?",
-    "a": "Deal Acres provides verified listings, expert advice, site visit assistance, price negotiation support, and complete documentation help."
-  }
-]
-
-  },
-
   "footer": {
     "brand": {
       "name": "EstatePro Real Estate",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",

@@ -17,7 +17,7 @@ export default async function Home() {
   const h = await headers();
 
   const domain = h.get("host") || "localhost";
-  // const domain = "www.toletserviceinhisar.com"
+  // const domain = "www.affordableapartmentsingurgaon.com"
 
   // ✅ index-based direct lookup
   const pageData = loadPageData(domain);

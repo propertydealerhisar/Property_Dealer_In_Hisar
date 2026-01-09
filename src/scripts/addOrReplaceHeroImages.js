@@ -4,7 +4,7 @@ const path = require("path");
 // ===== CONFIG =====
 const GRAND_PARENT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/faridabad/rent-house" // 👈 yahan se scan start
+  "../content/sub-domain/gurgaon/office-space-for-rent" // 👈 yahan se scan start
 );
 
 const HERO_IMAGES = [

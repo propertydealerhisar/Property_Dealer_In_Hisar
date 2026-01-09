@@ -1,0 +1,216 @@
+{
+  "domain": "www.abc.com",
+  "hero": {
+    "title": "Find the Perfect Office Space For Rent in Sector 90 Faridabad for Future Growth",
+    "description": [
+      "Welcome to the commercial heart of Greater Faridabad where opportunity meets strategic location. Searching for high-quality Office Space For Rent in Sector 90 is now easier than ever. This thriving sector offers state-of-the-art infrastructure and excellent connectivity making it the ideal base for established corporations and dynamic startups alike.",
+      "Our curated selection of rental properties ensures you find spaces that perfectly match your operational needs whether you require a small serviced office or an expansive corporate floor plate. Leverage Sector 90's growing commercial ecosystem and position your business for immediate success and sustainable growth. Explore available listings and secure your next headquarters today."
+    ],
+    "buttons": [
+      {
+        "label": "Browse Premium Office Listings",
+        "path": "/listings"
+      },
+      {
+        "label": "Schedule a Site Visit",
+        "path": "/contact"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Exploring Diverse Office Space Solutions Available For Rent in Sector 90",
+    "description": [
+      "Sector 90 in Greater Faridabad provides a comprehensive range of commercial properties tailored to fit various business scales and industry requirements. We understand that finding the right environment is crucial for productivity and employee well-being which is why we focus on listings that offer modern designs top-tier security and ample amenities.",
+      "From Grade A structures developed by reputed builders to smaller independent commercial hubs we provide transparency and detailed information on every rental option. Review the different types of office spaces available right now in Sector 90 and determine which format best supports your current team size and expansion projections. Secure a space that works as hard as you do."
+    ],
+    "features": [
+      {
+        "title": "Executive Suites",
+        "description": "Ideal for mid-sized firms and company headquarters requiring privacy and prestige. These rental units typically range from 2000 sq ft upwards offering dedicated cabins conference facilities and private washrooms. Securing an Executive Suite in Sector 90 projects a professional image and provides the necessary infrastructure for senior management operations and client meetings. We connect you with fully furnished options saving you significant upfront capital expenditure."
+      },
+      {
+        "title": "Flexible Co-working Desks",
+        "description": "Perfect for freelancers startups or remote teams needing occasional access to a professional setup. Co-working spaces in Sector 90 offer hot desks dedicated desks and private cabins on flexible monthly or annual contracts. Enjoy high-speed internet shared reception services and professional networking opportunities without the long-term commitment of a traditional lease. This solution is highly cost-effective and scalable."
+      },
+      {
+        "title": "Large Corporate Floors",
+        "description": "Designed for large multinational corporations or IT firms requiring extensive contiguous space. These floors often exceed 10000 sq ft providing a blank canvas for custom interior layouts and high-density seating arrangements. Finding a full floor Office Space For Rent in Sector 90 ensures brand uniformity and operational efficiency across the entire team in a single accessible location within Faridabad’s best commercial zones."
+      },
+      {
+        "title": "Ready-to-Move Spaces",
+        "description": "Minimise setup time and cost with fully operational ready-to-move office units. These spaces come pre-fitted with cabling air conditioning lighting and sometimes even modular furniture allowing for immediate occupation. This is the fastest way to start or relocate your operations in Sector 90 ensuring zero downtime and maximum focus on your core business activities from day one."
+      },
+      {
+        "title": "Customisable Shell & Core",
+        "description": "For businesses that require precise brand alignment and bespoke layouts shell and core spaces are the perfect starting point. Renting a shell and core unit gives you full control over the interior fit-out allowing you to design the space exactly as per your operational workflow and aesthetic requirements. This is common for creative agencies or specialised labs establishing a long-term presence in Sector 90 Faridabad."
+      },
+      {
+        "title": "Premium Grade A Buildings",
+        "description": "Focus your search exclusively on top-tier commercial complexes known for superior construction energy efficiency and high-end amenities like robust security high-speed elevators and ample parking. Grade A Office Space For Rent in Sector 90 guarantees a world-class working environment enhancing employee retention and corporate reputation. These buildings are often LEED certified and managed by professional facility teams."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Prime Commercial Hubs Surrounding Office Space For Rent in Sector 90 Faridabad",
+    "description": [
+      "Sector 90 sits strategically within the burgeoning Greater Faridabad region often called Neharpar providing connectivity to major highways and neighbouring commercial zones. This locality is quickly becoming the preferred business address due to its planned development and proximity to residential catchments ensuring easy commute for employees.",
+      "We provide rental opportunities not only within the core of Sector 90 but also in immediately adjacent areas that share similar infrastructure benefits and access points. This expansion of search scope ensures you have the widest range of choices for securing the ideal commercial property."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Sector 90 is the Strategic Choice for Renting Commercial Office Space",
+    "description": [
+      "Choosing the right location impacts everything from employee morale to client perception. Sector 90 is deliberately designed to support modern commerce offering the perfect blend of accessibility infrastructure and community amenities. It stands out from older Faridabad sectors due to its modern planning and future growth potential.",
+      "Partner with us to navigate the rental market effortlessly. We provide expert advice detailed property analysis and negotiation support ensuring you secure the best Office Space For Rent in Sector 90 at the most favourable terms."
+    ],
+    "points": [
+      {
+        "title": "Unmatched Connectivity and Transport Links",
+        "description": "Sector 90 boasts superb connectivity to the FNG Expressway and the Agra-Delhi National Highway making commuting seamless for staff traveling from Delhi Noida and Gurugram. The proposed metro extension further enhances public transport options cementing Sector 90 as an accessible commercial node. Renting here positions your business at a strategic logistical advantage."
+      },
+      {
+        "title": "Planned Modern Infrastructure",
+        "description": "Unlike older sectors Sector 90 benefits from wide roads reliable power supply and integrated commercial planning. The buildings are typically newer conforming to modern safety and accessibility standards. This foundational quality ensures fewer operational disruptions and a more pleasant working environment for all your employees."
+      },
+      {
+        "title": "Availability of Grade A Office Space",
+        "description": "The majority of commercial inventory in Sector 90 falls into the Grade A or Premium B category signifying superior construction quality modern amenities professional facility management and high-tech security systems. Investing in such a space enhances your corporate image and provides a professional setting for client interactions."
+      },
+      {
+        "title": "Proximity to Residential Catchment",
+        "description": "Sector 90 is surrounded by established residential colonies like BPTP Parklands and Puri Pratham ensuring a readily available local talent pool and a short commute for many employees. This work-life balance feature is a significant benefit for talent attraction and retention in today’s competitive market."
+      },
+      {
+        "title": "Competitive Rental Pricing",
+        "description": "While offering world-class amenities and infrastructure the rental rates for Office Space For Rent in Sector 90 remain highly competitive compared to established markets like Cyber City Gurugram or Central Delhi. This affordability allows businesses to allocate more budget towards growth and operations."
+      },
+      {
+        "title": "Comprehensive Local Amenities",
+        "description": "The area is developing rapidly with retail centres restaurants cafes and banking facilities all within easy reach of the major commercial towers. This convenience supports employee needs during work hours making Sector 90 a self-sufficient business locality in Faridabad."
+      },
+      {
+        "title": "Expert Real Estate Guidance",
+        "description": "Our team specialises exclusively in the Sector 90 commercial market providing in-depth local knowledge transparent transactions and negotiation expertise. We save you time and ensure you avoid common rental pitfalls guiding you from initial inquiry to final lease execution."
+      },
+      {
+        "title": "Future Potential and Appreciation",
+        "description": "As Greater Faridabad continues its massive growth trajectory properties in Sector 90 are poised for substantial value appreciation. Although you are renting now choosing a key location indicates forward thinking positioning you optimally should you decide to purchase commercial space later."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space For Rent in Sector 90",
+    "description": "Get detailed answers to common inquiries regarding lease terms rental rates available sizes and necessary documentation for securing your ideal commercial space in Sector 90 Faridabad.",
+    "faqs": [
+      {
+        "question": "What is the typical lock-in period for Office Space For Rent in Sector 90",
+        "answer": "The standard lock-in period often stipulated in commercial lease agreements in Sector 90 is usually 18 to 36 months. This period ensures stability for both the tenant and the landlord especially after extensive fit-outs are completed. However flexible co-working spaces or smaller independent units might offer shorter six-month lock-ins. We recommend reviewing the specific lease terms thoroughly and we assist in negotiating lock-in clauses to align with your business stability needs."
+      },
+      {
+        "question": "Are there fully furnished ready-to-move office options available in Sector 90",
+        "answer": "Yes Sector 90 has a growing inventory of fully furnished office spaces particularly within Grade A buildings and serviced office centres. These units include modular furniture IT infrastructure air conditioning and often basic pantry facilities. Ready-to-move options are highly sought after as they drastically reduce setup costs and allow for immediate operational commencement a major advantage for fast-growing businesses relocating to Faridabad."
+      },
+      {
+        "question": "What is the approximate per square foot rental rate for Grade A office space here",
+        "answer": "Rental rates for Grade A Office Space For Rent in Sector 90 typically vary based on the building age quality of fit-out and floor level. Generally current rates range between INR 45 to INR 75 per square foot per month excluding common area maintenance CAM charges and electricity. Premium corner units or spaces with special views may command higher rates. We provide up-to-date market analysis to ensure you rent at a fair valuation."
+      },
+      {
+        "question": "How accessible is Sector 90 via public transport from Delhi and Gurugram",
+        "answer": "Sector 90 is highly accessible. It is situated close to the Kheri Road and the main highway connecting Faridabad to Greater Noida and Delhi. While the metro connectivity is currently available up to Bata Chowk or Escorts Mujesar regular feeder buses and reliable taxi services bridge the final distance. The sector's planned infrastructure supports easy vehicular movement and ample public transportation options."
+      },
+      {
+        "question": "Are security deposits standard and what are the usual terms",
+        "answer": "Security deposits are standard practice for commercial rentals across Faridabad. Landlords in Sector 90 usually require a deposit equivalent to 3 to 6 months of the monthly rent depending on the size of the space and the negotiation outcome. This deposit is refundable upon lease expiry assuming all terms and property conditions are met. We help streamline the documentation process related to security deposits."
+      },
+      {
+        "question": "Can I customise the layout if I choose a shell and core office space",
+        "answer": "Absolutely. Choosing a shell and core Office Space For Rent in Sector 90 gives you maximum flexibility for customisation. You are responsible for the entire internal fit-out including flooring HVAC systems partitions and electrical wiring. Landlords will require approval of your architectural plans to ensure they comply with building safety standards and local regulations. This option is ideal for long-term leases needing specialised operational setup."
+      },
+      {
+        "question": "What common area maintenance CAM charges should I expect in this sector",
+        "answer": "Common Area Maintenance or CAM charges cover essential services like security lighting of public areas lift maintenance upkeep of lobbies and shared utilities. In Sector 90 commercial towers these charges typically range from INR 8 to INR 15 per square foot per month depending on the level of services provided by the facility management team. These charges are usually billed separately from the base rent."
+      },
+      {
+        "question": "Is ample parking available for tenants and visitors in Sector 90 commercial buildings",
+        "answer": "Yes modern commercial complexes in Sector 90 prioritise parking space often providing multi-level basement parking for tenants and designated surface parking areas for visitors. Rental agreements usually specify the number of dedicated parking slots allocated to your office size. Easy parking is a significant advantage of choosing newer commercial developments in Greater Faridabad."
+      },
+      {
+        "question": "What types of businesses thrive in the Sector 90 commercial environment",
+        "answer": "Sector 90 is seeing success across multiple sectors including IT and ITES financial services consulting firms corporate BPOs and regional headquarters for manufacturing companies. Its proximity to industrial zones and residential areas makes it a versatile location supporting both administrative functions and tech development centres."
+      },
+      {
+        "question": "How quickly can I finalise a lease and move into an office space here",
+        "answer": "The timeline depends on the space type. For a ready-to-move furnished Office Space For Rent in Sector 90 the process can be completed within 2 to 4 weeks once documentation and negotiations are finalised. For larger shell and core spaces requiring fit-outs the lease finalisation is fast but the move-in timeline will depend entirely on your construction schedule which could take 3 to 6 months."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Start Your Search for Premium Office Space For Rent in Sector 90 Today",
+    "description": [
+      "Ready to upgrade your business address and secure a commercial space that fuels your future success. Our dedicated commercial real estate experts are standing by to provide personalised property recommendations tailored exactly to your needs and budget.",
+      "Fill out the form below to connect with a specialist who knows the Sector 90 market intimately. Let us help you find the perfect operational base in Faridabad without the stress."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

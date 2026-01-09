@@ -2,8 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 // ======= YAHAN PATH SET KARO =======
-const SOURCE_DIR = path.join(__dirname, "../../../../test/output");
-const DEST_DIR = path.join(__dirname, "../content/sub-domain/faridabad/rent-house");
+const SOURCE_DIR = path.join(__dirname, "../../../../test/domain/output");
+const DEST_DIR = path.join(__dirname, "../content/main-domain/gurgaon");
 // ===================================
 // agar destination folder nahi hai to bana do
 if (!fs.existsSync(DEST_DIR)) {
