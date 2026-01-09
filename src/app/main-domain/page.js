@@ -16,8 +16,8 @@ import { loadPageData } from "@/lib/main-domain/loadPageData";
 export default async function Home() {
   const h = await headers();
 
-  const domain = h.get("host") || "localhost";
-  // const domain = "www.affordableapartmentsingurgaon.com"
+  // const domain = h.get("host") || "localhost";
+  const domain = "www.plotingurgaon.in"
 
   // ✅ index-based direct lookup
   const pageData = loadPageData(domain);
