@@ -21,6 +21,40 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "House for Rent in Sector 21P, Hisar, Haryana – Affordable Room & BHK Options Available",
+  "description": [
+    "Explore houses and room sets available for rent in Sector 21P, Hisar, Haryana, a well-developed residential area with excellent connectivity and essential amenities nearby. The locality is ideal for families, working professionals, and students looking for comfortable rental accommodation. Multiple options are available including single room sets, 2 room sets, 3 room sets, and BHK units with affordable monthly rents in Sector 21P, Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "1 room set for rent in Sector 21P, Hisar, Haryana (₹6,000)",
+      "icon": "Home",
+      "path": "/house-for-rent-sector-21p-hisar-1-room-set"
+    },
+    {
+      "title": "2 room set for rent in Sector 21P, Hisar, Haryana (₹12,000)",
+      "icon": "Home",
+      "path": "/house-for-rent-sector-21p-hisar-2-room-set"
+    },
+    {
+      "title": "2 bed room set for rent at ground floor in Sector 21P, Hisar, Haryana (₹15,000)",
+      "icon": "Building",
+      "path": "/house-for-rent-sector-21p-hisar-2-bedroom-ground-floor"
+    },
+    {
+      "title": "3 room set for rent in Sector 21P, Hisar, Haryana (₹17,000)",
+      "icon": "Building",
+      "path": "/house-for-rent-sector-21p-hisar-3-room-set"
+    },
+    {
+      "title": "3 BHK for rent in Sector 21P, Hisar, Haryana (₹18,000)",
+      "icon": "Building2",
+      "path": "/house-for-rent-sector-21p-hisar-3-bhk"
+    }
+  ]
+}
+,
   "featuresSection": {
     "heading": "Independent House Size Options Available for Rent in Sector 21P",
     "description": [

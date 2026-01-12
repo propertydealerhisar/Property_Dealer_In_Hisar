@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Flats for Sale in Sector 9-11, Hisar, Haryana – Well-Planned Apartments & Spacious Flats",
+  "description": [
+    "Browse a variety of flats and modern apartments available for sale in Sector 9-11, Hisar, Haryana. This centrally located residential area is known for its strong infrastructure, easy connectivity, and close access to schools, hospitals, markets, and major city roads. Sector 9-11 offers comfortable living options including 3 BHK and 4 BHK apartments along with spacious flats built on 250, 300, and 350 square yards, making it a suitable choice for families and long-term property investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "250 Square Yard Flat for Sale in Sector 9-11, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-9-11-hisar-250-square-yard"
+    },
+    {
+      "title": "3 BHK Flat for Sale in Sector 9-11, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/flat-for-sale-sector-9-11-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK Apartment for Sale in Sector 9-11, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-9-11-hisar-3-bhk"
+    },
+    {
+      "title": "4 BHK Apartment for Sale in Sector 9-11, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-9-11-hisar-4-bhk"
+    },
+    {
+      "title": "300 Square Yard Flat for Sale in Sector 9-11, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-9-11-hisar-300-square-yard"
+    },
+    {
+      "title": "350 Square Yard Flat for Sale in Sector 9-11, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-9-11-hisar-350-square-yard"
+    }
+  ]
+},
+
   "featuresSection": {
     "heading": "Residential Plot Options Offering Space Flexibility in Sector 9-11",
     "description": [

@@ -21,6 +21,40 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Flats for Sale in PLA Area, Hisar, Haryana – Spacious Apartments & Prime Residential Location",
+  "description": [
+    "Explore a variety of flats and modern apartments for sale in PLA Area, Hisar, Haryana. This well-developed residential locality is known for its excellent road connectivity, organized infrastructure, and proximity to schools, hospitals, markets, and commercial areas. PLA Area offers comfortable living options including 3 BHK and 4 BHK apartments along with spacious flats built on 250 and 350 square yards, making it a preferred choice for families and long-term real estate investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "250 Square Yard Flat for Sale in PLA Area, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-pla-area-hisar-250-square-yard"
+    },
+    {
+      "title": "3 BHK Flat for Sale in PLA Area, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/flat-for-sale-pla-area-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK Apartment for Sale in PLA Area, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-pla-area-hisar-3-bhk"
+    },
+    {
+      "title": "4 BHK Apartment for Sale in PLA Area, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-pla-area-hisar-4-bhk"
+    },
+    {
+      "title": "350 Square Yard Flat for Sale in PLA Area, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-pla-area-hisar-350-square-yard"
+    }
+  ]
+},
+
   "featuresSection": {
     "heading": "Independent Plot Size Options Available Around PLA Area Hisar",
     "description": [

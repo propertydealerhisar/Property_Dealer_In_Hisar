@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "House for Rent in PLA Area, Hisar, Haryana – Well-Planned Location with Multiple Rental Options",
+  "description": [
+    "Explore houses and room sets available for rent in PLA Area, Hisar, Haryana, a well-planned residential locality known for good connectivity and a comfortable living environment. The area is close to markets, schools, hospitals, and major city roads, making it ideal for families, working professionals, and students. Multiple rental options are available including single room sets, 2 room sets, 3 room sets, and BHK units at competitive monthly rents in PLA Area, Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "1 room set for rent in PLA Area, Hisar, Haryana (₹8,500)",
+      "icon": "Home",
+      "path": "/house-for-rent-pla-area-hisar-1-room-set"
+    },
+    {
+      "title": "2 room set for rent in PLA Area, Hisar, Haryana (₹12,500)",
+      "icon": "Home",
+      "path": "/house-for-rent-pla-area-hisar-2-room-set"
+    },
+    {
+      "title": "2 BHK for rent in PLA Area, Hisar, Haryana (₹14,500)",
+      "icon": "Building",
+      "path": "/house-for-rent-pla-area-hisar-2-bhk"
+    },
+    {
+      "title": "3 room set for rent in PLA Area, Hisar, Haryana (₹18,500)",
+      "icon": "Building2",
+      "path": "/house-for-rent-pla-area-hisar-3-room-set"
+    },
+    {
+      "title": "3 BHK for rent in PLA Area, Hisar, Haryana (₹19,000)",
+      "icon": "Building2",
+      "path": "/house-for-rent-pla-area-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK for rent in PLA Area, Hisar, Haryana (₹18,500)",
+      "icon": "Building2",
+      "path": "/house-for-rent-pla-area-hisar-3-bhk-standard"
+    }
+  ]
+}
+,
   "featuresSection": {
     "heading": "Independent House Plot Size Options for Rent in PLA Area",
     "description": [

@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  
+  "propertyCard": {
+    "heading": "Independent House For Sale in Sector 14, Hisar, Haryana – Prime Residential Location with Multiple Plot Sizes",
+    "description": [
+      "Explore premium independent houses for sale in Sector 14, Hisar, Haryana, one of the most well-established and sought-after residential areas of the city. This location offers excellent connectivity, peaceful surroundings, and easy access to schools, markets, hospitals, and other daily necessities. Houses are available in multiple plot sizes ranging from 100 square yards to 500 square yards, making these properties suitable for families, end-users, and long-term real estate investors looking for value and stability in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "100 square yard house for sale Sector 14, Hisar, Haryana",
+        "icon": "Home",
+        "path": "/house-for-sale-sector-14-hisar-100-square-yard"
+      },
+      {
+        "title": "150 square yard house for sale Sector 14, Hisar, Haryana",
+        "icon": "Home",
+        "path": "/house-for-sale-sector-14-hisar-150-square-yard"
+      },
+      {
+        "title": "200 square yard house for sale Sector 14, Hisar, Haryana",
+        "icon": "Building",
+        "path": "/house-for-sale-sector-14-hisar-200-square-yard"
+      },
+      {
+        "title": "250 square yard house for sale Sector 14, Hisar, Haryana",
+        "icon": "Building",
+        "path": "/house-for-sale-sector-14-hisar-250-square-yard"
+      },
+      {
+        "title": "300 square yard house for sale Sector 14, Hisar, Haryana",
+        "icon": "Building2",
+        "path": "/house-for-sale-sector-14-hisar-300-square-yard"
+      },
+      {
+        "title": "500 square yard house for sale Sector 14, Hisar, Haryana",
+        "icon": "Building2",
+        "path": "/house-for-sale-sector-14-hisar-500-square-yard"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Sector 14 Hisar",
     "description": [

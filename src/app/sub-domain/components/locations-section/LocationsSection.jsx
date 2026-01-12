@@ -30,12 +30,12 @@ const DEFAULT_ICON = HelpCircle;
 
 export function LocationsSection({data}) {
   return (
-    <section id="amenities" className="bg-gray-50 py-20 md:py-28">
-      <div className="mx-auto max-w-7xl px-4">
+    <section id="amenities" className="bg-gray-50 py-10 px-4 sm:px-6">
+      <div className="mx-auto max-w-7xl">
 
         {/* Heading */}
-        <div className="mx-auto mb-12 max-w-6xl text-left md:mb-16 md:text-center">
-          <h2 className="mb-3 text-3xl font-bold text-gray-900 md:mb-5 md:text-4xl lg:text-5xl">
+        <div className="mx-auto mb-12 max-w-7xl text-left md:mb-16 md:text-center">
+          <h2 className="mb-3 font-bold text-gray-900 md:mb-5 text-3xl md:text-4xl lg:text-5xl">
            {data?.title}
           </h2>
           <p className="text-base leading-relaxed text-gray-600 md:text-lg">

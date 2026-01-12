@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "House for Rent in Sector 9–11, Hisar, Haryana – Affordable to Spacious Room Sets & BHK Options",
+  "description": [
+    "Explore houses and room sets available for rent in Sector 9–11, Hisar, Haryana, a centrally located and well-planned residential area offering excellent connectivity to markets, schools, hospitals, and major roads. The locality is ideal for families, working professionals, and students. Multiple rental options are available including single room sets, 2 room sets, 3 room sets, BHK units, and larger family accommodations at competitive monthly rents in Sector 9–11, Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "1 room set for rent in Sector 9-11, Hisar, Haryana (₹7,500)",
+      "icon": "Home",
+      "path": "/house-for-rent-sector-9-11-hisar-1-room-set"
+    },
+    {
+      "title": "2 room set for rent in Sector 9-11, Hisar, Haryana (₹12,000)",
+      "icon": "Home",
+      "path": "/house-for-rent-sector-9-11-hisar-2-room-set"
+    },
+    {
+      "title": "2 BHK for rent in Sector 9-11, Hisar, Haryana (₹13,000)",
+      "icon": "Building",
+      "path": "/house-for-rent-sector-9-11-hisar-2-bhk"
+    },
+    {
+      "title": "3 room set for rent in Sector 9-11, Hisar, Haryana (₹15,500)",
+      "icon": "Building2",
+      "path": "/house-for-rent-sector-9-11-hisar-3-room-set"
+    },
+    {
+      "title": "3 BHK for rent in Sector 9-11, Hisar, Haryana (₹16,500)",
+      "icon": "Building2",
+      "path": "/house-for-rent-sector-9-11-hisar-3-bhk"
+    },
+    {
+      "title": "4 room set for rent in Sector 9-11, Hisar, Haryana (₹23,500)",
+      "icon": "Building2",
+      "path": "/house-for-rent-sector-9-11-hisar-4-room-set"
+    }
+  ]
+}
+,
   "featuresSection": {
     "heading": "Independent House Plot Size Options for Rent in Sector 9-11",
     "description": [

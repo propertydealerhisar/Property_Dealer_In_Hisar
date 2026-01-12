@@ -13,12 +13,13 @@ import { WhyChoose } from "./components/why-choose/WhyChoose";
 
 import { resolveRequest } from "@/lib/resolveRequest";
 import { hisarSiteData } from "@/lib/sub-domain/hisarSiteData";
+import PropertyCardsSection from "./components/property-ards-section/PropertyCardsSection";
 
 const Page = async () => {
   const h = await headers();
   const rawHost = h.get("host") || "";
   const host = rawHost.replace(/:\d+$/, "");
-// const host = "urbanestate.flatsforsaleinhisar.com"
+// const host = "sector21p.houseforsaleinhisar.com"
 
   // 🔐 resolve domain + subdomain
   const ctx = resolveRequest(host);
@@ -45,6 +46,9 @@ const Page = async () => {
     <div>
       <Navbar />
       <HeroSection data={pageData.hero} />
+      {pageData.propertyCard && (
+        <PropertyCardsSection data={pageData.propertyCard} />
+      )}
       <FeaturesSection data={pageData.featuresSection} />
       <LocationsSection data={pageData.locationsSection} />
       <WhyChoose data={pageData.whyChoose} />

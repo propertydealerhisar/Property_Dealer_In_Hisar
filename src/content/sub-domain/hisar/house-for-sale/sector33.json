@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Independent House For Sale in Sector 33, Hisar, Haryana – Spacious Homes with Multiple Plot Size Options",
+  "description": [
+    "Discover independent houses for sale in Sector 33, Hisar, Haryana, a fast-developing residential area offering a peaceful environment along with good road connectivity. The locality is well-connected to markets, schools, hospitals, and essential services, making it suitable for comfortable family living. Houses are available in multiple plot sizes ranging from 100 square yards to 500 square yards, making these properties ideal for both end-users and long-term real estate investors in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "100 square yard house for sale Sector 33, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-sector-33-hisar-100-square-yard"
+    },
+    {
+      "title": "160 square yard house for sale Sector 33, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-sector-33-hisar-160-square-yard"
+    },
+    {
+      "title": "200 square yard house for sale Sector 33, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-sector-33-hisar-200-square-yard"
+    },
+    {
+      "title": "250 square yard house for sale Sector 33, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-sector-33-hisar-250-square-yard"
+    },
+    {
+      "title": "300 square yard house for sale Sector 33, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-sector-33-hisar-300-square-yard"
+    },
+    {
+      "title": "500 square yard house for sale Sector 33, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-sector-33-hisar-500-square-yard"
+    }
+  ]
+}
+  ,
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Sector 33 Hisar",
     "description": [

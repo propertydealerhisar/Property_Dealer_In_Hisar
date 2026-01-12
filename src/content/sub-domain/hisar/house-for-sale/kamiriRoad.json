@@ -21,6 +21,55 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Independent House For Sale on Kamiri Road, Hisar, Haryana – Affordable to Spacious Homes in a Well-Connected Area",
+  "description": [
+    "Explore independent houses for sale on Kamiri Road, Hisar, Haryana, a popular residential stretch known for good road connectivity and easy access to markets, schools, hospitals, and public transport. The area offers a balanced mix of affordability and convenience, making it suitable for families as well as working professionals. Houses are available in a wide range of plot sizes from 50 gaj to 250 gaj, ideal for budget-friendly purchases and long-term residential investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "50 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-kamiri-road-hisar-50-gaj"
+    },
+    {
+      "title": "75 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-kamiri-road-hisar-75-gaj"
+    },
+    {
+      "title": "100 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-kamiri-road-hisar-100-gaj"
+    },
+    {
+      "title": "80 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-kamiri-road-hisar-80-gaj"
+    },
+    {
+      "title": "150 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-kamiri-road-hisar-150-gaj"
+    },
+    {
+      "title": "180 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-kamiri-road-hisar-180-gaj"
+    },
+    {
+      "title": "200 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-kamiri-road-hisar-200-gaj"
+    },
+    {
+      "title": "250 gaj house for sale Kamiri Road, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-kamiri-road-hisar-250-gaj"
+    }
+  ]
+}
+,
   "featuresSection": {
     "heading": "Plot Size Choices for Independent Houses on Kamiri Road Hisar",
     "description": [

@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Independent House For Sale in PLA Area, Hisar, Haryana – Well-Planned Residential Location with Multiple Plot Sizes",
+  "description": [
+    "Discover independent houses for sale in PLA Area, Hisar, Haryana, a well-planned and rapidly developing residential locality offering excellent road connectivity and a peaceful living environment. The area is conveniently located near markets, schools, hospitals, and major city routes, making it suitable for comfortable family living. Houses are available in multiple plot sizes ranging from 50 square yards to 350 square yards, ideal for both end-users and long-term real estate investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "50 square yard house for sale PLA Area, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-pla-area-hisar-50-square-yard"
+    },
+    {
+      "title": "160 square yard house for sale PLA Area, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-pla-area-hisar-160-square-yard"
+    },
+    {
+      "title": "200 square yard house for sale PLA Area, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-pla-area-hisar-200-square-yard"
+    },
+    {
+      "title": "250 square yard house for sale PLA Area, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-pla-area-hisar-250-square-yard"
+    },
+    {
+      "title": "300 square yard house for sale PLA Area, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-pla-area-hisar-300-square-yard"
+    },
+    {
+      "title": "350 square yard house for sale PLA Area, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-pla-area-hisar-350-square-yard"
+    }
+  ]
+}
+,
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in PLA Area Hisar",
     "description": [

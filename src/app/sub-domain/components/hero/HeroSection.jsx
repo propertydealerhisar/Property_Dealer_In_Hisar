@@ -18,7 +18,7 @@ export function HeroSection({data}) {
   }
 
   return (
-    <section className="relative flex min-h-screen items-center overflow-hidden pt-16 md:pt-20">
+    <section className="relative flex min-h-screen items-center overflow-hidden pt-16 md:pt-20 px-4 sm:px-6">
       {/* Background */}
       <div className="absolute inset-0">
         {data?.images?.map((image, index) => (
@@ -37,7 +37,7 @@ export function HeroSection({data}) {
       {/* Content */}
       <div
         className="
-          relative z-10 mx-auto max-w-7xl px-4 py-16
+          relative z-10 mx-auto max-w-7xl py-16
           text-left
           md:py-28 md:text-center
           space-y-4 md:space-y-6
@@ -55,7 +55,7 @@ export function HeroSection({data}) {
         </h1>
 
         {/* Description – LONGER */}
-        <p className="max-w-6xl text-base leading-relaxed text-white/90 drop-shadow mx-auto md:text-lg ">
+        <p className="max-w-7xl text-base leading-relaxed text-white/90 drop-shadow mx-auto md:text-lg ">
           {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>
           })}

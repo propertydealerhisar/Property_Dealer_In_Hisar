@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Flats for Sale in Sector 16-17, Hisar, Haryana – Spacious Apartments & Prime Residential Living",
+  "description": [
+    "Explore a selection of well-constructed flats and modern apartments for sale in Sector 16-17, Hisar, Haryana. This prime residential belt is known for its balanced urban planning, smooth road connectivity, and close access to schools, hospitals, markets, and key city areas. Sector 16-17 offers multiple housing choices including 3 BHK and 4 BHK apartments along with spacious flats built on 250, 300, and 350 square yards, making it a preferred location for families and long-term real estate investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "250 Square Yard Flat for Sale in Sector 16-17, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-16-17-hisar-250-square-yard"
+    },
+    {
+      "title": "3 BHK Flat for Sale in Sector 16-17, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/flat-for-sale-sector-16-17-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK Apartment for Sale in Sector 16-17, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-16-17-hisar-3-bhk"
+    },
+    {
+      "title": "4 BHK Apartment for Sale in Sector 16-17, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-16-17-hisar-4-bhk"
+    },
+    {
+      "title": "300 Square Yard Flat for Sale in Sector 16-17, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-16-17-hisar-300-square-yard"
+    },
+    {
+      "title": "350 Square Yard Flat for Sale in Sector 16-17, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-16-17-hisar-350-square-yard"
+    }
+  ]
+},
+
   "featuresSection": {
     "heading": "Residential Plot Size Options Supporting Flexible Housing in Sector 16-17",
     "description": [

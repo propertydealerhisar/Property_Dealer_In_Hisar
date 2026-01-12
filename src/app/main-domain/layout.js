@@ -67,7 +67,6 @@ export default async function RootLayout({ children }) {
   // const domain = "www.affordablehouseingurgaon.com"
      const pageData = loadPageData(domain);
      
-     if(!pageData) console.log("Page data not found for domain:", domain);
   if (!pageData) return notFound();
 
     const gtmId = GTM_IDS[domain] || GTM_IDS["localhost"];

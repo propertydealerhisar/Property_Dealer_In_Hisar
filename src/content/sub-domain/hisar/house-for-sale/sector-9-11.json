@@ -21,6 +21,50 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Independent House For Sale in Sector 9–11, Hisar, Haryana – Premium Location with Multiple Plot Size Options",
+  "description": [
+    "Explore independent houses for sale in Sector 9–11, Hisar, Haryana, a well-planned and highly desirable residential area known for excellent connectivity and quality infrastructure. The locality offers easy access to schools, markets, hospitals, and major city roads, making it ideal for comfortable family living. Houses are available in a wide range of plot sizes from 50 square yards to 500 square yards, suitable for both end-users and long-term real estate investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "50 square yard house for sale Sector 9-11, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-sector-9-11-hisar-50-square-yard"
+    },
+    {
+      "title": "160 square yard house for sale Sector 9-11, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-sector-9-11-hisar-160-square-yard"
+    },
+    {
+      "title": "200 square yard house for sale Sector 9-11, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-sector-9-11-hisar-200-square-yard"
+    },
+    {
+      "title": "250 square yard house for sale Sector 9-11, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-sector-9-11-hisar-250-square-yard"
+    },
+    {
+      "title": "300 square yard house for sale Sector 9-11, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-sector-9-11-hisar-300-square-yard"
+    },
+    {
+      "title": "350 square yard house for sale Sector 9-11, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-sector-9-11-hisar-350-square-yard"
+    },
+    {
+      "title": "500 square yard house for sale Sector 9-11, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-sector-9-11-hisar-500-square-yard"
+    }
+  ]
+}
+,
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Sector 9–11 Hisar",
     "description": [

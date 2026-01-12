@@ -21,6 +21,40 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Flats for Sale in Model Town, Hisar, Haryana – Premium Apartments & Prime Residential Living",
+  "description": [
+    "Explore well-maintained flats and modern apartments for sale in Model Town, Hisar, Haryana, one of the most established and centrally located residential areas of the city. Model Town is known for its excellent connectivity, peaceful environment, and close proximity to schools, hospitals, markets, and commercial hubs. The locality offers quality housing options including 3 BHK and 4 BHK apartments along with spacious flats built on 250 and 350 square yards, making it an ideal choice for families and long-term real estate investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "250 Square Yard Flat for Sale in Model Town, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-model-town-hisar-250-square-yard"
+    },
+    {
+      "title": "3 BHK Flat for Sale in Model Town, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/flat-for-sale-model-town-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK Apartment for Sale in Model Town, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-model-town-hisar-3-bhk"
+    },
+    {
+      "title": "4 BHK Apartment for Sale in Model Town, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-model-town-hisar-4-bhk"
+    },
+    {
+      "title": "350 Square Yard Flat for Sale in Model Town, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-model-town-hisar-350-square-yard"
+    }
+  ]
+},
+
   "featuresSection": {
     "heading": "Residential Plot Size Options Offering Flexible Living in Model Town",
     "description": [

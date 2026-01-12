@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Independent House For Sale in Sector 1–4, Hisar, Haryana – Centrally Located Homes with Multiple Plot Sizes",
+  "description": [
+    "Discover independent houses for sale in Sector 1–4, Hisar, Haryana, one of the oldest and most centrally located residential zones of the city. The area offers excellent connectivity to major roads, markets, schools, hospitals, and commercial hubs, making it ideal for comfortable family living. Houses are available in multiple plot sizes ranging from 50 square yards to 350 square yards, suitable for both end-users and long-term real estate investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "50 square yard house for sale Sector 1-4, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-sector-1-4-hisar-50-square-yard"
+    },
+    {
+      "title": "100 square yard house for sale Sector 1-4, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-sector-1-4-hisar-100-square-yard"
+    },
+    {
+      "title": "160 square yard house for sale Sector 1-4, Hisar, Haryana",
+      "icon": "Home",
+      "path": "/house-for-sale-sector-1-4-hisar-160-square-yard"
+    },
+    {
+      "title": "250 square yard house for sale Sector 1-4, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/house-for-sale-sector-1-4-hisar-250-square-yard"
+    },
+    {
+      "title": "300 square yard house for sale Sector 1-4, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-sector-1-4-hisar-300-square-yard"
+    },
+    {
+      "title": "350 square yard house for sale Sector 1-4, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/house-for-sale-sector-1-4-hisar-350-square-yard"
+    }
+  ]
+}
+,
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Sector 1–4 Hisar",
     "description": [

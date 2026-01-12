@@ -21,6 +21,40 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Flats for Sale in Global Space, Hisar, Haryana – Modern Apartments & Premium Living Options",
+  "description": [
+    "Discover a selection of modern flats and well-designed apartments for sale in Global Space, Hisar, Haryana. This emerging residential locality offers a contemporary lifestyle with planned infrastructure, smooth connectivity, and easy access to schools, hospitals, markets, and major city routes. Global Space features quality housing options including 3 BHK and 4 BHK apartments along with spacious flats built on 250 and 350 square yards, making it an attractive choice for families and long-term property investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "250 Square Yard Flat for Sale in Global Space, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-global-space-hisar-250-square-yard"
+    },
+    {
+      "title": "3 BHK Flat for Sale in Global Space, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/flat-for-sale-global-space-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK Apartment for Sale in Global Space, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-global-space-hisar-3-bhk"
+    },
+    {
+      "title": "4 BHK Apartment for Sale in Global Space, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-global-space-hisar-4-bhk"
+    },
+    {
+      "title": "350 Square Yard Flat for Sale in Global Space, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-global-space-hisar-350-square-yard"
+    }
+  ]
+},
+
   "featuresSection": {
     "heading": "Residential Plot Size Options Designed for Flexible Living in Global Space",
     "description": [

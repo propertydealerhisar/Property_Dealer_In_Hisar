@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Flats for Sale in Sector 33, Hisar, Haryana – Modern Apartments & Spacious Residential Options",
+  "description": [
+    "Explore a range of well-designed flats and apartments for sale in Sector 33, Hisar, Haryana. This developing residential area offers a peaceful environment, good road connectivity, and proximity to essential facilities like schools, markets, hospitals, and daily convenience stores. Sector 33 features multiple housing options including 3 BHK and 4 BHK apartments along with spacious flats built on 250, 300, and 350 square yards, making it a suitable choice for families and property investors looking for long-term value in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "250 Square Yard Flat for Sale in Sector 33, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-33-hisar-250-square-yard"
+    },
+    {
+      "title": "3 BHK Flat for Sale in Sector 33, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/flat-for-sale-sector-33-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK Apartment for Sale in Sector 33, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-33-hisar-3-bhk"
+    },
+    {
+      "title": "4 BHK Apartment for Sale in Sector 33, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-33-hisar-4-bhk"
+    },
+    {
+      "title": "300 Square Yard Flat for Sale in Sector 33, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-33-hisar-300-square-yard"
+    },
+    {
+      "title": "350 Square Yard Flat for Sale in Sector 33, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-33-hisar-350-square-yard"
+    }
+  ]
+},
+
   "featuresSection": {
     "heading": "Residential Plot Size Options Supporting Flexible Living in Sector 33",
     "description": [

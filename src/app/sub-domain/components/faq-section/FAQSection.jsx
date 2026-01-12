@@ -50,8 +50,8 @@ export function FAQSection({data}) {
   const [openIndex, setOpenIndex] = useState(null)
 
   return (
-    <section className="bg-gray-50 py-20 md:py-28">
-      <div className="mx-auto max-w-7xl px-4">
+    <section className="bg-gray-50 py-10 px-4 sm:px-6">
+      <div className="mx-auto max-w-7xl">
 
         {/* Heading */}
         <div className="mx-auto mb-12 max-w-3xl text-left md:mb-16 md:text-center">

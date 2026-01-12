@@ -21,6 +21,45 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
+  "propertyCard": {
+  "heading": "Flats for Sale in Sector 14, Hisar, Haryana – Modern Apartments & Spacious Flats",
+  "description": [
+    "Browse a wide range of flats and apartments available for sale in Sector 14, Hisar, Haryana. This prime residential locality is well-developed and offers excellent connectivity, peaceful surroundings, and easy access to schools, hospitals, markets, and commercial areas. Buyers can choose from 3 BHK and 4 BHK apartments as well as spacious flats built on 250, 300, and 350 square yards, making Sector 14 an ideal choice for comfortable family living and long-term real estate investment in Hisar."
+  ],
+  "propertyCards": [
+    {
+      "title": "250 Square Yard Flat for Sale in Sector 14, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-14-hisar-250-square-yard"
+    },
+    {
+      "title": "3 BHK Flat for Sale in Sector 14, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/flat-for-sale-sector-14-hisar-3-bhk"
+    },
+    {
+      "title": "3 BHK Apartment for Sale in Sector 14, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-14-hisar-3-bhk"
+    },
+    {
+      "title": "4 BHK Apartment for Sale in Sector 14, Hisar, Haryana",
+      "icon": "Building2",
+      "path": "/apartment-for-sale-sector-14-hisar-4-bhk"
+    },
+    {
+      "title": "300 Square Yard Flat for Sale in Sector 14, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-14-hisar-300-square-yard"
+    },
+    {
+      "title": "350 Square Yard Flat for Sale in Sector 14, Hisar, Haryana",
+      "icon": "Building",
+      "path": "/flat-for-sale-sector-14-hisar-350-square-yard"
+    }
+  ]
+},
+
   "featuresSection": {
     "heading": "Residential Plot Options That Support Flexible Living in Sector 14",
     "description": [
