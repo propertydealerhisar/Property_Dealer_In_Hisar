@@ -18,7 +18,7 @@ export function Footer({data}) {
               {data}
             </h3>
             <p className="mt-3 text-sm leading-relaxed text-gray-400">
-              DealAcres is a trusted real estate platform where you can explore a wide range of houses, flats, apartments, and commercial properties for buying, selling, or renting. We help connect property buyers, sellers, and tenants with the right opportunities through verified listings and local expertise.
+              DealAcres is a reliable real estate platform for buying, selling, and renting houses, flats, apartments, and commercial properties with ease and confidence.
             </p>
           </div>
 
