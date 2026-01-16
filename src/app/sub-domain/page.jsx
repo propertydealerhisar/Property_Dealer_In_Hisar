@@ -18,8 +18,8 @@ import Properties from "./components/listed-properties/Properties";
 const Page = async () => {
   const h = await headers();
   const rawHost = h.get("host") || "";
-  // const host = rawHost.replace(/:\d+$/, "");
-const host = "globalspace.flatsforsaleinhisar.com"
+  const host = rawHost.replace(/:\d+$/, "");
+// const host = "globalspace.flatsforsaleinhisar.com"
 
   // 🔐 resolve domain + subdomain
   const ctx = resolveRequest(host);
