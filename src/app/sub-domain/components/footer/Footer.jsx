@@ -7,9 +7,9 @@ import {
 
 export function Footer({data}) {
   return (
-    <footer className="bg-gray-900 text-gray-300">
+    <footer className="bg-gray-900 text-gray-300 px-4 sm:px-6">
       {/* TOP FOOTER */}
-      <div className="mx-auto max-w-7xl px-4 py-12">
+      <div className="mx-auto max-w-7xl py-12">
         <div className="grid gap-10 md:grid-cols-3 items-start">
 
           {/* LEFT : LOGO + DESC */}
