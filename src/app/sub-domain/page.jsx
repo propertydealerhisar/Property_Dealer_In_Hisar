@@ -54,7 +54,7 @@ const Page = async () => {
       <WhyChoose data={pageData.whyChoose} />
       <FAQSection data={pageData.faqSection} />
       <ContactSection data={pageData.contactSection} />
-      <Footer />
+      <Footer data={pageData.area} />
     </div>
   );
 };
