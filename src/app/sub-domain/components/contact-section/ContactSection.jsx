@@ -2,11 +2,11 @@
 
 import { useState } from "react"
 import { Phone, Mail, MapPin } from "lucide-react"
-import { ContactCard } from "./ContactCard"
-import { FormInput } from "./FormInput"
-import { FormTextarea } from "./FormTextarea"
-import { FormLabel } from "./FormLabel"
-import { PrimaryButton } from "./PrimaryButton"
+import { ContactCard } from "../ui/ContactCard"
+import { FormInput } from "../ui/FormInput"
+import { FormTextarea } from "../ui/FormTextarea"
+import { FormLabel } from "../ui/FormLabel"
+import { PrimaryButton } from "../ui/PrimaryButton"
 
 export function ContactSection({data}) {
   const [formData, setFormData] = useState({
