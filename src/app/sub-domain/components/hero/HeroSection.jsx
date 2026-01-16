@@ -44,10 +44,10 @@ export function HeroSection({data}) {
         "
       >
         {/* BADGE */}
-        <span className="inline-flex items-center gap-2 rounded-md bg-white/90 px-3 py-1.5 text-sm font-medium text-gray-900">
+        {/* <span className="inline-flex items-center gap-2 rounded-md bg-white/90 px-3 py-1.5 text-sm font-medium text-gray-900">
           <span className="h-2 w-2 rounded-full bg-green-500 animate-pulse" />
           Now Available in Hisar
-        </span>
+        </span> */}
 
         {/* Heading */}
         <h1 className="font-bold leading-tight text-[#f2e8e1] drop-shadow-lg text-3xl md:text-4xl lg:text-5xl">
