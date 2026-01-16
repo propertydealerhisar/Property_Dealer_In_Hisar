@@ -1,5 +1,6 @@
 {
   "domain": "krishnanagar.plotforsaleinhisar.com",
+  "area": "Krishna Nagar",
   "hero": {
     "title": "Residential Plot Opportunities Available in Krishna Nagar Hisar Today",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for rent in Krishna Nagar, Hisar, Haryana",
+    "description": [
+      "Looking for the perfect space to lease in Hisar? Explore a range of premium residential and commercial plots available for rent in the rapidly developing area of Krishna Nagar, Hisar, Haryana. We offer flexible plot sizes ranging from 50 gaj to 250 gaj, suitable for various business needs or temporary setups. Secure your desired plot today in this strategically located neighborhood."
+    ],
+    "propertyCards": [
+      {
+        "title": "100 Gaj Plot for Rent",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "100-gaj-plot-for-rent"
+      },
+      {
+        "title": "150 Gaj Plot for Rent",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "150-gaj-plot-for-rent"
+      },
+      {
+        "title": "200 Gaj Plot for Rent",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "200-gaj-plot-for-rent"
+      },
+      {
+        "title": "250 Gaj Plot for Rent",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-gaj-plot-for-rent"
+      },
+      {
+        "title": "75 Gaj Plot for Rent",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "75-gaj-plot-for-rent"
+      },
+      {
+        "title": "50 Gaj Plot for Rent",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "50-gaj-plot-for-rent"
+      }
     ]
   },
   "featuresSection": {

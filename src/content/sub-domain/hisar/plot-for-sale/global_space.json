@@ -1,5 +1,6 @@
 {
   "domain": "globalspace.plotforsaleinhisar.com",
+  "area": "Global Space",
   "hero": {
     "title": "Residential Plots in Global Space Hisar for Secure Future Living",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for rent in Global Space, Hisar, Haryana",
+    "description": [
+      "Explore prime land opportunities in Global Space, Hisar, Haryana. We offer a diverse range of spacious plots available for rent, perfectly suited for customized construction, commercial development, or long-term leasing. Sizes range from 50 square yards up to 350 square yards, providing flexibility for various needs in this sought-after locality."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 square yard plot for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-square-yard-plot-for-rent"
+      },
+      {
+        "title": "160 square yard plot for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "160-square-yard-plot-for-rent"
+      },
+      {
+        "title": "200 square yard plot for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "200-square-yard-plot-for-rent"
+      },
+      {
+        "title": "250 square yard plot for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-plot-for-rent"
+      },
+      {
+        "title": "300 square yard plot for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "300-square-yard-plot-for-rent"
+      },
+      {
+        "title": "350 square yard plot for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "350-square-yard-plot-for-rent"
+      }
     ]
   },
   "featuresSection": {

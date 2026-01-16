@@ -1,5 +1,6 @@
 {
   "domain": "modeltown.houseforsaleinhisar.com",
+  "area": "Model Town",
   "hero": {
     "title": "Premium Houses for Sale in Model Town Hisar",
     "description": [
@@ -21,45 +22,56 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "Independent House For Sale in Model Town, Hisar, Haryana – Prime & Prestigious Residential Location",
-  "description": [
-    "Discover independent houses for sale in Model Town, Hisar, Haryana, one of the most premium and well-established residential localities of the city. Model Town offers excellent road connectivity, peaceful surroundings, and close proximity to top schools, markets, hospitals, and commercial areas. Houses are available in multiple plot sizes ranging from 160 square yards to 500 square yards, making these properties ideal for luxury living, family residences, and long-term real estate investment in Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "160 square yard house for sale Model Town, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-model-town-hisar-160-square-yard"
-    },
-    {
-      "title": "200 square yard house for sale Model Town, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-model-town-hisar-200-square-yard"
-    },
-    {
-      "title": "250 square yard house for sale Model Town, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-model-town-hisar-250-square-yard"
-    },
-    {
-      "title": "300 square yard house for sale Model Town, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-model-town-hisar-300-square-yard"
-    },
-    {
-      "title": "350 square yard house for sale Model Town, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-model-town-hisar-350-square-yard"
-    },
-    {
-      "title": "500 square yard house for sale Model Town, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-model-town-hisar-500-square-yard"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "Independent House For Sale in Model Town, Hisar, Haryana – Prime & Prestigious Residential Location",
+    "description": [
+      "Discover independent houses for sale in Model Town, Hisar, Haryana, one of the most premium and well-established residential localities of the city. Model Town offers excellent road connectivity, peaceful surroundings, and close proximity to top schools, markets, hospitals, and commercial areas. Houses are available in multiple plot sizes ranging from 160 square yards to 500 square yards, making these properties ideal for luxury living, family residences, and long-term real estate investment in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "160 square yard house for sale",
+        "path": "/house-for-sale-model-town-hisar-160-square-yard",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "200 square yard house for sale",
+        "path": "/house-for-sale-model-town-hisar-200-square-yard",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "250 square yard house for sale",
+        "path": "/house-for-sale-model-town-hisar-250-square-yard",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "300 square yard house for sale",
+        "path": "/house-for-sale-model-town-hisar-300-square-yard",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "350 square yard house for sale",
+        "path": "/house-for-sale-model-town-hisar-350-square-yard",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "500 square yard house for sale",
+        "path": "/house-for-sale-model-town-hisar-500-square-yard",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Model Town Hisar",
     "description": [

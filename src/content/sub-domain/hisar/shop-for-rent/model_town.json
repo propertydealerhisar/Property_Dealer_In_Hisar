@@ -1,5 +1,6 @@
 {
   "domain": "modeltown.shopforrentinhisar.com",
+  "area": "Model Town",
   "hero": {
     "title": "Shops for Rent in Model Town Hisar for High Visibility Business",
     "description": [
@@ -19,6 +20,35 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial properties for Rent in Model Town, Hisar",
+    "description": [
+      "Discover premium commercial properties and shops available for rent in the bustling locality of Model Town, Hisar, Haryana. This strategically located area offers excellent connectivity and high foot traffic, making it an ideal location to establish or expand your business operations. Secure the perfect commercial space tailored to meet your requirements today."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent-model-town-hisar"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent-model-town-hisar"
+      },
+      {
+        "title": "Commercial Shop for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "commercial-shop-for-rent-model-town-hisar"
+      }
     ]
   },
   "featuresSection": {

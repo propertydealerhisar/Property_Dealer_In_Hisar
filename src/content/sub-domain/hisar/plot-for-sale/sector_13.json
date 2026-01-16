@@ -1,5 +1,6 @@
 {
   "domain": "sector13.plotforsaleinhisar.com",
+  "area": "Sector 13",
   "hero": {
     "title": "Residential Plot Opportunities in Well-Connected Sector 13 Hisar",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for rent in Sector 13, Hisar, Haryana",
+    "description": [
+      "Explore prime residential plots available for Rent in the highly sought-after Sector 13, Hisar, Haryana. These expansive land parcels range from 160 square yards up to 350 square yards, offering versatile opportunities for customized development or immediate use. Secure your ideal spot in this well-connected and rapidly developing neighborhood."
+    ],
+    "propertyCards": [
+      {
+        "title": "160 Square Yard Plot for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "160-square-yard-plot-for-rent"
+      },
+      {
+        "title": "200 Square Yard Plot for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "200-square-yard-plot-for-rent"
+      },
+      {
+        "title": "250 Square Yard Plot for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "250-square-yard-plot-for-rent"
+      },
+      {
+        "title": "300 Square Yard Plot for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "300-square-yard-plot-for-rent"
+      },
+      {
+        "title": "350 Square Yard Plot for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "350-square-yard-plot-for-rent"
+      }
     ]
   },
   "featuresSection": {

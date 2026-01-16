@@ -1,5 +1,6 @@
 {
   "domain": "kamiriroad.plotforsaleinhisar.com",
+  "area": "Kamiri Road",
   "hero": {
     "title": "Residential Plot Investment Opportunities Along Rapidly Developing Kamiri Road Hisar",
     "description": [
@@ -19,6 +20,70 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for Rent in Kamiri Road, Hisar, Haryana",
+    "description": [
+      "Discover premium residential and commercial plots available for rent on Kamiri Road, Hisar, Haryana. These plots, ranging in size from 50 Gaj up to 250 Gaj, offer excellent opportunities for development or long-term leasing in a rapidly developing area. Contact us today to secure your ideal plot size and location within this prime Hisar locality."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-gaj-plot-for-rent-kamiri-road-hisar"
+      },
+      {
+        "title": "75 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "75-gaj-plot-for-rent-kamiri-road-hisar"
+      },
+      {
+        "title": "100 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "100-gaj-plot-for-rent-kamiri-road-hisar"
+      },
+      {
+        "title": "80 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "80-gaj-plot-for-rent-kamiri-road-hisar"
+      },
+      {
+        "title": "150 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "150-gaj-plot-for-rent-kamiri-road-hisar"
+      },
+      {
+        "title": "180 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "180-gaj-plot-for-rent-kamiri-road-hisar"
+      },
+      {
+        "title": "200 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "200-gaj-plot-for-rent-kamiri-road-hisar"
+      },
+      {
+        "title": "250 Gaj plot for Rent",
+        "location": "Kamiri Road, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "250-gaj-plot-for-rent-kamiri-road-hisar"
+      }
     ]
   },
   "featuresSection": {

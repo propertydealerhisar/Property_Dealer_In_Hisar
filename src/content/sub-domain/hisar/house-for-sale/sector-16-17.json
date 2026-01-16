@@ -1,5 +1,6 @@
 {
   "domain": "sector16-17.houseforsaleinhisar.com",
+  "area": "Sector 16-17",
   "hero": {
     "title": "Spacious Houses for Sale in Sector 16–17 Hisar",
     "description": [
@@ -21,50 +22,63 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "Independent House For Sale in Sector 16–17, Hisar, Haryana – Prime Location with Wide Plot Size Options",
-  "description": [
-    "Discover independent houses for sale in Sector 16–17, Hisar, Haryana, one of the most premium and centrally located residential zones of the city. This area offers excellent connectivity, well-planned infrastructure, and close proximity to schools, markets, hospitals, and major roads. Houses are available in multiple plot sizes ranging from 50 square yards to 500 square yards, making these properties suitable for both comfortable family living and long-term real estate investment in Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "50 square yard house for sale Sector 16-17, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-sector-16-17-hisar-50-square-yard"
-    },
-    {
-      "title": "160 square yard house for sale Sector 16-17, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-sector-16-17-hisar-160-square-yard"
-    },
-    {
-      "title": "200 square yard house for sale Sector 16-17, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-sector-16-17-hisar-200-square-yard"
-    },
-    {
-      "title": "250 square yard house for sale Sector 16-17, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-sector-16-17-hisar-250-square-yard"
-    },
-    {
-      "title": "300 square yard house for sale Sector 16-17, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-sector-16-17-hisar-300-square-yard"
-    },
-    {
-      "title": "350 square yard house for sale Sector 16-17, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-sector-16-17-hisar-350-square-yard"
-    },
-    {
-      "title": "500 square yard house for sale Sector 16-17, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-sector-16-17-hisar-500-square-yard"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "Independent House For Sale in Sector 16–17, Hisar, Haryana – Prime Location with Wide Plot Size Options",
+    "description": [
+      "Discover independent houses for sale in Sector 16–17, Hisar, Haryana, one of the most premium and centrally located residential zones of the city. This area offers excellent connectivity, well-planned infrastructure, and close proximity to schools, markets, hospitals, and major roads. Houses are available in multiple plot sizes ranging from 50 square yards to 500 square yards, making these properties suitable for both comfortable family living and long-term real estate investment in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 square yard house for sale",
+        "path": "/house-for-sale-sector-16-17-hisar-50-square-yard",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "160 square yard house for sale",
+        "path": "/house-for-sale-sector-16-17-hisar-160-square-yard",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "200 square yard house for sale",
+        "path": "/house-for-sale-sector-16-17-hisar-200-square-yard",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "250 square yard house for sale",
+        "path": "/house-for-sale-sector-16-17-hisar-250-square-yard",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "300 square yard house for sale",
+        "path": "/house-for-sale-sector-16-17-hisar-300-square-yard",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "350 square yard house for sale",
+        "path": "/house-for-sale-sector-16-17-hisar-350-square-yard",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "500 square yard house for sale",
+        "path": "/house-for-sale-sector-16-17-hisar-500-square-yard",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Sector 16–17 Hisar",
     "description": [

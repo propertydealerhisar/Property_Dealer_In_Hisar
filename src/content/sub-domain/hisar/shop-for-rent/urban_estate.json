@@ -1,5 +1,6 @@
 {
   "domain": "urbanestate.shopforrentinhisar.com",
+  "area": "Urban Estate",
   "hero": {
     "title": "Shops for Rent in Urban Estate Hisar with Planned Commercial Growth",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial properties and shops for Rent in Urban Estate II, Hisar, Haryana",
+    "description": [
+      "Discover prime commercial rental opportunities in Urban Estate II, Hisar, Haryana. We offer a curated selection of properties including spacious SCO plots, versatile commercial shops, dedicated HUDA DSS units, and compact HUDA booths, perfectly suited for various business needs, retail outlets, or professional office spaces in this thriving locality."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop For Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent"
+      },
+      {
+        "title": "Commercial Property For Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent"
+      },
+      {
+        "title": "Commercial Shop For Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "commercial-shop-for-rent"
+      },
+      {
+        "title": "SCO Plot For Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "sco-plot-for-rent"
+      },
+      {
+        "title": "HUDA DSS For Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "huda-dss-for-rent"
+      },
+      {
+        "title": "HUDA Booth Available For Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "huda-booth-available-for-rent"
+      }
     ]
   },
   "featuresSection": {

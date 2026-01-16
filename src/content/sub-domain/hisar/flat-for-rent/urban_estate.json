@@ -1,5 +1,6 @@
 {
   "domain": "urbanestate.flatsforrentinhisar.com",
+  "area": "Urban Estate",
   "hero": {
     "title": "Modern and Peaceful Flats for Rent in Urban Estate Hisar",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Flats and Apartments for Rent in Urban Estate II, Hisar, Haryana",
+    "description": [
+      "Explore a wide selection of premium rental properties in Urban Estate II, Hisar, Haryana. We offer spacious options ranging from standard 3 BHK and 4 BHK apartments to expansive 250 and 350 square yard flats, perfect for various family sizes and lifestyle needs. Urban Estate II provides a desirable blend of convenience and quality living, making it an excellent choice for your next home."
+    ],
+    "propertyCards": [
+      {
+        "title": "250 Square Yard Flats for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Flats for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "3-bhk-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Apartment for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "3-bhk-apartment-for-rent"
+      },
+      {
+        "title": "4 BHK Apartment for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "4-bhk-apartment-for-rent"
+      },
+      {
+        "title": "350 Square Yard Flats for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "350-square-yard-flats-for-rent"
+      }
     ]
   },
   "featuresSection": {

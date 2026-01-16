@@ -1,5 +1,6 @@
 {
   "domain": "bankcolony.houseforsaleinhisar.com",
+  "area": "Bank Colony",
   "hero": {
     "title": "Well Located Houses for Sale in Bank Colony Hisar",
     "description": [
@@ -21,40 +22,49 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "Independent House For Sale in Bank Colony, Hisar, Haryana – Affordable Homes in a Well-Established Area",
-  "description": [
-    "Explore independent houses for sale in Bank Colony, Hisar, Haryana, a well-established and convenient residential locality known for its peaceful environment and easy accessibility. The area is close to local markets, schools, hospitals, and public transport, making it ideal for families and working professionals. Houses are available in multiple plot sizes starting from 50 gaj up to 250 gaj, suitable for budget-friendly buying as well as long-term residential investment in Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "50 gaj house for sale Bank Colony, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-bank-colony-hisar-50-gaj"
-    },
-    {
-      "title": "100 gaj house for sale Bank Colony, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-bank-colony-hisar-100-gaj"
-    },
-    {
-      "title": "150 gaj house for sale Bank Colony, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-bank-colony-hisar-150-gaj"
-    },
-    {
-      "title": "200 gaj house for sale Bank Colony, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-bank-colony-hisar-200-gaj"
-    },
-    {
-      "title": "250 gaj house for sale Bank Colony, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-bank-colony-hisar-250-gaj"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "Independent House For Sale in Bank Colony, Hisar, Haryana – Affordable Homes in a Well-Established Area",
+    "description": [
+      "Explore independent houses for sale in Bank Colony, Hisar, Haryana, a well-established and convenient residential locality known for its peaceful environment and easy accessibility. The area is close to local markets, schools, hospitals, and public transport, making it ideal for families and working professionals. Houses are available in multiple plot sizes starting from 50 gaj up to 250 gaj, suitable for budget-friendly buying as well as long-term residential investment in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 gaj house for sale",
+        "path": "/house-for-sale-bank-colony-hisar-50-gaj",
+        "location": "Bank Colony, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "100 gaj house for sale",
+        "path": "/house-for-sale-bank-colony-hisar-100-gaj",
+        "location": "Bank Colony, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "150 gaj house for sale",
+        "path": "/house-for-sale-bank-colony-hisar-150-gaj",
+        "location": "Bank Colony, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "200 gaj house for sale",
+        "path": "/house-for-sale-bank-colony-hisar-200-gaj",
+        "location": "Bank Colony, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "250 gaj house for sale",
+        "path": "/house-for-sale-bank-colony-hisar-250-gaj",
+        "location": "Bank Colony, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Plot Size Choices for Independent Houses in Bank Colony Hisar",
     "description": [

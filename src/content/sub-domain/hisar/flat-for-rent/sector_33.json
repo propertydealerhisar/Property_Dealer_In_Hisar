@@ -1,5 +1,6 @@
 {
   "domain": "sector33.flatsforrentinhisar.com",
+  "area": "Sector 33",
   "hero": {
     "title": "Affordable and Well Planned Flats for Rent in Sector 33 Hisar",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Flats and apartments for Rent in Sector 33, Hisar, Haryana",
+    "description": [
+      "Explore a wide variety of residential options available for rent in the prime location of Sector 33, Hisar, Haryana. Listings include spacious Flats ranging from 250 to 350 square yards, alongside highly sought-after 3 BHK and 4 BHK apartments, perfect for families seeking comfortable and modern living in this growing area."
+    ],
+    "propertyCards": [
+      {
+        "title": "250 Square Yard Flats for Rent",
+        "location": "Sector 33, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-flats-for-rent-sector-33"
+      },
+      {
+        "title": "3 BHK Flats for Rent",
+        "location": "Sector 33, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "3-bhk-flats-for-rent-sector-33"
+      },
+      {
+        "title": "3 BHK Apartment for Rent",
+        "location": "Sector 33, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "3-bhk-apartment-for-rent-sector-33"
+      },
+      {
+        "title": "4 BHK Apartment for Rent",
+        "location": "Sector 33, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "4-bhk-apartment-for-rent-sector-33"
+      },
+      {
+        "title": "350 Square Yard Flats for Rent",
+        "location": "Sector 33, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "350-square-yard-flats-for-rent-sector-33"
+      },
+      {
+        "title": "300 Square Yard Flats for Rent",
+        "location": "Sector 33, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "300-square-yard-flats-for-rent-sector-33"
+      }
     ]
   },
   "featuresSection": {

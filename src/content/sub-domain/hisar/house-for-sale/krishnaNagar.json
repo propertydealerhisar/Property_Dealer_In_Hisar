@@ -1,5 +1,6 @@
 {
   "domain": "krishnanagar.houseforsaleinhisar.com",
+  "area": "Krishna Nagar",
   "hero": {
     "title": "Affordable Houses for Sale in Krishna Nagar Hisar",
     "description": [
@@ -21,45 +22,56 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "Independent House For Sale in Krishna Nagar, Hisar, Haryana – Affordable Homes in a Well-Connected Locality",
-  "description": [
-    "Explore independent houses for sale in Krishna Nagar, Hisar, Haryana, a popular residential area known for its convenient location and peaceful neighborhood. The locality offers easy access to local markets, schools, hospitals, and public transport, making it suitable for families and working professionals. Houses are available in multiple plot sizes ranging from 50 gaj to 250 gaj, providing flexible options for budget-friendly purchases as well as long-term residential investment in Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "100 gaj house for sale Krishna Nagar, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-krishna-nagar-hisar-100-gaj"
-    },
-    {
-      "title": "150 gaj house for sale Krishna Nagar, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-krishna-nagar-hisar-150-gaj"
-    },
-    {
-      "title": "200 gaj house for sale Krishna Nagar, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-krishna-nagar-hisar-200-gaj"
-    },
-    {
-      "title": "250 gaj house for sale Krishna Nagar, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-krishna-nagar-hisar-250-gaj"
-    },
-    {
-      "title": "75 gaj house for sale Krishna Nagar, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-krishna-nagar-hisar-75-gaj"
-    },
-    {
-      "title": "50 gaj house for sale Krishna Nagar, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-krishna-nagar-hisar-50-gaj"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "Independent House For Sale in Krishna Nagar, Hisar, Haryana – Affordable Homes in a Well-Connected Locality",
+    "description": [
+      "Explore independent houses for sale in Krishna Nagar, Hisar, Haryana, a popular residential area known for its convenient location and peaceful neighborhood. The locality offers easy access to local markets, schools, hospitals, and public transport, making it suitable for families and working professionals. Houses are available in multiple plot sizes ranging from 50 gaj to 250 gaj, providing flexible options for budget-friendly purchases as well as long-term residential investment in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "100 gaj house for sale",
+        "path": "/house-for-sale-krishna-nagar-hisar-100-gaj",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "150 gaj house for sale",
+        "path": "/house-for-sale-krishna-nagar-hisar-150-gaj",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "200 gaj house for sale",
+        "path": "/house-for-sale-krishna-nagar-hisar-200-gaj",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "250 gaj house for sale",
+        "path": "/house-for-sale-krishna-nagar-hisar-250-gaj",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "75 gaj house for sale",
+        "path": "/house-for-sale-krishna-nagar-hisar-75-gaj",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "50 gaj house for sale",
+        "path": "/house-for-sale-krishna-nagar-hisar-50-gaj",
+        "location": "Krishna Nagar, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Krishna Nagar Hisar",
     "description": [

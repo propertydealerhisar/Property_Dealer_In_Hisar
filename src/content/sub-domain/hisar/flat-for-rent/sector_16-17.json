@@ -1,5 +1,6 @@
 {
   "domain": "sector16-17.flatsforrentinhisar.com",
+  "area": "Sector 16-17",
   "hero": {
     "title": "Spacious and Well Located Flats for Rent in Sector 16-17 Hisar",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Flats and apartments for rent in Sector 16-17, Hisar, Haryana",
+    "description": [
+      "Looking for premium residential options in Hisar? Explore a range of spacious flats and apartments available for rent in the sought-after Sector 16-17 area. Listings include various configurations, from comfortable 3 BHK and 4 BHK units to large area flats spanning 250, 300, and 350 square yards, catering to diverse needs and family sizes seeking quality rental accommodation."
+    ],
+    "propertyCards": [
+      {
+        "title": "250 Square Yard Flats for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Flats for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "3-bhk-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Apartment for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "3-bhk-apartment-for-rent"
+      },
+      {
+        "title": "4 BHK Apartment for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "4-bhk-apartment-for-rent"
+      },
+      {
+        "title": "350 Square Yard Flats for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "350-square-yard-flats-for-rent"
+      },
+      {
+        "title": "300 Square Yard Flats for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "300-square-yard-flats-for-rent"
+      }
     ]
   },
   "featuresSection": {

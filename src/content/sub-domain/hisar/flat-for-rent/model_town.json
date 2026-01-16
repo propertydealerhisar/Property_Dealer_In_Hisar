@@ -1,5 +1,6 @@
 {
   "domain": "modeltown.flatsforrentinhisar.com",
+  "area": "Model Town",
   "hero": {
     "title": "Prime Neighborhood Living With Comfortable Flats for Rent in Model Town Hisar",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Flats and apartments for Rent in Model Town, Hisar, Haryana",
+    "description": [
+      "Explore a wide selection of spacious flats and premium apartments available for rent in the sought-after locality of Model Town, Hisar, Haryana. Whether you need a cozy 3 BHK or a larger 4 BHK unit, these properties offer various sizes, including options up to 350 square yards, ensuring a perfect fit for every lifestyle and budget."
+    ],
+    "propertyCards": [
+      {
+        "title": "250 Square Yard Flats for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Flats for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "3-bhk-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Apartment for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "3-bhk-apartment-for-rent"
+      },
+      {
+        "title": "4 BHK Apartment for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "4-bhk-apartment-for-rent"
+      },
+      {
+        "title": "350 Square Yard Flats for Rent",
+        "location": "Model Town, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "350-square-yard-flats-for-rent"
+      }
     ]
   },
   "featuresSection": {

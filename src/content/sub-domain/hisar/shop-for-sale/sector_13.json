@@ -1,5 +1,6 @@
 {
   "domain": "sector13.shopforsaleinhisar.com",
+  "area": "Sector 13",
   "hero": {
     "title": "Shops for Sale in Sector 13 Hisar with Consistent Commercial Demand",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial properties for rent in Sector 13, Hisar, Haryana",
+    "description": [
+      "Sector 13, Hisar, Haryana, offers prime commercial properties for rent, perfect for ambitious entrepreneurs and established businesses looking for high visibility and robust foot traffic. Explore diverse options including shops, SCO plots, and dedicated commercial spaces in this rapidly developing locality, ensuring your business finds the perfect operational base."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent-sector-13-hisar-haryana"
+      },
+      {
+        "title": "HUDA DSS for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "huda-dss-for-rent-sector-13-hisar-haryana"
+      },
+      {
+        "title": "HUDA Booth for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "huda-booth-for-rent-sector-13-hisar-haryana"
+      },
+      {
+        "title": "SCO Plot for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "sco-plot-for-rent-sector-13-hisar-haryana"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent-sector-13-hisar-haryana"
+      }
     ]
   },
   "featuresSection": {

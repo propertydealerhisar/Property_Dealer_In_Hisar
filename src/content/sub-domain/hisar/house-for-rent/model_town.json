@@ -1,5 +1,6 @@
 {
   "domain": "modeltown.houseforrentinhisar.com",
+  "area": "Model Town",
   "hero": {
     "title": "Premium and Centrally Located Houses for Rent in Model Town Hisar",
     "description": [
@@ -21,45 +22,56 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "House for Rent in Model Town, Hisar, Haryana – Premium Location with Multiple Rental Options",
-  "description": [
-    "Explore houses and room sets available for rent in Model Town, Hisar, Haryana, one of the most premium and centrally located residential areas of the city. The locality offers excellent connectivity, peaceful surroundings, and close proximity to schools, markets, hospitals, and commercial hubs. Multiple rental options are available including single room sets, 2 room sets, 3 room sets, and BHK units at competitive monthly rents in Model Town, Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "1 room set for rent in Model Town, Hisar, Haryana (₹6,500)",
-      "icon": "Home",
-      "path": "/house-for-rent-model-town-hisar-1-room-set"
-    },
-    {
-      "title": "2 room set for rent in Model Town, Hisar, Haryana (₹13,000)",
-      "icon": "Home",
-      "path": "/house-for-rent-model-town-hisar-2-room-set"
-    },
-    {
-      "title": "2 BHK for rent in Model Town, Hisar, Haryana (₹13,000)",
-      "icon": "Building",
-      "path": "/house-for-rent-model-town-hisar-2-bhk"
-    },
-    {
-      "title": "3 room set for rent in Model Town, Hisar, Haryana (₹15,500)",
-      "icon": "Building2",
-      "path": "/house-for-rent-model-town-hisar-3-room-set"
-    },
-    {
-      "title": "3 BHK for rent in Model Town, Hisar, Haryana (₹17,000)",
-      "icon": "Building2",
-      "path": "/house-for-rent-model-town-hisar-3-bhk"
-    },
-    {
-      "title": "3 BHK for rent in Model Town, Hisar, Haryana (₹19,500)",
-      "icon": "Building2",
-      "path": "/house-for-rent-model-town-hisar-3-bhk-premium"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "House for Rent in Model Town, Hisar, Haryana – Premium Location with Multiple Rental Options",
+    "description": [
+      "Explore houses and room sets available for rent in Model Town, Hisar, Haryana, one of the most premium and centrally located residential areas of the city. The locality offers excellent connectivity, peaceful surroundings, and close proximity to schools, markets, hospitals, and commercial hubs. Multiple rental options are available including single room sets, 2 room sets, 3 room sets, and BHK units at competitive monthly rents in Model Town, Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "1 room set for Rent (₹6,500)",
+        "path": "/house-for-rent-model-town-hisar-1-room-set",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "2 room set for Rent (₹13,000)",
+        "path": "/house-for-rent-model-town-hisar-2-room-set",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "2 BHK for Rent (₹13,000)",
+        "path": "/house-for-rent-model-town-hisar-2-bhk",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 room set for Rent (₹15,500)",
+        "path": "/house-for-rent-model-town-hisar-3-room-set",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 BHK for Rent (₹17,000)",
+        "path": "/house-for-rent-model-town-hisar-3-bhk",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 BHK for Rent (₹19,500)",
+        "path": "/house-for-rent-model-town-hisar-3-bhk-premium",
+        "location": "Model Town, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Independent House Plot Size Options for Rent in Model Town",
     "description": [

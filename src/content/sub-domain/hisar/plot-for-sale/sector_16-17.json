@@ -1,5 +1,6 @@
 {
   "domain": "sector16-17.plotforsaleinhisar.com",
+  "area": "Sector 16-17",
   "hero": {
     "title": "Strategic Residential Plot Opportunities in Well-Planned Sector 16-17 Hisar",
     "description": [
@@ -19,6 +20,63 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for Rent in Sector 16-17, Hisar, Haryana",
+    "description": [
+      "Explore various plot sizes available for rent in the prime location of Sector 16-17, Hisar, Haryana. These plots range from 50 square yards up to 500 square yards, offering flexibility for commercial, storage, or temporary setup needs. Secure your ideal vacant land in this well-developed area with excellent connectivity."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 Square Yard Plot for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-square-yard-plot-for-rent-sector-16-17-hisar-haryana"
+      },
+      {
+        "title": "160 Square Yard Plot for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "160-square-yard-plot-for-rent-sector-16-17-hisar-haryana"
+      },
+      {
+        "title": "200 Square Yard Plot for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "200-square-yard-plot-for-rent-sector-16-17-hisar-haryana"
+      },
+      {
+        "title": "250 Square Yard Plot for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-plot-for-rent-sector-16-17-hisar-haryana"
+      },
+      {
+        "title": "300 Square Yard Plot for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "300-square-yard-plot-for-rent-sector-16-17-hisar-haryana"
+      },
+      {
+        "title": "350 Square Yard Plot for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "350-square-yard-plot-for-rent-sector-16-17-hisar-haryana"
+      },
+      {
+        "title": "500 Square Yard Plot for Rent",
+        "location": "Sector 16-17, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "500-square-yard-plot-for-rent-sector-16-17-hisar-haryana"
+      }
     ]
   },
   "featuresSection": {

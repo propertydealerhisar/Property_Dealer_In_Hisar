@@ -1,5 +1,6 @@
 {
   "domain": "sector1-4.houseforrentinhisar.com",
+  "area": "Sector 1-4",
   "hero": {
     "title": "Centrally Located and Well Established Houses for Rent in Sector 1-4",
     "description": [
@@ -21,45 +22,56 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "House for Rent in Sector 1–4, Hisar, Haryana – Centrally Located Room Sets & BHK Options",
-  "description": [
-    "Explore houses and room sets available for rent in Sector 1–4, Hisar, Haryana, one of the most centrally located and well-connected residential areas of the city. The locality offers easy access to markets, schools, hospitals, and major roads, making it suitable for families, working professionals, and students. Multiple rental options are available including single room sets, 2 room sets, 3 room sets, and BHK units at affordable and competitive monthly rents in Sector 1–4, Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "1 room set for rent in Sector 1-4, Hisar, Haryana (₹5,500)",
-      "icon": "Home",
-      "path": "/house-for-rent-sector-1-4-hisar-1-room-set"
-    },
-    {
-      "title": "2 room set for rent in Sector 1-4, Hisar, Haryana (₹12,000)",
-      "icon": "Home",
-      "path": "/house-for-rent-sector-1-4-hisar-2-room-set"
-    },
-    {
-      "title": "2 BHK for rent in Sector 1-4, Hisar, Haryana (₹12,000)",
-      "icon": "Building",
-      "path": "/house-for-rent-sector-1-4-hisar-2-bhk"
-    },
-    {
-      "title": "3 room set for rent in Sector 1-4, Hisar, Haryana (₹17,000)",
-      "icon": "Building2",
-      "path": "/house-for-rent-sector-1-4-hisar-3-room-set"
-    },
-    {
-      "title": "3 BHK for rent in Sector 1-4, Hisar, Haryana (₹16,500)",
-      "icon": "Building2",
-      "path": "/house-for-rent-sector-1-4-hisar-3-bhk"
-    },
-    {
-      "title": "3 BHK for rent in Sector 1-4, Hisar, Haryana (₹17,500)",
-      "icon": "Building2",
-      "path": "/house-for-rent-sector-1-4-hisar-3-bhk-premium"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "House for Rent in Sector 1–4, Hisar, Haryana – Centrally Located Room Sets & BHK Options",
+    "description": [
+      "Explore houses and room sets available for rent in Sector 1–4, Hisar, Haryana, one of the most centrally located and well-connected residential areas of the city. The locality offers easy access to markets, schools, hospitals, and major roads, making it suitable for families, working professionals, and students. Multiple rental options are available including single room sets, 2 room sets, 3 room sets, and BHK units at affordable and competitive monthly rents in Sector 1–4, Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "1 room set for Rent",
+        "path": "/house-for-rent-sector-1-4-hisar-1-room-set",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "2 room set for Rent",
+        "path": "/house-for-rent-sector-1-4-hisar-2-room-set",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "2 BHK for Rent",
+        "path": "/house-for-rent-sector-1-4-hisar-2-bhk",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 room set for Rent",
+        "path": "/house-for-rent-sector-1-4-hisar-3-room-set",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 BHK for Rent",
+        "path": "/house-for-rent-sector-1-4-hisar-3-bhk",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 BHK for Rent",
+        "path": "/house-for-rent-sector-1-4-hisar-3-bhk-premium",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Independent House Plot Size Choices for Rent in Sector 1-4",
     "description": [

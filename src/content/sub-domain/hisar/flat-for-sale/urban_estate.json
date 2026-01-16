@@ -1,5 +1,6 @@
 {
   "domain": "urbanestate.flatsforsaleinhisar.com",
+  "area": "Urban Estate",
   "hero": {
     "title": "Modern Lifestyle Flats for Sale in Urban Estate Hisar",
     "description": [
@@ -21,40 +22,49 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "Flats for Sale in Urban Estate II, Hisar, Haryana – Modern Apartments & Premium Residential Living",
-  "description": [
-    "Explore well-designed flats and contemporary apartments for sale in Urban Estate II, Hisar, Haryana. This well-planned residential locality is known for its clean surroundings, organized infrastructure, and excellent connectivity to major roads, schools, hospitals, and shopping areas. Urban Estate II offers quality housing options including 3 BHK and 4 BHK apartments along with spacious flats built on 250 and 350 square yards, making it an excellent choice for comfortable family living and long-term real estate investment in Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "250 Square Yard Flat for Sale in Urban Estate II, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/flat-for-sale-urban-estate-ii-hisar-250-square-yard"
-    },
-    {
-      "title": "3 BHK Flat for Sale in Urban Estate II, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/flat-for-sale-urban-estate-ii-hisar-3-bhk"
-    },
-    {
-      "title": "3 BHK Apartment for Sale in Urban Estate II, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/apartment-for-sale-urban-estate-ii-hisar-3-bhk"
-    },
-    {
-      "title": "4 BHK Apartment for Sale in Urban Estate II, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/apartment-for-sale-urban-estate-ii-hisar-4-bhk"
-    },
-    {
-      "title": "350 Square Yard Flat for Sale in Urban Estate II, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/flat-for-sale-urban-estate-ii-hisar-350-square-yard"
-    }
-  ]
-},
-
+  "properties": {
+    "heading": "Flats for Sale in Urban Estate II, Hisar, Haryana – Modern Apartments & Premium Residential Living",
+    "description": [
+      "Explore well-designed flats and contemporary apartments for sale in Urban Estate II, Hisar, Haryana. This well-planned residential locality is known for its clean surroundings, organized infrastructure, and excellent connectivity to major roads, schools, hospitals, and shopping areas. Urban Estate II offers quality housing options including 3 BHK and 4 BHK apartments along with spacious flats built on 250 and 350 square yards, making it an excellent choice for comfortable family living and long-term real estate investment in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "250 Square Yard Flat for Sale",
+        "path": "/flat-for-sale-urban-estate-ii-hisar-250-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 BHK Flat for Sale",
+        "path": "/flat-for-sale-urban-estate-ii-hisar-3-bhk",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "3 BHK Apartment for Sale",
+        "path": "/apartment-for-sale-urban-estate-ii-hisar-3-bhk",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "4 BHK Apartment for Sale",
+        "path": "/apartment-for-sale-urban-estate-ii-hisar-4-bhk",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "350 Square Yard Flat for Sale",
+        "path": "/flat-for-sale-urban-estate-ii-hisar-350-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Residential Plot Size Options for Planned Living in Urban Estate",
     "description": [

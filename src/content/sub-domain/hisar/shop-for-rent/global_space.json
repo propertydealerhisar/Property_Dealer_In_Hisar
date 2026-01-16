@@ -1,5 +1,6 @@
 {
   "domain": "globalspace.shopforrentinhisar.com",
+  "area": "Global Space",
   "hero": {
     "title": "Shops for Rent in Global Space Hisar with Modern Commercial Appeal",
     "description": [
@@ -19,6 +20,42 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial properties and shops for rent in Global Space, Hisar, Haryana",
+    "description": [
+      "Explore diverse commercial rental opportunities in Global Space, Hisar, Haryana, featuring prime shops, specialized commercial properties, and ready-to-develop SCO plots, perfectly situated to boost your business visibility and success."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent-global-space-hisar"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent-global-space-hisar"
+      },
+      {
+        "title": "Commercial Shop for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "commercial-shop-for-rent-global-space-hisar"
+      },
+      {
+        "title": "SCO Plot for Rent",
+        "location": "Global Space, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "sco-plot-for-rent-global-space-hisar"
+      }
     ]
   },
   "featuresSection": {

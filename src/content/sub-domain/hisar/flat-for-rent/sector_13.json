@@ -1,5 +1,6 @@
 {
   "domain": "sector13.flatsforrentinhisar.com",
+  "area": "Sector 13",
   "hero": {
     "title": "Comfortable City Living With Flats for Rent in Sector 13 Hisar",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Flats and apartments for Rent in Sector 13, Hisar, Haryana",
+    "description": [
+      "Discover a wide selection of residential properties available for rent in the sought-after locality of Sector 13, Hisar, Haryana. Our listings include spacious 2 BHK, 3 BHK, and 4 BHK apartments and flats, alongside high-quality properties measured by area, ranging from 250 square yards to 350 square yards, ensuring we meet diverse living requirements."
+    ],
+    "propertyCards": [
+      {
+        "title": "250 Square Yard Flats for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Flats for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "3-bhk-flats-for-rent"
+      },
+      {
+        "title": "3 BHK Apartment for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "3-bhk-apartment-for-rent"
+      },
+      {
+        "title": "4 BHK Apartment for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "4-bhk-apartment-for-rent"
+      },
+      {
+        "title": "350 Square Yard Flats for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "350-square-yard-flats-for-rent"
+      },
+      {
+        "title": "2 BHK Flats for Rent",
+        "location": "Sector 13, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "2-bhk-flats-for-rent"
+      }
     ]
   },
   "featuresSection": {

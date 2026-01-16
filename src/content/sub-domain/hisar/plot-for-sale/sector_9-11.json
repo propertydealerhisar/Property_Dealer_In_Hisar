@@ -1,5 +1,6 @@
 {
   "domain": "sector9-11.plotforsaleinhisar.com",
+  "area": "Sector 9-11",
   "hero": {
     "title": "Prime Residential Plot Opportunities in Well-Connected Sector 9-11 Hisar",
     "description": [
@@ -19,6 +20,63 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for Rent in Sector 9-11, Hisar, Haryana",
+    "description": [
+      "Explore a wide selection of prime residential plots available for Rent in the highly sought-after Sector 9-11 area of Hisar, Haryana. These plots offer excellent investment potential and flexibility for various developmental needs, ranging from compact 50 square yard sizes up to spacious 500 square yard options."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 square yard plot for Rent",
+        "location": "Sector 9-11, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-square-yard-plot-for-rent-sector-9-11-hisar-haryana"
+      },
+      {
+        "title": "160 square yard plot for Rent",
+        "location": "Sector 9-11, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "160-square-yard-plot-for-rent-sector-9-11-hisar-haryana"
+      },
+      {
+        "title": "200 square yard plot for Rent",
+        "location": "Sector 9-11, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "200-square-yard-plot-for-rent-sector-9-11-hisar-haryana"
+      },
+      {
+        "title": "250 square yard plot for Rent",
+        "location": "Sector 9-11, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-plot-for-rent-sector-9-11-hisar-haryana"
+      },
+      {
+        "title": "300 square yard plot for Rent",
+        "location": "Sector 9-11, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "300-square-yard-plot-for-rent-sector-9-11-hisar-haryana"
+      },
+      {
+        "title": "350 square yard plot for Rent",
+        "location": "Sector 9-11, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "350-square-yard-plot-for-rent-sector-9-11-hisar-haryana"
+      },
+      {
+        "title": "500 square yard plot for Rent",
+        "location": "Sector 9-11, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "500-square-yard-plot-for-rent-sector-9-11-hisar-haryana"
+      }
     ]
   },
   "featuresSection": {

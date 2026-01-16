@@ -1,5 +1,6 @@
 {
   "domain": "urbanestate.houseforsaleinhisar.com",
+  "area": "Urban Estate",
   "hero": {
     "title": "Premium Houses for Sale in Urban Estate Hisar with Modern Living",
     "description": [
@@ -21,50 +22,63 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "Independent House For Sale in Urban Estate II, Hisar, Haryana – Premium Residential Area with Multiple Plot Sizes",
-  "description": [
-    "Discover independent houses for sale in Urban Estate II, Hisar, Haryana, a well-planned and premium residential locality offering excellent connectivity, modern infrastructure, and a peaceful living environment. The area is close to schools, markets, hospitals, and major city roads, making it ideal for families seeking comfort and convenience. Houses are available in multiple plot sizes ranging from 50 square yards to 500 square yards, suitable for both end-users and long-term real estate investment in Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "50 square yard house for sale Urban Estate II, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-urban-estate-ii-hisar-50-square-yard"
-    },
-    {
-      "title": "160 square yard house for sale Urban Estate II, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-urban-estate-ii-hisar-160-square-yard"
-    },
-    {
-      "title": "200 square yard house for sale Urban Estate II, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-urban-estate-ii-hisar-200-square-yard"
-    },
-    {
-      "title": "250 square yard house for sale Urban Estate II, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-urban-estate-ii-hisar-250-square-yard"
-    },
-    {
-      "title": "300 square yard house for sale Urban Estate II, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-urban-estate-ii-hisar-300-square-yard"
-    },
-    {
-      "title": "350 square yard house for sale Urban Estate II, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-urban-estate-ii-hisar-350-square-yard"
-    },
-    {
-      "title": "500 square yard house for sale Urban Estate II, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-urban-estate-ii-hisar-500-square-yard"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "Independent House For Sale in Urban Estate II, Hisar, Haryana – Premium Residential Area with Multiple Plot Sizes",
+    "description": [
+      "Discover independent houses for sale in Urban Estate II, Hisar, Haryana, a well-planned and premium residential locality offering excellent connectivity, modern infrastructure, and a peaceful living environment. The area is close to schools, markets, hospitals, and major city roads, making it ideal for families seeking comfort and convenience. Houses are available in multiple plot sizes ranging from 50 square yards to 500 square yards, suitable for both end-users and long-term real estate investment in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 square yard house for sale",
+        "path": "/house-for-sale-urban-estate-ii-hisar-50-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "160 square yard house for sale",
+        "path": "/house-for-sale-urban-estate-ii-hisar-160-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "200 square yard house for sale",
+        "path": "/house-for-sale-urban-estate-ii-hisar-200-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "250 square yard house for sale",
+        "path": "/house-for-sale-urban-estate-ii-hisar-250-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "300 square yard house for sale",
+        "path": "/house-for-sale-urban-estate-ii-hisar-300-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "350 square yard house for sale",
+        "path": "/house-for-sale-urban-estate-ii-hisar-350-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "500 square yard house for sale",
+        "path": "/house-for-sale-urban-estate-ii-hisar-500-square-yard",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Choose the Right Plot Size for Your Dream Home",
     "description": [

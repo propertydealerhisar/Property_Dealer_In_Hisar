@@ -1,5 +1,6 @@
 {
   "domain": "sector21p.flatsforsaleinhisar.com",
+  "area": "Sector 21P",
   "hero": {
     "title": "Premium Flats for Sale in Sector 21P Hisar with Modern Living Comfort",
     "description": [
@@ -21,45 +22,56 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
+  "properties": {
     "heading": "Flats for Sale in Sector 21P, Hisar, Haryana – Spacious Apartments & Premium Housing Options",
     "description": [
       "Explore premium flats and apartments available for sale in Sector 21P, Hisar, Haryana. This rapidly developing residential locality is well-known for its wide roads, peaceful environment, and excellent connectivity to major parts of the city. Sector 21P offers modern apartments and spacious flats suitable for families and long-term investment. Available options include 3 BHK and 4 BHK apartments along with flats built on 250, 300, and 350 square yards, making it an ideal location for both end-users and property investors in Hisar."
     ],
     "propertyCards": [
       {
-        "title": "250 Square Yard Flat for Sale in Sector 21P, Hisar, Haryana",
-        "icon": "Building",
-        "path": "/flat-for-sale-sector-21p-hisar-250-square-yard"
+        "title": "250 Square Yard Flat for Sale",
+        "path": "/flat-for-sale-sector-21p-hisar-250-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
       },
       {
-        "title": "3 BHK Flat for Sale in Sector 21P, Hisar, Haryana",
-        "icon": "Building2",
-        "path": "/flat-for-sale-sector-21p-hisar-3-bhk"
+        "title": "3 BHK Flat for Sale",
+        "path": "/flat-for-sale-sector-21p-hisar-3-bhk",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
       },
       {
-        "title": "3 BHK Apartment for Sale in Sector 21P, Hisar, Haryana",
-        "icon": "Building2",
-        "path": "/apartment-for-sale-sector-21p-hisar-3-bhk"
+        "title": "3 BHK Apartment for Sale",
+        "path": "/apartment-for-sale-sector-21p-hisar-3-bhk",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
       },
       {
-        "title": "4 BHK Apartment for Sale in Sector 21P, Hisar, Haryana",
-        "icon": "Building2",
-        "path": "/apartment-for-sale-sector-21p-hisar-4-bhk"
+        "title": "4 BHK Apartment for Sale",
+        "path": "/apartment-for-sale-sector-21p-hisar-4-bhk",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
       },
       {
-        "title": "300 Square Yard Flat for Sale in Sector 21P, Hisar, Haryana",
-        "icon": "Building",
-        "path": "/flat-for-sale-sector-21p-hisar-300-square-yard"
+        "title": "300 Square Yard Flat for Sale",
+        "path": "/flat-for-sale-sector-21p-hisar-300-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
       },
       {
-        "title": "350 Square Yard Flat for Sale in Sector 21P, Hisar, Haryana",
-        "icon": "Building",
-        "path": "/flat-for-sale-sector-21p-hisar-350-square-yard"
+        "title": "350 Square Yard Flat for Sale",
+        "path": "/flat-for-sale-sector-21p-hisar-350-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
       }
     ]
-  }
-,
+  },
   "featuresSection": {
     "heading": "Residential Plot Size Options Available in Sector 21P Hisar",
     "description": [

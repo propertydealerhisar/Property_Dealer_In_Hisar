@@ -1,5 +1,6 @@
 {
   "domain": "sector1-4.shopforrentinhisar.com",
+  "area": "Sector 1-4",
   "hero": {
     "title": "Shops for Rent in Sector 1-4 Hisar with Central Business Advantage",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial properties for Rent in Sector 1-4, Hisar, Haryana",
+    "description": [
+      "Explore a diverse selection of commercial properties available for rent in the sought-after location of Sector 1-4, Hisar, Haryana. This prime area offers excellent connectivity and high foot traffic, featuring premium options such as dedicated shops, HUDA DSS units, SCO plots, and HUDA booths, designed perfectly to cater to various business requirements."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent-sector-1-4-hisar"
+      },
+      {
+        "title": "HUDA DSS for Rent",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "huda-dss-for-rent-sector-1-4-hisar"
+      },
+      {
+        "title": "HUDA Booth available for Rent",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "huda-booth-for-rent-sector-1-4-hisar"
+      },
+      {
+        "title": "SCO Plot for Rent",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "sco-plot-for-rent-sector-1-4-hisar"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "Sector 1-4, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent-sector-1-4-hisar"
+      }
     ]
   },
   "featuresSection": {

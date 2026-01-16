@@ -1,5 +1,6 @@
 {
   "domain": "azadnagar.plotforsaleinhisar.com",
+  "area": "Azad Nagar",
   "hero": {
     "title": "Residential Plot Investment Opportunities Growing Rapidly in Azad Nagar Hisar",
     "description": [
@@ -19,6 +20,70 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for rent in Azad Nagar, Hisar, Haryana",
+    "description": [
+      "Explore a range of prime residential and commercial plots available for rent in the rapidly developing area of Azad Nagar, Hisar, Haryana. Whether you require a compact 50 Gaj space for a small business setup or a spacious 250 Gaj plot for larger development or storage needs, this locality offers versatile land options designed to meet various requirements. Secure your ideal leased space in one of Hisar's promising neighborhoods today."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-gaj-plot-for-rent-azad-nagar"
+      },
+      {
+        "title": "75 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "75-gaj-plot-for-rent-azad-nagar"
+      },
+      {
+        "title": "100 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "100-gaj-plot-for-rent-azad-nagar"
+      },
+      {
+        "title": "80 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "80-gaj-plot-for-rent-azad-nagar"
+      },
+      {
+        "title": "150 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "150-gaj-plot-for-rent-azad-nagar"
+      },
+      {
+        "title": "180 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "180-gaj-plot-for-rent-azad-nagar"
+      },
+      {
+        "title": "200 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "200-gaj-plot-for-rent-azad-nagar"
+      },
+      {
+        "title": "250 Gaj plot for Rent",
+        "location": "Azad Nagar, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "250-gaj-plot-for-rent-azad-nagar"
+      }
     ]
   },
   "featuresSection": {

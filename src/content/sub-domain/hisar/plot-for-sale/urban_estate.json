@@ -1,5 +1,6 @@
 {
   "domain": "urbanestate.plotforsaleinhisar.com",
+  "area": "Urban Estate",
   "hero": {
     "title": "Premium Residential Plot Options in Well-Planned Urban Estate Hisar",
     "description": [
@@ -19,6 +20,63 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for rent in Urban Estate II, Hisar, Haryana",
+    "description": [
+      "Explore a wide range of vacant plots available for rent in the prime location of Urban Estate II, Hisar, Haryana. Whether you require a small 50 square yard space or a massive 500 square yard plot for commercial warehousing or long-term development purposes, this area offers excellent connectivity and investment potential. Secure your ideal land parcel today."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 Square Yard Plot for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-square-yard-plot-for-rent-urban-estate-ii-hisar"
+      },
+      {
+        "title": "160 Square Yard Plot for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "160-square-yard-plot-for-rent-urban-estate-ii-hisar"
+      },
+      {
+        "title": "200 Square Yard Plot for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "200-square-yard-plot-for-rent-urban-estate-ii-hisar"
+      },
+      {
+        "title": "250 Square Yard Plot for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-plot-for-rent-urban-estate-ii-hisar"
+      },
+      {
+        "title": "300 Square Yard Plot for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "300-square-yard-plot-for-rent-urban-estate-ii-hisar"
+      },
+      {
+        "title": "350 Square Yard Plot for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "350-square-yard-plot-for-rent-urban-estate-ii-hisar"
+      },
+      {
+        "title": "500 Square Yard Plot for Rent",
+        "location": "Urban Estate II, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "500-square-yard-plot-for-rent-urban-estate-ii-hisar"
+      }
     ]
   },
   "featuresSection": {

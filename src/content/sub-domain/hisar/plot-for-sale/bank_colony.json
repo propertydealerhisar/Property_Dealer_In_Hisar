@@ -1,5 +1,6 @@
 {
   "domain": "bankcolony.plotforsaleinhisar.com",
+  "area": "Bank Colony",
   "hero": {
     "title": "Premium Residential Plots for Sale in Bank Colony Hisar",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for Rent in Bank Colony, Hisar, Haryana",
+    "description": [
+      "Looking for premium plots for rent in Hisar? Explore spacious and well-located plot options available in the highly sought-after Bank Colony area of Hisar, Haryana. These plots are ideal for setting up commercial operations or long-term leasing opportunities, ranging in size from 50 gaj up to 250 gaj to suit diverse requirements."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 Gaj Plot for Rent",
+        "location": "Bank Colony, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-gaj-plot-for-rent-bank-colony-hisar-haryana"
+      },
+      {
+        "title": "100 Gaj Plot for Rent",
+        "location": "Bank Colony, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "100-gaj-plot-for-rent-bank-colony-hisar-haryana"
+      },
+      {
+        "title": "150 Gaj Plot for Rent",
+        "location": "Bank Colony, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "150-gaj-plot-for-rent-bank-colony-hisar-haryana"
+      },
+      {
+        "title": "200 Gaj Plot for Rent",
+        "location": "Bank Colony, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "200-gaj-plot-for-rent-bank-colony-hisar-haryana"
+      },
+      {
+        "title": "250 Gaj Plot for Rent",
+        "location": "Bank Colony, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "250-gaj-plot-for-rent-bank-colony-hisar-haryana"
+      }
     ]
   },
   "featuresSection": {

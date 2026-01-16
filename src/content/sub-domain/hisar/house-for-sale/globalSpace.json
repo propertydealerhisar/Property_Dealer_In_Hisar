@@ -1,5 +1,6 @@
 {
   "domain": "globalspace.houseforsaleinhisar.com",
+  "area": "Global Space",
   "hero": {
     "title": "Modern Houses for Sale in Global Space Hisar",
     "description": [
@@ -21,45 +22,56 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
-  "heading": "Independent House For Sale in Global Space, Hisar, Haryana – Modern Living with Multiple Plot Size Options",
-  "description": [
-    "Explore independent houses for sale in Global Space, Hisar, Haryana, a modern and well-developed residential locality offering peaceful surroundings along with excellent connectivity. The area provides easy access to main roads, markets, schools, hospitals, and daily essentials, making it ideal for comfortable family living. Houses are available in multiple plot sizes ranging from 50 square yards to 350 square yards, suitable for both end-users and long-term real estate investment in Hisar."
-  ],
-  "propertyCards": [
-    {
-      "title": "50 square yard house for sale Global Space, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-global-space-hisar-50-square-yard"
-    },
-    {
-      "title": "160 square yard house for sale Global Space, Hisar, Haryana",
-      "icon": "Home",
-      "path": "/house-for-sale-global-space-hisar-160-square-yard"
-    },
-    {
-      "title": "200 square yard house for sale Global Space, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-global-space-hisar-200-square-yard"
-    },
-    {
-      "title": "250 square yard house for sale Global Space, Hisar, Haryana",
-      "icon": "Building",
-      "path": "/house-for-sale-global-space-hisar-250-square-yard"
-    },
-    {
-      "title": "300 square yard house for sale Global Space, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-global-space-hisar-300-square-yard"
-    },
-    {
-      "title": "350 square yard house for sale Global Space, Hisar, Haryana",
-      "icon": "Building2",
-      "path": "/house-for-sale-global-space-hisar-350-square-yard"
-    }
-  ]
-}
-,
+  "properties": {
+    "heading": "Independent House For Sale in Global Space, Hisar, Haryana – Modern Living with Multiple Plot Size Options",
+    "description": [
+      "Explore independent houses for sale in Global Space, Hisar, Haryana, a modern and well-developed residential locality offering peaceful surroundings along with excellent connectivity. The area provides easy access to main roads, markets, schools, hospitals, and daily essentials, making it ideal for comfortable family living. Houses are available in multiple plot sizes ranging from 50 square yards to 350 square yards, suitable for both end-users and long-term real estate investment in Hisar."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 square yard house for sale",
+        "path": "/house-for-sale-global-space-hisar-50-square-yard",
+        "location": "Global Space, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "160 square yard house for sale",
+        "path": "/house-for-sale-global-space-hisar-160-square-yard",
+        "location": "Global Space, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "200 square yard house for sale",
+        "path": "/house-for-sale-global-space-hisar-200-square-yard",
+        "location": "Global Space, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      },
+      {
+        "title": "250 square yard house for sale",
+        "path": "/house-for-sale-global-space-hisar-250-square-yard",
+        "location": "Global Space, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
+      },
+      {
+        "title": "300 square yard house for sale",
+        "path": "/house-for-sale-global-space-hisar-300-square-yard",
+        "location": "Global Space, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
+      },
+      {
+        "title": "350 square yard house for sale",
+        "path": "/house-for-sale-global-space-hisar-350-square-yard",
+        "location": "Global Space, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
+      }
+    ]
+  },
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Global Space Hisar",
     "description": [

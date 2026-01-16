@@ -1,5 +1,6 @@
 {
   "domain": "marvelcity.plotforsaleinhisar.com",
+  "area": "Marvel City",
   "hero": {
     "title": "Residential Plots for Sale in Marvel City Hisar with Future Growth Potential",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for Rent in Marvel City, Hisar",
+    "description": [
+      "Explore a range of prime residential plots available for rent in the highly sought-after Marvel City, Hisar, Haryana. These plots, available in various sizes from 100 Gaj to 350 Gaj, offer an excellent opportunity to build or establish your desired setup in a well-planned and rapidly developing locality. Enjoy premium connectivity and essential amenities in this promising neighborhood."
+    ],
+    "propertyCards": [
+      {
+        "title": "100 Gaj Plot for Rent",
+        "location": "Marvel City, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "100-gaj-plot-for-rent-marvel-city-hisar"
+      },
+      {
+        "title": "150 Gaj Plot for Rent",
+        "location": "Marvel City, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "150-gaj-plot-for-rent-marvel-city-hisar"
+      },
+      {
+        "title": "250 Gaj Plot for Rent",
+        "location": "Marvel City, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "250-gaj-plot-for-rent-marvel-city-hisar"
+      },
+      {
+        "title": "300 Gaj Plot for Rent",
+        "location": "Marvel City, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "300-gaj-plot-for-rent-marvel-city-hisar"
+      },
+      {
+        "title": "350 Gaj Plot for Rent",
+        "location": "Marvel City, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "350-gaj-plot-for-rent-marvel-city-hisar"
+      }
     ]
   },
   "featuresSection": {

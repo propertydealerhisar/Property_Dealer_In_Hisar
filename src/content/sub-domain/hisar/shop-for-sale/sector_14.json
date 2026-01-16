@@ -1,5 +1,6 @@
 {
   "domain": "sector14.shopforsaleinhisar.com",
+  "area": "Sector 14",
   "hero": {
     "title": "Commercial Shop Properties for Sale in Sector 14 Hisar",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial shops and property for Rent in Sector 14, Hisar, Haryana",
+    "description": [
+      "Explore prime commercial opportunities available for rent in Sector 14, Hisar, Haryana. Whether you are looking for a standard shop, dedicated HUDA DSS spaces, or a commercial booth to establish your business, this area offers excellent connectivity and high foot traffic ideal for growth."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "Sector 14, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent-sector-14-hisar-haryana"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "Sector 14, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent-sector-14-hisar-haryana"
+      },
+      {
+        "title": "Commercial Shop for Rent",
+        "location": "Sector 14, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "commercial-shop-for-rent-sector-14-hisar-haryana"
+      },
+      {
+        "title": "HUDA DSS for Rent",
+        "location": "Sector 14, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "huda-dss-for-rent-sector-14-hisar-haryana"
+      },
+      {
+        "title": "HUDA Booth available for Rent",
+        "location": "Sector 14, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "huda-booth-available-for-rent-sector-14-hisar-haryana"
+      }
     ]
   },
   "featuresSection": {

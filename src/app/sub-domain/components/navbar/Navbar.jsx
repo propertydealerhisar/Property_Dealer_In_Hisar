@@ -2,7 +2,8 @@
 
 import { Phone } from "lucide-react"
 
-export function Navbar() {
+export function Navbar({data}) {
+  
   const scrollToContact = () => {
     document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })
   }
@@ -21,7 +22,7 @@ export function Navbar() {
 
           {/* LOGO */}
           <div className="text-2xl font-bold text-white md:text-3xl">
-            MARVEL CITY
+            {data}
           </div>
 
           {/* NAV LINKS */}

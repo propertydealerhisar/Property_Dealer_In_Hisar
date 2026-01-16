@@ -1,5 +1,6 @@
 {
   "domain": "sector15.shopforsaleinhisar.com",
+  "area": "Sector 15",
   "hero": {
     "title": "Premium Shops for Sale in Sector 15 Hisar for Growing Businesses",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial Properties for Rent in Sector 15, Hisar, Haryana",
+    "description": [
+      "Explore prime commercial properties available for rent in the highly sought-after Sector 15, Hisar, Haryana. This vibrant area offers a diverse selection of spaces, including ready-to-move-in shops, SCO plots, and HUDA-allocated booths, perfect for businesses seeking high foot traffic and excellent connectivity in a well-established market."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "Sector 15, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent-sector-15-hisar-haryana"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "Sector 15, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent-sector-15-hisar-haryana"
+      },
+      {
+        "title": "Commercial Shop for Rent",
+        "location": "Sector 15, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "commercial-shop-for-rent-sector-15-hisar-haryana"
+      },
+      {
+        "title": "SCO Plot for Rent",
+        "location": "Sector 15, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "sco-plot-for-rent-sector-15-hisar-haryana"
+      },
+      {
+        "title": "HUDA DSS for Rent",
+        "location": "Sector 15, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "huda-dss-for-rent-sector-15-hisar-haryana"
+      },
+      {
+        "title": "HUDA Booth Available for Rent",
+        "location": "Sector 15, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "huda-booth-available-for-rent-sector-15-hisar-haryana"
+      }
     ]
   },
   "featuresSection": {

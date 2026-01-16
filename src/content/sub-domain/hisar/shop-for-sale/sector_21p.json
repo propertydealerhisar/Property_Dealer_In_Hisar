@@ -1,5 +1,6 @@
 {
   "domain": "sector21p.shopforsaleinhisar.com",
+  "area": "Sector 21P",
   "hero": {
     "title": "Profitable Shops for Sale in Sector 21P Hisar with Growing Footfall",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial properties for rent in Sector 21P, Hisar, Haryana",
+    "description": [
+      "Explore premium commercial properties available for rent in the rapidly developing Sector 21P, Hisar, Haryana. Whether you require a standard commercial shop, a dedicated HUDA DSS space, or a specialized HUDA booth, this sector offers excellent opportunities for business growth and high visibility."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "Sector 21P, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "Sector 21P, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent"
+      },
+      {
+        "title": "Commercial Shop for Rent",
+        "location": "Sector 21P, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "commercial-shop-for-rent"
+      },
+      {
+        "title": "HUDA DSS for Rent",
+        "location": "Sector 21P, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "huda-dss-for-rent"
+      },
+      {
+        "title": "HUDA Booth Available for Rent",
+        "location": "Sector 21P, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "huda-booth-available-for-rent"
+      }
     ]
   },
   "featuresSection": {

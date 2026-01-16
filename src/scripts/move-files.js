@@ -2,8 +2,11 @@ const fs = require("fs");
 const path = require("path");
 
 // ======= YAHAN PATH SET KARO =======
-const SOURCE_DIR = path.join(__dirname, "../../../../test/domain/output");
-const DEST_DIR = path.join(__dirname, "../content/main-domain/gurgaon");
+// const SOURCE_DIR = path.join(__dirname, "../content/sub-domain/hisar/plot-for-sale");
+// const DEST_DIR = path.join(__dirname, "../../../../test/hisar/all-json");
+
+const SOURCE_DIR = path.join(__dirname, "../../../../test/hisar/all-json");
+const DEST_DIR = path.join(__dirname, "../content/sub-domain/hisar/plot-for-sale");
 // ===================================
 // agar destination folder nahi hai to bana do
 if (!fs.existsSync(DEST_DIR)) {

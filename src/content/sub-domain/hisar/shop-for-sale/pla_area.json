@@ -1,5 +1,6 @@
 {
   "domain": "plaarea.shopforsaleinhisar.com",
+  "area": "Pla Area",
   "hero": {
     "title": "Shops for Sale in PLA Area Hisar with Premium Commercial Appeal",
     "description": [
@@ -19,6 +20,49 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Commercial properties and shops available for rent in PLA Area, Hisar, Haryana",
+    "description": [
+      "Explore a wide range of commercial rental opportunities in the highly sought-after PLA Area, Hisar, Haryana. Whether you are looking for a fully developed shop, a strategic SCO plot, a specialized HUDA DSS or booth space, or general commercial property, these listings offer excellent visibility and prime locations ideal for business expansion and operations."
+    ],
+    "propertyCards": [
+      {
+        "title": "Shop for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "shop-for-rent-pla-area-hisar"
+      },
+      {
+        "title": "HUDA DSS for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "huda-dss-for-rent-pla-area-hisar"
+      },
+      {
+        "title": "HUDA Booth for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "huda-booth-for-rent-pla-area-hisar"
+      },
+      {
+        "title": "SCO Plot for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "sco-plot-for-rent-pla-area-hisar"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "commercial-property-for-rent-pla-area-hisar"
+      }
     ]
   },
   "featuresSection": {

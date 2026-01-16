@@ -1,5 +1,6 @@
 {
   "domain": "sector21p.houseforsaleinhisar.com",
+  "area": "Sector 21P",
   "hero": {
     "title": "Premium Houses for Sale in Sector 21P Hisar with Smart Living",
     "description": [
@@ -21,45 +22,56 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-  "propertyCard": {
+  "properties": {
     "heading": "Independent House For Sale in Sector 21P, Hisar, Haryana – Multiple Plot Size Options Available",
     "description": [
       "Discover premium independent houses for sale in Sector 21P, Hisar, Haryana, located in a well-developed and highly preferred residential area with excellent road connectivity. These properties are suitable for families seeking peaceful surroundings while staying close to schools, markets, hospitals, and daily essential services. Houses are available in multiple plot sizes ranging from 100 square yards to 500 square yards, making them ideal for different budgets and lifestyle requirements. Sector 21P continues to be a strong choice for both self-use and long-term real estate investment in Hisar."
     ],
     "propertyCards": [
       {
-        "title": "100 square yard house for sale Sector 21P, Hisar, Haryana",
-        "icon": "Home",
-        "path": "/house-for-sale-sector-21p-hisar-100-square-yard"
+        "title": "100 square yard house for sale",
+        "path": "/house-for-sale-sector-21p-hisar-100-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
       },
       {
-        "title": "160 square yard house for sale Sector 21P, Hisar, Haryana",
-        "icon": "Home",
-        "path": "/house-for-sale-sector-21p-hisar-160-square-yard"
+        "title": "160 square yard house for sale",
+        "path": "/house-for-sale-sector-21p-hisar-160-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
       },
       {
-        "title": "200 square yard house for sale Sector 21P, Hisar, Haryana",
-        "icon": "Building",
-        "path": "/house-for-sale-sector-21p-hisar-200-square-yard"
+        "title": "200 square yard house for sale",
+        "path": "/house-for-sale-sector-21p-hisar-200-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
       },
       {
-        "title": "250 square yard house for sale Sector 21P, Hisar, Haryana",
-        "icon": "Building",
-        "path": "/house-for-sale-sector-21p-hisar-250-square-yard"
+        "title": "250 square yard house for sale",
+        "path": "/house-for-sale-sector-21p-hisar-250-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "price": "Price on Call"
       },
       {
-        "title": "350 square yard house for sale Sector 21P, Hisar, Haryana",
-        "icon": "Building2",
-        "path": "/house-for-sale-sector-21p-hisar-350-square-yard"
+        "title": "350 square yard house for sale",
+        "path": "/house-for-sale-sector-21p-hisar-350-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "price": "Price on Call"
       },
       {
-        "title": "500 square yard house for sale Sector 21P, Hisar, Haryana",
-        "icon": "Building2",
-        "path": "/house-for-sale-sector-21p-hisar-500-square-yard"
+        "title": "500 square yard house for sale",
+        "path": "/house-for-sale-sector-21p-hisar-500-square-yard",
+        "location": "Sector 21P, Hisar, Haryana",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "price": "Price on Call"
       }
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Options for Independent Houses in Sector 21P Hisar",
     "description": [

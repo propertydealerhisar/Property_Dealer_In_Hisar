@@ -1,5 +1,6 @@
 {
   "domain": "plaarea.plotforsaleinhisar.com",
+  "area": "Pla Area",
   "hero": {
     "title": "Premium Residential Plot Opportunities in Well-Planned PLA Area Hisar",
     "description": [
@@ -19,6 +20,56 @@
     "images": [
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "properties": {
+    "heading": "Plots for rent in PLA Area, Hisar, Haryana",
+    "description": [
+      "Explore a wide selection of prime residential and commercial plots available for rent in the sought-after PLA Area of Hisar, Haryana. These plots offer flexibility for various uses, ranging in size from 50 square yards up to 350 square yards, making it easy to find the ideal space for your immediate needs or future development plans. Secure your desirable plot in a well-established and accessible locality today."
+    ],
+    "propertyCards": [
+      {
+        "title": "50 Square Yard Plot for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "50-square-yard-plot-for-rent-pla-area-hisar-haryana"
+      },
+      {
+        "title": "160 Square Yard Plot for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "160-square-yard-plot-for-rent-pla-area-hisar-haryana"
+      },
+      {
+        "title": "200 Square Yard Plot for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "200-square-yard-plot-for-rent-pla-area-hisar-haryana"
+      },
+      {
+        "title": "250 Square Yard Plot for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+        "path": "250-square-yard-plot-for-rent-pla-area-hisar-haryana"
+      },
+      {
+        "title": "300 Square Yard Plot for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+        "path": "300-square-yard-plot-for-rent-pla-area-hisar-haryana"
+      },
+      {
+        "title": "350 Square Yard Plot for Rent",
+        "location": "PLA Area, Hisar, Haryana",
+        "price": "Price on Call",
+        "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+        "path": "350-square-yard-plot-for-rent-pla-area-hisar-haryana"
+      }
     ]
   },
   "featuresSection": {
