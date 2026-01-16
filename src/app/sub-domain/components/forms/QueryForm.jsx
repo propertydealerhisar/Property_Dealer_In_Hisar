@@ -40,7 +40,7 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
       <div className="flex items-start justify-between mb-4">
         <div>
           <h3 className="text-xl font-semibold text-gray-900">
-            Register Your Interest
+            Get Property Details Instantly
           </h3>
           <p className="mt-1 text-sm text-gray-600">
             Fill out the form and our team will reach out shortly.
