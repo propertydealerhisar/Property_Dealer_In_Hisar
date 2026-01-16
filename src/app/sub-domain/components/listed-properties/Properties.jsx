@@ -2,11 +2,11 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { MapPin, Phone } from "lucide-react";
+import { MapPin } from "lucide-react";
 
 export default function Properties({ data }) {
   return (
-    <div className="min-h-screen bg-[#f7f5f2] px-4 py-10">
+    <div className="min-h-screen bg-[#f7f5f2] px-4 sm:px-6 py-10">
       <div className="max-w-7xl mx-auto">
 
         {/* ================= HEADING & DESCRIPTION ================= */}
@@ -39,7 +39,7 @@ export default function Properties({ data }) {
                          (max-width: 1024px) 50vw,
                          33vw"
                   className="object-cover group-hover:scale-105 transition-transform duration-300"
-                  loading="lazy"       // 👈 lazy loading
+                  loading="lazy"
                   quality={80}
                 />
               </div>
@@ -55,20 +55,18 @@ export default function Properties({ data }) {
                   <span className="line-clamp-1">{property?.location}</span>
                 </div>
 
-                {/* Price + Actions */}
+                {/* Price + View Details */}
                 <div className="flex items-center justify-between pt-4 gap-3">
-                  <div className="text-sm font-semibold text-gray-800 whitespace-nowrap">
-                    Price : <span className="font-bold">{property.price}</span>
+                  
+                  {/* Price Button */}
+                  <div className="px-3 py-2 text-sm font-semibold bg-[#f3eee9] text-[#422c18] rounded-md whitespace-nowrap">
+                    ₹ {property.price}
                   </div>
 
-                  <button className="flex items-center gap-1 text-sm font-semibold text-[#422c18] hover:underline whitespace-nowrap">
-                    <Phone className="w-4 h-4" />
-                    Get Contact
-                  </button>
-
+                  {/* View Details Button */}
                   <Link
                     href={`/properties/${property.slug}`}
-                    className="text-sm font-semibold text-[#422c18] hover:underline whitespace-nowrap"
+                    className="px-4 py-2 text-sm font-semibold bg-[#422c18] text-white rounded-md hover:bg-[#2f1e10] transition whitespace-nowrap"
                   >
                     View Details →
                   </Link>

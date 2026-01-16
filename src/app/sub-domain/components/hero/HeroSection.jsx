@@ -18,7 +18,7 @@ export function HeroSection({data}) {
   }
 
   return (
-    <section className="relative flex min-h-screen items-center overflow-hidden pt-16 md:pt-20 px-4 sm:px-6">
+    <section className="relative flex h-auto items-center overflow-hidden pt-16 md:pt-20 px-4 sm:px-6">
       {/* Background */}
       <div className="absolute inset-0">
         {data?.images?.map((image, index) => (
