@@ -5,7 +5,7 @@ import {
   Twitter,
 } from "lucide-react"
 
-export function Footer() {
+export function Footer({data}) {
   return (
     <footer className="bg-gray-900 text-gray-300">
       {/* TOP FOOTER */}
@@ -15,7 +15,7 @@ export function Footer() {
           {/* LEFT : LOGO + DESC */}
           <div>
             <h3 className="text-2xl font-bold text-white">
-              Marvel City
+              {data}
             </h3>
             <p className="mt-3 text-sm leading-relaxed text-gray-400">
               Marvel City is a thoughtfully planned residential project offering
@@ -106,7 +106,7 @@ export function Footer() {
       {/* BOTTOM BAR */}
       <div className="border-t border-gray-800 py-4 text-center">
         <p className="text-sm text-gray-400">
-          © 2025 DealAcres. All Rights Reserved.
+          © {new Date().getFullYear()} DealAcres. All Rights Reserved.
         </p>
       </div>
     </footer>
