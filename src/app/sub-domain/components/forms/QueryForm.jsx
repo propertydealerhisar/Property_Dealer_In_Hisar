@@ -51,7 +51,7 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
         <button
           type="button"
           onClick={onClose}
-          className="ml-3 flex h-8 w-8 items-center justify-center 
+          className="ml-3 flex min-h-8 min-w-8 items-center justify-center 
                      rounded-full bg-gray-100 text-gray-700 
                      hover:bg-gray-200 hover:text-gray-900 
                      transition cursor-pointer"
