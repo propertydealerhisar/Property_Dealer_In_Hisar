@@ -14,10 +14,10 @@ export function Navbar({data}) {
         fixed top-0 z-50 w-full
         bg-[#422c18]/80
         backdrop-blur-sm
-        border-b border-white/30
+        border-b border-white/30 px-4 sm:px-6
       "
     >
-      <div className="mx-auto max-w-7xl px-4">
+      <div className="mx-auto max-w-7xl ">
         <div className="flex h-16 items-center justify-between md:h-20">
 
           {/* LOGO */}
