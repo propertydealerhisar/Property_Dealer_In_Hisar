@@ -16,7 +16,7 @@ export const GOOGLE_VERIFICATION = {
   "www.affordablehouseinfaridabad.com": "",
   "www.3bhkflatforsaleinfaridabad.com": "gBZtXnn8cEaivGv490vpWS-W7UD5Ho6GGgpVSVr1efE",
   "www.shopforsaleinfaridabad.com": "l4WO-jQ23FAqBxf9YwhJmpvENtaTrRDoPZzRXZs27I8",
-  "www.flatforrentinfaridabad.com": "",
+  "www.flatforrentinfaridabad.com": "KbN6Un0-lo9xLpZwD6VmBbDPDqZUVQOgEE-xU33dnQo",
   "www.plotforsaleinfaridabad.com": "",
   "www.agriculturelandforsaleinfaridabad.com": "",
   "www.shopforrentinfaridabad.com": "",
