@@ -17,7 +17,7 @@ export const GOOGLE_VERIFICATION = {
   "www.worldstreetfaridabad.com": "",
   "www.affordablehouseinfaridabad.com": "",
   "www.3bhkflatforsaleinfaridabad.com": "GTM-KZT7TMZH",
-  "www.shopforsaleinfaridabad.com": "",
+  "www.shopforsaleinfaridabad.com": "l4WO-jQ23FAqBxf9YwhJmpvENtaTrRDoPZzRXZs27I8",
   "www.flatforrentinfaridabad.com": "",
   "www.plotforsaleinfaridabad.com": "",
   "www.agriculturelandforsaleinfaridabad.com": "",
