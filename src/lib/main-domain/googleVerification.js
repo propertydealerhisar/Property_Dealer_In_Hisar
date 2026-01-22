@@ -9,6 +9,7 @@ export const GOOGLE_VERIFICATION = {
   "www.plotforsaleinhisar.com": "W_o3oODv82OrjKM8fkosmi93ZzGnrVVRc9ak0Bc0oBw",
   "www.agriculturelandforsaleinhisar.com": "I98IU-vVf-KkdXixol6X08B1doFYKFwd1xWhd5ufjyM",
   "www.toletserviceinhisar.com": "P0iJWYoRrnasQY-TGwQyaVdAP_TxjW4Wz8wXJ9X1Z7A",
+  "www.buyhouseinfaridabad.com": "0qD-omcB7nluQBHQVolq7EjbHHewk_HPODkTkAOKFI0",
   "faridabad.projectwallah.live": "GSC_CODE_FARIDABAD",
   "faridabad.projectwallah.live": "GSC_CODE_FARIDABAD",
   "faridabad.projectwallah.live": "GSC_CODE_FARIDABAD",
