@@ -23,7 +23,7 @@ export const GOOGLE_VERIFICATION = {
   "www.residentialprojectsinfaridabad.com": "XWsx1s9v_iV-8S0q8i2RscX6e55dTKropYiOYd9Ahac",
   "www.officespaceforrentinfaridabad.com": "YQJTg7iLM9YjUJo_jHJpdvE4de1uQGZ9SFifVMdJmr4",
   "www.realestateprojectsinfaridabad.com": "",
-  "www.houseforrentinfaridabad.com": "",
+  "www.houseforrentinfaridabad.com": "Zsows2a-l9vUGF56PjbvMZ0aEbvne1OYKGRsv-rt2e",
   "www.builderfloorforsaleinfaridabad.com": "",
   "www.residentialpropertyinfaridabad.com": "",
   "www.2bhkflatforsaleinfaridabad.com": "",
