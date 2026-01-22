@@ -12,7 +12,7 @@ export const GOOGLE_VERIFICATION = {
   "www.buyhouseinfaridabad.com": "0qD-omcB7nluQBHQVolq7EjbHHewk_HPODkTkAOKFI0",
   "www.houseforsaleinfaridabad.com": "",
   "www.renthouseinfaridabad.com": "",
-  "www.worldstreetfaridabad.com": "",
+  "www.worldstreetfaridabad.in": "",
   "www.affordablehouseinfaridabad.com": "",
   "www.3bhkflatforsaleinfaridabad.com": "gBZtXnn8cEaivGv490vpWS-W7UD5Ho6GGgpVSVr1efE",
   "www.shopforsaleinfaridabad.com": "l4WO-jQ23FAqBxf9YwhJmpvENtaTrRDoPZzRXZs27I8",
