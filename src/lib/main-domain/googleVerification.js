@@ -18,7 +18,7 @@ export const GOOGLE_VERIFICATION = {
   "www.shopforsaleinfaridabad.com": "l4WO-jQ23FAqBxf9YwhJmpvENtaTrRDoPZzRXZs27I8",
   "www.flatforrentinfaridabad.com": "KbN6Un0-lo9xLpZwD6VmBbDPDqZUVQOgEE-xU33dnQo",
   "www.plotforsaleinfaridabad.com": "aUiy8S2C1WBMsr7rN6gIvWiLxKnnwDBUuq1LHRVm1Q4",
-  "www.agriculturelandforsaleinfaridabad.com": "",
+  "www.agriculturelandforsaleinfaridabad.com": "LBGqLG7P8HWCgyE0EK6vcxDCcKM_uS9Z1cqxM-qfJx8",
   "www.shopforrentinfaridabad.com": "",
   "www.residentialprojectsinfaridabad.com": "",
   "www.officespaceforrentinfaridabad.com": "",
