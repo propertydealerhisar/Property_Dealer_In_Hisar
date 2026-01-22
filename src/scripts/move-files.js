@@ -5,8 +5,8 @@ const path = require("path");
 // const SOURCE_DIR = path.join(__dirname, "../content/sub-domain/hisar/plot-for-sale");
 // const DEST_DIR = path.join(__dirname, "../../../../test/hisar/all-json");
 
-const SOURCE_DIR = path.join(__dirname, "../../../../test/hisar/all-json");
-const DEST_DIR = path.join(__dirname, "../content/sub-domain/hisar/plot-for-sale");
+const SOURCE_DIR = path.join(__dirname, "../../../../test/card/faridabad/data-main/99acresData/faridabad/plot-for-sale");
+const DEST_DIR = path.join(__dirname, "../../../../test/card/completed");
 // ===================================
 // agar destination folder nahi hai to bana do
 if (!fs.existsSync(DEST_DIR)) {
