@@ -36,6 +36,7 @@ export const GOOGLE_VERIFICATION = {
   "faridabad.projectwallah.live": "GSC_CODE_FARIDABAD",
 
   "gurgaon.projectwallah.live": "GSC_CODE_GURGAON",
+  "www.houseforsaleingurgaon.com": "pHqr6Bsv15OUaXFBBfX15XFMiNhSBoLkYt3wO0gcxYY",
 
   // fallback
   "localhost": "GSC_CODE_DEFAULT",

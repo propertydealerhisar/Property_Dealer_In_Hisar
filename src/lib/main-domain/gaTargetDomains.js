@@ -31,6 +31,7 @@ export const GA_TARGET_DOMAINS = {
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "",
   "www.officespaceforsaleinfaridabad.com": "",
+  "www.houseforsaleingurgaon.com": "GSC_CODE_GURGAON",
  
 
 

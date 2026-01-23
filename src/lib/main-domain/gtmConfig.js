@@ -31,6 +31,7 @@ export const GTM_IDS = {
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "",
   "www.officespaceforsaleinfaridabad.com": "",
+  "www.houseforsaleingurgaon.com": "GTM-PLWCGK58",
   
 
   // fallback (localhost / default)
