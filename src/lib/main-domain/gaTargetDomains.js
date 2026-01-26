@@ -12,7 +12,7 @@ export const GA_TARGET_DOMAINS = {
   "www.buyhouseinfaridabad.com": "",
   "www.houseforsaleinfaridabad.com": "",
   "www.renthouseinfaridabad.com": "",
-  "www.worldstreetfaridabad.in": "",
+  "www.worldstreetfaridabad.in": "G-P0CDB3DTCM",
   "www.affordablehouseinfaridabad.com": "",
   "www.3bhkflatforsaleinfaridabad.com": "G-1BBE6WEYWY",
   "www.shopforsaleinfaridabad.com": "G-V87FP1LMZT",
@@ -31,7 +31,6 @@ export const GA_TARGET_DOMAINS = {
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "G-XM51L483XY",
   "www.officespaceforsaleinfaridabad.com": "G-LE3DMKY3TG",
-  "www.houseforsaleingurgaon.com": "GSC_CODE_GURGAON",
  
 
 
