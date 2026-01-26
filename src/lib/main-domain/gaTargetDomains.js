@@ -27,7 +27,7 @@ export const GA_TARGET_DOMAINS = {
   "www.builderfloorforsaleinfaridabad.com": "G-QZ1QFVZNEZ",
   "www.residentialpropertyinfaridabad.com": "G-WV8WSDLZDT",
   "www.2bhkflatforsaleinfaridabad.com": "",
-  "www.flatforsaleinfaridabad.com": "",
+  "www.flatforsaleinfaridabad.com": "G-LV55B5616T",
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "",
   "www.officespaceforsaleinfaridabad.com": "",
