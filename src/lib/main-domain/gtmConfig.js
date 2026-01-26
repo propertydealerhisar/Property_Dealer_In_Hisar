@@ -26,7 +26,7 @@ export const GTM_IDS = {
   "www.houseforrentinfaridabad.com": "GTM-5TG9SB2M",
   "www.builderfloorforsaleinfaridabad.com": "GTM-NP958N6M",
   "www.residentialpropertyinfaridabad.com": "GTM-K9G492WC",
-  "www.2bhkflatforsaleinfaridabad.com": "",
+  "www.2bhkflatforsaleinfaridabad.com": "GTM-MP9KQGPC",
   "www.flatforsaleinfaridabad.com": "GTM-KKPVN4QN",
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "GTM-NMX63GPH",
@@ -34,5 +34,5 @@ export const GTM_IDS = {
   
 
   // fallback (localhost / default)
-  "localhost": "GTM-NL446123",
+  // "localhost": "GTM-NL446123",
 };

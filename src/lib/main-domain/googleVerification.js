@@ -26,7 +26,7 @@ export const GOOGLE_VERIFICATION = {
   "www.houseforrentinfaridabad.com": "Zsows2a-l9vUGF56PjbvMZ0aEbvne1OYKGRsv-rt2e",
   "www.builderfloorforsaleinfaridabad.com": "sPMYb1NK_mAKwNR2V1lt8YyWgCYQqy1F_maOkqjHulI",
   "www.residentialpropertyinfaridabad.com": "arTkB7qpKhJgAAKDJ2oilHtfnD6eBpIGYEXU_ZJzw_k",
-  "www.2bhkflatforsaleinfaridabad.com": "",
+  "www.2bhkflatforsaleinfaridabad.com": "zgfDPiMIo0YirnnCBh11yE6FHbeWYAAnbU7ONAWkMe4",
   "www.flatforsaleinfaridabad.com": "EF7KSGP9xuFSEE82kesSUjGI3xdi5YRmpyRHBcAJjNg",
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "FhW6i1yedcpAQgs1pcj-3y4ptv-HCc4AonrEHWRifVs",
@@ -34,5 +34,5 @@ export const GOOGLE_VERIFICATION = {
 
 
   // fallback
-  "localhost": "GSC_CODE_DEFAULT",
+  // "localhost": "GSC_CODE_DEFAULT",
 };

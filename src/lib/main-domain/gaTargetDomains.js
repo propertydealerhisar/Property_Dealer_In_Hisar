@@ -38,5 +38,5 @@ export const GA_TARGET_DOMAINS = {
 
 
   // fallback (localhost / default)
-  "localhost": "G-ABCD1234",
+  // "localhost": "G-ABCD1234",
 };
