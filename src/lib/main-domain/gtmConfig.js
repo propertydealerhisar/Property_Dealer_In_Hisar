@@ -30,7 +30,7 @@ export const GTM_IDS = {
   "www.flatforsaleinfaridabad.com": "GTM-KKPVN4QN",
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "GTM-NMX63GPH",
-  "www.officespaceforsaleinfaridabad.com": "",
+  "www.officespaceforsaleinfaridabad.com": "GTM-TPLHR8N3",
   "www.houseforsaleingurgaon.com": "GTM-PLWCGK58",
   
 

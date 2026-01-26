@@ -30,7 +30,7 @@ export const GA_TARGET_DOMAINS = {
   "www.flatforsaleinfaridabad.com": "G-LV55B5616T",
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "G-XM51L483XY",
-  "www.officespaceforsaleinfaridabad.com": "",
+  "www.officespaceforsaleinfaridabad.com": "G-LE3DMKY3TG",
   "www.houseforsaleingurgaon.com": "GSC_CODE_GURGAON",
  
 

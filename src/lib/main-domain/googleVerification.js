@@ -30,7 +30,7 @@ export const GOOGLE_VERIFICATION = {
   "www.flatforsaleinfaridabad.com": "EF7KSGP9xuFSEE82kesSUjGI3xdi5YRmpyRHBcAJjNg",
   "www.realestateagentsinfaridabad.com": "",
   "www.commercialprojectsinfaridabad.com": "FhW6i1yedcpAQgs1pcj-3y4ptv-HCc4AonrEHWRifVs",
-  "www.officespaceforsaleinfaridabad.com": "",
+  "www.officespaceforsaleinfaridabad.com": "7IsgaHA5QDELq-IMT8gufnLX1_wpa-BHgd_wzzfr7XA",
   "faridabad.projectwallah.live": "GSC_CODE_FARIDABAD",
   "faridabad.projectwallah.live": "GSC_CODE_FARIDABAD",
   "faridabad.projectwallah.live": "GSC_CODE_FARIDABAD",
