@@ -4,10 +4,10 @@ const path = require("path");
 // ================= CONFIG =================
 const ROOT_FOLDER = path.join(
   __dirname,
-  "../content/sub-domain/faridabad/office-space-for-sale" // 👈 yahan se scan start
+  "../content/sub-domain/faridabad/affordable-house-for-sale" // 👈 yahan se scan start
 );
 
-const PARENT_DOMAIN = "officespaceforsaleinfaridabad.com";
+const PARENT_DOMAIN = "affordablehouseingurgaon.com";
 // =========================================
 
 let total = 0;

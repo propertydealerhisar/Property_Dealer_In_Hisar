@@ -367,6 +367,432 @@
     },
     "copyright": {
       "text": "All Rights Reserved."
+    },
+    "links": {
+      "heading": "Explore Houses for Sale in Gurgaon Across Prime Residential Areas",
+      "prefix": "House for Sale In",
+      "items": [
+        {
+          "area": "Ashok Vihar",
+          "slug": "ashok-vihar"
+        },
+        {
+          "area": "Ashok Vihar Phase 2",
+          "slug": "ashok-vihar-phase-2"
+        },
+        {
+          "area": "Chandan Vihar",
+          "slug": "chandan-vihar"
+        },
+        {
+          "area": "Civil Lines",
+          "slug": "civil-lines"
+        },
+        {
+          "area": "DLF Phase 1",
+          "slug": "dlf-phase-1"
+        },
+        {
+          "area": "DLF Phase 2",
+          "slug": "dlf-phase-2"
+        },
+        {
+          "area": "DLF Phase 3",
+          "slug": "dlf-phase-3"
+        },
+        {
+          "area": "DLF Phase 4",
+          "slug": "dlf-phase-4"
+        },
+        {
+          "area": "DLF Phase 5",
+          "slug": "dlf-phase-5"
+        },
+        {
+          "area": "Golf Course Road",
+          "slug": "golf-course-road"
+        },
+        {
+          "area": "Manersar",
+          "slug": "manersar"
+        },
+        {
+          "area": "Manesar",
+          "slug": "manesar"
+        },
+        {
+          "area": "MG Road",
+          "slug": "mg-road"
+        },
+        {
+          "area": "New Gurugram",
+          "slug": "new-gurugram"
+        },
+        {
+          "area": "New Palam Vihar",
+          "slug": "new-palam-vihar"
+        },
+        {
+          "area": "Palam Vihar",
+          "slug": "palam-vihar"
+        },
+        {
+          "area": "Palam Vihar Extension",
+          "slug": "palam-vihar-extension"
+        },
+        {
+          "area": "Palam Vihar Pocket H",
+          "slug": "palam-vihar-pocket-h"
+        },
+        {
+          "area": "Ranjendra Park",
+          "slug": "ranjendra-park"
+        },
+        {
+          "area": "Sadar Bazar",
+          "slug": "sadar-bazar"
+        },
+        {
+          "area": "Sector 83",
+          "slug": "sector-83"
+        },
+        {
+          "area": "Sector 102",
+          "slug": "sector-102"
+        },
+        {
+          "area": "Sector 103",
+          "slug": "sector-103"
+        },
+        {
+          "area": "Sector 105",
+          "slug": "sector-105"
+        },
+        {
+          "area": "Sector 106",
+          "slug": "sector-106"
+        },
+        {
+          "area": "Sector 107",
+          "slug": "sector-107"
+        },
+        {
+          "area": "Sector 108",
+          "slug": "sector-108"
+        },
+        {
+          "area": "Sector 109",
+          "slug": "sector-109"
+        },
+        {
+          "area": "Sector 10 A",
+          "slug": "sector-10-a"
+        },
+        {
+          "area": "Sector 110",
+          "slug": "sector-110"
+        },
+        {
+          "area": "Sector 111",
+          "slug": "sector-111"
+        },
+        {
+          "area": "Sector 112",
+          "slug": "sector-112"
+        },
+        {
+          "area": "Sector 113",
+          "slug": "sector-113"
+        },
+        {
+          "area": "Sector 114",
+          "slug": "sector-114"
+        },
+        {
+          "area": "Sector 19",
+          "slug": "sector-19"
+        },
+        {
+          "area": "Sector 2",
+          "slug": "sector-2"
+        },
+        {
+          "area": "Sector 23",
+          "slug": "sector-23"
+        },
+        {
+          "area": "Sector 25",
+          "slug": "sector-25"
+        },
+        {
+          "area": "Sector 26",
+          "slug": "sector-26"
+        },
+        {
+          "area": "Sector 28",
+          "slug": "sector-28"
+        },
+        {
+          "area": "Sector 3",
+          "slug": "sector-3"
+        },
+        {
+          "area": "Sector 30",
+          "slug": "sector-30"
+        },
+        {
+          "area": "Sector 31",
+          "slug": "sector-31"
+        },
+        {
+          "area": "Sector 33",
+          "slug": "sector-33"
+        },
+        {
+          "area": "Sector 37 D",
+          "slug": "sector-37-d"
+        },
+        {
+          "area": "Sector 38",
+          "slug": "sector-38"
+        },
+        {
+          "area": "Sector 39",
+          "slug": "sector-39"
+        },
+        {
+          "area": "Sector 3 A",
+          "slug": "sector-3-a"
+        },
+        {
+          "area": "Sector 41",
+          "slug": "sector-41"
+        },
+        {
+          "area": "Sector 42",
+          "slug": "sector-42"
+        },
+        {
+          "area": "Sector 43",
+          "slug": "sector-43"
+        },
+        {
+          "area": "Sector 45",
+          "slug": "sector-45"
+        },
+        {
+          "area": "Sector 46",
+          "slug": "sector-46"
+        },
+        {
+          "area": "Sector 47",
+          "slug": "sector-47"
+        },
+        {
+          "area": "Sector 48",
+          "slug": "sector-48"
+        },
+        {
+          "area": "Sector 49",
+          "slug": "sector-49"
+        },
+        {
+          "area": "Sector 50",
+          "slug": "sector-50"
+        },
+        {
+          "area": "Sector 51",
+          "slug": "sector-51"
+        },
+        {
+          "area": "Sector 53",
+          "slug": "sector-53"
+        },
+        {
+          "area": "Sector 54",
+          "slug": "sector-54"
+        },
+        {
+          "area": "Sector 55",
+          "slug": "sector-55"
+        },
+        {
+          "area": "Sector 56",
+          "slug": "sector-56"
+        },
+        {
+          "area": "Sector 57",
+          "slug": "sector-57"
+        },
+        {
+          "area": "Sector 58",
+          "slug": "sector-58"
+        },
+        {
+          "area": "Sector 59",
+          "slug": "sector-59"
+        },
+        {
+          "area": "Sector 6",
+          "slug": "sector-6"
+        },
+        {
+          "area": "Sector 60",
+          "slug": "sector-60"
+        },
+        {
+          "area": "Sector 61",
+          "slug": "sector-61"
+        },
+        {
+          "area": "Sector 62",
+          "slug": "sector-62"
+        },
+        {
+          "area": "Sector 63",
+          "slug": "sector-63"
+        },
+        {
+          "area": "Sector 63 A",
+          "slug": "sector-63-a"
+        },
+        {
+          "area": "Sector 65",
+          "slug": "sector-65"
+        },
+        {
+          "area": "Sector 66",
+          "slug": "sector-66"
+        },
+        {
+          "area": "Sector 67",
+          "slug": "sector-67"
+        },
+        {
+          "area": "Sector 67 A",
+          "slug": "sector-67-a"
+        },
+        {
+          "area": "Sector 68",
+          "slug": "sector-68"
+        },
+        {
+          "area": "Sector 69",
+          "slug": "sector-69"
+        },
+        {
+          "area": "Sector 7",
+          "slug": "sector-7"
+        },
+        {
+          "area": "Sector 76",
+          "slug": "sector-76"
+        },
+        {
+          "area": "Sector 77",
+          "slug": "sector-77"
+        },
+        {
+          "area": "Sector 78",
+          "slug": "sector-78"
+        },
+        {
+          "area": "Sector 8",
+          "slug": "sector-8"
+        },
+        {
+          "area": "Sector 80",
+          "slug": "sector-80"
+        },
+        {
+          "area": "Sector 81",
+          "slug": "sector-81"
+        },
+        {
+          "area": "Sector 82",
+          "slug": "sector-82"
+        },
+        {
+          "area": "Sector 84",
+          "slug": "sector-84"
+        },
+        {
+          "area": "Sector 85",
+          "slug": "sector-85"
+        },
+        {
+          "area": "Sector 86",
+          "slug": "sector-86"
+        },
+        {
+          "area": "Sector 87",
+          "slug": "sector-87"
+        },
+        {
+          "area": "Sector 88",
+          "slug": "sector-88"
+        },
+        {
+          "area": "Sector 89",
+          "slug": "sector-89"
+        },
+        {
+          "area": "Sector 90",
+          "slug": "sector-90"
+        },
+        {
+          "area": "Sector 91",
+          "slug": "sector-91"
+        },
+        {
+          "area": "Sector 92",
+          "slug": "sector-92"
+        },
+        {
+          "area": "Sector 93",
+          "slug": "sector-93"
+        },
+        {
+          "area": "Sector 94",
+          "slug": "sector-94"
+        },
+        {
+          "area": "Sector 95",
+          "slug": "sector-95"
+        },
+        {
+          "area": "Sector 99",
+          "slug": "sector-99"
+        },
+        {
+          "area": "Sohna Road",
+          "slug": "sohna-road"
+        },
+        {
+          "area": "South City 1",
+          "slug": "south-city-1"
+        },
+        {
+          "area": "South City 2",
+          "slug": "south-city-2"
+        },
+        {
+          "area": "Sushant Lok Phase 2",
+          "slug": "sushant-lok-phase-2"
+        },
+        {
+          "area": "Sushant Lok Phase 3",
+          "slug": "sushant-lok-phase-3"
+        },
+        {
+          "area": "Sushant Look Phase 1",
+          "slug": "sushant-look-phase-1"
+        },
+        {
+          "area": "Udyog Vihar",
+          "slug": "udyog-vihar"
+        }
+      ]
     }
   }
 }

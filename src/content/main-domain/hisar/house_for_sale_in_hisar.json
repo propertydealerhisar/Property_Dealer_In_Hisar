@@ -301,6 +301,80 @@
     },
     "copyright": {
       "text": "All Rights Reserved."
+    },
+    "links": {
+      "heading": "Discover Your Dream Home- Hisar Houses for Sale by Area",
+      "prefix": "House For Sale In",
+      "items": [
+  {
+    "area": "Sector 9-11",
+    "slug": "sector-9-11"
+  },
+  {
+    "area": "Azad Nagar",
+    "slug": "azad-nagar"
+  },
+  {
+    "area": "Sector 14",
+    "slug": "sector-14"
+  },
+  {
+    "area": "Global Space",
+    "slug": "global-space"
+  },
+  {
+    "area": "Krishna Nagar",
+    "slug": "krishna-nagar"
+  },
+  {
+    "area": "Sector 15",
+    "slug": "sector-15"
+  },
+  {
+    "area": "Kamiri Road",
+    "slug": "kamiri-road"
+  },
+  {
+    "area": "Sector 33",
+    "slug": "sector-33"
+  },
+  {
+    "area": "Sector 16-17",
+    "slug": "sector-16-17"
+  },
+  {
+    "area": "Bank Colony",
+    "slug": "bank-colony"
+  },
+  {
+    "area": "PLA Area",
+    "slug": "pla-area"
+  },
+  {
+    "area": "Model Town",
+    "slug": "model-town"
+  },
+  {
+    "area": "Sector 1-4",
+    "slug": "sector-1-4"
+  },
+  {
+    "area": "Marvel City",
+    "slug": "marvel-city"
+  },
+  {
+    "area": "Urban Estate II",
+    "slug": "urban-estate-ii"
+  },
+  {
+    "area": "Sector 21P",
+    "slug": "sector-21p"
+  },
+  {
+    "area": "Sector 13",
+    "slug": "sector-13"
+  }
+]
     }
   }
 }

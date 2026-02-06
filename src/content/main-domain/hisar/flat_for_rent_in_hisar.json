@@ -305,6 +305,60 @@
     },
     "copyright": {
       "text": "All Rights Reserved."
+    },
+    "links": {
+      "heading": "Top Apartment Rentals in Hisar by Sector and Locality",
+      "prefix": "Flats for Rent in",
+      "items": [
+  {
+    "area": "Urban Estate II",
+    "slug": "urban-estate-ii"
+  },
+  {
+    "area": "Sector 14",
+    "slug": "sector-14"
+  },
+  {
+    "area": "Global Space",
+    "slug": "global-space"
+  },
+  {
+    "area": "PLA Area",
+    "slug": "pla-area"
+  },
+  {
+    "area": "Sector 15",
+    "slug": "sector-15"
+  },
+  {
+    "area": "Sector 13",
+    "slug": "sector-13"
+  },
+  {
+    "area": "Sector 1-4",
+    "slug": "sector-1-4"
+  },
+  {
+    "area": "Sector 33",
+    "slug": "sector-33"
+  },
+  {
+    "area": "Model Town",
+    "slug": "model-town"
+  },
+  {
+    "area": "Sector 16-17",
+    "slug": "sector-16-17"
+  },
+  {
+    "area": "Sector 21P",
+    "slug": "sector-21p"
+  },
+  {
+    "area": "Sector 9-11",
+    "slug": "sector-9-11"
+  }
+]
     }
   }
 }

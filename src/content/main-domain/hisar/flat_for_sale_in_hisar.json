@@ -306,6 +306,60 @@
     },
     "copyright": {
       "text": "All Rights Reserved."
+    },
+    "links": {
+      "heading": "Explore Area-Wise Listings of Flats for Sale in Hisar",
+      "prefix": "Flats For Sale In",
+      "items": [
+  {
+    "area": "Sector 15",
+    "slug": "sector-15"
+  },
+  {
+    "area": "Sector 9-11",
+    "slug": "sector-9-11"
+  },
+  {
+    "area": "Urban Estate II",
+    "slug": "urban-estate-ii"
+  },
+  {
+    "area": "Sector 14",
+    "slug": "sector-14"
+  },
+  {
+    "area": "Sector 16-17",
+    "slug": "sector-16-17"
+  },
+  {
+    "area": "Sector 1-4",
+    "slug": "sector-1-4"
+  },
+  {
+    "area": "Global Space",
+    "slug": "global-space"
+  },
+  {
+    "area": "PLA Area",
+    "slug": "pla-area"
+  },
+  {
+    "area": "Sector 33",
+    "slug": "sector-33"
+  },
+  {
+    "area": "Sector 13",
+    "slug": "sector-13"
+  },
+  {
+    "area": "Sector 21P",
+    "slug": "sector-21p"
+  },
+  {
+    "area": "Model Town",
+    "slug": "model-town"
+  }
+]
     }
   }
 }

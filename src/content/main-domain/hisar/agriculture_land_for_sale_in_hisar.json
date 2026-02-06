@@ -1,10 +1,11 @@
 {
   "domain": "www.agriculturelandforsaleinhisar.com",
-
   "heroSection": {
     "badge": "Premium Agriculture Land",
     "heading": "Premium Agriculture Land for Sale in Hisar",
-    "description": ["Finding the right Agriculture Land for Sale in Hisar is now easier than ever. Whether you want land for farming, long-term investment, dairy farming, warehousing, or future development, our platform offers verified agricultural land options across Hisar. With clear pricing, genuine listings, and trusted seller details, we ensure a smooth and reliable experience for every buyer."],
+    "description": [
+      "Finding the right Agriculture Land for Sale in Hisar is now easier than ever. Whether you want land for farming, long-term investment, dairy farming, warehousing, or future development, our platform offers verified agricultural land options across Hisar. With clear pricing, genuine listings, and trusted seller details, we ensure a smooth and reliable experience for every buyer."
+    ],
     "buttons": [
       {
         "label": "Explore Agriculture Land",
@@ -22,7 +23,6 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-
   "welcomeSection": {
     "title": "Agricultural Properties",
     "heading": "Your Trusted Source for Agricultural Properties",
@@ -31,7 +31,6 @@
       "From village outskirts to main road-connected locations, you can explore different land sizes suitable for farming, horticulture, investment, and agriculture-related activities. Each listing is verified to ensure transparency, safety, and hassle-free buying."
     ]
   },
-
   "featureWithImage": {
     "badge": "AGRICULTURE LAND",
     "title": "Why Choose Our Platform for Agricultural Land",
@@ -62,69 +61,68 @@
       "description": "Get specialized advice for selecting Agriculture Land for Sale in Hisar based on soil quality, irrigation, and investment potential."
     }
   },
-
   "servicesSection": {
     "heading": "Explore All Our Property Categories",
-    "description": ["Along with Agriculture Land for Sale in Hisar, you can also browse various real estate categories designed to meet your buying, renting, or investment needs."],
+    "description": [
+      "Along with Agriculture Land for Sale in Hisar, you can also browse various real estate categories designed to meet your buying, renting, or investment needs."
+    ],
     "services": [
       {
         "title": "House for Sale in Hisar",
         "description": "Budget, mid-range, and premium houses crafted for comfortable living.",
-        "icon":"FaHome",
-        "path":"https://houseforsaleinhisar.com"
-
+        "icon": "FaHome",
+        "path": "https://houseforsaleinhisar.com"
       },
       {
         "title": "Flat for Rent in Hisar",
         "description": "Affordable and well-maintained flats suitable for families, students, and professionals.",
-        "icon":"FaKey",
-        "path":"https://flatsforrentinhisar.com"
+        "icon": "FaKey",
+        "path": "https://flatsforrentinhisar.com"
       },
       {
         "title": "Flat for Sale in Hisar",
         "description": "Choose from ready-to-move and under-construction flats in prime Hisar locations",
-        "icon":"FaBuilding",
-        "path":"https://flatsforsaleinhisar.com"
+        "icon": "FaBuilding",
+        "path": "https://flatsforsaleinhisar.com"
       },
       {
         "title": "Shop for Sale in Hisar",
         "description": "Explore commercial shops ideal for showrooms, retail, or investment.",
-        "icon":"FaStore",
-        "path":"https://shopforsaleinhisar.com"
+        "icon": "FaStore",
+        "path": "https://shopforsaleinhisar.com"
       },
       {
         "title": "Shop for Rent in Hisar",
         "description": "Find rental shops in key marketplaces to start or expand your business.",
-        "icon":"FaStore",
-        "path":"https://shopforrentinhisar.com"
+        "icon": "FaStore",
+        "path": "https://shopforrentinhisar.com"
       },
       {
         "title": "Plot for Sale in Hisar",
         "description": "View residential and commercial plots available for construction and investment.",
-        "icon":"FaLandmark",
-        "path":"https://plotforsaleinhisar.com"
+        "icon": "FaLandmark",
+        "path": "https://plotforsaleinhisar.com"
       },
       {
         "title": "Agriculture Land for Sale in Hisar",
         "description": "Browse fertile agricultural lands perfect for farming, investment, and development.",
-        "icon":"FaTractor",
-        "path":"https://agriculturelandforsaleinhisar.com"
+        "icon": "FaTractor",
+        "path": "https://agriculturelandforsaleinhisar.com"
       },
       {
         "title": "To-Let Service in Hisar",
         "description": "Get easy rental assistance for homes, shops, offices, and commercial spaces.",
-        "icon":"FaHandshake",
-        "path":"https://toletserviceinhisar.com"
+        "icon": "FaHandshake",
+        "path": "https://toletserviceinhisar.com"
       },
       {
         "title": "Commercial Property for Sale in Hisar",
         "description": "Explore offices, buildings, and commercial spaces ideal for business expansion.",
-        "icon":"FaCity",
-        "path":"https://commercialpropertyforsaleinhisar.com"
+        "icon": "FaCity",
+        "path": "https://commercialpropertyforsaleinhisar.com"
       }
     ]
   },
-
   "whyChooseUs": {
     "heading": "Why We Are a Trusted Venture of Deal Acres",
     "description": [
@@ -141,7 +139,6 @@
       "alt": "Luxury Property"
     }
   },
-
   "blogsSection": {
     "heading": "Latest Blogs & Farming Insights",
     "description": [
@@ -178,7 +175,6 @@
       }
     ]
   },
-
   "contactSection": {
     "formSection": {
       "heading": "Get In Touch",
@@ -211,7 +207,9 @@
     },
     "contactDetails": {
       "heading": "Contact Information",
-      "description": ["Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries.Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries.Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries.Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."],
+      "description": [
+        "Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries.Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries.Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries.Contact us for guidance on Agriculture Land for Sale in Hisar, farmland verification, or agricultural investment queries."
+      ],
       "items": [
         {
           "label": "Phone",
@@ -228,7 +226,6 @@
       ]
     }
   },
-
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about Agriculture Land for Sale in Hisar.",
@@ -275,18 +272,19 @@
       }
     ]
   },
-
   "footer": {
     "brand": {
       "name": "agriculturelandforsaleinhisar.com",
-      "description":["We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."]
+      "description": [
+        "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
+      ]
     },
     "poweredBy": {
       "label": "Powered By",
       "name": "Deal Acres"
     },
     "social": {
-      "heading": "Follow Us",
+      "heading": "Follow Us ",
       "links": [
         {
           "platform": "Facebook",
@@ -308,6 +306,11 @@
     },
     "copyright": {
       "text": "All Rights Reserved."
+    },
+    "links": {
+      "heading": "Premium Agricultural Land for Sale Listings Across Different Areas.",
+      "prefix": "Agriculture Land For Sale In",
+      "items": []
     }
   }
 }
