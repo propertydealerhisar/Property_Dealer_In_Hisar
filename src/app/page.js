@@ -28,7 +28,7 @@ export default async function Home() {
 
   return (
     <div>
-      <p>hello</p>
+      {/* <p>hello</p> */}
       <Hero data={pageData?.heroSection} />
       <Properties domain ={domain}/>
       {/* <WelcomeSection data={pageData.welcomeSection} /> */}
