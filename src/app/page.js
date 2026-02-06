@@ -18,8 +18,8 @@ import PropertyContentSection from "@/components/PropertyContentSection/Property
 export default async function Home() {
   const h = await headers();
 
-  const domain = h.get("host") || "localhost";
-  // const domain = "www.houseforsaleinhisar.com"
+  // const domain = h.get("host") || "localhost";
+  const domain = "www.flatsforsaleinhisar.com"
 
   // ✅ index-based direct lookup
   const pageData = loadPageData(domain);
@@ -28,15 +28,15 @@ export default async function Home() {
 
   return (
     <>
-      <Hero data={pageData.heroSection} />
+      <Hero data={pageData?.heroSection} />
       <Properties domain ={domain}/>
       {/* <WelcomeSection data={pageData.welcomeSection} /> */}
       {/* <FeatureWithImage data={pageData.featureWithImage} /> */}
-      <ServicesSection data={pageData.servicesSection} />
+      <ServicesSection data={pageData?.servicesSection} />
       {/* <WhyChooseUs data={pageData.whyChooseUs} /> */}
-      <BlogsSection data={pageData.blogsSection} />
+      <BlogsSection data={pageData?.blogsSection} />
       {/* <ContactInfo data={pageData.contactSection} website={domain} /> */}
-      <FAQSection data={pageData.faqSection} />
+      <FAQSection data={pageData?.faqSection} />
       {/* <PropertyContentSection/> */}
     </>
   );
