@@ -12,8 +12,8 @@ import { ContactSection } from './ContactSection';
 const page = async({params}) => {
   const {area} = await params;
   const h = await headers();
-    // const domain = h.get("host") || "localhost";
-  const domain = "www.houseforsaleinhisar.com"
+    const domain = h.get("host") || "localhost";
+  // const domain = "www.houseforsaleinhisar.com"
 
   const data = resolveSubDomainData({
     area,

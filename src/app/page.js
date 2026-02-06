@@ -18,8 +18,8 @@ import PropertyContentSection from "@/components/PropertyContentSection/Property
 export default async function Home() {
   const h = await headers();
 
-  // const domain = h.get("host") || "localhost";
-  const domain = "www.houseforsaleinhisar.com"
+  const domain = h.get("host") || "localhost";
+  // const domain = "www.houseforsaleinhisar.com"
 
   // ✅ index-based direct lookup
   const pageData = loadPageData(domain);
