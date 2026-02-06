@@ -27,7 +27,11 @@ const geistMono = Geist_Mono({
 // ✅ DOMAIN-WISE METADATA
 export async function generateMetadata() {
   const h = await headers();
-  const domain = h.get("host") || "localhost";
+  // const domain = h.get("host") || "localhost";
+    const domain = "www.flatsforsaleinhisar.com"
+
+
+
 
   return {
    title: "Property Dealer | Buy & Sell Residential and Commercial Properties",

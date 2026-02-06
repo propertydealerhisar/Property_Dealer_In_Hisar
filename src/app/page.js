@@ -27,18 +27,19 @@ export default async function Home() {
   // if (!pageData) return notFound();
 
   return (
-    <>
-      <Hero data={pageData?.heroSection} />
-      <Properties domain ={domain}/>
+    <div>
+      <p>hello</p>
+      {/* <Hero data={pageData?.heroSection} /> */}
+      {/* <Properties domain ={domain}/> */}
       {/* <WelcomeSection data={pageData.welcomeSection} /> */}
       {/* <FeatureWithImage data={pageData.featureWithImage} /> */}
       <ServicesSection data={pageData?.servicesSection} />
       {/* <WhyChooseUs data={pageData.whyChooseUs} /> */}
       <BlogsSection data={pageData?.blogsSection} />
       {/* <ContactInfo data={pageData.contactSection} website={domain} /> */}
-      <FAQSection data={pageData?.faqSection} />
+      {/* <FAQSection data={pageData?.faqSection} /> */}
       {/* <PropertyContentSection/> */}
-    </>
+    </div>
   );
 }
 
