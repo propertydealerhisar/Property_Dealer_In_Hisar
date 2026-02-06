@@ -29,8 +29,8 @@ export default async function Home() {
   return (
     <div>
       <p>hello</p>
-      {/* <Hero data={pageData?.heroSection} /> */}
-      {/* <Properties domain ={domain}/> */}
+      <Hero data={pageData?.heroSection} />
+      <Properties domain ={domain}/>
       {/* <WelcomeSection data={pageData.welcomeSection} /> */}
       {/* <FeatureWithImage data={pageData.featureWithImage} /> */}
       <ServicesSection data={pageData?.servicesSection} />
