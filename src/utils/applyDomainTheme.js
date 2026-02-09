@@ -4,7 +4,7 @@ export const applyDomainTheme = () => {
   if (typeof window === "undefined") return;
 
 //   const hostname = window.location.hostname; // with www OR without
-  const hostname = "www.toletserviceinhisar.com"; // with www OR without
+  const hostname = "www.houseforsaleinhisar.com"; // with www OR without
   const cleanDomain = hostname.replace(/^www\./, "");
 
   // priority:
