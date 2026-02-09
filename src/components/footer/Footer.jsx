@@ -26,7 +26,7 @@ const Footer = ({ data }) => {
               {data?.links?.items?.map((item, index) => (
                 <Link
                   key={index}
-                  href={item.slug}
+                  href={`/${item.slug}`}
                   className="
                     text-sm
                     text-[color:var(--footerMuted)]
