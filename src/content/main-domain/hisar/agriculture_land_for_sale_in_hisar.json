@@ -229,49 +229,51 @@
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about Agriculture Land for Sale in Hisar.",
-    "faqs": [
-      {
-        "q": "How can I find the best Agriculture Land for Sale in Hisar?",
-        "a": "You can browse our verified listings based on land size, location, soil quality, irrigation, and pricing to choose the right farmland for your needs."
-      },
-      {
-        "q": "Are the agricultural land listings verified?",
-        "a": "Yes. Most listings are posted by verified landowners or trusted agents, ensuring accuracy and reliability for buyers."
-      },
-      {
-        "q": "Can I list my agricultural land for free?",
-        "a": "Absolutely. Through our unlisted free property listing, you can publish your land details at no cost and reach genuine buyers easily."
-      },
-      {
-        "q": "What are the top agricultural areas in Hisar?",
-        "a": "Popular areas include Agroha, Talwandi Rana, Mirzapur, Barwala belt, and NH-9 side regions offering fertile soil and water access."
-      },
-      {
-        "q": "Is this platform part of Deal Acres?",
-        "a": "Yes. It is a trusted venture of Property Dealer in Hisar, powered by Deal Acres Hisar, and backed by Deal Acres."
-      },
-      {
-        "q": "Can I find land suitable for dairy or poultry farming?",
-        "a": "Yes, you can explore listings ideal for dairy farms, poultry units, goat farming, and agricultural setups."
-      },
-      {
-        "q": "Do you provide investment-friendly agricultural land options?",
-        "a": "Yes. Many listings include roadside land, large-sized land parcels, and long-term appreciating agricultural assets."
-      },
-      {
-        "q": "What documents are required to buy agricultural land?",
-        "a": "Typically, you need registry papers, jamabandi, girdawari, and ownership verification. Sellers often provide these upfront."
-      },
-      {
-        "q": "How often are new Agriculture Land for Sale in Hisar listings added?",
-        "a": "New listings are added regularly to ensure buyers get the latest farmland options."
-      },
-      {
-        "q": "Why should I trust this platform for farmland purchase?",
-        "a": "Verified listings, transparent details, free listing options, and complete support from a trusted Deal Acres venture."
-      }
-    ]
+    "faqs":[
+  {
+    "q": "How much does agriculture land cost in Hisar?",
+    "a": "Land rates vary depending on location and size. On average, small plots start at 15-30 lakhs, while larger, fertile farms cost more."
   },
+  {
+    "q": "Can non-farmers buy agricultural land in Hisar?",
+    "a": "Yes, but government regulations may restrict land conversion for non-agricultural purposes. Always check legal requirements."
+  },
+  {
+    "q": "What documents are required to buy agriculture land?",
+    "a": "Essential documents include the title deed, khata, land revenue records, no-objection certificate, and encumbrance certificate."
+  },
+  {
+    "q": "Are there government schemes for farmers in Hisar?",
+    "a": "Yes, there are schemes for irrigation, crop loans, and subsidies for farm infrastructure."
+  },
+  {
+    "q": "How to check soil fertility before buying land?",
+    "a": "You can hire local agricultural experts or use soil testing labs to verify the land’s productivity."
+  },
+  {
+    "q": "What crops grow best in Hisar agriculture land?",
+    "a": "Wheat, mustard, cotton, and pulses are common. Soil and water availability determine suitability."
+  },
+  {
+    "q": "Can agricultural land be converted to a farm house?",
+    "a": "Yes, but it requires legal conversion and government approval."
+  },
+  {
+    "q": "How to find trustworthy land dealers in Hisar?",
+    "a": "Ask for local references, verify credentials, and check past client reviews."
+  },
+  {
+    "q": "Is irrigated land better than unirrigated land?",
+    "a": "Yes, irrigated land offers higher productivity and better resale value."
+  },
+  {
+    "q": "Where can I find Affordable agricultural land for sale in Hisar?",
+    "a": "Villages away from city centers usually have affordable plots. Check listings online or consult local agents."
+  }
+]
+
+  },
+  
   "footer": {
     "brand": {
       "name": "agriculturelandforsaleinhisar.com",

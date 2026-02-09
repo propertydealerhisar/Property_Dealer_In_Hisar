@@ -229,47 +229,48 @@
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about To-Let Service in Hisar.",
     "faqs": [
-      {
-        "q": "How does your To-Let Service in Hisar help tenants?",
-        "a": "Our service helps tenants find verified rental homes, shops, and commercial spaces easily with complete details and direct owner contacts."
-      },
-      {
-        "q": "Are all rental properties verified?",
-        "a": "Most listings are verified by owners or trusted agents to ensure accuracy, safety, and transparency for tenants."
-      },
-      {
-        "q": "Can I list my rental property for free?",
-        "a": "Yes. Property owners can list their rental space using our unlisted free property listing feature without any charges."
-      },
-      {
-        "q": "What types of rental properties are available?",
-        "a": "You can find houses, flats, shops, offices, rooms, and commercial properties through our To-Let Service in Hisar"
-      },
-      {
-        "q": "Does this service come under Deal Acres?",
-        "a": "Yes. It is a trusted venture of Property Dealer in Hisar, powered by Deal Acres Hisar, and supported by Deal Acres."
-      },
-      {
-        "q": "Can I find budget-friendly rentals in Hisar?",
-        "a": "Absolutely. We offer rental options for all budgets, including low-cost rooms, flats, and commercial spaces."
-      },
-      {
-        "q": "Do you have listings available in all areas of Hisar?",
-        "a": "Yes. We cover city areas, prime markets, residential colonies, and outer locations to help you find the perfect rental match."
-      },
-      {
-        "q": "Can businesses find commercial rentals here?",
-        "a": "Yes. From shops to office spaces, we offer multiple commercial rental options through our"
-      },
-      {
-        "q": "How often do you update rental listings?",
-        "a": "New listings are added frequently to ensure users always get access to the latest rental properties."
-      },
-      {
-        "q": "Why should I trust your platform?",
-        "a": "Because our platform offers verified data, transparent details, free listings, and the trusted backing of the Deal Acres brand."
-      }
-    ]
+  {
+    "q": "Can I find furnished flats for rent in Hisar?",
+    "a": "Yes, many flats are available fully or semi-furnished in areas like Sector 16-17, Hisar, and Model Town, Hisar."
+  },
+  {
+    "q": "Is it better to rent through an agent or directly?",
+    "a": "Both options work. Agents save time and help with paperwork, while direct rentals can sometimes be more affordable."
+  },
+  {
+    "q": "What is the average security deposit in Hisar?",
+    "a": "Typically, 1–3 months’ rent depending on property type and locality."
+  },
+  {
+    "q": "How can I verify a property’s authenticity?",
+    "a": "Check ownership documents, visit the property, and review the rental agreement carefully."
+  },
+  {
+    "q": "Are short-term rental options available?",
+    "a": "Yes, some PGs, flats, and apartments offer monthly or quarterly rentals."
+  },
+  {
+    "q": "How long does it take to finalize a rental property?",
+    "a": "Usually 1–2 weeks if you have shortlisted properties and completed verification."
+  },
+  {
+    "q": "Can students find shared accommodation easily?",
+    "a": "Yes, several PGs and shared flats are available near universities and colleges in Hisar."
+  },
+  {
+    "q": "What documents are mandatory for renting?",
+    "a": "ID proof, address proof, PAN card, and sometimes references from previous landlords."
+  },
+  {
+    "q": "How to handle disputes with landlords?",
+    "a": "Maintain all agreements in writing and follow Haryana’s rental laws. Mediation through agents or local authorities is also possible."
+  },
+  {
+    "q": "Is renting in Hisar affordable compared to nearby cities?",
+    "a": "Yes, Hisar offers a range of affordable rental houses while maintaining good infrastructure and facilities."
+  }
+]
+
   },
   "footer": {
     "brand": {

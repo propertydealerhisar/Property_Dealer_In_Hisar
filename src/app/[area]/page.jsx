@@ -31,7 +31,6 @@ const page = async({params}) => {
       <FAQSection data={data?.faqSection}/>
       <ContactSection data={data?.contactSection}/>
 
-
     </div>
   )
 }

@@ -14,12 +14,13 @@ import WhyChooseUs from "@/components/why-choose-us/WhyChooseUs";
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 import Properties from "@/components/properties/Properties";
 import PropertyContentSection from "@/components/PropertyContentSection/PropertyContentSection";
+import AboutLocality from "@/components/about-locality/AboutLocality";
 
 export default async function Home() {
   const h = await headers();
 
-  // const domain = h.get("host") || "localhost";
-  const domain = "www.flatsforsaleinhisar.com"
+  const domain = h.get("host") || "localhost";
+  // const domain = "www.flatsforsaleinhisar.com"
 
   // ✅ index-based direct lookup
   const pageData = loadPageData(domain);
@@ -35,10 +36,11 @@ export default async function Home() {
       {/* <FeatureWithImage data={pageData.featureWithImage} /> */}
       <ServicesSection data={pageData?.servicesSection} />
       {/* <WhyChooseUs data={pageData.whyChooseUs} /> */}
-      <BlogsSection data={pageData?.blogsSection} />
+      {/* <BlogsSection data={pageData?.blogsSection} /> */}
       {/* <ContactInfo data={pageData.contactSection} website={domain} /> */}
-      {/* <FAQSection data={pageData?.faqSection} /> */}
+      <FAQSection data={pageData?.faqSection} />
       {/* <PropertyContentSection/> */}
+      <AboutLocality domain ={domain}/>
     </div>
   );
 }

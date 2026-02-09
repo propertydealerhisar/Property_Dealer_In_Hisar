@@ -7,7 +7,7 @@ import { MapPin } from "lucide-react";
 import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 
-export default function Properties({domain}) {
+export default function Properties({ domain }) {
   const [open, setOpen] = useState(false);
 
   const { properties, loading, error, setDomain } = useProperty();
@@ -19,8 +19,7 @@ export default function Properties({domain}) {
     } else {
       setDomain(domain);
     }
-}, []);
-
+  }, []);
 
   useEffect(() => {
     document.body.style.overflow = open ? "hidden" : "";
@@ -28,89 +27,103 @@ export default function Properties({domain}) {
   }, [open]);
 
   if (loading) {
-    return <p className="text-center py-20 bg-[#f7f5f2]">Loading properties...</p>;
+    return (
+      <p className="text-center py-20 bg-[color:var(--bodyBg)] text-[color:var(--text)]">
+        Loading properties...
+      </p>
+    );
   }
 
   if (error) {
-    return <p className="text-center py-20 text-red-500">Something went wrong while loading the property. Please try again.</p>;
+    return (
+      <p className="text-center py-20 text-red-500">
+        Something went wrong while loading the property. Please try again.
+      </p>
+    );
   }
 
   return (
     <>
-      <div className="min-h-screen bg-[#f7f5f2] px-4 sm:px-6 py-10">
+      <div className="min-h-screen bg-[color:var(--bodyBg)] px-4 sm:px-6 py-10">
         <div className="max-w-7xl mx-auto">
 
-          {/* HEADING */}
+          {/* ================= HEADING ================= */}
           <div className="mb-10 text-left md:text-center">
-            <h1 className="text-2xl sm:text-3xl font-bold text-gray-800">
+            <h1 className="text-2xl sm:text-3xl font-bold text-[color:var(--primary)]">
               Premium Residential & Commercial Properties for Sale in Hisar, Haryana
             </h1>
-            <p className="mt-2 text-sm sm:text-base text-gray-600">
+            <p className="mt-2 text-sm sm:text-base text-[color:var(--mutedText)]">
               Explore a wide range of verified residential and commercial properties
               in Hisar with genuine listings and complete assistance.
             </p>
           </div>
 
-          {/* GRID */}
+          {/* ================= GRID ================= */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {properties.map((property) => (
               <div
                 key={property._id}
-                className="bg-white rounded-xl overflow-hidden shadow-md flex flex-col"
+                className="
+                  bg-[color:var(--cardBg)]
+                  rounded-xl overflow-hidden
+                  shadow-md flex flex-col
+                  border border-[color:var(--cardBorder)]
+                "
               >
-                {/* IMAGE */}
-               {/* MEDIA (IMAGE / VIDEO) */}
-                 <div className="relative h-44 bg-black/20">
-                 {property?.media?.type === "image" && property?.media?.url && (
-               <Image
-              src={property.media.url}
-              alt={property.title}
-              fill
-              loading="lazy"
-              className="object-cover"
-             />
-            )}
+                {/* ================= MEDIA ================= */}
+                <div className="relative h-44 bg-black/20">
+                  {property?.media?.type === "image" && property?.media?.url && (
+                    <Image
+                      src={property.media.url}
+                      alt={property.title}
+                      fill
+                      loading="lazy"
+                      className="object-cover"
+                    />
+                  )}
 
-  {property?.media?.type === "video" && property?.media?.url && (
-    <video
-      src={property.media.url}
-      className="w-full h-full object-cover"
-      muted
-      loop
-      autoPlay
-      playsInline
-    />
-  )}
-</div>
+                  {property?.media?.type === "video" && property?.media?.url && (
+                    <video
+                      src={property.media.url}
+                      className="w-full h-full object-cover"
+                      muted
+                      loop
+                      autoPlay
+                      playsInline
+                    />
+                  )}
+                </div>
 
-
-                {/* CONTENT */}
+                {/* ================= CONTENT ================= */}
                 <div className="p-4 flex flex-col flex-1">
-                  <h3 className="text-lg font-semibold text-gray-900">
+                  <h3 className="text-lg font-semibold text-[color:var(--text)]">
                     {property.title}
                   </h3>
 
-                  <div className="flex items-center text-sm text-gray-600 mt-1">
+                  <div className="flex items-center text-sm text-[color:var(--mutedText)] mt-1">
                     <MapPin className="w-4 h-4 mr-1" />
                     {property.locality}
                   </div>
 
                   <div className="flex-1" />
 
-                  {/* BOTTOM */}
-                  <div className="flex items-center justify-between gap-3 pt-4 border-t mt-4">
-                    
-                    {/* PRICE AREA */}
+                  {/* ================= BOTTOM ================= */}
+                  <div className="flex items-center justify-between gap-3 pt-4 border-t mt-4 border-[color:var(--cardBorder)]">
+
+                    {/* PRICE */}
                     {property.price !== 0 ? (
-                      <div className="text-sm font-semibold text-[#422c18]">
+                      <div className="text-sm font-semibold text-[color:var(--primary)]">
                         Price: {property.price.toLocaleString("en-IN")}
                       </div>
                     ) : (
                       <button
                         onClick={() => setOpen(true)}
-                        className="px-3 py-1.5 text-sm font-semibold
-                                   bg-[#f3eee9] text-[#422c18]
-                                   rounded-md"
+                        className="
+                          px-3 py-1.5 text-sm font-semibold
+                          bg-[color:var(--secondary)]
+                          text-[color:var(--heading)]
+                          rounded-md
+                        "
                       >
                         Price on Call
                       </button>
@@ -119,8 +132,14 @@ export default function Properties({domain}) {
                     {/* VIEW DETAILS */}
                     <Link
                       href={`/properties/${property.slug}`}
-                      className="px-4 py-2 text-sm font-semibold
-                                 bg-[#0e0c0a] text-white rounded-md"
+                      className="
+                        px-4 py-2 text-sm font-semibold
+                        bg-[color:var(--primary)]
+                        text-[color:var(--buttonText)]
+                        rounded-md
+                        hover:bg-[color:var(--hover)]
+                        transition
+                      "
                     >
                       View Details →
                     </Link>
@@ -133,7 +152,7 @@ export default function Properties({domain}) {
         </div>
       </div>
 
-      {/* MODAL */}
+      {/* ================= MODAL ================= */}
       {open && (
         <div
           className="fixed inset-0 z-50 flex items-center justify-center bg-black/50"

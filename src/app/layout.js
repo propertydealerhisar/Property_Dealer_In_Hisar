@@ -12,6 +12,7 @@ import { GA_TARGET_DOMAINS } from "@/lib/main-domain/gaTargetDomains";
 import GoogleAnalytics from "@/components/google-analytics/GoogleAnalytics";
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 import { PropertyProvider } from "@/contexts/propertyContext";
+import DomainThemeProvider from "@/components/DomainThemeProvider/DomainThemeProvider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -27,8 +28,8 @@ const geistMono = Geist_Mono({
 // ✅ DOMAIN-WISE METADATA
 export async function generateMetadata() {
   const h = await headers();
-  // const domain = h.get("host") || "localhost";
-    const domain = "www.flatsforsaleinhisar.com"
+  const domain = h.get("host") || "localhost";
+    // const domain = "www.flatsforsaleinhisar.com"
 
 
 
@@ -68,8 +69,8 @@ export async function generateMetadata() {
 
 export default async function RootLayout({ children }) {
   const h = await headers();
-  // const domain = h.get("host") || "localhost";
-  const domain = "www.flatsforsaleinhisar.com"
+  const domain = h.get("host") || "localhost";
+  // const domain = "www.flatsforsaleinhisar.com"
      const pageData = loadPageData(domain);
      
   // if (!pageData) return notFound();
@@ -104,9 +105,11 @@ export default async function RootLayout({ children }) {
           />
         </noscript>
         <PropertyProvider>
+          <DomainThemeProvider>
         <Navbar domain={pageData?.domain} />
         {children}
         <Footer data={pageData?.footer}  />
+        </DomainThemeProvider>
         </PropertyProvider>
       </body>
     </html>
