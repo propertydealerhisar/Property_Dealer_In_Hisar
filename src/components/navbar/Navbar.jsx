@@ -3,32 +3,22 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
-import {cleanDomain} from "@/utils/helpers"
+import { cleanDomain } from "@/utils/helpers";
 import {
-  FaFacebook,
-  FaInstagram,
-  FaLinkedin,
-  FaMapMarkerAlt,
-  FaEnvelope,
-  FaPhone,
-  FaTwitter,
   FaBars,
   FaTimes,
 } from "react-icons/fa";
 
-
-const Navbar = ({domain}) => {
+const Navbar = ({ domain }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState("Home");
 
-  // ✅ FINAL NAV LINKS
   const navLinks = [
     { name: "Home", scroll: "top" },
     { name: "Blog", path: "/" },
     { name: "Contact", scroll: "contact" },
   ];
 
-  // ✅ SCROLL HANDLER
   const handleScroll = (type) => {
     if (type === "top") {
       window.scrollTo({ top: 0, behavior: "smooth" });
@@ -40,66 +30,34 @@ const Navbar = ({domain}) => {
       if (!el) return;
 
       const y =
-        el.getBoundingClientRect().top + window.pageYOffset - 80; // navbar height
+        el.getBoundingClientRect().top + window.pageYOffset - 80;
       window.scrollTo({ top: y, behavior: "smooth" });
     }
   };
 
   return (
     <>
-      {/* ================= TOP BAR ================= */}
-      {/* <div
-        className="hidden md:block shadow-md"
-        style={{ backgroundColor: "#422c18", color: "#f2e8e1" }}
-      >
-        <div className="max-w-7xl mx-auto px-4 h-12 flex items-center justify-between text-sm">
-          <div className="flex gap-6">
-            <span className="flex items-center gap-2">
-              <FaMapMarkerAlt /> 2799 Mainroad Ave., NY Diego
-            </span>
-            <span className="flex items-center gap-2">
-              <FaPhone /> (+88) 01712570051
-            </span>
-            <span className="flex items-center gap-2">
-              <FaEnvelope /> help@landestate.com
-            </span>
-          </div>
-
-          <div className="flex gap-4">
-            {[FaFacebook, FaTwitter, FaLinkedin, FaInstagram].map(
-              (Icon, i) => (
-                <Icon
-                  key={i}
-                  className="cursor-pointer opacity-80 hover:opacity-100"
-                />
-              )
-            )}
-          </div>
-        </div>
-      </div> */}
-
       {/* ================= NAVBAR ================= */}
       <nav
-        className="sticky top-0 z-50 shadow-lg"
-        style={{ backgroundColor: "#f2e8e1" }}
+        className="
+          sticky top-0 z-50 shadow-lg
+          bg-[color:var(--navbarBg)]
+        "
       >
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex items-center justify-between h-16 gap-8">
 
             {/* LOGO */}
             <Link href="/">
-           <span
-    className="
-      text-md  
-      font-medium
-      tracking-wide 
-      text-[#422c18]
-      hover:opacity-90
-      transition-all
-    "
-  >
-    {cleanDomain(domain)}
-  </span>
+              <span
+                className="
+                  text-md font-medium tracking-wide
+                  text-[color:var(--heading)]
+                  hover:opacity-90 transition
+                "
+              >
+                {cleanDomain(domain)}
+              </span>
             </Link>
 
             {/* ================= DESKTOP MENU ================= */}
@@ -107,7 +65,18 @@ const Navbar = ({domain}) => {
               {navLinks.map((link) => {
                 const active = currentPage === link.name;
 
-                // 👉 HOME + CONTACT (SCROLL)
+                const baseClass = `
+                  px-5 py-2 rounded-lg font-medium transition-all duration-300
+                  text-[color:var(--heading)]
+                  hover:bg-[color:var(--primary)]
+                  hover:text-[color:var(--buttonText)]
+                `;
+
+                const activeClass = `
+                  bg-[color:var(--primary)]
+                  text-[color:var(--buttonText)]
+                `;
+
                 if (link.scroll) {
                   return (
                     <motion.button
@@ -118,32 +87,19 @@ const Navbar = ({domain}) => {
                         setCurrentPage(link.name);
                         handleScroll(link.scroll);
                       }}
-                      className={`px-5 py-2 rounded-lg font-medium transition-all duration-300
-                        ${
-                          active
-                            ? "bg-[#422c18] text-[#f2e8e1]"
-                            : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
-                        }
-                      `}
+                      className={`${baseClass} ${active ? activeClass : ""}`}
                     >
                       {link.name}
                     </motion.button>
                   );
                 }
 
-                // 👉 BLOG (ROUTE)
                 return (
                   <motion.div key={link.name} whileHover={{ y: -2 }}>
                     <Link
                       href={link.path}
                       onClick={() => setCurrentPage(link.name)}
-                      className={`px-5 py-2 rounded-lg font-medium transition-all duration-300
-                        ${
-                          active
-                            ? "bg-[#422c18] text-[#f2e8e1]"
-                            : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
-                        }
-                      `}
+                      className={`${baseClass} ${active ? activeClass : ""}`}
                     >
                       {link.name}
                     </Link>
@@ -155,7 +111,10 @@ const Navbar = ({domain}) => {
             {/* ================= MOBILE TOGGLE ================= */}
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="ml-auto md:hidden text-[#422c18]"
+              className="
+                ml-auto md:hidden
+                text-[color:var(--heading)]
+              "
             >
               {isOpen ? <FaTimes size={22} /> : <FaBars size={22} />}
             </button>
@@ -182,12 +141,27 @@ const Navbar = ({domain}) => {
               animate={{ y: 0, opacity: 1 }}
               exit={{ y: -30, opacity: 0 }}
               transition={{ duration: 0.25 }}
-              className="fixed top-16 left-0 w-full z-50 md:hidden"
-              style={{ backgroundColor: "#f2e8e1" }}
+              className="
+                fixed top-16 left-0 w-full z-50 md:hidden
+                bg-[color:var(--navbarBg)]
+              "
             >
-              <div className="p-4 flex flex-col items-start gap-2">
+              <div className="p-4 flex flex-col gap-2">
                 {navLinks.map((link) => {
                   const active = currentPage === link.name;
+
+                  const baseClass = `
+                    w-full text-left px-4 py-3 rounded-lg font-medium
+                    text-[color:var(--heading)]
+                    hover:bg-[color:var(--primary)]
+                    hover:text-[color:var(--buttonText)]
+                    transition
+                  `;
+
+                  const activeClass = `
+                    bg-[color:var(--primary)]
+                    text-[color:var(--buttonText)]
+                  `;
 
                   if (link.scroll) {
                     return (
@@ -198,13 +172,7 @@ const Navbar = ({domain}) => {
                           setIsOpen(false);
                           handleScroll(link.scroll);
                         }}
-                        className={`w-full text-left px-4 py-3 rounded-lg font-medium
-                          ${
-                            active
-                              ? "bg-[#422c18] text-[#f2e8e1]"
-                              : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
-                          }
-                        `}
+                        className={`${baseClass} ${active ? activeClass : ""}`}
                       >
                         {link.name}
                       </button>
@@ -219,13 +187,7 @@ const Navbar = ({domain}) => {
                         setCurrentPage(link.name);
                         setIsOpen(false);
                       }}
-                      className={`w-full px-4 py-3 rounded-lg font-medium
-                        ${
-                          active
-                            ? "bg-[#422c18] text-[#f2e8e1]"
-                            : "text-[#422c18] hover:bg-[#422c18] hover:text-[#f2e8e1]"
-                        }
-                      `}
+                      className={`${baseClass} ${active ? activeClass : ""}`}
                     >
                       {link.name}
                     </Link>
