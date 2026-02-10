@@ -70,10 +70,10 @@ export async function generateMetadata() {
 
 export default async function RootLayout({ children }) {
   const h = await headers();
-  let domain = h.get("host") || "localhost";
-    if(domain==="localhost:3000")
-   domain = "www.houseforsaleinhisar.com";
-  
+  // let domain = h.get("host") || "localhost";
+  //   if(domain==="localhost:3000")
+  let domain = "www.houseforsaleinhisar.com";
+
      const pageData = loadPageData(domain);
      
   // if (!pageData) return notFound();
