@@ -1,113 +1,38 @@
+export const dynamic = "force-dynamic";
+
 import { headers } from "next/headers";
 import { notFound } from "next/navigation";
 
-import BlogsSection from "@/components/blogs/BlogsSection";
-import ContactInfo from "@/components/contact-info/ContactInfo";
-import FAQSection from "@/components/FAQSection/FAQSection";
-import FeatureWithImage from "@/components/feature-with-image/FeatureWithImage";
 import Hero from "@/components/hero/Hero";
 import ServicesSection from "@/components/services-section/ServicesSection";
-import WelcomeSection from "@/components/welcome-section/WelcomeSection";
-import WhyChooseUs from "@/components/why-choose-us/WhyChooseUs";
-
-// ✅ FAST LOADER
-import { loadPageData } from "@/lib/main-domain/loadPageData";
+import FAQSection from "@/components/FAQSection/FAQSection";
 import Properties from "@/components/properties/Properties";
-import PropertyContentSection from "@/components/PropertyContentSection/PropertyContentSection";
 import AboutLocality from "@/components/about-locality/AboutLocality";
 
+import { loadPageData } from "@/lib/main-domain/loadPageData";
+
 export default async function Home() {
-  const h = await headers();
+  const h = await headers(); // ✅ MUST await in Next 16
 
-  // let domain = h.get("host") || "localhost";
-  //   if(domain==="localhost:3000")
-   let domain = "www.houseforsaleinhisar.com"
+  let domain = h.get("host");
 
-  // ✅ index-based direct lookup
+  if (!domain) notFound();
+
+  if (domain === "localhost:3000") {
+    domain = "www.houseforsaleinhisar.com";
+  }
+
   const pageData = loadPageData(domain);
 
-  // if (!pageData) return notFound();
+  if (!pageData) notFound();
 
   return (
     <div>
-      {/* <p>hello</p> */}
-      <Hero data={pageData?.heroSection} />
-      <Properties domain ={domain}/>
-      {/* <WelcomeSection data={pageData.welcomeSection} /> */}
-      {/* <FeatureWithImage data={pageData.featureWithImage} /> */}
-      <ServicesSection data={pageData?.servicesSection} />
-      {/* <WhyChooseUs data={pageData.whyChooseUs} /> */}
-      {/* <BlogsSection data={pageData?.blogsSection} /> */}
-      {/* <ContactInfo data={pageData.contactSection} website={domain} /> */}
-      <FAQSection data={pageData?.faqSection} />
-      {/* <PropertyContentSection/> */}
-      <AboutLocality domain ={domain}/>
+      <Hero data={pageData.heroSection} />
+      <Properties domain={domain} />
+      <ServicesSection data={pageData.servicesSection} />
+      <FAQSection data={pageData.faqSection} />
+      <AboutLocality domain={domain} />
     </div>
   );
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// import { headers } from "next/headers";
-// import BlogsSection from "@/app/main-domain/components/blogs/BlogsSection";
-// import ContactInfo from "@/app/main-domain/components/contact-info/ContactInfo";
-// import FAQSection from "@/app/main-domain/components/FAQSection/FAQSection";
-// import FeatureWithImage from "@/app/main-domain/components/feature-with-image/FeatureWithImage";
-// import Hero from "@/app/main-domain/components/hero/Hero";
-// import ServicesSection from "@/app/main-domain/components/services-section/ServicesSection";
-// import WelcomeSection from "@/app/main-domain/components/welcome-section/WelcomeSection";
-// import WhyChooseUs from "@/app/main-domain/components/why-choose-us/WhyChooseUs";
-
-// import { SITE_DATA } from "@/lib/main-domain/siteData";
-
-// export default async function Home() {
-  
-//     const h = await headers(); // ✅ MUST await in Next 16
-
-//   const domain = h.get("host") || "localhost";
-//   // const domain = "www.toletserviceinhisar.com"
-//   const pageData =
-//     SITE_DATA.find((item) => item.domain === domain) ||
-//     SITE_DATA[0]; // fallback
-  
-    
- 
-//   return (
-//    <>
-//    <Hero data ={pageData?.heroSection}/>
-//    <WelcomeSection data ={pageData?.welcomeSection} />
-//    <FeatureWithImage data ={pageData?.featureWithImage}/>
-//    <ServicesSection data ={pageData?.servicesSection} />
-//    <WhyChooseUs data ={pageData?.whyChooseUs}/>
-//    <BlogsSection data={pageData?.blogsSection}/>
-//    <ContactInfo data={pageData?.contactSection} website={domain}  />
-//    <FAQSection data={pageData?.faqSection }/>
-//    </>
-//   );
-// }
