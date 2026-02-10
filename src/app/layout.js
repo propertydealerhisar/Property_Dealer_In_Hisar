@@ -83,8 +83,7 @@ export default async function RootLayout({ children }) {
   GA_TARGET_DOMAINS[domain] || GA_TARGET_DOMAINS["localhost"];
  // undefined bhi ho sakta hai
  
-//  if(!pageData)
-//   return notFound();
+
 
   return (
     <html lang="en">
