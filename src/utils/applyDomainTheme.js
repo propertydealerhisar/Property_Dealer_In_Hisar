@@ -3,8 +3,10 @@ import { domainTheme } from "@/config/domainTheme";
 export const applyDomainTheme = () => {
   if (typeof window === "undefined") return;
 
-  // const hostname = window.location.hostname; // with www OR without
-  const hostname = "www.houseforsaleinhisar.com"; // with www OR without
+  let hostname = window.location.hostname; // with www OR without
+  if(hostname==="localhost" || hostname==="localhost:3000" )
+    hostname = "www.houseforsaleinhisar.com"; // with www OR without
+
   const cleanDomain = hostname.replace(/^www\./, "");
 
   // priority:
