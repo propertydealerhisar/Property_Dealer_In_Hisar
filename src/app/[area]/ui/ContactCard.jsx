@@ -1,7 +1,13 @@
 export function ContactCard({ children }) {
   return (
-    <div className="rounded-xl border border-gray-200 bg-white p-6 md:p-8 shadow-sm">
+    <div
+      className="
+        rounded-xl border p-6 md:p-8 shadow-sm
+        bg-[var(--cardBg)]
+        border-[var(--cardBorder)]
+      "
+    >
       {children}
     </div>
-  )
+  );
 }

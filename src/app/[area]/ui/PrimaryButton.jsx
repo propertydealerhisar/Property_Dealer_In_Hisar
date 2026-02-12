@@ -4,14 +4,16 @@ export function PrimaryButton({ children, ...props }) {
       {...props}
       className="
         w-full rounded-md
-        bg-gray-900 px-4 py-3
-        text-sm font-semibold text-white
+        px-4 py-3 text-sm font-semibold
+        bg-[var(--primary)]
+        text-[var(--heading)]
         transition-all
-        hover:bg-gray-800
-        focus:outline-none focus:ring-2 focus:ring-gray-400
+        hover:bg-[var(--accent)]
+        focus:outline-none
+        focus:ring-2 focus:ring-[var(--primary)]
       "
     >
       {children}
     </button>
-  )
+  );
 }

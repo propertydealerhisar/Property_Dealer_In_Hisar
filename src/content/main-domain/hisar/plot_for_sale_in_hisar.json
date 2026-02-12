@@ -1,5 +1,6 @@
 {
   "domain": "www.plotforsaleinhisar.com",
+  "navName":"Plot For Sale In Hisar",
   "heroSection": {
     "badge": "Best Plots in Hisar",
     "heading": "Find Your Ideal Plot for Sale in Hisar",
@@ -22,6 +23,11 @@
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
+  },
+  "properties":{
+    "heading":"Premium Residential Plot for Sale in Hisar, Haryana",
+    "subHeading":"Explore a wide range of verified Residential Plot in Hisar with genuine listings and complete assistance."
+
   },
   "welcomeSection": {
     "title": "Land Investment Platform",
@@ -254,7 +260,7 @@
   },
   "footer": {
     "brand": {
-      "name": "plotforsaleinhisar.com",
+      "name": "Plot For Sale In Hisar",
       "description": [
         "We help you discover premium plots and land investments with expert guidance, transparent processes, and trusted real estate services."
       ]

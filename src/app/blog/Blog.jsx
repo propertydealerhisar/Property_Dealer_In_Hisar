@@ -153,83 +153,116 @@ export default function BlogList() {
   ];
    
   return (
-    <section className="px-4 sm:px-6 lg:px-0 max-w-7xl mx-auto py-12 bg-[#f2e8e1]">
-      {/* -------- Loading State -------- */}
-      {loading && (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 animate-pulse">
-          {Array.from({ length: 6 }).map((_, i) => (
-            <div key={i} className="space-y-3">
-              <div className="h-56 bg-gray-200 rounded-lg" />
-              <div className="h-3 w-1/3 bg-gray-200 rounded" />
-              <div className="h-4 w-3/4 bg-gray-200 rounded" />
-              <div className="h-3 w-1/2 bg-gray-200 rounded" />
-            </div>
-          ))}
-        </div>
-      )}
+  <section className="px-4 sm:px-6 lg:px-0 max-w-7xl mx-auto py-12 bg-[color:var(--bodyBg)]">
 
-      {/* -------- Error State -------- */}
-      {error && !loading && (
-        <div className="text-center py-16">
-          <h2 className="text-xl font-semibold text-red-600 mb-3">
-            Oops! Something went wrong 
-          </h2>
-          <p className="text-gray-600 mb-6">
-            {error?.message || "Unable to load blogs right now."}
-          </p>
-          <button
-            onClick={fetchBlogs}
-            className="px-6 py-2 rounded-full bg-blue-900 text-white hover:bg-blue-800 transition-all duration-300"
+    {/* -------- Loading State -------- */}
+    {loading && (
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 animate-pulse">
+        {Array.from({ length: 6 }).map((_, i) => (
+          <div
+            key={i}
+            className="bg-[color:var(--cardBg)] rounded-xl p-4 space-y-3 border border-[color:var(--cardBorder)]"
           >
-            Try Again
-          </button>
-        </div>
-      )}
-
-      {/* -------- Blog List -------- */}
-      {!loading && !error && blogs?.length > 0 && (
-        <>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            {blogs.map((post,index) => (
-              <Link href={`/blog/${post.Slug}`} key={index} className="transition-all duration-300">
-               <Image
-                src={post.HeroImg?.url}
-                 alt={post?.HeroAltText || "Digital Marketing Company In India"}
-                 width={600}
-                 height={350}
-                 loading="lazy"   // optional hai, by default lazy hota hai
-                 className="w-full object-contain rounded-sm mb-4 hover:scale-105 transition-transform duration-500"
-                />
-                <p className="text-xs font-semibold text-red-600 uppercase mb-2 tracking-wider">
-                  {post.Category}
-                </p>
-
-                <h3 className="text-lg font-semibold text-gray-900 leading-snug mb-2 hover:text-[#422c18] transition-colors duration-300">
-                  {post.Title}
-                </h3>
-
-                <p className="text-sm text-gray-500">
-                  {formatDate(post.Date)}
-                </p>
-              </Link>
-            ))}
+            <div className="h-56 bg-gray-200 rounded-lg" />
+            <div className="h-3 w-1/3 bg-gray-200 rounded" />
+            <div className="h-4 w-3/4 bg-gray-200 rounded" />
+            <div className="h-3 w-1/2 bg-gray-200 rounded" />
           </div>
+        ))}
+      </div>
+    )}
 
-          {/* -------- Pagination -------- */}
-          {/* <div className="flex justify-center">
-            <Pagination page={page} setPage={setPage} totalPages={totalPages} />
-          </div> */}
-        </>
-      )}
+    {/* -------- Error State -------- */}
+    {error && !loading && (
+      <div className="text-center py-16">
+        <h2 className="text-xl font-semibold text-[color:var(--primary)] mb-3">
+          Oops! Something went wrong
+        </h2>
+        <p className="text-[color:var(--mutedText)] mb-6">
+          {error?.message || "Unable to load blogs right now."}
+        </p>
+        <button
+          onClick={fetchBlogs}
+          className="
+            px-6 py-2 rounded-full
+            bg-[color:var(--btnPrimaryBg)]
+            text-[color:var(--btnPrimaryText)]
+            hover:bg-[color:var(--btnPrimaryHover)]
+            transition-all duration-300
+          "
+        >
+          Try Again
+        </button>
+      </div>
+    )}
 
-      {/* -------- Empty State -------- */}
-      {!loading && !error && blogs?.length === 0 && (
-        <div className="text-center py-16 text-gray-600">
-          <p>No blogs found.</p>
-        </div>
-      )}
-    </section>
-  );
+    {/* -------- Blog Cards -------- */}
+    {!loading && !error && blogs?.length > 0 && (
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {blogs.map((post, index) => (
+          <Link
+            href={`/blog/${post.Slug}`}
+            key={index}
+            className="
+              group rounded-xl overflow-hidden
+              bg-[color:var(--cardBg)]
+              border border-[color:var(--cardBorder)]
+              hover:shadow-xl transition-all duration-300
+            "
+          >
+            {/* IMAGE */}
+            <div className="overflow-hidden">
+              <Image
+                src={post.HeroImg?.url}
+                alt={post?.HeroAltText || "Blog Image"}
+                width={600}
+                height={350}
+                loading="lazy"
+                className="w-full h-56 object-cover group-hover:scale-105 transition-transform duration-500"
+              />
+            </div>
+
+            {/* CONTENT */}
+            <div className="p-5">
+              <p
+                className="
+                  text-xs font-semibold uppercase mb-2 tracking-wider
+                  text-[color:var(--primary)]
+                "
+              >
+                {post.Category}
+              </p>
+
+              <h3
+                className="
+                  text-lg font-semibold leading-snug mb-3
+                  text-[color:var(--text)]
+                  group-hover:text-[color:var(--primary)]
+                  transition-colors duration-300
+                "
+              >
+                {post.Title}
+              </h3>
+
+              <p className="text-sm text-[color:var(--mutedText)]">
+                {formatDate(post.Date)}
+              </p>
+            </div>
+          </Link>
+        ))}
+      </div>
+    )}
+
+    {/* -------- Empty State -------- */}
+    {!loading && !error && blogs?.length === 0 && (
+      <div className="text-center py-16 text-[color:var(--mutedText)]">
+        <p>No blogs found.</p>
+      </div>
+    )}
+
+  </section>
+)
+
 }
 
 

@@ -7,17 +7,17 @@ import { MapPin } from "lucide-react";
 import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 
-export default function Properties({ host,data }) {
+export default function AllProperties({host,property}) {
   const [open, setOpen] = useState(false);
 
-  const { properties, loading, error, setDomain,domain } = useProperty();
+  const { properties, loading, error,domain,setDomain} = useProperty();
+  
+  useEffect(()=>{
+    if(domain===host || domain !==null)
+      return 
+    setDomain(host)
 
-useEffect(() => {
-  if (domain === null && host) {
-    setDomain(host);
-  }
-}, [host]);
-
+  },[host])
 
   useEffect(() => {
     document.body.style.overflow = open ? "hidden" : "";
@@ -48,10 +48,10 @@ useEffect(() => {
           {/* ================= HEADING ================= */}
           <div className="mb-10 text-left md:text-center">
             <h1 className="text-2xl sm:text-3xl font-bold text-[color:var(--primary)]">
-              {data?.heading}
+            {property?.heading}
             </h1>
             <p className="mt-2 text-sm sm:text-base text-[color:var(--mutedText)]">
-             {data?.subHeading}
+               {property?.subHeading}
             </p>
           </div>
 
@@ -71,7 +71,7 @@ useEffect(() => {
                 <div className="relative h-44 bg-black/20">
                   {property?.media?.type === "image" && property?.media?.url && (
                     <Image
-                      src={property.media.url}
+                      src={property?.media?.url}
                       alt={property.title}
                       fill
                       loading="lazy"

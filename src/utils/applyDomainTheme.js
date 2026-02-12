@@ -5,7 +5,7 @@ export const applyDomainTheme = () => {
 
   let hostname = window.location.hostname; // with www OR without
   if(hostname==="localhost" || hostname==="localhost:3000" )
-    hostname = "www.houseforsaleinhisar.com"; // with www OR without
+         hostname = `wwww.houseforsaleinhisar.com`;
 
   const cleanDomain = hostname.replace(/^www\./, "");
 
@@ -20,5 +20,6 @@ export const applyDomainTheme = () => {
 
   Object.entries(theme).forEach(([key, value]) => {
     document.documentElement.style.setProperty(`--${key}`, value);
-  });
+  });   
 };
+  

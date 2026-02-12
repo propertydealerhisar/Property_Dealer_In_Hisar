@@ -21,8 +21,6 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    console.log(formData);
-
     onSubmitSuccess?.();
     onClose?.();
 
@@ -35,14 +33,13 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
 
   return (
     <ContactCard>
-      
-      {/* HEADER WITH CLOSE ICON (INSIDE WHITE AREA) */}
+      {/* HEADER WITH CLOSE ICON */}
       <div className="flex items-start justify-between mb-4">
         <div>
-          <h3 className="text-xl font-semibold text-gray-900">
+          <h3 className="text-xl font-semibold text-[var(--heading)]">
             Get Property Details Instantly
           </h3>
-          <p className="mt-1 text-sm text-gray-600">
+          <p className="mt-1 text-sm text-[var(--mutedText)]">
             Fill out the form and our team will reach out shortly.
           </p>
         </div>
@@ -51,10 +48,13 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
         <button
           type="button"
           onClick={onClose}
-          className="ml-3 flex min-h-8 min-w-8 items-center justify-center 
-                     rounded-full bg-gray-100 text-gray-700 
-                     hover:bg-gray-200 hover:text-gray-900 
-                     transition cursor-pointer"
+          className="
+            ml-3 flex min-h-8 min-w-8 items-center justify-center
+            rounded-full cursor-pointer transition
+            bg-[var(--cardBg)]
+            text-[var(--text)]
+            hover:bg-[var(--accent)]
+          "
           aria-label="Close"
         >
           ✕

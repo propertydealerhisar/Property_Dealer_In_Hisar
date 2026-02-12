@@ -1,269 +1,360 @@
 export const domainTheme = {
-    "agriculturelandforsaleinhisar.com": {
+ "agriculturelandforsaleinhisar.com": {
   /* ================= BACKGROUNDS ================= */
-  bodyBg: "#f7fdf9",
-  navbarBg: "#1f7a4d",
-  footerBg: "#166534",
+  bodyBg: "#ffffff",          
+  navbarBg: "#7EACB5",        
+  footerBg: "#5f8f98",        
 
-  /* ================= BRAND COLORS ================= */
-  primary: "#22c55e",
-  secondary: "#4ade80",
-  accent: "#86efac",
-  hover: "#16a34a",
-
-  /* ================= TEXT (GENERAL) ================= */
-  heading: "#ffffff",
-  text: "#374151",
+  /* ================= TEXT ================= */
+  heading: "#ffffff",         
+  text: "#3a3a3a",            
   mutedText: "#6b7280",
 
-  /* ================= FOOTER TEXT (NEW – IMPORTANT) ================= */
-  footerText: "#ffffff",        // main footer text
-  footerMuted: "#d1fae5",       // soft green text
-  footerBorder: "rgba(255,255,255,0.2)",
+  /* ================= BRAND ================= */
+  primary: "#7EACB5",         
+  accent: "#ffffff",          // ✅ was #FFF4EA
+
+  /* ================= BUTTON SYSTEM (2-COLOR ONLY) ================= */
+  // Primary CTA
+  btnPrimaryBg: "#7EACB5",        
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#5f8f98",     
+
+  // Secondary CTA
+  btnSecondaryBg: "#D6E6EA",      // ✅ was #FFF4EA
+  btnSecondaryText: "#3a3a3a",
+  btnSecondaryBorder: "#7EACB5",
+  btnSecondaryHoverBg: "#D6E6EA", // ✅ was #f3e7dc
 
   /* ================= UI ================= */
   cardBg: "#ffffff",
-  cardBorder: "#d1fae5",
-  buttonText: "#ffffff",
-},
-
-"commercialpropertyforsaleinhisar.com": {
-  /* BACKGROUNDS */
-  bodyBg: "#f8fafc",
-  navbarBg: "#0f172a",
-  footerBg: "#020617",
-
-  /* BRAND */
-  primary: "#2563eb",
-  secondary: "#38bdf8",
-  accent: "#60a5fa",
-  hover: "#1d4ed8",
-
-  /* TEXT */
-  heading: "#ffffff",     // 🔥 FIX: navbar ke liye white
-  text: "#334155",
-  mutedText: "#64748b",
-
-  /* FOOTER */
-  footerText: "#ffffff",
-  footerMuted: "#c7d2fe",
-  footerBorder: "rgba(255,255,255,0.15)",
-
-  /* UI */
-  cardBg: "#ffffff",
-  cardBorder: "#e2e8f0",
-  buttonText: "#ffffff",
-},
-"flatsforrentinhisar.com": {
-  /* ================= BACKGROUNDS ================= */
-  bodyBg: "#f8fdfa",        // very light mint background
-  navbarBg: "#064e3b",      // deep teal-green (navbar)
-  footerBg: "#022c22",      // darker teal (footer)
-
-  /* ================= BRAND COLORS ================= */
- secondary: "#fde68a",   // thoda dark gold (Price on Call bg)
-buttonText: "#1c1917",  // dark text (readable on gold)
-  accent: "#99f6e4",        // light mint (hover glow)
-  hover: "#0d9488",         // darker teal hover
-
-  /* ================= TEXT ================= */
-  heading: "#ffffff",       // 🔥 navbar needs white
-  text: "#374151",          // readable grey for content
-  mutedText: "#6b7280",     // muted grey
+  cardBorder: "#7EACB5",
 
   /* ================= FOOTER ================= */
   footerText: "#ffffff",
-  footerMuted: "#ccfbf1",   // soft mint text
-  footerBorder: "rgba(255,255,255,0.18)",
+  footerMuted: "#D6E6EA",        // ✅ was #FFF4EA
+  footerBorder: "rgba(255,255,255,0.25)",
+}
+
+
+,
+
+"commercialpropertyforsaleinhisar.com": {
+  /* ================= BACKGROUNDS ================= */
+  bodyBg: "#ffffff",
+  navbarBg: "#FF9644",
+  footerBg: "#FF9644",
+
+  /* ================= TEXT ================= */
+  heading: "#ffffff",         // hero / navbar
+  text: "#374151",            // content on white
+  mutedText: "#6b7280",
+
+  /* ================= BRAND ================= */
+  primary: "#FF9644",
+  accent: "#ffffff",
+
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#FF9644",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#e6782f",
+
+  btnSecondaryBg: "#ffffff",
+  btnSecondaryText: "#FF9644",
+  btnSecondaryBorder: "#FF9644",
+  btnSecondaryHoverBg: "#fff7ed",
+
+  /* ================= UI ================= */
+  cardBg: "#ffffff",
+  cardBorder: "#FF9644",
+
+  /* ================= FOOTER ================= */
+  footerText: "#ffffff",      // normal footer text
+  footerMuted: "#ffffff",     // less important text
+  footerBorder: "#ffffff",    // clear separation
+}
+,
+"flatsforrentinhisar.com": {
+  /* ================= BACKGROUNDS ================= */
+  bodyBg: "#f8fdfa",        // very light mint
+  navbarBg: "#064e3b",      // deep teal-green
+  footerBg: "#022c22",      // darker teal
+
+  /* ================= TEXT ================= */
+  heading: "#ffffff",       // navbar / dark bg
+  text: "#374151",          // main content
+  mutedText: "#6b7280",
+
+  /* ================= BRAND ================= */
+  primary: "#0d9488",       // brand teal (icons, highlights)
+  accent: "#ffffff",        // light mint accent
+
+  /* ================= BUTTON SYSTEM (LOCKED RULES) ================= */
+  // Primary CTA (safe on any bg)
+  btnPrimaryBg: "#064e3b",      // deep teal
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#022c22",
+
+  // Secondary CTA / Price on Call
+  btnSecondaryBg: "#fde68a",    // gold
+  btnSecondaryText: "#1c1917",  // dark text for contrast
+  btnSecondaryBorder: "#facc15",
+  btnSecondaryHoverBg: "#fef3c7",
 
   /* ================= UI ================= */
   cardBg: "#ffffff",
   cardBorder: "#d1fae5",
-  buttonText: "#ffffff",
-},
+
+  /* ================= FOOTER ================= */
+  footerText: "#ffffff",
+  footerMuted: "#ccfbf1",
+  footerBorder: "rgba(255,255,255,0.18)",
+}
+,
 "flatsforsaleinhisar.com": {
-  bodyBg: "#fffdf7",
-  navbarBg: "#1c1917",
-  footerBg: "#0c0a09",
+  /* ================= BACKGROUNDS ================= */
+  bodyBg: "#ffffff",
+  navbarBg: "#E97F4A",
+  footerBg: "#E97F4A",
 
-  primary: "#d4af37",     // View Details
-  secondary: "#b8962e",   // 🔥 Price on Call FIX
-  accent: "#facc15",
-  hover: "#a8831d",
-
-  heading: "#ffffff",     // navbar safe
+  /* ================= TEXT ================= */
+  heading: "#ffffff",
   text: "#3f3f46",
   mutedText: "#71717a",
 
-  footerText: "#ffffff",
-  footerMuted: "#fde68a",
-  footerBorder: "rgba(255,255,255,0.15)",
+  /* ================= BRAND ================= */
+  primary: "#E97F4A",
+  accent: "#ffffff",
 
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#E97F4A",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#E97F4A",
+
+  btnSecondaryBg: "#FAD1B8",
+  btnSecondaryText: "#3f3f46",
+  btnSecondaryBorder: "#E97F4A",
+  btnSecondaryHoverBg: "#FAD1B8",
+
+  /* ================= UI ================= */
   cardBg: "#ffffff",
-  cardBorder: "#fde68a",
-  buttonText: "#ffffff",
-},
+  cardBorder: "#FAD1B8",
+
+  /* ================= FOOTER ================= */
+  footerText: "#ffffff",
+  footerMuted: "#ffffff",
+  footerBorder: "#ffffff",
+}
+
+,
 "houseforrentinhisar.com": {
+  /* ================= BACKGROUNDS ================= */
   bodyBg: "#f9fafb",
-  navbarBg: "#1e3a8a",
-  footerBg: "#0f172a",
+  navbarBg: "#1e40af",     // ✅ blue used instead of dark
+  footerBg: "#1e40af",     // ✅ blue used instead of dark
 
-  primary: "#2563eb",
-  secondary: "#1e40af",   // 🔥 FIX: Price on Call visible
-  accent: "#93c5fd",
-  hover: "#1d4ed8",
-
+  /* ================= TEXT ================= */
   heading: "#ffffff",
   text: "#374151",
   mutedText: "#6b7280",
 
+  /* ================= BRAND ================= */
+  primary: "#2563eb",
+  accent: "#ffffff",
+
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#2563eb",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#1d4ed8",
+
+  btnSecondaryBg: "#ffffff",
+  btnSecondaryText: "#1e40af",   // ✅ updated blue
+  btnSecondaryBorder: "#2563eb",
+  btnSecondaryHoverBg: "#eff6ff",
+
+  /* ================= UI ================= */
+  cardBg: "#ffffff",
+  cardBorder: "#e5e7eb",
+
+  /* ================= FOOTER ================= */
   footerText: "#ffffff",
   footerMuted: "#c7d2fe",
   footerBorder: "rgba(255,255,255,0.18)",
-
-  cardBg: "#ffffff",
-  cardBorder: "#e5e7eb",
-  buttonText: "#ffffff",
-},
+}
+,
 "houseforsaleinhisar.com": {
   /* ================= BACKGROUNDS ================= */
-  bodyBg: "#fff8f8",        // soft warm white
-  navbarBg: "#7f1d1d",      // deep maroon (sale authority)
-  footerBg: "#450a0a",      // dark wine footer
-
-  /* ================= BRAND COLORS ================= */
-  primary: "#b91c1c",       // strong maroon (View Details / CTA)
-  secondary: "#7f1d1d",     // 🔥 DARK on purpose (Price on Call safe)
-  accent: "#f87171",        // light red highlight
-  hover: "#991b1b",         // hover maroon
+  bodyBg: "#fff8f8",
+  navbarBg: "#7f1d1d",
+  footerBg: "#450a0a",
 
   /* ================= TEXT ================= */
-  heading: "#ffffff",       // navbar + buttons text
-  text: "#374151",          // body text
-  mutedText: "#6b7280",     // muted text
+  heading: "#ffffff",
+  text: "#374151",
+  mutedText: "#6b7280",
+
+  /* ================= BRAND ================= */
+  primary: "#b91c1c",
+  accent: "#ffffff",
+
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#b91c1c",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#991b1b",
+
+  btnSecondaryBg: "#ffffff",
+  btnSecondaryText: "#7f1d1d",
+  btnSecondaryBorder: "#7f1d1d",
+  btnSecondaryHoverBg: "#fecaca",
+
+  /* ================= UI ================= */
+  cardBg: "#ffffff",
+  cardBorder: "#fecaca",
 
   /* ================= FOOTER ================= */
   footerText: "#ffffff",
   footerMuted: "#fecaca",
   footerBorder: "rgba(255,255,255,0.18)",
-
-  /* ================= UI ================= */
-  cardBg: "#ffffff",
-  cardBorder: "#fecaca",
-  buttonText: "#ffffff",
-},
+}
+,
 "plotforsaleinhisar.com": {
   /* ================= BACKGROUNDS ================= */
-  bodyBg: "#f9fafb",        // clean light grey
-  navbarBg: "#18181b",      // charcoal black
-  footerBg: "#09090b",      // deep black footer
-
-  /* ================= BRAND COLORS ================= */
-  primary: "#c2410c",       // copper / burnt orange (CTA)
-  secondary: "#18181b",     // 🔥 DARK (Price on Call safe)
-  accent: "#fb923c",        // soft copper highlight
-  hover: "#9a3412",         // hover copper
+  bodyBg: "#f9fafb",
+  navbarBg: "#7c2d12",     // ✅ replaced black
+  footerBg: "#7c2d12",     // ✅ replaced black
 
   /* ================= TEXT ================= */
-  heading: "#ffffff",       // navbar + buttons text
-  text: "#374151",          // body text
-  mutedText: "#6b7280",     // muted text
+  heading: "#ffffff",
+  text: "#374151",
+  mutedText: "#6b7280",
 
-  /* ================= FOOTER ================= */
-  footerText: "#ffffff",
-  footerMuted: "#fed7aa",   // soft copper text
-  footerBorder: "rgba(255,255,255,0.15)",
+  /* ================= BRAND ================= */
+  primary: "#c2410c",
+  accent: "#ffffff",
+
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#c2410c",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#9a3412",
+
+  btnSecondaryBg: "#ffffff",
+  btnSecondaryText: "#7c2d12",
+  btnSecondaryBorder: "#7c2d12",
+  btnSecondaryHoverBg: "#fed7aa",
 
   /* ================= UI ================= */
   cardBg: "#ffffff",
   cardBorder: "#fed7aa",
-  buttonText: "#ffffff",
-},
-"shopforrentinhisar.com": {
-  /* ================= BACKGROUNDS ================= */
-  bodyBg: "#fff1f2",        // very soft pink background
-  navbarBg: "#be123c",      // deep rose (NOT purple, NOT blue)
-  footerBg: "#881337",      // dark rose footer
-
-  /* ================= BRAND COLORS ================= */
-  primary: "#f43f5e",       // coral / pink (CTA, View Details)
-  secondary: "#be123c",     // 🔥 DARK rose (Price on Call safe)
-  accent: "#fb7185",        // soft pink highlight
-  hover: "#e11d48",         // darker pink hover
-
-  /* ================= TEXT ================= */
-  heading: "#ffffff",       // navbar + button text
-  text: "#374151",          // body text
-  mutedText: "#6b7280",     // muted text
 
   /* ================= FOOTER ================= */
   footerText: "#ffffff",
-  footerMuted: "#fecdd3",   // very light pink text
-  footerBorder: "rgba(255,255,255,0.18)",
+  footerMuted: "#fed7aa",
+  footerBorder: "rgba(255,255,255,0.15)",
+}
+,
+"shopforrentinhisar.com": {
+  /* ================= BACKGROUNDS ================= */
+  bodyBg: "#fff1f2",
+  navbarBg: "#be123c",
+  footerBg: "#881337",
+
+  /* ================= TEXT ================= */
+  heading: "#ffffff",
+  text: "#374151",
+  mutedText: "#6b7280",
+
+  /* ================= BRAND ================= */
+  primary: "#f43f5e",
+  accent: "#ffffff",
+
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#f43f5e",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#e11d48",
+
+  btnSecondaryBg: "#ffffff",
+  btnSecondaryText: "#be123c",
+  btnSecondaryBorder: "#be123c",
+  btnSecondaryHoverBg: "#fecdd3",
 
   /* ================= UI ================= */
   cardBg: "#ffffff",
   cardBorder: "#fecdd3",
-  buttonText: "#ffffff",
-},
-"www.shopforsaleinhisar.com": {
-  /* ================= BACKGROUNDS ================= */
-  bodyBg: "#fff5f5",        // soft sale-friendly background
-  navbarBg: "#7f1d1d",      // deep maroon (authority + sale)
-  footerBg: "#450a0a",      // dark wine footer
-
-  /* ================= BRAND COLORS ================= */
-  primary: "#dc2626",       // strong red (View Details / CTA)
-  secondary: "#7f1d1d",     // 🔥 DARK (Price on Call safe)
-  accent: "#f87171",        // light red highlight
-  hover: "#b91c1c",         // darker red hover
-
-  /* ================= TEXT ================= */
-  heading: "#ffffff",       // navbar + button text
-  text: "#374151",          // body text
-  mutedText: "#6b7280",     // muted text
 
   /* ================= FOOTER ================= */
   footerText: "#ffffff",
-  footerMuted: "#fecaca",   // soft red text
+  footerMuted: "#fecdd3",
   footerBorder: "rgba(255,255,255,0.18)",
+}
+,
+"www.shopforsaleinhisar.com": {
+  /* ================= BACKGROUNDS ================= */
+  bodyBg: "#fff5f5",
+  navbarBg: "#7f1d1d",
+  footerBg: "#450a0a",
+
+  /* ================= TEXT ================= */
+  heading: "#ffffff",
+  text: "#374151",
+  mutedText: "#6b7280",
+
+  /* ================= BRAND ================= */
+  primary: "#dc2626",
+  accent: "#ffffff",
+
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#dc2626",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#b91c1c",
+
+  btnSecondaryBg: "#ffffff",
+  btnSecondaryText: "#7f1d1d",
+  btnSecondaryBorder: "#7f1d1d",
+  btnSecondaryHoverBg: "#fecaca",
 
   /* ================= UI ================= */
   cardBg: "#ffffff",
   cardBorder: "#fecaca",
-  buttonText: "#ffffff",
-},
-"toletserviceinhisar.com": {
-  /* ================= BACKGROUNDS ================= */
-  bodyBg: "#fafafa",        // clean neutral
-  navbarBg: "#18181b",      // charcoal (professional service look)
-  footerBg: "#09090b",      // deep charcoal footer
-
-  /* ================= BRAND COLORS ================= */
-  primary: "#f97316",       // red-orange (CTA / Call action)
-  secondary: "#18181b",     // 🔥 DARK (Price on Call / buttons safe)
-  accent: "#fdba74",        // soft orange highlight
-  hover: "#ea580c",         // darker orange hover
-
-  /* ================= TEXT ================= */
-  heading: "#ffffff",       // navbar + button text
-  text: "#374151",          // body text
-  mutedText: "#6b7280",     // muted text
 
   /* ================= FOOTER ================= */
   footerText: "#ffffff",
-  footerMuted: "#fed7aa",   // light orange text
-  footerBorder: "rgba(255,255,255,0.15)",
+  footerMuted: "#fecaca",
+  footerBorder: "rgba(255,255,255,0.18)",
+}
+,
+"toletserviceinhisar.com": {
+  /* ================= BACKGROUNDS ================= */
+  bodyBg: "#ffffff",
+  navbarBg: "#1C4648",
+  footerBg: "#1C4648",
+
+  /* ================= TEXT ================= */
+  heading: "#ffffff",
+  text: "#374151",
+  mutedText: "#6b7280",
+
+  /* ================= BRAND ================= */
+  primary: "#1C4648",
+  accent: "#ffffff",
+
+  /* ================= BUTTON SYSTEM ================= */
+  btnPrimaryBg: "#1C4648",
+  btnPrimaryText: "#ffffff",
+  btnPrimaryHover: "#1C4648",
+
+  btnSecondaryBg: "#ffffff",     // ✅ gold look removed
+  btnSecondaryText: "#1C4648",
+  btnSecondaryBorder: "#1C4648",
+  btnSecondaryHoverBg: "#D5D46F",
 
   /* ================= UI ================= */
   cardBg: "#ffffff",
-  cardBorder: "#e5e7eb",
-  buttonText: "#ffffff",
-},
+  cardBorder: "#D5D46F",
 
-
-
-
-
+  /* ================= FOOTER ================= */
+  footerText: "#ffffff",
+  footerMuted: "#D5D46F",
+  footerBorder: "#ffffff",
+}
 
   };

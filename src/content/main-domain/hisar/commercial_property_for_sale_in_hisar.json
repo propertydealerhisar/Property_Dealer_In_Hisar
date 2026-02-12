@@ -1,5 +1,6 @@
 {
   "domain": "www.commercialpropertyforsaleinhisar.com",
+  "navName":"Commercial Property For Sale In Hisar",
   "heroSection": {
     "badge": "Premium Commercial Properties",
     "heading": "Premium Commercial Property for Sale in Hisar",
@@ -22,6 +23,11 @@
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
+  },
+  "properties":{
+    "heading":"Premium Commercial Property for Sale in Hisar",
+    "subHeading":"Explore a wide range of verified Commercial Properties in Hisar with genuine listings and complete assistance."
+
   },
   "welcomeSection": {
     "title": "Top Commercial Properties",
@@ -276,7 +282,7 @@
   },
   "footer": {
     "brand": {
-      "name": "commercialpropertyforsaleinhisar.com",
+      "name": "Commercial Property For Sale In Hisar",
       "description": [
         "We help you discover premium commercial properties and business spaces with expert guidance, transparent processes, and trusted services."
       ]
@@ -312,7 +318,56 @@
     "links": {
       "heading": "Explore Commercial Property Listings For Sale Across Various Hisar Areas.",
       "prefix": "Commercial Property For Sale",
-      "items": []
+      "items": [
+  {
+    "area": "Sector 16-17",
+    "slug": "sector-16-17"
+  },
+  {
+    "area": "Sector 13",
+    "slug": "sector-13"
+  },
+  {
+    "area": "Urban Estate II",
+    "slug": "urban-estate-ii"
+  },
+  {
+    "area": "Sector 1-4",
+    "slug": "sector-1-4"
+  },
+  {
+    "area": "Sector 21P",
+    "slug": "sector-21p"
+  },
+  {
+    "area": "Sector 33",
+    "slug": "sector-33"
+  },
+  {
+    "area": "Sector 9-11",
+    "slug": "sector-9-11"
+  },
+  {
+    "area": "PLA Area",
+    "slug": "pla-area"
+  },
+  {
+    "area": "Sector 15",
+    "slug": "sector-15"
+  },
+  {
+    "area": "Sector 14",
+    "slug": "sector-14"
+  },
+  {
+    "area": "Model Town",
+    "slug": "model-town"
+  },
+  {
+    "area": "Global Space",
+    "slug": "global-space"
+  }
+]
     }
   }
 }

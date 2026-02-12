@@ -1,5 +1,6 @@
 {
   "domain": "www.houseforrentinhisar.com",
+  "navName":"House For Rent In Hisar",
   "heroSection": {
     "badge": "Premium Houses for Rent",
     "heading": "Premium House for Rent in Hisar – Find Your Ideal Home",
@@ -22,6 +23,11 @@
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
+  },
+  "properties":{
+    "heading":"Premium Residential Properties for Rent in Hisar, Haryana",
+    "subHeading":"Explore a wide range of verified residential properties in Hisar with genuine listings and complete assistance."
+
   },
   "welcomeSection": {
     "title": "Your Trusted Rental Platform",
@@ -255,7 +261,7 @@
   },
   "footer": {
     "brand": {
-      "name": "houseforrentinhisar.com",
+      "name": "House For Rent In Hisar",
       "description": [
         "We help you discover premium rental homes and properties with expert guidance, transparent processes, and trusted real estate services across the city."
       ]

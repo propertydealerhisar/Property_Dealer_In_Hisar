@@ -51,7 +51,7 @@ const FAQSection = ({ data }) => {
                 rounded-xl p-5
                 bg-[color:var(--cardBg)]
                 border border-[color:var(--cardBorder)]
-                shadow-md
+                shadow-sm
               "
             >
               {/* QUESTION ROW */}
@@ -62,7 +62,7 @@ const FAQSection = ({ data }) => {
                 <span
                   className="
                     text-lg font-semibold
-                    text-[color:var(--primary)]
+                    text-[color:var(--text)]
                   "
                 >
                   {item.q}
@@ -93,7 +93,7 @@ const FAQSection = ({ data }) => {
                     <p
                       className="
                         leading-relaxed
-                        text-[color:var(--text)]
+                        text-[color:var(--mutedText)]
                       "
                     >
                       {item.a}
@@ -111,3 +111,4 @@ const FAQSection = ({ data }) => {
 };
 
 export default FAQSection;
+  

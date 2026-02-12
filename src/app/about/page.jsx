@@ -1,9 +1,17 @@
-"use client";
-
 import { data } from "./data";
+import { headers } from "next/headers";
 
-const AboutLocality = ({ domain }) => {
-  console.log("domain=>",domain)
+const   page = async () => {
+  console.log("dddd ",process.env.DOMAIN)
+     const h = await headers(); // ✅ MUST await in Next 16
+    
+      let     domain = h.get("host");
+    
+      if (!domain) notFound();
+    
+      if (domain === "localhost:3000") {
+         domain = `${process.env.DOMAIN}`;
+      }
   if (!domain) return null;
 
   const matched = data.find(
@@ -17,14 +25,13 @@ const AboutLocality = ({ domain }) => {
       className="
         about-locality
         py-8 md:py-12
-        bg-[color:var(--bodyBg)]
+        bg-[color:var(--bodyBg)] px-4 sm:px-6
       "
     >
       <div
         className="   
           html-content ql-editor
           max-w-7xl mx-auto
-          px-4 sm:px-6
           text-[color:var(--text)]
         "
         dangerouslySetInnerHTML={{ __html: matched.html }}
@@ -33,4 +40,4 @@ const AboutLocality = ({ domain }) => {
   );
 };
 
-export default AboutLocality;
+export default page;

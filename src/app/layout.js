@@ -13,6 +13,7 @@ import GoogleAnalytics from "@/components/google-analytics/GoogleAnalytics";
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 import { PropertyProvider } from "@/contexts/propertyContext";
 import DomainThemeProvider from "@/components/DomainThemeProvider/DomainThemeProvider";
+import ToletFooter from "@/components/footer/ToletFooter";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,7 +31,7 @@ export async function generateMetadata() {
   const h = await headers();
  let domain = h.get("host") || "localhost";
     if(domain==="localhost:3000")
-   domain = "www.houseforsaleinhisar.com"
+         domain = `${process.env.DOMAIN}`;
 
 
 
@@ -70,9 +71,9 @@ export async function generateMetadata() {
 
 export default async function RootLayout({ children }) {
   const h = await headers();
-  // let domain = h.get("host") || "localhost";
-  //   if(domain==="localhost:3000")
-  let domain = "www.houseforsaleinhisar.com";
+  let domain = h.get("host") || "localhost";
+    if(domain==="localhost:3000")
+         domain = `${process.env.DOMAIN}`;
 
      const pageData = loadPageData(domain);
      
@@ -108,16 +109,20 @@ export default async function RootLayout({ children }) {
         </noscript>
         <PropertyProvider>
           <DomainThemeProvider>
-        <Navbar domain={pageData?.domain} />
+        <Navbar domain={pageData?.navName} />
         {children}
+        {domain === "www.toletserviceinhisar.com" ? (
+          <ToletFooter/>
+          ) : (
         <Footer data={pageData?.footer}  />
+        )}
         </DomainThemeProvider>
         </PropertyProvider>
       </body>
     </html>
   );
 }
-
+      
 
 
 
