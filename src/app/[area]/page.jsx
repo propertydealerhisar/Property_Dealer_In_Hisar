@@ -28,8 +28,8 @@ const page = async({params}) => {
  const pageData = loadPageData(domain);
 
   if (!pageData) notFound();
-  console.log("area,domain=>",domain,area)
-  console.log("data =>",pageData?.properties)
+  // console.log("area,domain=>",domain,area)
+  // console.log("data =>",pageData?.properties)
   return (
     <div>
     {/* <HeroSection data={data?.hero}/> */}

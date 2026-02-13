@@ -29,8 +29,8 @@ const Page = async () => {
   }
 
   const fullHost = ctx.host; // cleaned host
-  console.log("full host _>",fullHost);
-  console.log("ctx=>",ctx)
+  // console.log("full host _>",fullHost);
+  // console.log("ctx=>",ctx)
   
 
   // ✅ EXACT MATCH (no ambiguity)

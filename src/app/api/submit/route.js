@@ -17,7 +17,7 @@ export async function POST(req) {
     try {
       result = JSON.parse(text);
     } catch {
-      console.error("Google returned non-JSON:", text);
+      // console.error("Google returned non-JSON:", text);
       return Response.json(
         { success: false, error: "Invalid response from Google Script" },
         { status: 500 }

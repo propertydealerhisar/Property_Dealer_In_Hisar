@@ -3,7 +3,7 @@ import Script from "next/script";
 export default function GoogleAnalytics({ gaId }) {
   if (!gaId) return null;
 
-  console.log("gaid",gaId)
+  // console.log("gaid",gaId)
 
   return (
     <>

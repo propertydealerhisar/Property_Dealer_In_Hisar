@@ -2,7 +2,7 @@ import { data } from "./data";
 import { headers } from "next/headers";
 
 const   page = async () => {
-  console.log("dddd ",process.env.DOMAIN)
+  // console.log("dddd ",process.env.DOMAIN)
      const h = await headers(); // ✅ MUST await in Next 16
     
       let     domain = h.get("host");

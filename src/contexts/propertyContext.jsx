@@ -70,13 +70,13 @@ useEffect(() => {
         // }
       );
 
-       console.log("domain =>",domain2)
-       console.log("locality =>",locality)
-      console.log("data =>",response?.data?.data)
+       // console.log("domain =>",domain2)
+       // console.log("locality =>",locality)
+      // console.log("data =>",response?.data?.data)
       setData(response?.data?.data);
     } catch (err) {
       setError2("Data fetch nahi ho paaya");
-      console.log("error =>",err.message)
+      // console.log("error =>",err.message)
     } finally {
       setLoading2(false);
     }

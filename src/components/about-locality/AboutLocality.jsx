@@ -3,7 +3,7 @@
 import { data } from "./data";
 
 const AboutLocality = ({ domain }) => {
-  console.log("domain=>",domain)
+  // console.log("domain=>",domain)
   if (!domain) return null;
 
   const matched = data.find(

@@ -28,7 +28,7 @@ export default async function Home() {
 
   if (!pageData) notFound();
 
-  console.log("recccc",domain)
+  // console.log("recccc",domain)
 
   return (
     <div>
