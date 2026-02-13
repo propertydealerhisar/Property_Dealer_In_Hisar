@@ -5,7 +5,7 @@ export const applyDomainTheme = () => {
 
   let hostname = window.location.hostname; // with www OR without
   if(hostname==="localhost" || hostname==="localhost:3000" )
-         hostname = `wwww.houseforsaleinhisar.com`;
+         hostname = `wwww.flatsforsaleinhisar.com`;
 
   const cleanDomain = hostname.replace(/^www\./, "");
 

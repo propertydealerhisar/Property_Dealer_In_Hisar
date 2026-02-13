@@ -14,6 +14,9 @@ import { loadPageData } from "@/lib/main-domain/loadPageData";
 import { PropertyProvider } from "@/contexts/propertyContext";
 import DomainThemeProvider from "@/components/DomainThemeProvider/DomainThemeProvider";
 import ToletFooter from "@/components/footer/ToletFooter";
+import { domainTheme } from "@/config/domainTheme";
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -84,11 +87,21 @@ export default async function RootLayout({ children }) {
   GA_TARGET_DOMAINS[domain] || GA_TARGET_DOMAINS["localhost"];
  // undefined bhi ho sakta hai
  
+ const cleanDomain = domain.replace(/^www\./, "");
+const theme =
+    domainTheme[domain] ||
+    domainTheme[cleanDomain]
 
+  const cssVars = Object.entries(theme)
+    .map(([key, val]) => `--${key}:${val};`)
+    .join("");
 
   return (
     <html lang="en">
-       <head>
+       <head >
+         <style dangerouslySetInnerHTML={{
+          __html: `:root{${cssVars}}`
+        }} />
          <link rel="icon" href="/favicon.ico" />
         {/* ✅ Domain-wise GTM */}
         <GoogleTagManager gtmId={gtmId} />
@@ -108,7 +121,7 @@ export default async function RootLayout({ children }) {
           />
         </noscript>
         <PropertyProvider>
-          <DomainThemeProvider>
+          {/* <DomainThemeProvider> */}
         <Navbar domain={pageData?.navName} />
         {children}
         {domain === "www.toletserviceinhisar.com" ? (
@@ -116,7 +129,7 @@ export default async function RootLayout({ children }) {
           ) : (
         <Footer data={pageData?.footer}  />
         )}
-        </DomainThemeProvider>
+        {/* </DomainThemeProvider> */}
         </PropertyProvider>
       </body>
     </html>
