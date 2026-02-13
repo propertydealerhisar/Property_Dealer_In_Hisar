@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import { Toaster } from "react-hot-toast";
 import "@/app/globals.css";
 import { notFound } from "next/navigation";
 import Navbar from "@/components/navbar/Navbar";
@@ -131,6 +132,7 @@ const theme =
         )}
         {/* </DomainThemeProvider> */}
         </PropertyProvider>
+        <Toaster position="top-right" />
       </body>
     </html>
   );

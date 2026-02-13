@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import toast from "react-hot-toast";
 import { ContactCard } from "./ui/ContactCard";
 import { FormInput } from "./ui/FormInput";
 import { FormTextarea } from "./ui/FormTextarea";
@@ -23,11 +24,24 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
       : "";
 
   const handleChange = (e) => {
-    setFormData({ ...formData, [e.target.name]: e.target.value });
+    const { name, value } = e.target;
+
+    // 📱 phone: only numbers & max 10
+    if (name === "phone") {
+      if (!/^\d*$/.test(value)) return;
+      if (value.length > 10) return;
+    }
+
+    setFormData({ ...formData, [name]: value });
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+
+    if (formData.phone.length !== 10) {
+      toast.error("Phone number must be 10 digits");
+      return;
+    }
 
     setLoading(true);
 
@@ -39,13 +53,14 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
           name: formData.name,
           phone: formData.phone,
           message: formData.message,
-          website, // 👈 IMPORTANT
+          website,
         }),
       });
 
       const result = await res.json();
 
       if (result.success) {
+        toast.success("Form submitted successfully!");
         onSubmitSuccess?.();
         onClose?.();
 
@@ -54,9 +69,12 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
           phone: "",
           message: "",
         });
+      } else {
+        toast.error("Something went wrong. Try again.");
       }
     } catch (err) {
       console.log("Form submit error:", err);
+      toast.error("Server error. Please try later.");
     } finally {
       setLoading(false);
     }
@@ -104,9 +122,10 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
           <FormInput
             name="phone"
             required
-            placeholder="+91 XXXXX XXXXX"
+            placeholder="Enter 10 digit phone number"
             value={formData.phone}
             onChange={handleChange}
+            inputMode="numeric"
           />
         </div>
 
@@ -122,8 +141,16 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
         </div>
 
         <PrimaryButton type="submit" disabled={loading}>
-          {loading ? "Submitting..." : "Submit Inquiry"}
-        </PrimaryButton>
+  {loading ? (
+    <span className="flex items-center justify-center gap-2">
+      <span className="h-4 w-4 animate-spin rounded-full border-2 border-white border-t-transparent"></span>
+      Submitting...
+    </span>
+  ) : (
+    "Submit Inquiry"
+  )}
+</PrimaryButton>
+
       </form>
     </ContactCard>
   );
