@@ -14,26 +14,57 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
     message: "",
   });
 
+  const [loading, setLoading] = useState(false);
+
+  // 🔹 domain auto detect
+  const website =
+    typeof window !== "undefined"
+      ? window.location.hostname.replace("www.", "")
+      : "";
+
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
 
-    onSubmitSuccess?.();
-    onClose?.();
+    setLoading(true);
 
-    setFormData({
-      name: "",
-      phone: "",
-      message: "",
-    });
+    try {
+      const res = await fetch("/api/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: formData.name,
+          phone: formData.phone,
+          message: formData.message,
+          website, // 👈 IMPORTANT
+        }),
+      });
+
+      const result = await res.json();
+
+      if (result.success) {
+        onSubmitSuccess?.();
+        onClose?.();
+
+        setFormData({
+          name: "",
+          phone: "",
+          message: "",
+        });
+      }
+    } catch (err) {
+      console.log("Form submit error:", err);
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
     <ContactCard>
-      {/* HEADER WITH CLOSE ICON */}
+      {/* HEADER */}
       <div className="flex items-start justify-between mb-4">
         <div>
           <h3 className="text-xl font-semibold text-[var(--primary)]">
@@ -44,18 +75,13 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
           </p>
         </div>
 
-        {/* CLOSE ICON */}
         <button
           type="button"
           onClick={onClose}
-          className="
-            ml-3 flex min-h-8 min-w-8 items-center justify-center
-            rounded-full cursor-pointer transition
-            bg-[var(--cardBg)]
-            text-[var(--text)]
-            hover:bg-[var(--accent)]
-          "
-          aria-label="Close"
+          className="ml-3 flex min-h-8 min-w-8 items-center justify-center
+          rounded-full cursor-pointer transition
+          bg-[var(--cardBg)] text-[var(--text)]
+          hover:bg-[var(--accent)]"
         >
           ✕
         </button>
@@ -95,8 +121,8 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
           />
         </div>
 
-        <PrimaryButton type="submit" >
-          Submit Inquiry
+        <PrimaryButton type="submit" disabled={loading}>
+          {loading ? "Submitting..." : "Submit Inquiry"}
         </PrimaryButton>
       </form>
     </ContactCard>
