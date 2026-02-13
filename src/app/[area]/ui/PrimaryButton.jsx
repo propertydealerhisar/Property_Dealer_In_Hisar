@@ -8,8 +8,8 @@ export function PrimaryButton({ children, ...props }) {
         bg-[var(--primary)]
         text-[var(--heading)]
         transition-all
-        hover:bg-[var(--accent)]
-        focus:outline-none
+        hover:bg-[color:var(--btnPrimaryHover)]
+        focus:outline-none cursor-pointer
         focus:ring-2 focus:ring-[var(--primary)]
       "
     >

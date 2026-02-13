@@ -36,7 +36,7 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
       {/* HEADER WITH CLOSE ICON */}
       <div className="flex items-start justify-between mb-4">
         <div>
-          <h3 className="text-xl font-semibold text-[var(--heading)]">
+          <h3 className="text-xl font-semibold text-[var(--primary)]">
             Get Property Details Instantly
           </h3>
           <p className="mt-1 text-sm text-[var(--mutedText)]">
@@ -95,7 +95,7 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
           />
         </div>
 
-        <PrimaryButton type="submit">
+        <PrimaryButton type="submit" >
           Submit Inquiry
         </PrimaryButton>
       </form>
