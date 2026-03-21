@@ -9,7 +9,7 @@ export const BlogProvider = ({ children }) => {
   const [blogs, setBlogs] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [domain,setDmonain]=useState("www.dealacres.com");
+  const [domain,setDomain]=useState(null);
   const [page,setPage]=useState(1);
   const [totalPages,setTotalPages]=useState(1)
 
@@ -56,16 +56,16 @@ export const BlogProvider = ({ children }) => {
   };
 
   useEffect(()=>{
-    console.log("API CALL TRIGGER");
+    if(domain)
      fetchBlogs()
-  },[page])
+  },[page,domain])
 
   return (
     <BlogContext.Provider
       value={{
         blogs,
         loading,
-        error,page,setPage,totalPages
+        error,page,setPage,totalPages,setDomain,domain,fetchBlogs
       }}
     >
       {children}

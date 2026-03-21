@@ -20,8 +20,20 @@ export default function Page() {
     loading,
     page,
     setPage,
-    totalPages,
+    totalPages,setDomain,domain,fetchBlogs
   } = useBlog();
+
+ useEffect(()=>{
+     let h = window.location.host;
+
+    if (h === "localhost:3000") {
+      h = process.env.NEXT_PUBLIC_DOMAIN;
+    }
+
+             if(h)
+                setDomain(h)
+        },[domain])
+
 
   // ================= LOADING FULL SCREEN =================
   if (loading) {
