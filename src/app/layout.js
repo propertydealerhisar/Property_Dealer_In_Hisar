@@ -13,6 +13,8 @@ import { GA_TARGET_DOMAINS } from "@/lib/main-domain/gaTargetDomains";
 import GoogleAnalytics from "@/components/google-analytics/GoogleAnalytics";
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 import { PropertyProvider } from "@/contexts/propertyContext";
+import { BlogProvider } from "@/contexts/BlogContext";
+
 import DomainThemeProvider from "@/components/DomainThemeProvider/DomainThemeProvider";
 import ToletFooter from "@/components/footer/ToletFooter";
 import { domainTheme } from "@/config/domainTheme";
@@ -122,6 +124,7 @@ const theme =
           />
         </noscript>
         <PropertyProvider>
+          <BlogProvider>
           {/* <DomainThemeProvider> */}
         <Navbar domain={pageData?.navName} />
         {children}
@@ -131,6 +134,7 @@ const theme =
         <Footer data={pageData?.footer}  />
         )}
         {/* </DomainThemeProvider> */}
+        </BlogProvider>
         </PropertyProvider>
         <Toaster position="top-right" />
       </body>
