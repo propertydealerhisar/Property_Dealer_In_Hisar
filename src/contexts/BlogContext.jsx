@@ -14,7 +14,7 @@ export const BlogProvider = ({ children }) => {
   const [totalPages,setTotalPages]=useState(1)
 
   const api = axios.create({
-    baseURL: "http://localhost:8080",
+    baseURL: "https://deal-acres-backend.onrender.com",
     timeout: 10000, // ⏱️ request timeout
   });
 

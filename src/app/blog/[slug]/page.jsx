@@ -12,7 +12,7 @@ async function getBlogData(slug,domain) {
 
   try {
     const res = await fetch(
-      `http://localhost:8080/admin/blog/getBlogBySlug/${slug}?domain=${domain}`,
+      `https://deal-acres-backend.onrender.com/admin/blog/getBlogBySlug/${slug}?domain=${domain}`,
       {
          cache: "force-cache",
         next: { revalidate: 120 }, // revalidate every 2 minutes
@@ -50,13 +50,13 @@ export async function generateMetadata({ params }) {
   }
 
   return {
-    title: single?.MetaTitle || single?.Title || "Parcharmanch Blog",
+    title: single?.MetaTitle || single?.Title || "Property Blog",
     description:
       single?.MetaDescription ||
       "Read insightful stories and blogs on Parcharmanch.",
-    alternates: {
-      canonical: `https://www.parcharmanch.in/blog/${slug}`,
-    },
+    // alternates: {
+    //   canonical: `https://www.parcharmanch.in/blog/${slug}`,
+    // },
   };
 }
 
