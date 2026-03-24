@@ -1,5 +1,6 @@
 {
   "domain": "www.toletserviceinhisar.com",
+  "navName":"To Let Service In Hisar",
   "heroSection": {
     "badge": "Reliable To-Let Service",
     "heading": "Reliable To-Let Service in Hisar",
@@ -22,6 +23,11 @@
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
+  },
+  "properties":{
+    "heading":"Premium Residential And Commercial Properties for Rent in Hisar, Haryana",
+    "subHeading":"Explore a wide range of verified Residential And Commercial Properties in Hisar with genuine listings and complete assistance."
+
   },
   "welcomeSection": {
     "title": "Rental Partner in Hisar",
@@ -274,7 +280,7 @@
   },
   "footer": {
     "brand": {
-      "name": "toletserviceinhisar.com",
+      "name": "To Let Service In Hisar",
       "description": [
         "We help you discover perfect rental properties through our trusted To-Let Service with expert guidance and transparent processes."
       ]
@@ -311,6 +317,7 @@
       "heading": "Explore Prime Residential and Commercial Properties To Let by Area.",
       "prefix": "To Let Service In Hisar",
       "items": []
+
     }
   }
 }

@@ -3,7 +3,7 @@ export async function POST(req) {
     const body = await req.json();
 
     const googleRes = await fetch(
-      process.env.GOOGLE_SCRIPT_URL,
+      "https://script.google.com/macros/s/AKfycbwVR1Z1VwSwpcbg5V-kGoIT_haASlYy_2I84-U9qs7X8TFUsqJjR1U9JGRtGXdx0n5yYA/exec",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -17,12 +17,12 @@ export async function POST(req) {
     try {
       result = JSON.parse(text);
     } catch {
-      console.error("Google returned non-JSON:", text);
+      // console.error("Google returned non-JSON:", text);
       return Response.json(
         { success: false, error: "Invalid response from Google Script" },
         { status: 500 }
       );
-    }
+    } 
 
     return Response.json(result);
 

@@ -63,10 +63,10 @@ function updateDomain(filePath, fileName) {
     );
 
     updated++;
-    console.log("✅ Updated:", finalDomain);
+    // console.log("✅ Updated:", finalDomain);
 
   } catch (err) {
-    console.error("❌ Error:", fileName, err.message);
+    // console.error("❌ Error:", fileName, err.message);
   }
 }
 

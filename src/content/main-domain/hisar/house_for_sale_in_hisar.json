@@ -1,5 +1,6 @@
 {
   "domain": "www.houseforsaleinhisar.com",
+  "navName":"House For Sale In Hisar",
   "heroSection": {
     "badge": "Premium Properties Available",
     "heading": "House for Sale in Hisar – Find Your Ideal Home Today",
@@ -22,6 +23,11 @@
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
+  },
+  "properties":{
+    "heading":"Premium Residential Properties for Sale in Hisar, Haryana",
+    "subHeading":"Explore a wide range of verified residential properties in Hisar with genuine listings and complete assistance."
+
   },
   "welcomeSection": {
     "title": "Your Trusted Real Estate Platform in Hisar",
@@ -224,52 +230,45 @@
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to the most common questions about our real estate services.",
-    "faqs": [
-      {
-        "q": "How can I find the best house for sale in Hisar?",
-        "a": "Browse all verified listings on our platform, review locations, prices, and features, and connect directly with property experts for personalized assistance"
-      },
-      {
-        "q": "Are the listings genuine and verified?",
-        "a": "Yes, the listings are verified through our network of trusted Property Dealers in Hisar and supported by Deal Acres Hisar to ensure authenticity."
-      },
-      {
-        "q": "Can I list my property for free?",
-        "a": "Absolutely! Our platform offers free, unlisted property listings, enabling property owners to reach genuine buyers more easily."
-      },
-      {
-        "q": "Do you offer assistance for home buyers?",
-        "a": "We offer comprehensive assistance, from property search to documentation, to keep your buying process straightforward and worry-free."
-      },
-      {
-        "q": "What types of properties are available in Hisar?",
-        "a": "You can find houses, flats, shops, plots, and commercial spaces for sale in Hisar, available across all budgets and top locations."
-      },
-      {
-        "q": "Can I directly contact sellers?",
-        "a": "Yes, you can contact sellers or property dealers directly using the details provided on the listing pages."
-      },
-      {
-        "q": "Do you have rental properties too?",
-        "a": "Our platform includes house rentals, shop rentals, flats, and additional options available in Hisar."
-      },
-      {
-        "q": "Is Hisar a good place to invest in property?",
-        "a": "Hisar is experiencing notable residential and commercial growth, making it a promising destination for long-term property investment."
-      },
-      {
-        "q": "How often are listings updated?",
-        "a": "Listings are updated regularly to ensure you have access to the latest house-for-sale opportunities in Hisar."
-      },
-      {
-        "q": "What makes your service different from others?",
-        "a": "We offer a trusted, transparent, and buyer-friendly experience, backed by Deal Acres Hisar's strong real estate expertise.Hisar."
-      }
-    ]
+    "faqs":[
+  {
+    "q": "Is buying a shop in Hisar a good investment?",
+    "a": "Yes, Hisar has steady commercial growth. Demand for retail and service businesses is strong, making shop investment safe for long term."
+  },
+  {
+    "q": "Can I find a shop for sale in Hisar under 30 lakhs?",
+    "a": "Yes, budget options are available, especially small shops in residential areas and local markets."
+  },
+  {
+    "q": "Which area is best to buy a shop in Hisar?",
+    "a": "Rajguru Market, sector markets, and main roads like Delhi Road are considered good locations."
+  },
+  {
+    "q": "Is Rajguru Market good for business?",
+    "a": "Yes, a shop for sale in Rajguru Market Hisar offers high footfall and strong business potential."
+  },
+  {
+    "q": "Are office spaces for sale in Hisar a good option?",
+    "a": "Yes, office spaces are suitable for clinics, coaching centers, and professional services."
+  },
+  {
+    "q": "Can I get rental income from a shop in Hisar?",
+    "a": "Yes, demand for shop for rent in Hisar is good in commercial areas."
+  },
+  {
+    "q": "Is registry mandatory for shop purchase?",
+    "a": "Yes, registry is necessary to legally transfer ownership."
+  },
+  {
+    "q": "Can NRIs buy commercial property in Hisar?",
+    "a": "Yes, NRIs can buy commercial property for sale in Hisar as per Indian property laws."
+  }
+]
+
   },
   "footer": {
     "brand": {
-      "name": "houseforsaleinhisar.com",
+      "name": "House For Sale In Hisar",
       "description": [
         "We help you discover premium properties with expert guidance, transparent processes, and trusted real estate services across the city."
       ]

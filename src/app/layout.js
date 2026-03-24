@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import { Toaster } from "react-hot-toast";
 import "@/app/globals.css";
 import { notFound } from "next/navigation";
 import Navbar from "@/components/navbar/Navbar";
@@ -12,7 +13,13 @@ import { GA_TARGET_DOMAINS } from "@/lib/main-domain/gaTargetDomains";
 import GoogleAnalytics from "@/components/google-analytics/GoogleAnalytics";
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 import { PropertyProvider } from "@/contexts/propertyContext";
+import { BlogProvider } from "@/contexts/BlogContext";
+
 import DomainThemeProvider from "@/components/DomainThemeProvider/DomainThemeProvider";
+import ToletFooter from "@/components/footer/ToletFooter";
+import { domainTheme } from "@/config/domainTheme";
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,7 +37,7 @@ export async function generateMetadata() {
   const h = await headers();
  let domain = h.get("host") || "localhost";
     if(domain==="localhost:3000")
-   domain = "www.houseforsaleinhisar.com"
+         domain = `${process.env.DOMAIN}`;
 
 
 
@@ -70,9 +77,9 @@ export async function generateMetadata() {
 
 export default async function RootLayout({ children }) {
   const h = await headers();
-  // let domain = h.get("host") || "localhost";
-  //   if(domain==="localhost:3000")
-  let domain = "www.houseforsaleinhisar.com";
+  let domain = h.get("host") || "localhost";
+    if(domain==="localhost:3000")
+         domain = `${process.env.DOMAIN}`;
 
      const pageData = loadPageData(domain);
      
@@ -83,11 +90,21 @@ export default async function RootLayout({ children }) {
   GA_TARGET_DOMAINS[domain] || GA_TARGET_DOMAINS["localhost"];
  // undefined bhi ho sakta hai
  
+ const cleanDomain = domain.replace(/^www\./, "");
+const theme =
+    domainTheme[domain] ||
+    domainTheme[cleanDomain]
 
+  const cssVars = Object.entries(theme)
+    .map(([key, val]) => `--${key}:${val};`)
+    .join("");
 
   return (
     <html lang="en">
-       <head>
+       <head >
+         <style dangerouslySetInnerHTML={{
+          __html: `:root{${cssVars}}`
+        }} />
          <link rel="icon" href="/favicon.ico" />
         {/* ✅ Domain-wise GTM */}
         <GoogleTagManager gtmId={gtmId} />
@@ -107,17 +124,24 @@ export default async function RootLayout({ children }) {
           />
         </noscript>
         <PropertyProvider>
-          <DomainThemeProvider>
-        <Navbar domain={pageData?.domain} />
+          <BlogProvider>
+          {/* <DomainThemeProvider> */}
+        <Navbar domain={pageData?.navName} />
         {children}
+        {domain === "www.toletserviceinhisar.com" ? (
+          <ToletFooter/>
+          ) : (
         <Footer data={pageData?.footer}  />
-        </DomainThemeProvider>
+        )}
+        {/* </DomainThemeProvider> */}
+        </BlogProvider>
         </PropertyProvider>
+        <Toaster position="top-right" />
       </body>
     </html>
   );
 }
-
+      
 
 
 

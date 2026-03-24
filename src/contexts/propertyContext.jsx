@@ -1,42 +1,47 @@
 "use client";
 
-import { createContext, useContext, useEffect, useState } from "react";
+import { createContext, useContext, useEffect, useState,useRef} from "react";
+
 import axios from "axios";
 
 const PropertyContext = createContext();
 
 export const PropertyProvider = ({ children }) => {
-  const [domain, setDomain] = useState(null);      // ✅ domain STATE
-  const [properties, setProperties] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
 
-  const getPropertiesByDomain = async (domainValue) => {
-    console.log("api call")
-    try {
-      setLoading(true);
-      setError(null);
+const [domain, setDomain] = useState(null);
+const [properties, setProperties] = useState([]);
+const [loading, setLoading] = useState(true);
+const [error, setError] = useState(null);
 
-      const res = await axios.get(
-        `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertiesByDomain/${domainValue}`
-      );
+const lastFetchedDomain = useRef(null); // 🔑 ADD THIS
 
-      setProperties(res.data.data || []);
-    } catch (err) {
-      setError(
-        err.response?.data?.message || err.message || "Something went wrong"
-      );
-    } finally {
-      setLoading(false);
-    }
-  };
+const getPropertiesByDomain = async () => {
+  // 🚫 already fetched → skip
+  if (lastFetchedDomain.current === domain && properties.length > 0) {
+    return;
+  }
 
-  // jab domain change ho → API call
-  useEffect(() => {
-    if (domain) {
-      getPropertiesByDomain(domain);
-    }
-  }, [domain]);
+  lastFetchedDomain.current = domain; // 🔒 lock
+
+  try {
+    setLoading(true);
+    setError(null);
+
+    const res = await axios.get(
+      `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertiesByDomain/${domain}`
+    );
+
+    setProperties(res.data.data || []);
+  } catch (err) {
+    lastFetchedDomain.current = null; // rollback
+    setError("Something went wrong");
+  } finally {
+    setLoading(false);
+  }
+};
+useEffect(() => {
+   if(domain) getPropertiesByDomain();
+   }, [domain]);
 
   // **************************************************************************
   const [data, setData] = useState(null);
@@ -52,7 +57,7 @@ export const PropertyProvider = ({ children }) => {
   // ✅ API call uses locality state
   const fetchProperties = async () => {
     try {
-      setLoading(true);
+      setLoading2(true);
       setError(null);
 
       const response = await axios.get(
@@ -65,13 +70,13 @@ export const PropertyProvider = ({ children }) => {
         // }
       );
 
-       console.log("domain =>",domain2)
-       console.log("locality =>",locality)
-      console.log("data =>",response?.data?.data)
+       // console.log("domain =>",domain2)
+       // console.log("locality =>",locality)
+      // console.log("data =>",response?.data?.data)
       setData(response?.data?.data);
     } catch (err) {
       setError2("Data fetch nahi ho paaya");
-      console.log("error =>",err.message)
+      // console.log("error =>",err.message)
     } finally {
       setLoading2(false);
     }
@@ -93,9 +98,10 @@ useEffect(()=>{
         setDomain,        
         properties,
         loading,
+        setLoading,
         error,
         refetch: () => getPropertiesByDomain(domain),
-        data,loading2,error2,setDomain2,setLocality
+        data,loading2,error2,setDomain2,setLocality,locality,domain2
       }}
     >
       {children}

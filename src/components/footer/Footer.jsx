@@ -22,7 +22,7 @@ const Footer = ({ data }) => {
               {data?.links?.heading}
             </h3>
 
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-y-3 gap-x-4">
               {data?.links?.items?.map((item, index) => (
                 <Link
                   key={index}
@@ -31,6 +31,8 @@ const Footer = ({ data }) => {
                     text-sm
                     text-[color:var(--footerMuted)]
                     hover:text-[color:var(--accent)]
+                    hover:underline
+                    underline-offset-4
                     transition
                   "
                 >
@@ -42,67 +44,63 @@ const Footer = ({ data }) => {
         )}
 
         {/* ================= MAIN FOOTER ================= */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-12">
+        <div className="flex flex-row gap-10 mb-12 justify-between">
 
           {/* ABOUT */}
-          <div>
+          <div className="flex-1" >
             <Link
               href="/"
-              className="text-xl font-semibold mb-3 inline-block text-[color:var(--footerText)]"
+              className="
+                text-xl font-semibold mb-3 inline-block
+                text-[color:var(--footerText)]
+              "
             >
               {data?.brand?.name}
             </Link>
 
-            <p className="leading-relaxed text-md text-[color:var(--footerMuted)]">
+            <div className="leading-relaxed text-sm text-[color:var(--footerMuted)] space-y-1">
               {data?.brand?.description?.map((item, index) => (
-                <span key={index} className="block">
-                  {item}
-                </span>
+                <p key={index}>{item}</p>
               ))}
-            </p>
+            </div>
           </div>
 
           {/* POWERED BY */}
-          <div className="flex flex-col md:items-center items-start justify-center">
+          {/* <div className="flex flex-col md:items-center items-start justify-center">
             <p className="text-sm mb-1 text-[color:var(--footerMuted)]">
               {data?.poweredBy?.label}
             </p>
             <span className="font-bold text-xl tracking-wide text-[color:var(--footerText)]">
               {data?.poweredBy?.name}
             </span>
-          </div>
+          </div> */}
 
           {/* SOCIAL */}
-          <div className="flex flex-col md:items-end items-start">
-            <h4 className="font-semibold mb-3 text-lg text-[color:var(--footerText)]">
-              {data?.social?.heading}
-            </h4>
-
-            <div className="flex gap-4 text-xl">
-              <Link href={data?.social?.links[0]?.url} className="hover:text-[color:var(--accent)]">
-                <FaFacebook />
-              </Link>
-              <Link href={data?.social?.links[1]?.url} className="hover:text-[color:var(--accent)]">
-                <FaTwitter />
-              </Link>
-              <Link href={data?.social?.links[2]?.url} className="hover:text-[color:var(--accent)]">
-                <FaInstagram />
-              </Link>
-              <Link href={data?.social?.links[3]?.url} className="hover:text-[color:var(--accent)]">
-                <FaLinkedin />
-              </Link>
-            </div>
+          <div className="flex items-start gap-3">
+            <span className="font-semibold text-lg">{data?.social?.heading}
+</span>
+            <Link href="#" className="hover:scale-110 transition">
+              <FaInstagram className="h-7 w-7" />
+            </Link>
           </div>
         </div>
 
         {/* ================= COPYRIGHT ================= */}
-        <div className="border-t border-[color:var(--footerBorder)] pt-4">
+        <div className="border-t border-[color:var(--footerBorder)] pt-4 flex justify-between">
+        <Link
+        href="https://www.parcharmanch.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-center text-sm text-[color:var(--footerMuted)]"
+         >
+        Designed By Parchar Manch
+        </Link>
           <p className="text-center text-sm text-[color:var(--footerMuted)]">
             © {new Date().getFullYear()} {data?.copyright?.text}
           </p>
         </div>
 
-      </div>  
+      </div>
     </footer>
   );
 };

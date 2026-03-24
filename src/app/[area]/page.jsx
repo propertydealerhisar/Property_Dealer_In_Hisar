@@ -9,28 +9,39 @@ import { LocationsSection } from './LocationsSection';
 import { WhyChoose } from './WhyChoose';
 import { FAQSection } from './FAQSection';
 import { ContactSection } from './ContactSection';
+import AllProperties from './AllProperties';
+import { notFound } from "next/navigation";
+import { loadPageData } from "@/lib/main-domain/loadPageData";
+
+
 const page = async({params}) => {
   const {area} = await params;
   const h = await headers();
     let domain = h.get("host") || "localhost";
     if(domain==="localhost:3000")
-   domain = "www.houseforsaleinhisar.com"
+         domain = `${process.env.DOMAIN}`;
 
   const data = resolveSubDomainData({
     area,
     domain,
   });
+ const pageData = loadPageData(domain);
+
+  if (!pageData) notFound();
+  // console.log("area,domain=>",domain,area)
+  // console.log("data =>",pageData?.properties)
   return (
     <div>
-    <HeroSection data={data?.hero}/>
-    {data?.properties && (
-      <Properties data={data?.properties} area={area}/>
+    {/* <HeroSection data={data?.hero}/> */}
+    {pageData?.properties && (
+      <Properties domain={domain} area={area} property={pageData?.properties}/>
       )}
-      <FeaturesSection data={data?.featuresSection}/>
-      <LocationsSection data={data?.locationsSection}/>
-      <WhyChoose data={data?.whyChoose}/>
-      <FAQSection data={data?.faqSection}/>
-      <ContactSection data={data?.contactSection}/>
+      <AllProperties host={domain} property={pageData?.properties} />
+      {/* <FeaturesSection data={data?.featuresSection}/> */}
+      {/* <LocationsSection data={data?.locationsSection}/> */}
+      {/* <WhyChoose data={data?.whyChoose}/> */}
+      {/* <FAQSection data={data?.faqSection}/> */}
+      {/* <ContactSection data={data?.contactSection}/> */}
 
     </div>
   )

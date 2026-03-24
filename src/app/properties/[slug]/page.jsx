@@ -1,7 +1,9 @@
 // app/properties/[slug]/page.js
 
+import Properties from "./Properties";
 import PropertyDetails from "./PropertyDetails";
-
+import { headers } from "next/headers";
+import { loadPageData } from "@/lib/main-domain/loadPageData";
 export const metadata = {
   title: "Property for Sale | Price, Location, Photos & Complete Details",
   description:
@@ -42,9 +44,25 @@ export default async function Page({ params }) {
     throw new Error("Property not found");
   }
 
+   const h = await headers(); // ✅ MUST await in Next 16
+  
+    let     domain = h.get("host");
+  
+    if (!domain) notFound();
+  
+    if (domain === "localhost:3000") {
+         domain = `${process.env.DOMAIN}`;
+    }
+  
+    const pageData = loadPageData(domain);
+  
+    if (!pageData) notFound();
+
   return (
     <div>
       <PropertyDetails propertyy ={property}/>
+      <Properties property ={pageData?.properties} domain={domain} area={property?.locality}/>
+      
     </div>
   );
 }

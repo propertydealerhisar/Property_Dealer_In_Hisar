@@ -7,11 +7,11 @@ export function WhyChoose({data}) {
       {/* <div className="container mx-auto px-4"> */}
         <div className="max-w-7xl mx-auto text-center mb-16 md:mb-20">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6  max-w-7xl mx-auto text-black text-left md:text-center">{data?.title}</h2>
-          <p className="text-lg md:text-xl text-[#422c18] leading-relaxed max-w-7xl mx-auto text-left md:text-center">
+          {/* <p className="text-lg md:text-xl text-[#422c18] leading-relaxed max-w-7xl mx-auto text-left md:text-center">
             {data?.description?.map((item,index)=>{
             return <span key={index} className="block">{item}</span>
           })}
-          </p>
+          </p> */}
         </div>
 
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-8 md:gap-10">

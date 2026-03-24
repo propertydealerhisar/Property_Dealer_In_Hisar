@@ -45,40 +45,32 @@ const ServicesSection = ({ data }) => {
     : data?.services?.slice(0, 8);
 
   return (
-    <section
-      className="
-        py-6 md:py-10 px-4 sm:px-6
-        bg-[color:var(--bodyBg)]
-      "
-    >
+    <section className="py-8 md:py-12 px-4 sm:px-6 bg-[color:var(--bodyBg)]">
       <div className="max-w-7xl mx-auto">
 
         {/* ================= HEADING ================= */}
-        <div className="md:text-center mb-14">
-         <h2
-  className="
-    text-3xl md:text-4xl lg:text-5xl
-    font-extrabold mb-2
-    text-[color:var(--hover)]
-  "
->
-    
-
+        <div className="mb-12 text-left md:text-center">
+          <h2
+            className="
+              text-3xl md:text-4xl lg:text-5xl
+              font-extrabold mb-3
+              text-[color:var(--primary)]
+            "
+          >
             {data?.heading}
           </h2>
 
-          <p
+          <div
             className="
-              text-lg md:text-xl max-w-5xl mx-auto font-medium
+              text-base md:text-lg max-w-5xl mx-auto
               text-[color:var(--text)]
+              space-y-1
             "
           >
             {data?.description?.map((item, index) => (
-              <span key={index} className="block">
-                {item}
-              </span>
+              <p key={index}>{item}</p>
             ))}
-          </p>
+          </div>
         </div>
 
         {/* ================= GRID ================= */}
@@ -87,31 +79,26 @@ const ServicesSection = ({ data }) => {
             const Icon = ICON_MAP[service.icon] || DEFAULT_ICON;
 
             return (
-              <Link key={index} href={service?.path}>
+              <Link key={index} href={service?.path || "/"}>
                 <div
                   className="
+                    h-full
                     bg-[color:var(--cardBg)]
                     p-6 rounded-2xl
                     border border-[color:var(--cardBorder)]
-                    shadow-sm hover:shadow-lg
-                    transition-shadow duration-300
-                    cursor-pointer h-full
+                    shadow-sm hover:shadow-md
+                    transition
                     flex flex-col text-center
                   "
                 >
                   <div className="flex justify-center mb-4">
-                    <Icon
-                      className="
-                        text-4xl
-                        text-[color:var(--primary)]
-                      "
-                    />
+                    <Icon className="text-4xl text-[color:var(--primary)]" />
                   </div>
 
                   <h3
                     className="
-                      text-lg md:text-xl font-bold mb-2
-                      text-[color:var(--heading)]
+                      text-lg md:text-xl font-semibold mb-2
+                      text-[color:var(--text)]
                     "
                   >
                     {service.title}
@@ -119,8 +106,9 @@ const ServicesSection = ({ data }) => {
 
                   <p
                     className="
-                      text-sm md:text-base font-medium leading-relaxed
-                      text-[color:var(--text)]
+                      text-sm md:text-base
+                      text-[color:var(--mutedText)]
+                      leading-relaxed
                     "
                   >
                     {service.description}
@@ -133,13 +121,14 @@ const ServicesSection = ({ data }) => {
 
         {/* ================= VIEW MORE ================= */}
         {data?.services?.length > 8 && (
-          <div className="flex justify-end mt-8">
+          <div className="flex justify-center md:justify-end mt-10">
             <button
               onClick={() => setShowAll(!showAll)}
               className="
-                font-semibold
+                text-base font-semibold
                 text-[color:var(--primary)]
-                hover:text-[color:var(--hover)]
+                hover:underline
+                underline-offset-4
                 transition
               "
             >

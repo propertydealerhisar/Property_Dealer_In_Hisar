@@ -1,5 +1,6 @@
 {
   "domain": "www.flatsforsaleinhisar.com",
+  "navName":"Flats For Sale In Hisar",
   "heroSection": {
     "badge": "Premium Flats in Hisar",
     "heading": "Premium Flats for Sale in Hisar – Your Perfect Home Awaits",
@@ -22,6 +23,11 @@
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
+  },
+  "properties":{
+    "heading":"Premium Residential Properties for Sale in Hisar, Haryana",
+    "subHeading":"Explore a wide range of verified residential properties in Hisar with genuine listings and complete assistance."
+
   },
   "welcomeSection": {
     "title": "Your Ideal Flat in Hisar",
@@ -259,7 +265,7 @@
   },
   "footer": {
     "brand": {
-      "name": "flatsforsaleinhisar.com",
+      "name": "Flats For Sale In Hisar",
       "description": [
         "We help you discover premium flats and properties with expert guidance, transparent processes, and trusted real estate services across the city."
       ]

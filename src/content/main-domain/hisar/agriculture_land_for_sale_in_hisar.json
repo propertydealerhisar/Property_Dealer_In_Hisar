@@ -1,5 +1,6 @@
 {
   "domain": "www.agriculturelandforsaleinhisar.com",
+  "navName":"Agricultureland For Sale In Hisar",
   "heroSection": {
     "badge": "Premium Agriculture Land",
     "heading": "Premium Agriculture Land for Sale in Hisar",
@@ -22,6 +23,11 @@
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=2070&q=80",
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
+  },
+  "properties":{
+    "heading":"Premium Agricultural Land for Sale Listings Across Different Areas.",
+    "subHeading":"Explore a wide range of verified Agricultural Land in Hisar with genuine listings and complete assistance."
+
   },
   "welcomeSection": {
     "title": "Agricultural Properties",
@@ -276,7 +282,7 @@
   
   "footer": {
     "brand": {
-      "name": "agriculturelandforsaleinhisar.com",
+      "name": "Agricultureland For Sale In Hisar",
       "description": [
         "We help you discover premium agricultural land and properties with expert guidance, transparent processes, and trusted real estate services."
       ]
