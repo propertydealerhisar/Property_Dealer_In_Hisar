@@ -6,6 +6,7 @@ import Image from "next/image";
 import { MapPin } from "lucide-react";
 import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
+import {formatPrice } from "@/utils/formatPrice"
 
 export default function AllProperties({host,property}) {
   const [open, setOpen] = useState(false);
@@ -110,7 +111,7 @@ export default function AllProperties({host,property}) {
                     {/* PRICE / PRICE ON CALL */}
                     {property.price !== 0 ? (
                       <div className="text-sm font-semibold text-[color:var(--primary)]">
-                        Price: {property.price.toLocaleString("en-IN")}
+                        Price: {formatPrice(property?.price)}
                       </div>
                     ) : (
                       <button
