@@ -6,6 +6,7 @@ import Image from "next/image";
 import { MapPin } from "lucide-react";
 import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
+import {formatPrice } from "@/utils/formatPrice"
 
 const DOMAIN_SECTIONS = {
   "www.flatsforrentinhisar.com": {
@@ -136,7 +137,7 @@ export default function ToletProperties({ host }) {
                           <div className="flex items-center justify-between gap-3 pt-4 border-t mt-4 border-[color:var(--cardBorder)]">
                             {property.price !== 0 ? (
                               <div className="text-sm font-semibold text-[color:var(--primary)]">
-                                Price: {property.price.toLocaleString("en-IN")}
+                        Price: {formatPrice(property?.price)}
                               </div>
                             ) : (
                               <button
