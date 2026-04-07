@@ -21,6 +21,7 @@ export const BlogProvider = ({ children }) => {
   // 🔥 Fetch all blogs
   const fetchBlogs = async () => {
     try {
+      console.log("Fetching blogs for domain:", domain, "page:", page); 
       setLoading(true);
       setError(null); // reset old error
 

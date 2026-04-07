@@ -90,6 +90,7 @@ export default async function RootLayout({ children }) {
   GA_TARGET_DOMAINS[domain] || GA_TARGET_DOMAINS["localhost"];
  // undefined bhi ho sakta hai
  
+ console.log("Domain:", domain);
  const cleanDomain = domain.replace(/^www\./, "");
 const theme =
     domainTheme[domain] ||
@@ -131,7 +132,7 @@ const theme =
         {domain === "www.toletserviceinhisar.com" ? (
           <ToletFooter/>
           ) : (
-        <Footer data={pageData?.footer}  />
+        <Footer data={pageData?.footer} domain={domain}  />
         )}
         {/* </DomainThemeProvider> */}
         </BlogProvider>

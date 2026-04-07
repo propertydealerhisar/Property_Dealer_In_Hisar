@@ -3,8 +3,13 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 import Link from "next/link";
+import { prefixArr } from "@/lib/prefix";
 
-const Footer = ({ data }) => {
+
+const Footer = ({ data ,domain}) => {
+  const prefix = prefixArr.find(
+  (item) => item.domain === domain
+)?.prefix || "";
   return (
     <footer
       className="
@@ -26,7 +31,7 @@ const Footer = ({ data }) => {
               {data?.links?.items?.map((item, index) => (
                 <Link
                   key={index}
-                  href={`/${item.slug}`}
+                  href={`/${prefix}${item.slug}`}
                   className="
                     text-sm
                     text-[color:var(--footerMuted)]
