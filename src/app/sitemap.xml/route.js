@@ -54,7 +54,7 @@ export async function GET() {
         if(apiDomain==="www.commercialpropertyforsaleinhisar.com")
             apiDomain = "www.shopforsaleinhisar.com";
       const res = await fetch(
-        `http://localhost:8080/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
+        `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
       );
 
       const result = await res.json();
