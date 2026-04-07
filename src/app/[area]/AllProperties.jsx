@@ -112,6 +112,7 @@ export default function AllProperties({host,property}) {
                     {property.price !== 0 ? (
                       <div className="text-sm font-semibold text-[color:var(--primary)]">
                         Price: {formatPrice(property?.price)}
+
                       </div>
                     ) : (
                       <button
