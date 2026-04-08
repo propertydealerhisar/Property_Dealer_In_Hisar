@@ -47,47 +47,47 @@ export async function GET() {
     }
 
     // 🔥 PROPERTY SLUGS
-    try {
-      let apiDomain = domain.startsWith("www.")
-        ? domain
-        : `www.${domain}`;
-        if(apiDomain==="www.commercialpropertyforsaleinhisar.com")
-            apiDomain = "www.shopforsaleinhisar.com";
-      const res = await fetch(
-        `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
-      );
+    // try {
+    //   let apiDomain = domain.startsWith("www.")
+    //     ? domain
+    //     : `www.${domain}`;
+    //     if(apiDomain==="www.commercialpropertyforsaleinhisar.com")
+    //         apiDomain = "www.shopforsaleinhisar.com";
+    //   const res = await fetch(
+    //     `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
+    //   );
 
-      const result = await res.json();
+    //   const result = await res.json();
 
-      if (result?.success && result?.data?.length) {
-        result.data.forEach((slug) => {
-          urls.push(`${baseUrl}/properties/${slug}`);
-        });
-      }
-    } catch (err) {
-      console.error("Property API Error:", err);
-    }
+    //   if (result?.success && result?.data?.length) {
+    //     result.data.forEach((slug) => {
+    //       urls.push(`${baseUrl}/properties/${slug}`);
+    //     });
+    //   }
+    // } catch (err) {
+    //   console.error("Property API Error:", err);
+    // }
 
     // 🔥 BLOG SLUGS (FINAL ADD)
-    try {
-      const apiDomain = domain.startsWith("www.")
-        ? domain
-        : `www.${domain}`;
+    // try {
+    //   const apiDomain = domain.startsWith("www.")
+    //     ? domain
+    //     : `www.${domain}`;
 
-      const res = await fetch(
-        `https://deal-acres-backend.onrender.com/newBlog/getSlugsByDomain/${apiDomain}`
-      );
+    //   const res = await fetch(
+    //     `https://deal-acres-backend.onrender.com/newBlog/getSlugsByDomain/${apiDomain}`
+    //   );
 
-      const result = await res.json();
+    //   const result = await res.json();
 
-      if (result?.success && result?.data?.length) {
-        result.data.forEach((slug) => {
-          urls.push(`${baseUrl}/blog/${slug}`);
-        });
-      }
-    } catch (err) {
-      console.error("Blog API Error:", err);
-    }
+    //   if (result?.success && result?.data?.length) {
+    //     result.data.forEach((slug) => {
+    //       urls.push(`${baseUrl}/blog/${slug}`);
+    //     });
+    //   }
+    // } catch (err) {
+    //   console.error("Blog API Error:", err);
+    // }
 
     // ✅ Duplicate remove
     const uniqueUrls = [...new Set(urls)];
