@@ -25,12 +25,12 @@ const Navbar = ({ domain }) => {
             <Link
               href="/"
               className="
-                text-lg sm:text-xl font-semibold tracking-wide
+                text-lg sm:text-xl md:text-[2.5rem] font-semibold tracking-wide
                 text-[color:var(--heading)]
                 hover:opacity-90 transition
               "
             >
-              {cleanDomain(domain)}
+              DA
             </Link>
 
             {/* ================= DESKTOP LINKS ================= */}

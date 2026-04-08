@@ -1,6 +1,6 @@
 {
   "domain": "www.toletserviceinhisar.com",
-  "navName":"To Let Service In Hisar",
+  "navName": "To Let Service In Hisar",
   "heroSection": {
     "badge": "Reliable To-Let Service",
     "heading": "Reliable To-Let Service in Hisar",
@@ -24,10 +24,9 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-  "properties":{
-    "heading":"Premium Residential And Commercial Properties for Rent in Hisar, Haryana",
-    "subHeading":"Explore a wide range of verified Residential And Commercial Properties in Hisar with genuine listings and complete assistance."
-
+  "properties": {
+    "heading": "Premium Residential And Commercial Properties for Rent in Hisar, Haryana",
+    "subHeading": "Explore a wide range of verified Residential And Commercial Properties in Hisar with genuine listings and complete assistance."
   },
   "welcomeSection": {
     "title": "Rental Partner in Hisar",
@@ -235,48 +234,47 @@
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about To-Let Service in Hisar.",
     "faqs": [
-  {
-    "q": "Can I find furnished flats for rent in Hisar?",
-    "a": "Yes, many flats are available fully or semi-furnished in areas like Sector 16-17, Hisar, and Model Town, Hisar."
-  },
-  {
-    "q": "Is it better to rent through an agent or directly?",
-    "a": "Both options work. Agents save time and help with paperwork, while direct rentals can sometimes be more affordable."
-  },
-  {
-    "q": "What is the average security deposit in Hisar?",
-    "a": "Typically, 1–3 months’ rent depending on property type and locality."
-  },
-  {
-    "q": "How can I verify a property’s authenticity?",
-    "a": "Check ownership documents, visit the property, and review the rental agreement carefully."
-  },
-  {
-    "q": "Are short-term rental options available?",
-    "a": "Yes, some PGs, flats, and apartments offer monthly or quarterly rentals."
-  },
-  {
-    "q": "How long does it take to finalize a rental property?",
-    "a": "Usually 1–2 weeks if you have shortlisted properties and completed verification."
-  },
-  {
-    "q": "Can students find shared accommodation easily?",
-    "a": "Yes, several PGs and shared flats are available near universities and colleges in Hisar."
-  },
-  {
-    "q": "What documents are mandatory for renting?",
-    "a": "ID proof, address proof, PAN card, and sometimes references from previous landlords."
-  },
-  {
-    "q": "How to handle disputes with landlords?",
-    "a": "Maintain all agreements in writing and follow Haryana’s rental laws. Mediation through agents or local authorities is also possible."
-  },
-  {
-    "q": "Is renting in Hisar affordable compared to nearby cities?",
-    "a": "Yes, Hisar offers a range of affordable rental houses while maintaining good infrastructure and facilities."
-  }
-]
-
+      {
+        "q": "Can I find furnished flats for rent in Hisar?",
+        "a": "Yes, many flats are available fully or semi-furnished in areas like Sector 16-17, Hisar, and Model Town, Hisar."
+      },
+      {
+        "q": "Is it better to rent through an agent or directly?",
+        "a": "Both options work. Agents save time and help with paperwork, while direct rentals can sometimes be more affordable."
+      },
+      {
+        "q": "What is the average security deposit in Hisar?",
+        "a": "Typically, 1–3 months’ rent depending on property type and locality."
+      },
+      {
+        "q": "How can I verify a property’s authenticity?",
+        "a": "Check ownership documents, visit the property, and review the rental agreement carefully."
+      },
+      {
+        "q": "Are short-term rental options available?",
+        "a": "Yes, some PGs, flats, and apartments offer monthly or quarterly rentals."
+      },
+      {
+        "q": "How long does it take to finalize a rental property?",
+        "a": "Usually 1–2 weeks if you have shortlisted properties and completed verification."
+      },
+      {
+        "q": "Can students find shared accommodation easily?",
+        "a": "Yes, several PGs and shared flats are available near universities and colleges in Hisar."
+      },
+      {
+        "q": "What documents are mandatory for renting?",
+        "a": "ID proof, address proof, PAN card, and sometimes references from previous landlords."
+      },
+      {
+        "q": "How to handle disputes with landlords?",
+        "a": "Maintain all agreements in writing and follow Haryana’s rental laws. Mediation through agents or local authorities is also possible."
+      },
+      {
+        "q": "Is renting in Hisar affordable compared to nearby cities?",
+        "a": "Yes, Hisar offers a range of affordable rental houses while maintaining good infrastructure and facilities."
+      }
+    ]
   },
   "footer": {
     "brand": {
@@ -317,7 +315,6 @@
       "heading": "Explore Prime Residential and Commercial Properties To Let by Area.",
       "prefix": "To Let Service In Hisar",
       "items": []
-
     }
   }
 }

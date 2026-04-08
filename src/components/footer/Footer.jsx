@@ -81,13 +81,13 @@ const Footer = ({ data ,domain}) => {
           </div> */}
 
           {/* SOCIAL */}
-          <div className="flex items-start gap-3">
+          {/* <div className="flex items-start gap-3">
             <span className="font-semibold text-lg">{data?.social?.heading}
 </span>
             <Link href="#" className="hover:scale-110 transition">
               <FaInstagram className="h-7 w-7" />
             </Link>
-          </div>
+          </div> */}
         </div>
 
         {/* ================= COPYRIGHT ================= */}
@@ -100,6 +100,20 @@ const Footer = ({ data ,domain}) => {
          >
         Designed By Parchar Manch
         </Link>
+
+          {/* Center Links */}
+  <div className="flex gap-4 text-sm text-[#D5D46F]">
+    <Link href="/about" className="hover:underline">
+      About
+    </Link>
+    <Link href="/contact" className="hover:underline">
+      Contact
+    </Link>
+    <Link href="/blog" className="hover:underline">
+      Blog
+    </Link>
+  </div>
+
           <p className="text-center text-sm text-[color:var(--footerMuted)]">
             © {new Date().getFullYear()} {data?.copyright?.text}
           </p>

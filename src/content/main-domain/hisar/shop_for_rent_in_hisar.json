@@ -1,6 +1,6 @@
 {
   "domain": "www.shopforrentinhisar.com",
-  "navName":"Shop For Rent In Hisar",
+  "navName": "Shop For Rent In Hisar",
   "heroSection": {
     "badge": "Best Shops for Rent",
     "heading": "Find the Best Shop for Rent in Hisar",
@@ -24,10 +24,9 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-  "properties":{
-    "heading":"Premium Commercial Shops for Rent in Hisar, Haryana",
-    "subHeading":"Explore a wide range of verified commercial shops in Hisar with genuine listings and complete assistance."
-
+  "properties": {
+    "heading": "Premium Commercial Shops for Rent in Hisar, Haryana",
+    "subHeading": "Explore a wide range of verified commercial shops in Hisar with genuine listings and complete assistance."
   },
   "welcomeSection": {
     "title": "Business Growth Spaces",
@@ -237,48 +236,47 @@
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about Shop for Rent in Hisar.",
     "faqs": [
-  {
-    "q": "What is the average rent for a shop in Hisar?",
-    "a": "Rent varies based on location and shop size. Busy markets like Red Square Market Hisar may cost more, while small shops for rent in Rajguru Market, Hisar are more affordable."
-  },
-  {
-    "q": "Which areas have the highest footfall for retail businesses?",
-    "a": "Areas like Red Square Market Hisar, Auto Market, and streets near malls and colleges attract the most visitors."
-  },
-  {
-    "q": "Do I need a license to rent a shop?",
-    "a": "Yes, certain businesses require a commercial license. Food outlets, such as cake shops in Hisar, must follow health and safety regulations."
-  },
-  {
-    "q": "Can rent be negotiated?",
-    "a": "Yes. Rent and security deposits can often be negotiated, especially if you are signing a long-term lease."
-  },
-  {
-    "q": "What documents should I verify before renting?",
-    "a": "Check ownership papers, previous rent receipts, rental agreement, and ensure there are no pending dues or legal issues."
-  },
-  {
-    "q": "How long is a typical shop rental agreement in Hisar?",
-    "a": "Most rental agreements are for 1-3 years, with renewal options included."
-  },
-  {
-    "q": "Are shops near colleges more profitable?",
-    "a": "Yes, shops in areas with high student traffic, such as near Red Square Market Hisar, often have higher sales."
-  },
-  {
-    "q": "Can I sublease my shop?",
-    "a": "Subleasing is usually allowed only if mentioned in the rental agreement. Always get written permission from the landlord."
-  },
-  {
-    "q": "What hidden costs should I watch out for?",
-    "a": "Maintenance charges, property taxes, renovation costs, and utility bills are some additional costs to consider."
-  },
-  {
-    "q": "Any tips for first-time shop renters in Hisar?",
-    "a": "Visit multiple areas, compare prices, check foot traffic, read the lease agreement carefully, and consult local agents for guidance."
-  }
-]
-    
+      {
+        "q": "What is the average rent for a shop in Hisar?",
+        "a": "Rent varies based on location and shop size. Busy markets like Red Square Market Hisar may cost more, while small shops for rent in Rajguru Market, Hisar are more affordable."
+      },
+      {
+        "q": "Which areas have the highest footfall for retail businesses?",
+        "a": "Areas like Red Square Market Hisar, Auto Market, and streets near malls and colleges attract the most visitors."
+      },
+      {
+        "q": "Do I need a license to rent a shop?",
+        "a": "Yes, certain businesses require a commercial license. Food outlets, such as cake shops in Hisar, must follow health and safety regulations."
+      },
+      {
+        "q": "Can rent be negotiated?",
+        "a": "Yes. Rent and security deposits can often be negotiated, especially if you are signing a long-term lease."
+      },
+      {
+        "q": "What documents should I verify before renting?",
+        "a": "Check ownership papers, previous rent receipts, rental agreement, and ensure there are no pending dues or legal issues."
+      },
+      {
+        "q": "How long is a typical shop rental agreement in Hisar?",
+        "a": "Most rental agreements are for 1-3 years, with renewal options included."
+      },
+      {
+        "q": "Are shops near colleges more profitable?",
+        "a": "Yes, shops in areas with high student traffic, such as near Red Square Market Hisar, often have higher sales."
+      },
+      {
+        "q": "Can I sublease my shop?",
+        "a": "Subleasing is usually allowed only if mentioned in the rental agreement. Always get written permission from the landlord."
+      },
+      {
+        "q": "What hidden costs should I watch out for?",
+        "a": "Maintenance charges, property taxes, renovation costs, and utility bills are some additional costs to consider."
+      },
+      {
+        "q": "Any tips for first-time shop renters in Hisar?",
+        "a": "Visit multiple areas, compare prices, check foot traffic, read the lease agreement carefully, and consult local agents for guidance."
+      }
+    ]
   },
   "footer": {
     "brand": {
@@ -319,55 +317,55 @@
       "heading": "Commercial Retail Shop Rental Opportunities By Locality in Hisar",
       "prefix": "Shop for Rent in",
       "items": [
-  {
-    "area": "Sector 13",
-    "slug": "sector-13"
-  },
-  {
-    "area": "Sector 15",
-    "slug": "sector-15"
-  },
-  {
-    "area": "Model Town",
-    "slug": "model-town"
-  },
-  {
-    "area": "Sector 1-4",
-    "slug": "sector-1-4"
-  },
-  {
-    "area": "Sector 14",
-    "slug": "sector-14"
-  },
-  {
-    "area": "PLA Area",
-    "slug": "pla-area"
-  },
-  {
-    "area": "Urban Estate II",
-    "slug": "urban-estate-ii"
-  },
-  {
-    "area": "Global Space",
-    "slug": "global-space"
-  },
-  {
-    "area": "Sector 33",
-    "slug": "sector-33"
-  },
-  {
-    "area": "Sector 21P",
-    "slug": "sector-21p"
-  },
-  {
-    "area": "Sector 9-11",
-    "slug": "sector-9-11"
-  },
-  {
-    "area": "Sector 16-17",
-    "slug": "sector-16-17"
-  }
-]
+        {
+          "area": "Sector 13 Hisar",
+          "slug": "sector-13-hisar"
+        },
+        {
+          "area": "Sector 15 Hisar",
+          "slug": "sector-15-hisar"
+        },
+        {
+          "area": "Model Town Hisar",
+          "slug": "model-town-hisar"
+        },
+        {
+          "area": "Sector 1-4 Hisar",
+          "slug": "sector-1-4-hisar"
+        },
+        {
+          "area": "Sector 14 Hisar",
+          "slug": "sector-14-hisar"
+        },
+        {
+          "area": "PLA Area Hisar",
+          "slug": "pla-area-hisar"
+        },
+        {
+          "area": "Urban Estate II Hisar",
+          "slug": "urban-estate-ii-hisar"
+        },
+        {
+          "area": "Global Space Hisar",
+          "slug": "global-space-hisar"
+        },
+        {
+          "area": "Sector 33 Hisar",
+          "slug": "sector-33-hisar"
+        },
+        {
+          "area": "Sector 21P Hisar",
+          "slug": "sector-21p-hisar"
+        },
+        {
+          "area": "Sector 9-11 Hisar",
+          "slug": "sector-9-11-hisar"
+        },
+        {
+          "area": "Sector 16-17 Hisar",
+          "slug": "sector-16-17-hisar"
+        }
+      ]
     }
   }
 }
