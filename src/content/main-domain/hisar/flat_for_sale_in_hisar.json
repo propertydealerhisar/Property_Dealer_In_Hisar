@@ -1,6 +1,6 @@
 {
   "domain": "www.flatsforsaleinhisar.com",
-  "navName":"Flats For Sale In Hisar",
+  "navName": "Flats For Sale In Hisar",
   "heroSection": {
     "badge": "Premium Flats in Hisar",
     "heading": "Premium Flats for Sale in Hisar – Your Perfect Home Awaits",
@@ -24,10 +24,9 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-  "properties":{
-    "heading":"Premium Residential Properties for Sale in Hisar, Haryana",
-    "subHeading":"Explore a wide range of verified residential properties in Hisar with genuine listings and complete assistance."
-
+  "properties": {
+    "heading": "Premium Residential Properties for Sale in Hisar, Haryana",
+    "subHeading": "Explore a wide range of verified residential properties in Hisar with genuine listings and complete assistance."
   },
   "welcomeSection": {
     "title": "Your Ideal Flat in Hisar",
@@ -236,32 +235,31 @@
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to the most common questions about Flats for Sale in Hisar.",
     "faqs": [
-  {
-    "q": "Is buying property in Hisar a good investment?",
-    "a": "Yes, buying property in Hisar is considered a stable long-term investment. The city is growing steadily due to education, industrial activity, and improving infrastructure. Demand for both flats and independent houses is increasing, which supports price appreciation over time. Hisar is also more affordable than many other Haryana cities, making entry easier for buyers."
-  },
-  {
-    "q": "What is the average flat price in Hisar?",
-    "a": "The average Hisar flat price depends on location, size, and whether the flat is new or resale. Flats in developed sectors and prime areas are priced higher, while upcoming locations offer more affordable options. Buyers should compare prices with facilities, construction quality, and legal clarity before deciding."
-  },
-  {
-    "q": "Which areas are best to buy a house in Hisar?",
-    "a": "Popular residential areas include Model Town, Sector 13, Sector 15, Sector 16 and 17, Sector 1&4, and Urban Estate. These areas are preferred due to better roads, nearby markets, schools, and hospitals. The best area depends on budget, family needs, and daily travel requirements."
-  },
-  {
-    "q": "Are independent houses better than flats in Hisar?",
-    "a": "Independent houses offer more privacy, land ownership, and flexibility for future construction. Flats are easier to maintain and often come with better security and shared amenities. Buyers should choose based on family size, maintenance comfort, and long-term plans rather than only price."
-  },
-  {
-    "q": "Can I find budget or urgent house sales in Hisar?",
-    "a": "Yes, listings such as urgent house for sale in Hisar do exist, often due to relocation or financial needs. These properties may be priced slightly lower, but buyers must verify ownership documents, registry status, and legal approvals carefully before finalising the deal."
-  },
-  {
-    "q": "What documents are required to buy property in Hisar?",
-    "a": "Important documents include the sale deed, ownership proof, registry papers, approved building plans, and a no-dues certificate. For flats, buyers should also check completion or occupancy certificates. Proper document verification ensures safe and trouble-free property ownership."
-  }
-]
-
+      {
+        "q": "Is buying property in Hisar a good investment?",
+        "a": "Yes, buying property in Hisar is considered a stable long-term investment. The city is growing steadily due to education, industrial activity, and improving infrastructure. Demand for both flats and independent houses is increasing, which supports price appreciation over time. Hisar is also more affordable than many other Haryana cities, making entry easier for buyers."
+      },
+      {
+        "q": "What is the average flat price in Hisar?",
+        "a": "The average Hisar flat price depends on location, size, and whether the flat is new or resale. Flats in developed sectors and prime areas are priced higher, while upcoming locations offer more affordable options. Buyers should compare prices with facilities, construction quality, and legal clarity before deciding."
+      },
+      {
+        "q": "Which areas are best to buy a house in Hisar?",
+        "a": "Popular residential areas include Model Town, Sector 13, Sector 15, Sector 16 and 17, Sector 1&4, and Urban Estate. These areas are preferred due to better roads, nearby markets, schools, and hospitals. The best area depends on budget, family needs, and daily travel requirements."
+      },
+      {
+        "q": "Are independent houses better than flats in Hisar?",
+        "a": "Independent houses offer more privacy, land ownership, and flexibility for future construction. Flats are easier to maintain and often come with better security and shared amenities. Buyers should choose based on family size, maintenance comfort, and long-term plans rather than only price."
+      },
+      {
+        "q": "Can I find budget or urgent house sales in Hisar?",
+        "a": "Yes, listings such as urgent house for sale in Hisar do exist, often due to relocation or financial needs. These properties may be priced slightly lower, but buyers must verify ownership documents, registry status, and legal approvals carefully before finalising the deal."
+      },
+      {
+        "q": "What documents are required to buy property in Hisar?",
+        "a": "Important documents include the sale deed, ownership proof, registry papers, approved building plans, and a no-dues certificate. For flats, buyers should also check completion or occupancy certificates. Proper document verification ensures safe and trouble-free property ownership."
+      }
+    ]
   },
   "footer": {
     "brand": {
@@ -302,55 +300,55 @@
       "heading": "Explore Area-Wise Listings of Flats for Sale in Hisar",
       "prefix": "Flats For Sale In",
       "items": [
-  {
-    "area": "Sector 15",
-    "slug": "sector-15"
-  },
-  {
-    "area": "Sector 9-11",
-    "slug": "sector-9-11"
-  },
-  {
-    "area": "Urban Estate II",
-    "slug": "urban-estate-ii"
-  },
-  {
-    "area": "Sector 14",
-    "slug": "sector-14"
-  },
-  {
-    "area": "Sector 16-17",
-    "slug": "sector-16-17"
-  },
-  {
-    "area": "Sector 1-4",
-    "slug": "sector-1-4"
-  },
-  {
-    "area": "Global Space",
-    "slug": "global-space"
-  },
-  {
-    "area": "PLA Area",
-    "slug": "pla-area"
-  },
-  {
-    "area": "Sector 33",
-    "slug": "sector-33"
-  },
-  {
-    "area": "Sector 13",
-    "slug": "sector-13"
-  },
-  {
-    "area": "Sector 21P",
-    "slug": "sector-21p"
-  },
-  {
-    "area": "Model Town",
-    "slug": "model-town"
-  }
-]
+        {
+          "area": "Sector 15 Hisar",
+          "slug": "sector-15-hisar"
+        },
+        {
+          "area": "Sector 9-11 Hisar",
+          "slug": "sector-9-11-hisar"
+        },
+        {
+          "area": "Urban Estate II Hisar",
+          "slug": "urban-estate-ii-hisar"
+        },
+        {
+          "area": "Sector 14 Hisar",
+          "slug": "sector-14-hisar"
+        },
+        {
+          "area": "Sector 16-17 Hisar",
+          "slug": "sector-16-17-hisar"
+        },
+        {
+          "area": "Sector 1-4 Hisar",
+          "slug": "sector-1-4-hisar"
+        },
+        {
+          "area": "Global Space Hisar",
+          "slug": "global-space-hisar"
+        },
+        {
+          "area": "PLA Area Hisar",
+          "slug": "pla-area-hisar"
+        },
+        {
+          "area": "Sector 33 Hisar",
+          "slug": "sector-33-hisar"
+        },
+        {
+          "area": "Sector 13 Hisar",
+          "slug": "sector-13-hisar"
+        },
+        {
+          "area": "Sector 21P Hisar",
+          "slug": "sector-21p-hisar"
+        },
+        {
+          "area": "Model Town Hisar",
+          "slug": "model-town-hisar"
+        }
+      ]
     }
   }
 }

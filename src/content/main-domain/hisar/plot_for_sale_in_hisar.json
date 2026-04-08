@@ -1,6 +1,6 @@
 {
   "domain": "www.plotforsaleinhisar.com",
-  "navName":"Plot For Sale In Hisar",
+  "navName": "Plot For Sale In Hisar",
   "heroSection": {
     "badge": "Best Plots in Hisar",
     "heading": "Find Your Ideal Plot for Sale in Hisar",
@@ -24,10 +24,9 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-  "properties":{
-    "heading":"Premium Residential Plot for Sale in Hisar, Haryana",
-    "subHeading":"Explore a wide range of verified Residential Plot in Hisar with genuine listings and complete assistance."
-
+  "properties": {
+    "heading": "Premium Residential Plot for Sale in Hisar, Haryana",
+    "subHeading": "Explore a wide range of verified Residential Plot in Hisar with genuine listings and complete assistance."
   },
   "welcomeSection": {
     "title": "Land Investment Platform",
@@ -255,7 +254,6 @@
         "q": "What documents are needed to buy a plot?",
         "a": "Sale deed, ownership proof, land use approval, and registry documents."
       }
-      
     ]
   },
   "footer": {
@@ -297,75 +295,75 @@
       "heading": "Discover Available Land and Plot Listings by Locality and Area",
       "prefix": "Plot for Sale in",
       "items": [
-  {
-    "area": "Bank Colony",
-    "slug": "bank-colony"
-  },
-  {
-    "area": "Azad Nagar",
-    "slug": "azad-nagar"
-  },
-  {
-    "area": "Sector 13",
-    "slug": "sector-13"
-  },
-  {
-    "area": "Sector 16-17",
-    "slug": "sector-16-17"
-  },
-  {
-    "area": "Krishna Nagar",
-    "slug": "krishna-nagar"
-  },
-  {
-    "area": "Sector 21P",
-    "slug": "sector-21p"
-  },
-  {
-    "area": "PLA Area",
-    "slug": "pla-area"
-  },
-  {
-    "area": "Model Town",
-    "slug": "model-town"
-  },
-  {
-    "area": "Sector 15",
-    "slug": "sector-15"
-  },
-  {
-    "area": "Sector 9-11",
-    "slug": "sector-9-11"
-  },
-  {
-    "area": "Urban Estate II",
-    "slug": "urban-estate-ii"
-  },
-  {
-    "area": "Marvel City",
-    "slug": "marvel-city"
-  },
-  {
-    "area": "Sector 14",
-    "slug": "sector-14"
-  },
-  {
-    "area": "Sector 33",
-    "slug": "sector-33"
-  },
-  {
-    "area": "Kamiri Road",
-    "slug": "kamiri-road"
-  },
-  {
-    "area": "Global Space",
-    "slug": "global-space"
-  },
-  {
-    "area": "Sector 1-4",
-    "slug": "sector-1-4"
-  }
-]
+        {
+          "area": "Bank Colony Hisar",
+          "slug": "bank-colony-hisar"
+        },
+        {
+          "area": "Azad Nagar Hisar",
+          "slug": "azad-nagar-hisar"
+        },
+        {
+          "area": "Sector 13 Hisar",
+          "slug": "sector-13-hisar"
+        },
+        {
+          "area": "Sector 16-17 Hisar",
+          "slug": "sector-16-17-hisar"
+        },
+        {
+          "area": "Krishna Nagar Hisar",
+          "slug": "krishna-nagar-hisar"
+        },
+        {
+          "area": "Sector 21P Hisar",
+          "slug": "sector-21p-hisar"
+        },
+        {
+          "area": "PLA Area Hisar",
+          "slug": "pla-area-hisar"
+        },
+        {
+          "area": "Model Town Hisar",
+          "slug": "model-town-hisar"
+        },
+        {
+          "area": "Sector 15 Hisar",
+          "slug": "sector-15-hisar"
+        },
+        {
+          "area": "Sector 9-11 Hisar",
+          "slug": "sector-9-11-hisar"
+        },
+        {
+          "area": "Urban Estate II Hisar",
+          "slug": "urban-estate-ii-hisar"
+        },
+        {
+          "area": "Marvel City Hisar",
+          "slug": "marvel-city-hisar"
+        },
+        {
+          "area": "Sector 14 Hisar",
+          "slug": "sector-14-hisar"
+        },
+        {
+          "area": "Sector 33 Hisar",
+          "slug": "sector-33-hisar"
+        },
+        {
+          "area": "Kamiri Road Hisar",
+          "slug": "kamiri-road-hisar"
+        },
+        {
+          "area": "Global Space Hisar",
+          "slug": "global-space-hisar"
+        },
+        {
+          "area": "Sector 1-4 Hisar",
+          "slug": "sector-1-4-hisar"
+        }
+      ]
     }
   }
 }

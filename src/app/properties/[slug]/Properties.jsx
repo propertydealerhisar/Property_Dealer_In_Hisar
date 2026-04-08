@@ -16,16 +16,13 @@ export default function Properties({ property, area, domain }) {
     loading2,
     error2,
     setLocality,
-    setDomain2,
     locality,
-    domain2,
   } = useProperty();
 
   useEffect(() => {
-    if (locality === area && domain2 === domain) return;
+    if (locality === area ) return;
 
     setLocality(area);
-      setDomain2(domain);
   }, []);
 
   useEffect(() => {

@@ -59,6 +59,7 @@ useEffect(() => {
     try {
       setLoading2(true);
       setError(null);
+      setData([]);
 
       const response = await axios.get(
         `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertiesByDomainAndLocality/${domain2}/${decodeSlugWithHyphen(locality)}`,

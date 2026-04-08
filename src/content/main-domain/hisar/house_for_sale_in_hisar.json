@@ -1,6 +1,6 @@
 {
   "domain": "www.houseforsaleinhisar.com",
-  "navName":"House For Sale In Hisar",
+  "navName": "House For Sale In Hisar",
   "heroSection": {
     "badge": "Premium Properties Available",
     "heading": "House for Sale in Hisar – Find Your Ideal Home Today",
@@ -24,10 +24,9 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-  "properties":{
-    "heading":"Premium Residential Properties for Sale in Hisar, Haryana",
-    "subHeading":"Explore a wide range of verified residential properties in Hisar with genuine listings and complete assistance."
-
+  "properties": {
+    "heading": "Premium Residential Properties for Sale in Hisar, Haryana",
+    "subHeading": "Explore a wide range of verified residential properties in Hisar with genuine listings and complete assistance."
   },
   "welcomeSection": {
     "title": "Your Trusted Real Estate Platform in Hisar",
@@ -230,41 +229,40 @@
   "faqSection": {
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to the most common questions about our real estate services.",
-    "faqs":[
-  {
-    "q": "Is buying a shop in Hisar a good investment?",
-    "a": "Yes, Hisar has steady commercial growth. Demand for retail and service businesses is strong, making shop investment safe for long term."
-  },
-  {
-    "q": "Can I find a shop for sale in Hisar under 30 lakhs?",
-    "a": "Yes, budget options are available, especially small shops in residential areas and local markets."
-  },
-  {
-    "q": "Which area is best to buy a shop in Hisar?",
-    "a": "Rajguru Market, sector markets, and main roads like Delhi Road are considered good locations."
-  },
-  {
-    "q": "Is Rajguru Market good for business?",
-    "a": "Yes, a shop for sale in Rajguru Market Hisar offers high footfall and strong business potential."
-  },
-  {
-    "q": "Are office spaces for sale in Hisar a good option?",
-    "a": "Yes, office spaces are suitable for clinics, coaching centers, and professional services."
-  },
-  {
-    "q": "Can I get rental income from a shop in Hisar?",
-    "a": "Yes, demand for shop for rent in Hisar is good in commercial areas."
-  },
-  {
-    "q": "Is registry mandatory for shop purchase?",
-    "a": "Yes, registry is necessary to legally transfer ownership."
-  },
-  {
-    "q": "Can NRIs buy commercial property in Hisar?",
-    "a": "Yes, NRIs can buy commercial property for sale in Hisar as per Indian property laws."
-  }
-]
-
+    "faqs": [
+      {
+        "q": "Is buying a shop in Hisar a good investment?",
+        "a": "Yes, Hisar has steady commercial growth. Demand for retail and service businesses is strong, making shop investment safe for long term."
+      },
+      {
+        "q": "Can I find a shop for sale in Hisar under 30 lakhs?",
+        "a": "Yes, budget options are available, especially small shops in residential areas and local markets."
+      },
+      {
+        "q": "Which area is best to buy a shop in Hisar?",
+        "a": "Rajguru Market, sector markets, and main roads like Delhi Road are considered good locations."
+      },
+      {
+        "q": "Is Rajguru Market good for business?",
+        "a": "Yes, a shop for sale in Rajguru Market Hisar offers high footfall and strong business potential."
+      },
+      {
+        "q": "Are office spaces for sale in Hisar a good option?",
+        "a": "Yes, office spaces are suitable for clinics, coaching centers, and professional services."
+      },
+      {
+        "q": "Can I get rental income from a shop in Hisar?",
+        "a": "Yes, demand for shop for rent in Hisar is good in commercial areas."
+      },
+      {
+        "q": "Is registry mandatory for shop purchase?",
+        "a": "Yes, registry is necessary to legally transfer ownership."
+      },
+      {
+        "q": "Can NRIs buy commercial property in Hisar?",
+        "a": "Yes, NRIs can buy commercial property for sale in Hisar as per Indian property laws."
+      }
+    ]
   },
   "footer": {
     "brand": {
@@ -305,75 +303,75 @@
       "heading": "Discover Your Dream Home- Hisar Houses for Sale by Area",
       "prefix": "House For Sale In",
       "items": [
-  {
-    "area": "Sector 9-11",
-    "slug": "sector-9-11"
-  },
-  {
-    "area": "Azad Nagar",
-    "slug": "azad-nagar"
-  },
-  {
-    "area": "Sector 14",
-    "slug": "sector-14"
-  },
-  {
-    "area": "Global Space",
-    "slug": "global-space"
-  },
-  {
-    "area": "Krishna Nagar",
-    "slug": "krishna-nagar"
-  },
-  {
-    "area": "Sector 15",
-    "slug": "sector-15"
-  },
-  {
-    "area": "Kamiri Road",
-    "slug": "kamiri-road"
-  },
-  {
-    "area": "Sector 33",
-    "slug": "sector-33"
-  },
-  {
-    "area": "Sector 16-17",
-    "slug": "sector-16-17"
-  },
-  {
-    "area": "Bank Colony",
-    "slug": "bank-colony"
-  },
-  {
-    "area": "PLA Area",
-    "slug": "pla-area"
-  },
-  {
-    "area": "Model Town",
-    "slug": "model-town"
-  },
-  {
-    "area": "Sector 1-4",
-    "slug": "sector-1-4"
-  },
-  {
-    "area": "Marvel City",
-    "slug": "marvel-city"
-  },
-  {
-    "area": "Urban Estate II",
-    "slug": "urban-estate-ii"
-  },
-  {
-    "area": "Sector 21P",
-    "slug": "sector-21p"
-  },
-  {
-    "area": "Sector 13",
-    "slug": "sector-13"
-  }
-]
+        {
+          "area": "Sector 9-11 Hisar",
+          "slug": "sector-9-11-hisar"
+        },
+        {
+          "area": "Azad Nagar Hisar",
+          "slug": "azad-nagar-hisar"
+        },
+        {
+          "area": "Sector 14 Hisar",
+          "slug": "sector-14-hisar"
+        },
+        {
+          "area": "Global Space Hisar",
+          "slug": "global-space-hisar"
+        },
+        {
+          "area": "Krishna Nagar Hisar",
+          "slug": "krishna-nagar-hisar"
+        },
+        {
+          "area": "Sector 15 Hisar",
+          "slug": "sector-15-hisar"
+        },
+        {
+          "area": "Kamiri Road Hisar",
+          "slug": "kamiri-road-hisar"
+        },
+        {
+          "area": "Sector 33 Hisar",
+          "slug": "sector-33-hisar"
+        },
+        {
+          "area": "Sector 16-17 Hisar",
+          "slug": "sector-16-17-hisar"
+        },
+        {
+          "area": "Bank Colony Hisar",
+          "slug": "bank-colony-hisar"
+        },
+        {
+          "area": "PLA Area Hisar",
+          "slug": "pla-area-hisar"
+        },
+        {
+          "area": "Model Town Hisar",
+          "slug": "model-town-hisar"
+        },
+        {
+          "area": "Sector 1-4 Hisar",
+          "slug": "sector-1-4-hisar"
+        },
+        {
+          "area": "Marvel City Hisar",
+          "slug": "marvel-city-hisar"
+        },
+        {
+          "area": "Urban Estate II Hisar",
+          "slug": "urban-estate-ii-hisar"
+        },
+        {
+          "area": "Sector 21P Hisar",
+          "slug": "sector-21p-hisar"
+        },
+        {
+          "area": "Sector 13 Hisar",
+          "slug": "sector-13-hisar"
+        }
+      ]
     }
   }
 }

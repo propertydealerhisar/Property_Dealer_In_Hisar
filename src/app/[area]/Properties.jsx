@@ -10,8 +10,6 @@ import {formatPrice } from "@/utils/formatPrice"
 
 export default function Properties({ domain, area, property }) {
   const [open, setOpen] = useState(false);
-  console.log("hello")
-  console.log("area,domain=>",domain,area)
 
   const { data, loading2, error2, setDomain2, setLocality } = useProperty();
 
@@ -42,7 +40,7 @@ export default function Properties({ domain, area, property }) {
           {/* HEADING */}
           <div className="mb-10 text-left md:text-center">
             <h1 className="text-2xl sm:text-3xl font-bold text-[var(--primary)]">
-              {property?.heading}
+              {property?.heading?.split(/ in /i)[0] + " in"} {data[0]?.locality}
             </h1>
             <p className="mt-2 text-sm sm:text-base text-[var(--mutedText)]">
               {property?.subHeading}

@@ -1,6 +1,6 @@
 {
   "domain": "www.commercialpropertyforsaleinhisar.com",
-  "navName":"Commercial Property For Sale In Hisar",
+  "navName": "Commercial Property For Sale In Hisar",
   "heroSection": {
     "badge": "Premium Commercial Properties",
     "heading": "Premium Commercial Property for Sale in Hisar",
@@ -24,10 +24,9 @@
       "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=2074&q=80"
     ]
   },
-  "properties":{
-    "heading":"Premium Commercial Property for Sale in Hisar",
-    "subHeading":"Explore a wide range of verified Commercial Properties in Hisar with genuine listings and complete assistance."
-
+  "properties": {
+    "heading": "Premium Commercial Property for Sale in Hisar",
+    "subHeading": "Explore a wide range of verified Commercial Properties in Hisar with genuine listings and complete assistance."
   },
   "welcomeSection": {
     "title": "Top Commercial Properties",
@@ -238,47 +237,47 @@
     "heading": "Frequently Asked Questions",
     "subheading": "Answers to common questions about Commercial Property for Sale in Hisar.",
     "faqs": [
-  {
-    "q": "Which areas in Hisar are best for commercial investments?",
-    "a": "The best areas include Hisar City Center, Urban Markets, Delhi Road, Hansi Road, and industrial zones like Barwala and Rajgarh Road. These areas have good traffic, connectivity, and future growth potential."
-  },
-  {
-    "q": "How much does commercial property cost in Hisar?",
-    "a": "Retail shops range from ₹25,000 to ₹60,000 per sq.ft. Offices cost ₹20,000–₹50,000 per sq.ft, while warehouses can be ₹10,000–₹30,000 per sq.ft. Schools and land rates vary based on size, location, and facilities."
-  },
-  {
-    "q": "Are there commercial properties under 30 lakhs in Hisar?",
-    "a": "Yes, there are several options including small retail shops, office spaces, and some emerging location land plots suitable for small investors."
-  },
-  {
-    "q": "Can foreigners buy commercial property in Hisar?",
-    "a": "Foreigners or NRIs can purchase property in India with proper approvals and documentation. Consulting a Hisar property dealer is recommended."
-  },
-  {
-    "q": "How to verify legal documents before buying commercial property?",
-    "a": "Check the title deed, encumbrance certificate, approved plans, tax receipts, and NOC from local authorities. Always hire a legal expert or property consultant."
-  },
-  {
-    "q": "How long does property registration take in Hisar?",
-    "a": "It typically takes 7–15 days after submitting all documents and paying stamp duty and registration fees."
-  },
-  {
-    "q": "What is the rental yield for commercial properties in Hisar?",
-    "a": "Rental yield depends on type, location, and demand. Retail shops and schools usually provide higher rental income compared to warehouses."
-  },
-  {
-    "q": "Are schools available for sale in Hisar?",
-    "a": "Yes, schools for sale in Hisar are available for investment. They provide long-term business opportunities and stable rental returns."
-  },
-  {
-    "q": "Can agriculture land be used for commercial purposes?",
-    "a": "Yes, but you need proper approvals to convert agriculture land for sale in Hisar Haryana to commercial property. Check local regulations before purchase."
-  },
-  {
-    "q": "How to find a reliable Hisar property dealer?",
-    "a": "Look for experienced, registered, and recommended dealers who have good knowledge of local markets and commercial property trends."
-  }
-]
+      {
+        "q": "Which areas in Hisar are best for commercial investments?",
+        "a": "The best areas include Hisar City Center, Urban Markets, Delhi Road, Hansi Road, and industrial zones like Barwala and Rajgarh Road. These areas have good traffic, connectivity, and future growth potential."
+      },
+      {
+        "q": "How much does commercial property cost in Hisar?",
+        "a": "Retail shops range from ₹25,000 to ₹60,000 per sq.ft. Offices cost ₹20,000–₹50,000 per sq.ft, while warehouses can be ₹10,000–₹30,000 per sq.ft. Schools and land rates vary based on size, location, and facilities."
+      },
+      {
+        "q": "Are there commercial properties under 30 lakhs in Hisar?",
+        "a": "Yes, there are several options including small retail shops, office spaces, and some emerging location land plots suitable for small investors."
+      },
+      {
+        "q": "Can foreigners buy commercial property in Hisar?",
+        "a": "Foreigners or NRIs can purchase property in India with proper approvals and documentation. Consulting a Hisar property dealer is recommended."
+      },
+      {
+        "q": "How to verify legal documents before buying commercial property?",
+        "a": "Check the title deed, encumbrance certificate, approved plans, tax receipts, and NOC from local authorities. Always hire a legal expert or property consultant."
+      },
+      {
+        "q": "How long does property registration take in Hisar?",
+        "a": "It typically takes 7–15 days after submitting all documents and paying stamp duty and registration fees."
+      },
+      {
+        "q": "What is the rental yield for commercial properties in Hisar?",
+        "a": "Rental yield depends on type, location, and demand. Retail shops and schools usually provide higher rental income compared to warehouses."
+      },
+      {
+        "q": "Are schools available for sale in Hisar?",
+        "a": "Yes, schools for sale in Hisar are available for investment. They provide long-term business opportunities and stable rental returns."
+      },
+      {
+        "q": "Can agriculture land be used for commercial purposes?",
+        "a": "Yes, but you need proper approvals to convert agriculture land for sale in Hisar Haryana to commercial property. Check local regulations before purchase."
+      },
+      {
+        "q": "How to find a reliable Hisar property dealer?",
+        "a": "Look for experienced, registered, and recommended dealers who have good knowledge of local markets and commercial property trends."
+      }
+    ]
   },
   "footer": {
     "brand": {
@@ -319,55 +318,55 @@
       "heading": "Explore Commercial Property Listings For Sale Across Various Hisar Areas.",
       "prefix": "Commercial Property For Sale",
       "items": [
-  {
-    "area": "Sector 16-17",
-    "slug": "sector-16-17"
-  },
-  {
-    "area": "Sector 13",
-    "slug": "sector-13"
-  },
-  {
-    "area": "Urban Estate II",
-    "slug": "urban-estate-ii"
-  },
-  {
-    "area": "Sector 1-4",
-    "slug": "sector-1-4"
-  },
-  {
-    "area": "Sector 21P",
-    "slug": "sector-21p"
-  },
-  {
-    "area": "Sector 33",
-    "slug": "sector-33"
-  },
-  {
-    "area": "Sector 9-11",
-    "slug": "sector-9-11"
-  },
-  {
-    "area": "PLA Area",
-    "slug": "pla-area"
-  },
-  {
-    "area": "Sector 15",
-    "slug": "sector-15"
-  },
-  {
-    "area": "Sector 14",
-    "slug": "sector-14"
-  },
-  {
-    "area": "Model Town",
-    "slug": "model-town"
-  },
-  {
-    "area": "Global Space",
-    "slug": "global-space"
-  }
-]
+        {
+          "area": "Sector 16-17 Hisar",
+          "slug": "sector-16-17-hisar"
+        },
+        {
+          "area": "Sector 13 Hisar",
+          "slug": "sector-13-hisar"
+        },
+        {
+          "area": "Urban Estate II Hisar",
+          "slug": "urban-estate-ii-hisar"
+        },
+        {
+          "area": "Sector 1-4 Hisar",
+          "slug": "sector-1-4-hisar"
+        },
+        {
+          "area": "Sector 21P Hisar",
+          "slug": "sector-21p-hisar"
+        },
+        {
+          "area": "Sector 33 Hisar",
+          "slug": "sector-33-hisar"
+        },
+        {
+          "area": "Sector 9-11 Hisar",
+          "slug": "sector-9-11-hisar"
+        },
+        {
+          "area": "PLA Area Hisar",
+          "slug": "pla-area-hisar"
+        },
+        {
+          "area": "Sector 15 Hisar",
+          "slug": "sector-15-hisar"
+        },
+        {
+          "area": "Sector 14 Hisar",
+          "slug": "sector-14-hisar"
+        },
+        {
+          "area": "Model Town Hisar",
+          "slug": "model-town-hisar"
+        },
+        {
+          "area": "Global Space Hisar",
+          "slug": "global-space-hisar"
+        }
+      ]
     }
   }
 }
