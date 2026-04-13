@@ -17,7 +17,7 @@ useEffect(() => {
   if (domain === null && host) {
     setDomain(host);
   }
-}, [host]);
+},[host]);
 
 
   useEffect(() => {
