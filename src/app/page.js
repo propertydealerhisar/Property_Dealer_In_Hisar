@@ -2,6 +2,7 @@ export const dynamic = "force-dynamic";
 
 import { headers } from "next/headers";
 import { notFound } from "next/navigation";
+import { DOMAIN_META } from "@/lib/domainMeta";
 
 import Hero from "@/components/hero/Hero";
 import ServicesSection from "@/components/services-section/ServicesSection";
@@ -9,12 +10,42 @@ import FAQSection from "@/components/FAQSection/FAQSection";
 import Properties from "@/components/properties/Properties";
 import ToletProperties from "@/components/properties/ToletProperties";
 
-// import AboutLocality from "@/components/about-locality/AboutLocality";
-
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 
+
+// ✅ 🔥 DOMAIN BASED METADATA
+export async function generateMetadata() {
+  const h = await headers();
+
+  let domain = h.get("host");
+
+  if (!domain) return {};
+
+  if (domain === "localhost:3000") {
+    domain = process.env.DOMAIN;
+  }
+
+  const cleanDomain = domain.replace(/^www\./, "");
+
+  const meta =
+    DOMAIN_META[domain]?.home ||
+    DOMAIN_META[cleanDomain]?.home || {
+      title: "Default Home",
+      description: "Default description",
+    };
+
+  return {
+    title: meta.title,
+    description: meta.description,
+    alternates: {
+      canonical: `https://${domain}`,
+    },
+  };
+}
+
+
 export default async function Home() {
-  const h = await headers(); // ✅ MUST await in Next 16
+  const h = await headers();
 
   let domain = h.get("host");
 
@@ -28,21 +59,10 @@ export default async function Home() {
 
   if (!pageData) notFound();
 
-  // console.log("recccc",domain)
-
   return (
     <div>
       <Hero data={pageData.heroSection} />
-
-      {domain === "www.toletserviceinhisar.com" ? (
-        <ToletProperties host={domain} />
-      ) : (
-        <Properties host={domain} data={pageData?.properties} />
-      )}
-
-      {/* <ServicesSection data={pageData.servicesSection} /> */}
-      {/* <FAQSection data={pageData.faqSection} /> */}
-      {/* <AboutLocality domain={domain} /> */}
+      <Properties host={domain} data={pageData?.properties} />
     </div>
   );
 }

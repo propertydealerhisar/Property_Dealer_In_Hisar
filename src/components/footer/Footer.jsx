@@ -23,9 +23,9 @@ const Footer = ({ data ,domain}) => {
         {/* ================= TOP LINKS ================= */}
         {data?.links?.items?.length > 0 && (
           <div className="mb-14">
-            <h3 className="text-xl font-semibold mb-6 text-[color:var(--footerText)]">
+            <h2 className="text-xl font-semibold mb-6 text-[color:var(--footerText)]">
               {data?.links?.heading}
-            </h3>
+            </h2>
 
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-y-3 gap-x-4">
               {data?.links?.items?.map((item, index) => (

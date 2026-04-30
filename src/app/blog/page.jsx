@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { useBlog } from "@/contexts/BlogContext";
 import Pagination from "@/components/pagination/Pagination";
+import { BLOG_HEAD_DATA } from "@/lib/blogHeadData";
 
 const formatDate = (date) => {
   if (!date) return "";
@@ -14,6 +15,13 @@ const formatDate = (date) => {
 };
 
 export default function Page() {
+  let host = window.location.host;
+  if (host === "localhost:3000") {
+    host = process.env.NEXT_PUBLIC_DOMAIN;
+  }
+  console.log("host =>", host);
+  const blogHead = BLOG_HEAD_DATA.find((item) => item.domain === host);
+
   const {
     blogs,
     error,
@@ -78,6 +86,17 @@ export default function Page() {
   // ================= MAIN UI =================
   return (
     <section className="px-4 sm:px-6 lg:px-0 max-w-7xl mx-auto py-12 bg-[color:var(--bodyBg)]">
+
+       {/* HEADER */}
+    <div className="text-center mb-10">
+      <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[color:var(--text)] mb-4">
+        {blogHead?.heading || "Property Blogs & Real Estate Insights"}
+      </h1>
+      <p className="text-sm sm:text-base max-w-4xl mx-auto text-[color:var(--mutedText)] leading-relaxed">
+        {blogHead?.tagline ||
+          "Explore the latest property blogs, real estate news, buying guides, investment tips, and market trends."}
+      </p>
+    </div>
       
       {/* BLOG GRID */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">

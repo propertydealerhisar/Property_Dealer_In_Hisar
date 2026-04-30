@@ -80,9 +80,9 @@ export default function Page() {
 
         {/* Heading */}
         <div className="mx-auto mb-12 max-w-7xl text-left md:mb-16 md:text-center">
-          <h2 className="mb-3 text-3xl font-bold text-gray-900 md:text-4xl lg:text-5xl">
+          <h1 className="mb-3 text-3xl font-bold text-gray-900 md:text-4xl lg:text-5xl">
             Contact Us
-          </h2>
+          </h1>
           <p className="text-base text-gray-600 md:text-lg max-w-7xl mx-auto">
             <span className="block">Looking to buy, sell, or invest in property?</span>
             <span className="block">Get in touch with our team for expert guidance.</span>
