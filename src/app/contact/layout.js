@@ -3,7 +3,7 @@ import { DOMAIN_META } from "@/lib/domainMeta";
 
 export const dynamic = "force-dynamic";
 
-// ✅ BLOG PAGE META (domain-wise)
+// ✅ CONTACT PAGE META (domain-wise)
 export async function generateMetadata() {
   const h = await headers();
 
@@ -16,24 +16,24 @@ export async function generateMetadata() {
   const cleanDomain = domain.replace(/^www\./, "");
 
   const meta =
-    DOMAIN_META[domain]?.blog ||
-    DOMAIN_META[cleanDomain]?.blog ||
+    DOMAIN_META[domain]?.contact ||
+    DOMAIN_META[cleanDomain]?.contact ||
     DOMAIN_META[domain] || {
-      title: "Blog",
-      description: "Latest blogs and updates",
+      title: "Contact",
+      description: "Contact page",
     };
 
   return {
     title: meta.title,
     description: meta.description,
     alternates: {
-      canonical: `https://${domain}/blog`,
+      canonical: `https://${domain}/contact`,
     },
   };
 }
 
 
-// ✅ MUST: component export
-export default function BlogLayout({ children }) {
+// ✅ MUST: default export component
+export default function ContactLayout({ children }) {
   return <>{children}</>;
 }

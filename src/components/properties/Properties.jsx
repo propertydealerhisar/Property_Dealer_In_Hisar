@@ -48,9 +48,9 @@ useEffect(() => {
 
           {/* ================= HEADING ================= */}
           <div className="mb-10 text-left md:text-center">
-            <h1 className="text-2xl sm:text-3xl font-bold text-[color:var(--primary)]">
+            <h2 className="text-2xl sm:text-3xl font-bold text-[color:var(--primary)]">
               {data?.heading}
-            </h1>
+            </h2>
             <p className="mt-2 text-sm sm:text-base text-[color:var(--mutedText)]">
              {data?.subHeading}
             </p>

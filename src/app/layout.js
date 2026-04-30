@@ -39,9 +39,6 @@ export async function generateMetadata() {
     if(domain==="localhost:3000")
          domain = `${process.env.DOMAIN}`;
 
-
-
-
   return {
    title: "Property Dealer | Buy & Sell Residential and Commercial Properties",
     description:

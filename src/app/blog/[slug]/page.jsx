@@ -36,17 +36,28 @@ async function getBlogData(slug,domain) {
 
 // ✅ Metadata (uses same API)
 export async function generateMetadata({ params }) {
+   const h = await headers();
+ let domain = h.get("host") || "localhost";
+    if(domain==="localhost:3000")
+         domain = `${process.env.DOMAIN}`
   const { slug } = await params;
-  const { data } = await getBlogData(slug);
+  
+
+
+  const { data } = await getBlogData(slug,domain);
   
 
   const single = data?.blog;
 
   if (!single) {
     return {
-      title: "Parcharmanch – Blog",
-      description: "Explore the latest blogs and articles on Parcharmanch.",
-    };
+    title: "Property Blogs & Real Estate Insights",
+    description:
+      "Explore the latest property blogs, real estate news, buying guides, investment tips, and market trends.",
+       alternates: {
+      canonical: `https://${domain}/blog/${slug}`,
+    },
+  };
   }
 
   return {
@@ -54,9 +65,9 @@ export async function generateMetadata({ params }) {
     description:
       single?.MetaDescription ||
       "Read insightful stories and blogs on Parcharmanch.",
-    // alternates: {
-    //   canonical: `https://www.parcharmanch.in/blog/${slug}`,
-    // },
+    alternates: {
+      canonical: `https://${domain}/blog/${slug}`,
+    },
   };
 }
 
