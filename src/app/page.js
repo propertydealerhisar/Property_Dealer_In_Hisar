@@ -37,6 +37,7 @@ export async function generateMetadata() {
   return {
     title: meta.title,
     description: meta.description,
+    keywords: meta.keywords,
     alternates: {
       canonical: `https://${domain}`,
     },
