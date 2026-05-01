@@ -87,7 +87,7 @@ export default async function RootLayout({ children }) {
   GA_TARGET_DOMAINS[domain] || GA_TARGET_DOMAINS["localhost"];
  // undefined bhi ho sakta hai
  
- console.log("Domain:", domain);
+ // // console.log("Domain:", domain);
  const cleanDomain = domain.replace(/^www\./, "");
 const theme =
     domainTheme[domain] ||
