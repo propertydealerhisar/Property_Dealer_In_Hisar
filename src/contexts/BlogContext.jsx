@@ -21,7 +21,7 @@ export const BlogProvider = ({ children }) => {
   // 🔥 Fetch all blogs
   const fetchBlogs = async () => {
     try {
-      console.log("Fetching blogs for domain:", domain, "page:", page); 
+      // console.log("Fetching blogs for domain:", domain, "page:", page); 
       setLoading(true);
       setError(null); // reset old error
 
@@ -30,7 +30,7 @@ export const BlogProvider = ({ children }) => {
       });
 
       if (data.success) {
-        console.log("data =>",data?.blogs);
+        // console.log("data =>",data?.blogs);
         
         setBlogs(data.blogs);
         setTotalPages(data?.totalPages)
@@ -38,7 +38,7 @@ export const BlogProvider = ({ children }) => {
         setError(data.message || "Failed to fetch blogs");
       }
     } catch (err) {
-      console.error("Error fetching blogs:", err);
+      // console.error("Error fetching blogs:", err);
 
       // 🔥 Smart error handling
       if (err.response) {

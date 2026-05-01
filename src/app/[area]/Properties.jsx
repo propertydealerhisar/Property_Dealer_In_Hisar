@@ -8,6 +8,29 @@ import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 import {formatPrice } from "@/utils/formatPrice"
 
+export function formatSlugToText(slug) {
+  if (!slug) return "";
+
+  return slug
+    .split("-")
+    .filter(Boolean)
+    .map(word => {
+      // Roman numerals handle (ii, iii, iv etc.)
+      if (/^(i|ii|iii|iv|v|vi|vii|viii|ix|x)$/i.test(word)) {
+        return word.toUpperCase();
+      }
+
+      // Numbers as-is (33, 2 etc.)
+      if (!isNaN(word)) {
+        return word;
+      }
+
+      // Normal words capitalize
+      return word.charAt(0).toUpperCase() + word.slice(1);
+    })
+    .join(" ");
+}
+
 export default function Properties({ domain, area, property }) {
   const [open, setOpen] = useState(false);
 
@@ -40,7 +63,7 @@ export default function Properties({ domain, area, property }) {
           {/* HEADING */}
           <div className="mb-10 text-left md:text-center">
             <h1 className="text-2xl sm:text-3xl font-bold text-[var(--primary)]">
-              {property?.heading?.split(/ in /i)[0] + " in"} {data[0]?.locality}
+              {property?.heading?.split(/ in /i)[0] + " in"} {formatSlugToText(area)}
             </h1>
             <p className="mt-2 text-sm sm:text-base text-[var(--mutedText)]">
               {property?.subHeading}
