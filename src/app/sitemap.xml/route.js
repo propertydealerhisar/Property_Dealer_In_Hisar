@@ -75,7 +75,7 @@ export async function GET() {
         : `www.${domain}`;
 
       const res = await fetch(
-        `https://property-dealer-in-hisar-backend.onrender.com/newBlog/getSlugsByDomain/${apiDomain}`
+        `https://deal-acres-backend.onrender.com/newBlog/getSlugsByDomain/${apiDomain}`
       );
 
       const result = await res.json();
