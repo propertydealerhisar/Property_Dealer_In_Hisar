@@ -27,7 +27,7 @@ const Footer = ({ data ,domain}) => {
               {data?.links?.heading}
             </h2>
 
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-y-3 gap-x-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-y-3 gap-x-4">
               {data?.links?.items?.map((item, index) => (
                 <Link
                   key={index}
@@ -91,7 +91,7 @@ const Footer = ({ data ,domain}) => {
         </div>
 
         {/* ================= COPYRIGHT ================= */}
-        <div className="border-t border-[color:var(--footerBorder)] pt-4 flex justify-between">
+        <div className="border-t border-[color:var(--footerBorder)] pt-4 flex flex-col gap-2 justify-between md:flex-row">
         <Link
         href="https://www.parcharmanch.com/"
         target="_blank"
@@ -102,7 +102,7 @@ const Footer = ({ data ,domain}) => {
         </Link>
 
           {/* Center Links */}
-  <div className="flex gap-4 text-sm text-[#D5D46F]">
+  <div className="flex gap-4 text-sm text-[#D5D46F] justify-center">
     <Link href="/about" className="hover:underline">
       About
     </Link>
