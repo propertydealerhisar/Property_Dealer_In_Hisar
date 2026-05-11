@@ -27,7 +27,7 @@ async function getPropertyBySlug(slug) {
   }
 
   const json = await res.json();
-  return json?.data?.[0] || null;
+  return json?.data || null;
 }
 
 export default async function Page({ params }) {
