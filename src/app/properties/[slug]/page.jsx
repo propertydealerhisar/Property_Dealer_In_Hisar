@@ -16,7 +16,7 @@ export const metadata = {
 
 async function getPropertyBySlug(slug) {
   const res = await fetch(
-    `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
+    `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
     {
       cache: "no-store", // 👈 pure SSR
     }

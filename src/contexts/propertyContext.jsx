@@ -28,7 +28,7 @@ const getPropertiesByDomain = async () => {
     setError(null);
 
     const res = await axios.get(
-      `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertiesByDomain/${domain}`
+      `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertiesByDomain/${domain}`
     );
 
     setProperties(res.data.data || []);
@@ -62,7 +62,7 @@ useEffect(() => {
       setData([]);
 
       const response = await axios.get(
-        `https://deal-acres-backend.onrender.com/api/listed-properties/getPropertiesByDomainAndLocality/${domain2}/${decodeSlugWithHyphen(locality)}`,
+        `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertiesByDomainAndLocality/${domain2}/${decodeSlugWithHyphen(locality)}`,
         // {
         //   params: {
         //     domain:domain2,
