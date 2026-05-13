@@ -45,6 +45,14 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `https://${domain}/${area}`,
     },
+    robots: {
+        index: true,
+        follow: true,
+        googleBot: {
+          index: true,
+          follow: true,
+        },
+      },
   };
 }
 

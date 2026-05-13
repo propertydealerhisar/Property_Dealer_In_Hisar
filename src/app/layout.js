@@ -40,25 +40,25 @@ export async function generateMetadata() {
          domain = `${process.env.DOMAIN}`;
 
   return {
-   title: "Property Dealer | Buy & Sell Residential and Commercial Properties",
-    description:
-      "Trusted property dealer offering residential and commercial properties for sale and rent. Find verified plots, houses, flats, and commercial spaces with expert guidance.",
-    keywords: [
-      "property dealer",
-      "real estate agent",
-      "buy property",
-      "sell property",
-      "property for sale",
-      "property for rent",
-      "residential property",
-      "commercial property",
-      "plots for sale",
-      "houses for sale",
-      "real estate services"
-    ],
-      alternates: {
-      canonical: `https://${domain}`,
-    },
+  //  title: "Property Dealer | Buy & Sell Residential and Commercial Properties",
+  //   description:
+  //     "Trusted property dealer offering residential and commercial properties for sale and rent. Find verified plots, houses, flats, and commercial spaces with expert guidance.",
+  //   keywords: [
+  //     "property dealer",
+  //     "real estate agent",
+  //     "buy property",
+  //     "sell property",
+  //     "property for sale",
+  //     "property for rent",
+  //     "residential property",
+  //     "commercial property",
+  //     "plots for sale",
+  //     "houses for sale",
+  //     "real estate services"
+  //   ],
+  //     alternates: {
+  //     canonical: `https://${domain}`,
+  //   },
     verification: {
       google:
         GOOGLE_VERIFICATION[domain] ||

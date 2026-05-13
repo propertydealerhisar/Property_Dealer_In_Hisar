@@ -30,6 +30,14 @@ export async function generateMetadata() {
     alternates: {
       canonical: `https://${domain}/about`,
     },
+    robots: {
+        index: true,
+        follow: true,
+        googleBot: {
+          index: true,
+          follow: true,
+        },
+      },
   };
 }
 
