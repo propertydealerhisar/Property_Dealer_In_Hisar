@@ -100,6 +100,7 @@ ${uniqueUrls
     (url) => `
   <url>
     <loc>${url}</loc>
+    <lastmod>${new Date().toISOString()}</lastmod>
   </url>`
   )
   .join("")}
