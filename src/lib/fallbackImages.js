@@ -11,11 +11,10 @@ const fallbackImages =[
     "public_id": "HisarProperties/lbxc6e8on7zr5aigqqzd",
     "domain":"www.flatsforrentinhisar.com",
   },
-//   this img copy of plot for sale, as we don't have flats for sale image, we can change it later when we have flats for sale image
    {
     "file_name": "Flats for Sale in Hisar.png",
-    "url": "https://res.cloudinary.com/dwzhfxo6e/image/upload/v1778821674/HisarProperties/cubay1rpawjnoc3rd79u.webp",
-    "public_id": "HisarProperties/cubay1rpawjnoc3rd79u",
+    "url": "https://res.cloudinary.com/dwzhfxo6e/image/upload/v1778912245/HisarProperties/fcijrlkputdr2eibvxn8.webp",
+    "public_id": "HisarProperties/fcijrlkputdr2eibvxn8",
     "domain":"www.flatsforsaleinhisar.com",
   },
   {
