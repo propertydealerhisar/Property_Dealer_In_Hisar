@@ -132,7 +132,7 @@ export default async function Page({ params }) {
 
   return (
     <div>
-      <PropertyDetails propertyy={property} />
+      <PropertyDetails propertyy={property} domain={domain} />
 
       <Properties
         property={pageData?.properties}

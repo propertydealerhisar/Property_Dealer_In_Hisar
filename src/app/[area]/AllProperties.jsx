@@ -7,7 +7,7 @@ import { MapPin } from "lucide-react";
 import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 import {formatPrice } from "@/utils/formatPrice"
-
+import fallbackImages from "@/lib/fallbackImages";
 export default function AllProperties({host,property}) {
   const [open, setOpen] = useState(false);
 
@@ -69,28 +69,34 @@ export default function AllProperties({host,property}) {
                 "
               >
                 {/* ================= MEDIA ================= */}
-                <div className="relative h-44 bg-black/20">
-                  {property?.media?.type === "image" && property?.media?.url && (
-                    <Image
-                      src={property?.media?.url}
-                      alt={property.title}
-                      fill
-                      loading="lazy"
-                      className="object-cover"
-                    />
-                  )}
+<div className="relative h-44 bg-black/20">
 
-                  {property?.media?.type === "video" && property?.media?.url && (
-                    <video
-                      src={property.media.url}
-                      className="w-full h-full object-cover"
-                      muted
-                      loop
-                      autoPlay
-                      playsInline
-                    />
-                  )}
-                </div>
+  {/* VIDEO */}
+  {property?.media?.type === "video" &&
+   property?.media?.url?.trim() ? (
+    <video
+      src={property.media.url}
+      className="w-full h-full object-cover"
+      muted
+      loop
+      autoPlay
+      playsInline
+    />
+  ) : (
+    /* IMAGE / FALLBACK IMAGE */
+    <Image
+      src={
+        property?.media?.url?.trim()
+          ? property.media.url
+          : fallbackImages.find((item) => item.domain === host)?.url
+      }
+      alt={property.title}
+      fill
+      loading="lazy"
+      className="object-cover"
+    />
+  )}
+</div>
 
                 {/* ================= CONTENT ================= */}
                 <div className="p-4 flex flex-col flex-1">

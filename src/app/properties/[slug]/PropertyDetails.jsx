@@ -2,8 +2,8 @@
 import Image from "next/image";
 import QueryForm from "@/app/[area]/QueryForm";
 import { useState } from "react";
-
-export default function PropertyDetails({ propertyy }) {
+import fallbackImages from "@/lib/fallbackImages";
+export default function PropertyDetails({ propertyy,domain }) {
   const [open, setOpen] = useState(false);
 
   return (
@@ -15,27 +15,32 @@ export default function PropertyDetails({ propertyy }) {
 
           {/* IMAGE */}
           <div className="relative w-full h-[320px] overflow-hidden rounded-lg">
-            {propertyy?.media?.type === "image" && propertyy?.media?.url && (
-              <Image
-                src={propertyy.media.url}
-                alt={propertyy?.title || `Property in ${propertyy?.city}`}
-                fill
-                priority
-                className="object-cover transition-transform duration-300"
-                sizes="(max-width: 768px) 100vw, 420px"
-              />
-            )}
 
-            {propertyy?.media?.type === "video" && propertyy?.media?.url && (
-              <video
-                src={propertyy.media.url}
-                className="w-full h-full object-cover"
-                muted
-                loop
-                autoPlay
-                playsInline
-              />
-            )}
+  {/* VIDEO */}
+  {propertyy?.media?.type === "video" &&
+   propertyy?.media?.url?.trim() ? (
+    <video
+      src={propertyy.media.url}
+      className="w-full h-full object-cover"
+      muted
+      loop
+      autoPlay
+      playsInline
+    />
+  ) : (
+    /* IMAGE / FALLBACK IMAGE */
+    <Image
+      src={
+        propertyy?.media?.url?.trim()
+          ? propertyy.media.url
+          : fallbackImages.find((item) => item.domain === domain)?.url
+      }
+      alt={propertyy.title}
+      fill
+      loading="lazy"
+      className="object-cover"
+    />
+  )}
           </div>
 
           {/* RIGHT CONTENT */}
