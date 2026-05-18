@@ -15,6 +15,7 @@ import { loadPageData } from "@/lib/main-domain/loadPageData";
 import { prefixArr } from "@/lib/prefix";
 import { AREA_META } from "@/lib/areaMeta";
 import { splitArea, formatLocation } from "@/utils/areaParser";
+import PageContent from '@/components/pageContent/PageContent';
 
 
 export async function generateMetadata({ params }) {
@@ -76,9 +77,10 @@ const page = async({params}) => {
   return (
     <div>
     {pageData?.properties && (
-      <Properties domain={domain} area={cleanArea} property={pageData?.properties}/>
+      <Properties domain={domain} area={cleanArea} property={pageData?.properties} slug={area}/>
       )}
       <AllProperties host={domain} property={pageData?.properties} />
+      <PageContent />
       
 
     </div>

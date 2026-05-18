@@ -48,6 +48,7 @@ useEffect(() => {
   const [loading2, setLoading2] = useState(false);
   const [error2, setError2] = useState(null);
   const [domain2,setDomain2] = useState(null);
+  const  [slug,setSlug] = useState(null);
   const decodeSlugWithHyphen = (str) =>
   decodeURIComponent(str).trim().replace(/-/g, " ");
 
@@ -62,7 +63,7 @@ useEffect(() => {
       setData([]);
 
       const response = await axios.get(
-        `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertiesByDomainAndLocality/${domain2}/${decodeSlugWithHyphen(locality)}`,
+        `http://10.101.148.229:8383/api/listed-properties/getPropertiesByDomainAndLocality/${domain2}/${decodeSlugWithHyphen(locality)}/${slug}`,
         // {
         //   params: {
         //     domain:domain2,
@@ -73,8 +74,8 @@ useEffect(() => {
 
        // console.log("domain =>",domain2)
        // console.log("locality =>",locality)
-      // console.log("data =>",response?.data?.data)
-      setData(response?.data?.data);
+      // console.log("data =>",response?.data)
+      setData(response?.data);
     } catch (err) {
       setError2("Data fetch nahi ho paaya");
       // console.log("error =>",err.message)
@@ -102,7 +103,7 @@ useEffect(()=>{
         setLoading,
         error,
         refetch: () => getPropertiesByDomain(domain),
-        data,loading2,error2,setDomain2,setLocality,locality,domain2
+        data,loading2,error2,setDomain2,setLocality,locality,domain2,setSlug
       }}
     >
       {children}

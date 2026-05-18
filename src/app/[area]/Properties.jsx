@@ -8,6 +8,7 @@ import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 import {formatPrice } from "@/utils/formatPrice"
 import fallbackImages from "@/lib/fallbackImages";
+import { SEGMENT_EXPLORER_SIMULATED_ERROR_MESSAGE } from "next/dist/next-devtools/userspace/app/segment-explorer-node";
 export function formatSlugToText(slug) {
   if (!slug) return "";
 
@@ -31,14 +32,15 @@ export function formatSlugToText(slug) {
     .join(" ");
 }
 
-export default function Properties({ domain, area, property }) {
+export default function Properties({ domain, area, property,slug }) {
   const [open, setOpen] = useState(false);
 
-  const { data, loading2, error2, setDomain2, setLocality } = useProperty();
+  const { data, loading2, error2, setDomain2, setLocality,setSlug } = useProperty();
 
   useEffect(() => {
     setLocality(area);   
       setDomain2(domain);
+      setSlug(slug);
   }, []);
 
   useEffect(() => {
@@ -72,7 +74,7 @@ export default function Properties({ domain, area, property }) {
 
           {/* GRID */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {data?.map((property) => (
+            {data?.data?.map((property) => (
               <div
                 key={property._id}
                 className="
