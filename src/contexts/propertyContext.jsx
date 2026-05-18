@@ -63,7 +63,7 @@ useEffect(() => {
       setData([]);
 
       const response = await axios.get(
-        `http://10.101.148.229:8383/api/listed-properties/getPropertiesByDomainAndLocality/${domain2}/${decodeSlugWithHyphen(locality)}/${slug}`,
+        `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertiesByDomainAndLocality/${domain2}/${decodeSlugWithHyphen(locality)}/${slug}`,
         // {
         //   params: {
         //     domain:domain2,
