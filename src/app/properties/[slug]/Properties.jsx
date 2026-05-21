@@ -63,7 +63,7 @@ export default function Properties({ property, area, domain }) {
 
           {/* GRID */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {data?.map((property) => (
+            {data?.data?.map((property) => (
               <div
                 key={property._id}
                 className="

@@ -117,7 +117,7 @@ export default async function Page({ params }) {
 
   // ✅ Domain Logic
   const h = await headers();
-
+    
   let domain = h.get("host");
 
   if (!domain) notFound();
