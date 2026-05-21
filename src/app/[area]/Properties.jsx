@@ -8,7 +8,7 @@ import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 import {formatPrice } from "@/utils/formatPrice"
 import fallbackImages from "@/lib/fallbackImages";
-import { SEGMENT_EXPLORER_SIMULATED_ERROR_MESSAGE } from "next/dist/next-devtools/userspace/app/segment-explorer-node";
+
 export function formatSlugToText(slug) {
   if (!slug) return "";
 
