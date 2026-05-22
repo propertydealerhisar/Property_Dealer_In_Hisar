@@ -8,7 +8,7 @@ const PropertyContext = createContext();
 
 export const PropertyProvider = ({ children }) => {
 
-  const [dailyLimit, setDailyLimit] = useState(20); // daily unlock limit
+  const [dailyLimit, setDailyLimit] = useState(10); // daily unlock limit
 
 const [domain, setDomain] = useState(null);
 const [properties, setProperties] = useState([]);
