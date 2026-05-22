@@ -8,6 +8,8 @@ const PropertyContext = createContext();
 
 export const PropertyProvider = ({ children }) => {
 
+  const [dailyLimit, setDailyLimit] = useState(20); // daily unlock limit
+
 const [domain, setDomain] = useState(null);
 const [properties, setProperties] = useState([]);
 const [loading, setLoading] = useState(true);
@@ -100,7 +102,7 @@ useEffect(()=>{
         setDomain,        
         properties,
         loading,
-        setLoading,
+        setLoading,dailyLimit,
         error,
         refetch: () => getPropertiesByDomain(domain),
         data,loading2,error2,setDomain2,setLocality,locality,domain2,setSlug

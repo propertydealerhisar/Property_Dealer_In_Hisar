@@ -8,6 +8,7 @@ import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 import {formatPrice } from "@/utils/formatPrice"
 import fallbackImages from "@/lib/fallbackImages";
+import ViewDetailsButton from "@/components/ViewDetailsButton/ViewDetailsButton";
 
 export function formatSlugToText(slug) {
   if (!slug) return "";
@@ -151,7 +152,7 @@ export default function Properties({ domain, area, property,slug }) {
                     )}
 
                     {/* VIEW DETAILS */}
-                    <Link
+                    {/* <Link
                       href={`/properties/${property.slug}`}
                       className="
                         px-4 py-2 text-sm font-semibold rounded-md
@@ -161,7 +162,10 @@ export default function Properties({ domain, area, property,slug }) {
                       "
                     >
                       View Details →
-                    </Link>
+                    </Link> */}
+                    <ViewDetailsButton
+                         href={`https://www.dealacres.com/property/${property.slug}`}
+                         />
                   </div>
                 </div>
               </div>

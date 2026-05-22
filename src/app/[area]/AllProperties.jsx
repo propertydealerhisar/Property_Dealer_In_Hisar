@@ -8,6 +8,8 @@ import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
 import {formatPrice } from "@/utils/formatPrice"
 import fallbackImages from "@/lib/fallbackImages";
+import ViewDetailsButton from "@/components/ViewDetailsButton/ViewDetailsButton";
+
 export default function AllProperties({host,property}) {
   const [open, setOpen] = useState(false);
 
@@ -137,7 +139,7 @@ export default function AllProperties({host,property}) {
                     )}
 
                     {/* VIEW DETAILS */}
-                    <Link
+                    {/* <Link
                       href={`/properties/${property.slug}`}
                       className="
                         px-4 py-2 text-sm font-semibold rounded-md
@@ -148,7 +150,10 @@ export default function AllProperties({host,property}) {
                       "
                     >
                       View Details →
-                    </Link>
+                    </Link> */}
+                    <ViewDetailsButton
+                         href={`https://www.dealacres.com/property/${property.slug}`}
+                         />
                   </div>
                 </div>
               </div>

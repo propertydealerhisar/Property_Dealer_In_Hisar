@@ -47,26 +47,26 @@ export async function GET() {
     }
 
     // 🔥 PROPERTY SLUGS
-    try {
-      let apiDomain = domain.startsWith("www.")
-        ? domain
-        : `www.${domain}`;
-        if(apiDomain==="www.commercialpropertyforsaleinhisar.com")
-            apiDomain = "www.shopforsaleinhisar.com";
-      const res = await fetch(
-        `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
-      );
+    // try {
+    //   let apiDomain = domain.startsWith("www.")
+    //     ? domain
+    //     : `www.${domain}`;
+    //     if(apiDomain==="www.commercialpropertyforsaleinhisar.com")
+    //         apiDomain = "www.shopforsaleinhisar.com";
+    //   const res = await fetch(
+    //     `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
+    //   );
 
-      const result = await res.json();
+    //   const result = await res.json();
 
-      if (result?.success && result?.data?.length) {
-        result.data.forEach((slug) => {
-          urls.push(`${baseUrl}/properties/${slug}`);
-        });
-      }
-    } catch (err) {
-      console.error("Property API Error:", err);
-    }
+    //   if (result?.success && result?.data?.length) {
+    //     result.data.forEach((slug) => {
+    //       urls.push(`${baseUrl}/properties/${slug}`);
+    //     });
+    //   }
+    // } catch (err) {
+    //   console.error("Property API Error:", err);
+    // }
 
     // 🔥 BLOG SLUGS (FINAL ADD)
     try {
