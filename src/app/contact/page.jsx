@@ -8,6 +8,7 @@ import { FormTextarea } from "../[area]/ui//FormTextarea"
 import { FormLabel } from "../[area]/ui//FormLabel"
 import { PrimaryButton } from "../[area]/ui//PrimaryButton"
 import { ContactCard } from "../[area]/ui/ContactCard"
+import AlertPopup from "@/components/AlertPopup/AlertPopup"
 
 export default function Page() {
   const [formData, setFormData] = useState({
@@ -16,7 +17,12 @@ export default function Page() {
     message: "",
   })
 
-  const [loading, setLoading] = useState(false)
+  const [loading, setLoading] = useState(false);
+   const [popup, setPopup] = useState({
+  open: false,
+  type: "",
+  message: "",
+})
 
   // 🔹 domain auto detect
   const website =
@@ -40,7 +46,11 @@ export default function Page() {
     e.preventDefault()
 
     if (formData.phone.length !== 10) {
-      toast.error("Phone number must be 10 digits")
+     setPopup({
+  open: true,
+  type: "error",
+  message: "Phone number must be 10 digits",
+})
       return
     }
 
@@ -61,14 +71,26 @@ export default function Page() {
       const result = await res.json()
 
       if (result.success) {
-        toast.success("Your inquiry has been submitted!")
+       setPopup({
+  open: true,
+  type: "success",
+  message: "Your inquiry has been submitted successfully.",
+})
         setFormData({ name: "", phone: "", message: "" })
       } else {
-        toast.error("Something went wrong. Please try again.")
+        setPopup({
+  open: true,
+  type: "error",
+  message: "Something went wrong. Please try again.",
+})
       }
     } catch (err) {
       console.log("Contact form error:", err)
-      toast.error("Server error. Please try later.")
+      setPopup({
+  open: true,
+  type: "error",
+  message: "Server error. Please try later.",
+})
     } finally {
       setLoading(false)
     }
@@ -76,6 +98,18 @@ export default function Page() {
 
   return (
     <section id="contact" className="bg-gray-50 py-10 px-4 sm:px-6">
+      <AlertPopup
+    open={popup.open}
+    type={popup.type}
+    message={popup.message}
+    onClose={() =>
+      setPopup({
+        open: false,
+        type: "",
+        message: "",
+      })
+    }
+  />
       <div className="mx-auto max-w-7xl">
 
         {/* Heading */}

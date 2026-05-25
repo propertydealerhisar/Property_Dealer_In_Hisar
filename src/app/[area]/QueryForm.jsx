@@ -7,6 +7,7 @@ import { FormInput } from "./ui/FormInput";
 import { FormTextarea } from "./ui/FormTextarea";
 import { FormLabel } from "./ui/FormLabel";
 import { PrimaryButton } from "./ui/PrimaryButton";
+import AlertPopup from "@/components/AlertPopup/AlertPopup";
 
 export default function QueryForm({ onSubmitSuccess, onClose }) {
   const [formData, setFormData] = useState({
@@ -16,6 +17,11 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
   });
 
   const [loading, setLoading] = useState(false);
+   const [popup, setPopup] = useState({
+  open: false,
+  type: "",
+  message: "",
+});
 
   // 🔹 domain auto detect
   const website =
@@ -39,7 +45,11 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
     e.preventDefault();
 
     if (formData.phone.length !== 10) {
-      toast.error("Phone number must be 10 digits");
+     setPopup({
+  open: true,
+  type: "error",
+  message: "Phone number must be 10 digits",
+});
       return;
     }
 
@@ -60,21 +70,40 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
       const result = await res.json();
 
       if (result.success) {
-        toast.success("Form submitted successfully!");
-        onSubmitSuccess?.();
-        onClose?.();
+         setPopup({
+    open: true,
+    type: "success",
+    message: "Your inquiry has been submitted successfully.",
+  });
+        // onSubmitSuccess?.();
+        // onClose?.();
 
         setFormData({
           name: "",
           phone: "",
           message: "",
         });
+
+        setTimeout(() => {
+    onSubmitSuccess?.();
+    onClose?.();
+  }, 1500);
+
+
       } else {
-        toast.error("Something went wrong. Try again.");
+        setPopup({
+  open: true,
+  type: "error",
+  message: "Something went wrong. Try again.",
+});
       }
     } catch (err) {
       console.log("Form submit error:", err);
-      toast.error("Server error. Please try later.");
+       setPopup({
+  open: true,
+  type: "error",
+  message: "Server error. Please try later.",
+});
     } finally {
       setLoading(false);
     }
@@ -82,6 +111,18 @@ export default function QueryForm({ onSubmitSuccess, onClose }) {
 
   return (
     <ContactCard>
+      <AlertPopup
+  open={popup.open}
+  type={popup.type}
+  message={popup.message}
+  onClose={() =>
+    setPopup({
+      open: false,
+      type: "",
+      message: "",
+    })
+  }
+/>
       {/* HEADER */}
       <div className="flex items-start justify-between mb-4">
         <div>

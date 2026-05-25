@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import toast from "react-hot-toast";
 import Link from "next/link";
+import AlertPopup from "@/components/AlertPopup/AlertPopup";
 
 const HeroSection = ({ data }) => {
   const [formData, setFormData] = useState({
@@ -12,6 +13,12 @@ const HeroSection = ({ data }) => {
   });
 
   const [loading, setLoading] = useState(false);
+   const [popup, setPopup] = useState({
+  open: false,
+  type: "",
+  message: "",
+});
+
 
   // 🔹 domain auto detect
   const website =
@@ -35,8 +42,13 @@ const HeroSection = ({ data }) => {
     e.preventDefault();
 
     if (formData.phone.length !== 10) {
-      toast.error("Phone number must be 10 digits");
+      setPopup({
+  open: true,
+  type: "error",
+  message: "Phone number must be 10 digits",
+});
       return;
+
     }
 
     setLoading(true);
@@ -56,7 +68,12 @@ const HeroSection = ({ data }) => {
       const result = await res.json();
 
       if (result.success) {
-        toast.success("Enquiry submitted successfully!");
+       setPopup({
+  open: true,
+  type: "success",
+  message: "Enquiry submitted successfully!",
+});
+
 
         setFormData({
           name: "",
@@ -64,11 +81,19 @@ const HeroSection = ({ data }) => {
           message: "",
         });
       } else {
-        toast.error("Something went wrong. Try again.");
+         setPopup({
+  open: true,
+  type: "error",
+  message: "Something went wrong. Try again.",
+});
       }
     } catch (err) {
       console.log("Hero form error:", err);
-      toast.error("Server error. Please try later.");
+      setPopup({
+  open: true,
+  type: "error",
+  message: "Server error. Please try later.",
+});
     } finally {
       setLoading(false);
     }
@@ -76,6 +101,18 @@ const HeroSection = ({ data }) => {
 
   return (
     <section className="relative px-4 sm:px-6 overflow-hidden">
+       <AlertPopup
+    open={popup.open}
+    type={popup.type}
+    message={popup.message}
+    onClose={() =>
+      setPopup({
+        open: false,
+        type: "",
+        message: "",
+      })
+    }
+  />
       <div className="absolute inset-0 bg-[color:var(--navbarBg)]" />
 
       <div className="relative z-10 max-w-7xl mx-auto py-8 grid md:grid-cols-12 gap-10 items-center">
