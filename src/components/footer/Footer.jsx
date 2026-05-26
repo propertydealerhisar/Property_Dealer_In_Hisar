@@ -102,7 +102,7 @@ const Footer = ({ data ,domain}) => {
         </Link>
 
           {/* Center Links */}
-  <div className="flex gap-4 text-sm text-[#D5D46F] justify-center">
+  <div className="flex gap-4 text-sm text-[color:var(--footerMuted)] justify-center">
     <Link href="/about" className="hover:underline">
       About
     </Link>

@@ -6,21 +6,23 @@ import Image from "next/image";
 import { MapPin } from "lucide-react";
 import QueryForm from "@/app/[area]/QueryForm";
 import { useProperty } from "@/contexts/propertyContext";
-import {formatPrice } from "@/utils/formatPrice"
+import { formatPrice } from "@/utils/formatPrice"
 import fallbackImages from "@/lib/fallbackImages";
 import ViewDetailsButton from "@/components/ViewDetailsButton/ViewDetailsButton";
+import FeaturedLocations from "@/components/FeaturedLocations/FeaturedLocations";
+import PropertyCardSkeleton from "@/components/Skeleton/PropertyCardSkeleton";
 
-export default function AllProperties({host,property}) {
+export default function AllProperties({ host, property }) {
   const [open, setOpen] = useState(false);
 
-  const { properties, loading, error,domain,setDomain} = useProperty();
-  
-  useEffect(()=>{
-    if(domain===host || domain !==null)
-      return 
+  const { properties, loading, error, domain, setDomain } = useProperty();
+
+  useEffect(() => {
+    if (domain === host || domain !== null)
+      return
     setDomain(host)
 
-  },[host])
+  }, [host])
 
   useEffect(() => {
     document.body.style.overflow = open ? "hidden" : "";
@@ -29,9 +31,15 @@ export default function AllProperties({host,property}) {
 
   if (loading) {
     return (
-      <p className="text-center py-20 bg-[color:var(--bodyBg)] text-[color:var(--text)]">
-        Loading properties...
-      </p>
+       <div className="min-h-screen bg-[color:var(--bodyBg)] px-4 sm:px-6 py-10">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+        {Array.from({ length: 8 }).map((_, index) => (
+          <PropertyCardSkeleton key={index} />
+        ))}
+
+      </div>
+    </div>
     );
   }
 
@@ -51,114 +59,132 @@ export default function AllProperties({host,property}) {
           {/* ================= HEADING ================= */}
           <div className="mb-10 text-left md:text-center">
             <h2 className="text-2xl sm:text-3xl font-bold text-[color:var(--primary)]">
-            {property?.heading}
+              {property?.heading}
             </h2>
             <p className="mt-2 text-sm sm:text-base text-[color:var(--mutedText)]">
-               {property?.subHeading}
+              {property?.subHeading}
             </p>
           </div>
 
           {/* ================= GRID ================= */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {properties.map((property) => (
-              <div
-                key={property._id}
-                className="
-                  bg-[color:var(--cardBg)]
-                  rounded-xl overflow-hidden
-                  shadow-md flex flex-col
-                  border border-[color:var(--cardBorder)]
-                "
-              >
-                {/* ================= MEDIA ================= */}
-<div className="relative h-44 bg-black/20">
+<div className="space-y-10">
+  {Array.from({
+    length: Math.ceil(properties.length / 20),
+  }).map((_, chunkIndex) => {
+    const chunk = properties.slice(
+      chunkIndex * 20,
+      chunkIndex * 20 + 20
+    );
 
-  {/* VIDEO */}
-  {property?.media?.type === "video" &&
-   property?.media?.url?.trim() ? (
-    <video
-      src={property.media.url}
-      className="w-full h-full object-cover"
-      muted
-      loop
-      autoPlay
-      playsInline
-    />
-  ) : (
-    /* IMAGE / FALLBACK IMAGE */
-    <Image
-      src={
-        property?.media?.url?.trim()
-          ? property.media.url
-          : fallbackImages.find((item) => item.domain === host)?.url
-      }
-      alt={property.title}
-      fill
-      loading="lazy"
-      className="object-cover"
-    />
-  )}
-</div>
+    return (
+      <div key={chunkIndex} className="space-y-8">
 
-                {/* ================= CONTENT ================= */}
-                <div className="p-4 flex flex-col flex-1">
-                  <h3 className="text-lg font-semibold text-[color:var(--text)]">
-                    {property.title}
-                  </h3>
+        {/* Properties Grid */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          {chunk.map((property) => (
+            <div
+              key={property._id}
+              className="
+                bg-[color:var(--cardBg)]
+                rounded-xl overflow-hidden
+                shadow-md flex flex-col
+                border border-[color:var(--cardBorder)]
+              "
+            >
+              {/* ================= MEDIA ================= */}
+              <div className="relative h-44 bg-black/20">
 
-                  <div className="flex items-center text-sm text-[color:var(--mutedText)] mt-1">
-                    <MapPin className="w-4 h-4 mr-1" />
-                    {property.locality}
-                  </div>
+                {/* VIDEO */}
+                {property?.media?.type === "video" &&
+                property?.media?.url?.trim() ? (
+                  <video
+                    src={property.media.url}
+                    className="w-full h-full object-cover"
+                    muted
+                    loop
+                    autoPlay
+                    playsInline
+                  />
+                ) : (
+                  /* IMAGE / FALLBACK IMAGE */
+                  <Image
+                    src={
+                      property?.media?.url?.trim()
+                        ? property.media.url
+                        : fallbackImages.find((item) => item.domain === host)?.url
+                    }
+                    alt={property.title}
+                    fill
+                    loading="lazy"
+                    className="object-cover"
+                  />
+                )}
+              </div>
 
-                  <div className="flex-1" />
+              {/* ================= CONTENT ================= */}
+              <div className="p-4 flex flex-col flex-1">
+                <h3 className="text-lg font-semibold text-[color:var(--text)]">
+                  {property.title}
+                </h3>
 
-                  {/* ================= BOTTOM ================= */}
-                  <div className="flex items-center justify-between gap-3 pt-4 border-t mt-4 border-[color:var(--cardBorder)]">
+                <div className="flex items-center text-sm text-[color:var(--mutedText)] mt-1">
+                  <MapPin className="w-4 h-4 mr-1" />
+                  {property.locality}
+                </div>
 
-                    {/* PRICE / PRICE ON CALL */}
-                    {property.price !== 0 ? (
-                      <div className="text-sm font-semibold text-[color:var(--primary)]">
-                        Price: {formatPrice(property?.price)}
+                <div className="flex-1" />
 
-                      </div>
-                    ) : (
-                      <button
-                        onClick={() => setOpen(true)}
-                        className="
-                          px-3 py-1.5 text-sm font-semibold rounded-md border
-                          bg-[color:var(--btnSecondaryBg)]
-                          text-[color:var(--btnSecondaryText)]
-                          border-[color:var(--btnSecondaryBorder)]
-                          hover:bg-[color:var(--btnSecondaryHoverBg)]
-                          transition
-                        "
-                      >
-                        Price on Call
-                      </button>
-                    )}
+                {/* ================= BOTTOM ================= */}
+                <div className="flex items-center justify-between gap-3 pt-4 border-t mt-4 border-[color:var(--cardBorder)]">
 
-                    {/* VIEW DETAILS */}
-                    {/* <Link
-                      href={`/properties/${property.slug}`}
+                  {/* PRICE / PRICE ON CALL */}
+                  {property.price !== 0 ? (
+                    <div className="text-sm font-semibold text-[color:var(--primary)]">
+                      Price: {formatPrice(property?.price)}
+                    </div>
+                  ) : (
+                    <button
+                      onClick={() => setOpen(true)}
                       className="
-                        px-4 py-2 text-sm font-semibold rounded-md
-                        bg-[color:var(--btnPrimaryBg)]
-                        text-[color:var(--btnPrimaryText)]
-                        hover:bg-[color:var(--btnPrimaryHover)]
+                        px-3 py-1.5 text-sm font-semibold rounded-md border
+                        bg-[color:var(--btnSecondaryBg)]
+                        text-[color:var(--btnSecondaryText)]
+                        border-[color:var(--btnSecondaryBorder)]
+                        hover:bg-[color:var(--btnSecondaryHoverBg)]
                         transition
                       "
                     >
-                      View Details →
-                    </Link> */}
-                    <ViewDetailsButton
-                         href={`https://www.dealacres.com/property/${property.slug}`}
-                         />
-                  </div>
+                      Price on Call
+                    </button>
+                  )}
+
+                  <ViewDetailsButton
+                    href={`https://www.dealacres.com/property/${property.slug}`}
+                  />
                 </div>
               </div>
-            ))}
-          </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Featured Locations */}
+        {chunkIndex !== Math.ceil(properties.length / 20) - 1 && (
+          <FeaturedLocations
+          domain={host}
+            locations={[
+              ...new Set(
+                chunk
+                  .map((item) => item.locality)
+                  .filter(Boolean)
+              ),
+            ]}
+          />
+        )}
+
+      </div>
+    );
+  })}
+</div>
 
         </div>
       </div>

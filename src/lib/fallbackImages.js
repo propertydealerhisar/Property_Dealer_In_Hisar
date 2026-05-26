@@ -19,7 +19,7 @@ const fallbackImages =[
   },
   {
     "file_name": "House for Rent in Hisar.png",
-    "url": "res.cloudinary.com/dwzhfxo6e/image/upload/v1778821671/HisarProperties/mytsxgvv5rugdinnasb4.webp",
+    "url": "https://res.cloudinary.com/dwzhfxo6e/image/upload/v1778821671/HisarProperties/mytsxgvv5rugdinnasb4.webp",
     "public_id": "HisarProperties/mytsxgvv5rugdinnasb4",
     "domain":"www.houseforrentinhisar.com",
   },

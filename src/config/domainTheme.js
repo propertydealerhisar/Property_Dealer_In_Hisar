@@ -55,7 +55,7 @@ export const domainTheme = {
   accent: "#ffffff",
 
   /* ================= BUTTON SYSTEM ================= */
-  btnPrimaryBg: "#FF9644",
+  btnPrimaryBg: "#F57C00",
   btnPrimaryText: "#ffffff",
   btnPrimaryHover: "#e6782f",
 
@@ -66,7 +66,7 @@ export const domainTheme = {
 
   /* ================= UI ================= */
   cardBg: "#ffffff",
-  cardBorder: "#FF9644",
+  cardBorder: "#FFD8B5",
 
   /* ================= FOOTER ================= */
   footerText: "#ffffff",      // normal footer text
@@ -91,7 +91,7 @@ export const domainTheme = {
 
   /* ================= BUTTON SYSTEM (LOCKED RULES) ================= */
   // Primary CTA (safe on any bg)
-  btnPrimaryBg: "#064e3b",      // deep teal
+  btnPrimaryBg: "#0d9488",      // deep teal
   btnPrimaryText: "#ffffff",
   btnPrimaryHover: "#022c22",
 
@@ -127,7 +127,7 @@ export const domainTheme = {
   accent: "#ffffff",
 
   /* ================= BUTTON SYSTEM ================= */
-  btnPrimaryBg: "#E97F4A",
+  btnPrimaryBg: "#D96A32",
   btnPrimaryText: "#ffffff",
   btnPrimaryHover: "#E97F4A",
 

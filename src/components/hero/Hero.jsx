@@ -132,7 +132,7 @@ const HeroSection = ({ data }) => {
         {/* FORM */}
         <div className="md:col-span-5 lg:col-span-4">
           <div className="bg-[color:var(--cardBg)] p-6 rounded-xl shadow-xl border border-[color:var(--cardBorder)]">
-            <h3 className="text-xl font-bold text-[color:var(--primary)]">
+            <h3 className="text-xl font-bold ">
               Free Consultation
             </h3>
             <p className="text-sm mb-4 text-[color:var(--mutedText)]">

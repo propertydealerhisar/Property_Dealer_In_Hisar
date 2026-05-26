@@ -9,6 +9,7 @@ import { useProperty } from "@/contexts/propertyContext";
 import {formatPrice } from "@/utils/formatPrice"
 import fallbackImages from "@/lib/fallbackImages";
 import ViewDetailsButton from "@/components/ViewDetailsButton/ViewDetailsButton";
+import PropertyCardSkeleton from "@/components/Skeleton/PropertyCardSkeleton";
 
 export function formatSlugToText(slug) {
   if (!slug) return "";
@@ -50,7 +51,17 @@ export default function Properties({ domain, area, property,slug }) {
   }, [open]);
 
   if (loading2) {
-    return <p className="text-center py-20 text-[var(--text)]">Loading properties...</p>;
+    return (
+       <div className="min-h-screen bg-[color:var(--bodyBg)] px-4 sm:px-6 py-10">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+        {Array.from({ length: 8 }).map((_, index) => (
+          <PropertyCardSkeleton key={index} />
+        ))}
+
+      </div>
+    </div>
+    )
   }
 
   if (error2) {

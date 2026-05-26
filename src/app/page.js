@@ -8,7 +8,6 @@ import Hero from "@/components/hero/Hero";
 import ServicesSection from "@/components/services-section/ServicesSection";
 import FAQSection from "@/components/FAQSection/FAQSection";
 import Properties from "@/components/properties/Properties";
-import ToletProperties from "@/components/properties/ToletProperties";
 
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 
