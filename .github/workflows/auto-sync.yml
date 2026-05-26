@@ -13,39 +13,92 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: false
 
       - name: Configure git
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "github-actions"
 
-      # Hisar Repo
-      - name: Sync to Property Dealer Hisar Repo
-        continue-on-error: true
+      - name: Check Current Branch
         run: |
-          git remote remove mirror || true
+          git branch
+          git status
 
-          git remote add mirror https://x-access-token:${{ secrets.PROPERTY_DEALER_HISAR_TOKEN }}@github.com/propertydealerhisar/Property_Dealer_In_Hisar.git
-
-          git push mirror HEAD:main --force
-
-      # Gurgaon Repo
-      - name: Sync to Property Dealer Gurgaon Repo
-        continue-on-error: true
+      - name: Check Remote Access
         run: |
-          git remote remove second || true
+          git ls-remote https://x-access-token:${{ secrets.PROPERTY_DEALER_HISAR_TOKEN }}@github.com/propertydealerhisar/Property_Dealer_In_Hisar.git
 
-          git remote add second https://x-access-token:${{ secrets.PROPERTY_DEALER_GURGAON_TOKEN }}@github.com/dealacresGurgaon/Property_Dealer_Gurgaon.git
-
-          git push second HEAD:main --force
-
-      # Nishant Repo 
-      - name: Sync to Nishant Projects Repo
-        continue-on-error: true
+      - name: Push to Hisar Repo
         run: |
-          git remote remove third || true
+          git push --force https://x-access-token:${{ secrets.PROPERTY_DEALER_HISAR_TOKEN }}@github.com/propertydealerhisar/Property_Dealer_In_Hisar.git HEAD:main
 
-          git remote add third https://x-access-token:${{ secrets.NISHANT_VERMA_PROJECTS_ACCESS_TOKEN }}@github.com/nishantverma301/hisar-projects.git
 
-          git push third HEAD:main --force
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# name: Auto Sync to Property Dealer Hisar
+
+# on:
+#   push:
+#     branches:
+#       - main
+
+# jobs:
+#   sync:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - uses: actions/checkout@v4
+#         with:
+#           fetch-depth: 0
+#           persist-credentials: false
+
+#       - name: Configure git
+#         run: |
+#           git config --global user.email "actions@github.com"
+#           git config --global user.name "github-actions"
+
+#       # Hisar Repo
+#       - name: Sync to Property Dealer Hisar Repo
+#         continue-on-error: true
+#         run: |
+#           git remote remove mirror || true
+
+#           git remote add mirror https://x-access-token:${{ secrets.PROPERTY_DEALER_HISAR_TOKEN }}@github.com/propertydealerhisar/Property_Dealer_In_Hisar.git
+
+#           git push mirror HEAD:main --force
+
+#       # Gurgaon Repo
+#       - name: Sync to Property Dealer Gurgaon Repo
+#         continue-on-error: true
+#         run: |
+#           git remote remove second || true
+
+#           git remote add second https://x-access-token:${{ secrets.PROPERTY_DEALER_GURGAON_TOKEN }}@github.com/dealacresGurgaon/Property_Dealer_Gurgaon.git
+
+#           git push second HEAD:main --force
+
+#       # Nishant Repo 
+#       - name: Sync to Nishant Projects Repo
+#         continue-on-error: true
+#         run: |
+#           git remote remove third || true
+
+#           git remote add third https://x-access-token:${{ secrets.NISHANT_VERMA_PROJECTS_ACCESS_TOKEN }}@github.com/nishantverma301/hisar-projects.git
+
+#           git push third HEAD:main --force
