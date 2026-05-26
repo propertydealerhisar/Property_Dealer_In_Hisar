@@ -40,7 +40,7 @@ jobs:
 
           git push second HEAD:main --force
 
-      # Nishant Repo
+      # Nishant Repo Code Puush
       - name: Sync to Nishant Projects Repo
         continue-on-error: true
         run: |
