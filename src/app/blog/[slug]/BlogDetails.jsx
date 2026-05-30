@@ -3,17 +3,26 @@
 import Image from "next/image"
 import Link from "next/link"
 import "@/app/globals.css";
+import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
+import { formatBreadcrumbLabel } from "@/utils/helpers";
 export default function BlogDetails({ post }) {
-  const x="[#84b179]"
 
   const single = post?.blog;
 
   return (
-    <article className="max-w-6xl mx-auto space-y-10">
+    <article className="max-w-6xl mx-auto space-y-5 bg-[color:var(--bodyBg)]">
+       
+            <div className="max-w-5xl mx-auto mt-4">
+              <Breadcrumb  items={[
+              { label: "Home",href: "/",},
+              { label: "Blogs",href: "/blog",},
+              { label: `${formatBreadcrumbLabel(post?.blog?.Slug)}`,href: `${formatBreadcrumbLabel(post?.blog?.Slug)}`,},
 
+              ]} />
+            </div>
       
           {/* IMAGE */}
-          <div className="w-full h-[260px] md:h-[380px] flex items-center justify-center bg-gray-300 md:rounded-tl-2xl overflow-hidden max-w-5xl mx-auto">
+          <div className="w-full h-[260px] md:h-[380px] flex items-center justify-center bg-gray-300 md:rounded-tl-2xl overflow-hidden max-w-5xl mx-auto ">
 
             <Image
               src={single?.HeroImg?.url}

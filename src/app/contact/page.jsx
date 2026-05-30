@@ -9,6 +9,7 @@ import { FormLabel } from "../[area]/ui//FormLabel"
 import { PrimaryButton } from "../[area]/ui//PrimaryButton"
 import { ContactCard } from "../[area]/ui/ContactCard"
 import AlertPopup from "@/components/AlertPopup/AlertPopup"
+import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
 
 export default function Page() {
   const [formData, setFormData] = useState({
@@ -97,7 +98,7 @@ export default function Page() {
   }
 
   return (
-    <section id="contact" className="bg-gray-50 py-10 px-4 sm:px-6">
+    <section id="contact" className="bg-[color:var(--bodyBg)] py-10 px-4 sm:px-6">
       <AlertPopup
     open={popup.open}
     type={popup.type}
@@ -111,15 +112,19 @@ export default function Page() {
     }
   />
       <div className="mx-auto max-w-7xl">
+         <Breadcrumb  items={[
+    { label: "Home",href: "/",},
+    { label: "Contact Us",href: "/contact",},
+  ]} />
 
         {/* Heading */}
-        <div className="mx-auto mb-12 max-w-7xl text-left md:mb-16 md:text-center">
+        <div className="mx-auto mb-12 mt-4 max-w-7xl text-left md:mb-16 md:text-center">
           <h1 className="mb-3 text-3xl font-bold text-gray-900 md:text-4xl lg:text-5xl">
             Contact Us
           </h1>
           <p className="text-base text-gray-600 md:text-lg max-w-7xl mx-auto">
-            <span className="block">Looking to buy, sell, or invest in property?</span>
-            <span className="block">Get in touch with our team for expert guidance.</span>
+            <span className="block">Looking to buy, sell, rent, or invest in a property? Whether you're searching for a house, flat, apartment, shop, office, plot, or commercial space, our team is here to help you every step of the way.</span>
+            <span className="block">Get in touch with us for trusted guidance, property-related assistance, and the best real estate opportunities tailored to your needs. We’re committed to making your property search and investment journey simple, smooth, and hassle-free.</span>
           </p>
         </div>
 

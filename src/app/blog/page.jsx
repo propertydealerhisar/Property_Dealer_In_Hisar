@@ -5,6 +5,7 @@ import Image from "next/image";
 import { useBlog } from "@/contexts/BlogContext";
 import Pagination from "@/components/pagination/Pagination";
 import { BLOG_HEAD_DATA } from "@/lib/blogHeadData";
+import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
 
 const formatDate = (date) => {
   if (!date) return "";
@@ -85,10 +86,15 @@ export default function Page() {
 
   // ================= MAIN UI =================
   return (
-    <section className="px-4 sm:px-6 lg:px-0 max-w-7xl mx-auto py-12 bg-[color:var(--bodyBg)]">
+    <section className = "px-4 sm:px-6 bg-[color:var(--bodyBg)]">
+    <section className="max-w-7xl mx-auto py-8 ">
+       <Breadcrumb  items={[
+    { label: "Home",href: "/",},
+    { label: "Blogs",href: "/blog",},
+  ]} />
 
        {/* HEADER */}
-    <div className="text-center mb-10">
+    <div className="text-center mb-10 mt-2">
       <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[color:var(--text)] mb-4">
         {blogHead?.heading || "Property Blogs & Real Estate Insights"}
       </h1>
@@ -138,5 +144,7 @@ export default function Page() {
         <Pagination page={page} setPage={setPage} totalPages={totalPages} />
       </div>
     </section>
+        </section>
+
   );
 }

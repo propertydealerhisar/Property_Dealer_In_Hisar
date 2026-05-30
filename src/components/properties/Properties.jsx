@@ -31,15 +31,15 @@ export default function Properties({ host, data }) {
 
   if (loading) {
     return (
-       <div className="min-h-screen bg-[color:var(--bodyBg)] px-4 sm:px-6 py-10">
-      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div className="min-h-screen bg-[color:var(--bodyBg)] px-4 sm:px-6 py-10">
+        <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
 
-        {Array.from({ length: 8 }).map((_, index) => (
-          <PropertyCardSkeleton key={index} />
-        ))}
+          {Array.from({ length: 32 }).map((_, index) => (
+            <PropertyCardSkeleton key={index} />
+          ))}
 
+        </div>
       </div>
-    </div>
     );
   }
 
@@ -107,17 +107,17 @@ export default function Properties({ host, data }) {
                             />
                           ) : (
                             /* IMAGE / FALLBACK IMAGE */
-                             <Image
-      src={
-        property?.media?.url?.trim()
-          ? property.media.url
-          : fallbackImages.find((item) => item.domain === host)?.url
-      }
-      alt={property.title}
-      fill
-      loading="lazy"
-      className="object-cover"
-    />
+                            <Image
+                              src={
+                                property?.media?.url?.trim()
+                                  ? property.media.url
+                                  : fallbackImages.find((item) => item.domain === host)?.url
+                              }
+                              alt={property.title}
+                              fill
+                              loading="lazy"
+                              className="object-cover"
+                            />
                           )}
                         </div>
 
@@ -170,7 +170,7 @@ export default function Properties({ host, data }) {
                   {/* Featured Locations */}
                   {chunkIndex !== Math.ceil(properties.length / 20) - 1 && (
                     <FeaturedLocations
-                    domain={host}
+                      domain={host}
                       locations={[
                         ...new Set(
                           chunk

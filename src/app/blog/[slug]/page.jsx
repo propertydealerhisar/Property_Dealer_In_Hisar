@@ -115,8 +115,8 @@ export default async function Page({ params }) {
   }
 
   return (
-    <>
+    <div className="bg-[color:var(--bodyBg)]  w-full overflow-x-hidden">
       <BlogDetails post={data} />
-    </>
+    </div>
   );
 }

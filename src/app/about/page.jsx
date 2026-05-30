@@ -1,5 +1,6 @@
 import { data } from "./data";
 import { headers } from "next/headers";
+import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
 
 const   page = async () => {
   // console.log("dddd ",process.env.DOMAIN)
@@ -28,6 +29,10 @@ const   page = async () => {
         bg-[color:var(--bodyBg)] px-4 sm:px-6
       "
     >
+      <Breadcrumb  items={[
+    { label: "Home",href: "/",},
+    { label: "About Us",href: "/about",},
+  ]} />
       <div
         className="   
           html-content ql-editor

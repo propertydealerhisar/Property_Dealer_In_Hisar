@@ -47,7 +47,7 @@ useEffect(() => {
 
   // **************************************************************************
   const [data, setData] = useState(null);
-  const [loading2, setLoading2] = useState(false);
+  const [loading2, setLoading2] = useState(true);
   const [error2, setError2] = useState(null);
   const [domain2,setDomain2] = useState(null);
   const  [slug,setSlug] = useState(null);

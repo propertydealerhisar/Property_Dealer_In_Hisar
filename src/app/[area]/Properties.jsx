@@ -10,6 +10,8 @@ import {formatPrice } from "@/utils/formatPrice"
 import fallbackImages from "@/lib/fallbackImages";
 import ViewDetailsButton from "@/components/ViewDetailsButton/ViewDetailsButton";
 import PropertyCardSkeleton from "@/components/Skeleton/PropertyCardSkeleton";
+import Breadcrumb from "@/components/Breadcrumb/Breadcrumb";
+import { formatBreadcrumbLabel } from "@/utils/helpers";
 
 export function formatSlugToText(slug) {
   if (!slug) return "";
@@ -55,7 +57,7 @@ export default function Properties({ domain, area, property,slug }) {
        <div className="min-h-screen bg-[color:var(--bodyBg)] px-4 sm:px-6 py-10">
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
 
-        {Array.from({ length: 8 }).map((_, index) => (
+        {Array.from({ length: 32 }).map((_, index) => (
           <PropertyCardSkeleton key={index} />
         ))}
 
@@ -73,6 +75,13 @@ export default function Properties({ domain, area, property,slug }) {
       {/* PAGE */}
       <div className="min-h-screen px-4 sm:px-6 py-10 bg-[var(--bodyBg)]">
         <div className="max-w-7xl mx-auto">
+          <div className=" mb-4">
+                        <Breadcrumb  items={[
+                        { label: "Home",href: "/",},
+                        { label: `${formatBreadcrumbLabel(slug)}`,href: `${formatBreadcrumbLabel(slug)}`,},
+          
+                        ]} />
+                      </div>
 
           {/* HEADING */}
           <div className="mb-10 text-left md:text-center">
