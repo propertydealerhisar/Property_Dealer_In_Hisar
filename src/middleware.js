@@ -1,15 +1,18 @@
-
 import { NextResponse } from "next/server";
 
-let cachedPaths = null;
-let lastFetch = 0;
+let sitemapCache = {};
 
 async function getSitemapPaths(request) {
+  const host = request.headers.get("host");
+
   const now = Date.now();
 
-  // ✅ 5 minute cache
-  if (cachedPaths && now - lastFetch < 5 * 60 * 1000) {
-    return cachedPaths;
+  // domain specific cache
+  if (
+    sitemapCache[host] &&
+    now - sitemapCache[host].time < 5 * 60 * 1000
+  ) {
+    return sitemapCache[host].paths;
   }
 
   const res = await fetch(
@@ -23,22 +26,24 @@ async function getSitemapPaths(request) {
 
   const matches = [...xml.matchAll(/<loc>(.*?)<\/loc>/g)];
 
-  cachedPaths = matches.map((m) => {
+  const paths = matches.map((m) => {
     const url = new URL(m[1]);
 
     return url.pathname.replace(/\/$/, "") || "/";
   });
 
-  lastFetch = now;
+  sitemapCache[host] = {
+    paths,
+    time: now,
+  };
 
-  return cachedPaths;
+  return paths;
 }
 
 export async function middleware(request) {
   const pathname =
     request.nextUrl.pathname.replace(/\/$/, "") || "/";
 
-  // ✅ ignore static files
   if (
     pathname.startsWith("/_next") ||
     pathname.startsWith("/api") ||
@@ -47,7 +52,6 @@ export async function middleware(request) {
     return NextResponse.next();
   }
 
-  // ✅ homepage allow
   if (pathname === "/") {
     return NextResponse.next();
   }
@@ -56,7 +60,6 @@ export async function middleware(request) {
 
   const exists = paths.includes(pathname);
 
-  // ❌ invalid path
   if (!exists) {
     return NextResponse.redirect(
       new URL("/", request.url)
@@ -69,7 +72,6 @@ export async function middleware(request) {
 export const config = {
   matcher: ["/:path*"],
 };
-
 
 
 
