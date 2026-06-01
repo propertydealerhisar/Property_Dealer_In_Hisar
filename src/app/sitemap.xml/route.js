@@ -19,19 +19,42 @@ export async function GET() {
     }
 
     const baseUrl = `https://${domain}`;
+    const today = new Date().toLocaleDateString("en-CA", {
+      timeZone: "Asia/Kolkata",
+    });
 
     // ✅ pageData load
     const pageData = loadPageData(domain);
     const prefix = prefixArr.find(
-  (item) => item.domain === domain
-)?.prefix || "";
+      (item) => item.domain === domain
+    )?.prefix || "";
 
     // ✅ Static URLs
     const urls = [
-      `${baseUrl}/`,
-      `${baseUrl}/about`,
-      `${baseUrl}/blog`,
-      `${baseUrl}/contact`,
+      {
+        loc: `${baseUrl}/`,
+        changefreq: "daily",
+        priority: "1.0",
+        lastmod: today,
+      },
+      {
+        loc: `${baseUrl}/about`,
+        changefreq: "monthly",
+        priority: "0.5",
+        lastmod: "2026-05-10",
+      },
+      {
+        loc: `${baseUrl}/blog`,
+        changefreq: "daily",
+        priority: "0.8",
+        lastmod: today,
+      },
+      {
+        loc: `${baseUrl}/contact`,
+        changefreq: "yearly",
+        priority: "0.4",
+        lastmod: "2026-01-10",
+      },
     ];
 
     // 🔥 Locations add
@@ -41,7 +64,12 @@ export async function GET() {
       locations.forEach((item) => {
         const slug = item?.slug;
         if (slug) {
-          urls.push(`${baseUrl}/${prefix}${slug}`);
+          urls.push({
+            loc: `${baseUrl}/${prefix}${slug}`,
+            changefreq: "weekly",
+            priority: "0.8",
+            lastmod: today,
+          });
         }
       });
     }
@@ -82,7 +110,12 @@ export async function GET() {
 
       if (result?.success && result?.data?.length) {
         result.data.forEach((slug) => {
-          urls.push(`${baseUrl}/blog/${slug}`);
+          urls.push({
+            loc: `${baseUrl}/blog/${slug}`,
+            changefreq: "weekly",
+            priority: "0.6",
+            lastmod: today,
+          });
         });
       }
     } catch (err) {
@@ -90,20 +123,24 @@ export async function GET() {
     }
 
     // ✅ Duplicate remove
-    const uniqueUrls = [...new Set(urls)];
+    const uniqueUrls = Array.from(
+      new Map(urls.map((item) => [item.loc, item])).values()
+    );
 
     // ✅ XML generate
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${uniqueUrls
-  .map(
-    (url) => `
+        .map(
+          (url) => `
   <url>
-    <loc>${url}</loc>
-    <lastmod>${new Date().toISOString()}</lastmod>
+    <loc>${url.loc}</loc>
+    <lastmod>${url.lastmod}</lastmod>
+    <changefreq>${url.changefreq}</changefreq>
+    <priority>${url.priority}</priority>
   </url>`
-  )
-  .join("")}
+        )
+        .join("")}
 </urlset>`;
 
     return new Response(xml, {
