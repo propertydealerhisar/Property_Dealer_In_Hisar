@@ -20,7 +20,6 @@ export default function Page() {
   if (host === "localhost:3000") {
     host = process.env.NEXT_PUBLIC_DOMAIN;
   }
-  console.log("host =>", host);
   const blogHead = BLOG_HEAD_DATA.find((item) => item.domain === host);
 
   const {
@@ -32,16 +31,17 @@ export default function Page() {
     totalPages,setDomain,domain,fetchBlogs
   } = useBlog();
 
- useEffect(()=>{
-     let h = window.location.host;
+  useEffect(() => {
+    let h = window.location.host;
 
     if (h === "localhost:3000") {
       h = process.env.NEXT_PUBLIC_DOMAIN;
     }
 
-             if(h)
-                setDomain(h)
-        },[domain])
+    if (h) {
+      setDomain(h);
+    }
+  }, []);
 
 
   // ================= LOADING FULL SCREEN =================

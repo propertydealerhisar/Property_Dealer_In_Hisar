@@ -29,10 +29,12 @@ const   page = async () => {
         bg-[color:var(--bodyBg)] px-4 sm:px-6
       "
     >
+      <div className="max-w-7xl mx-auto">
       <Breadcrumb  items={[
     { label: "Home",href: "/",},
     { label: "About Us",href: "/about",},
   ]} />
+  </div>
       <div
         className="   
           html-content ql-editor

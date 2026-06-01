@@ -10,7 +10,8 @@ export default function BlogDetails({ post }) {
   const single = post?.blog;
 
   return (
-    <article className="max-w-6xl mx-auto space-y-5 bg-[color:var(--bodyBg)]">
+    <section className = "bg-[color:var(--bodyBg)] px-4 sm:px-6 overflow-x-hidden">
+    <article className="max-w-6xl mx-auto space-y-5  ">
        
             <div className="max-w-5xl mx-auto mt-4">
               <Breadcrumb  items={[
@@ -111,5 +112,6 @@ export default function BlogDetails({ post }) {
       </div>
 
     </article>
+    </section>
   )
 }
