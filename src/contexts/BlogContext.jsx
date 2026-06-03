@@ -14,7 +14,7 @@ export const BlogProvider = ({ children }) => {
   const [totalPages,setTotalPages]=useState(1)
 
   const api = axios.create({
-    baseURL: "https://deal-acres-backend.onrender.com",
+    baseURL: "https://property-dealer-in-hisar-backend.onrender.com",
     timeout: 10000, // ⏱️ request timeout
   });
 
@@ -25,7 +25,7 @@ export const BlogProvider = ({ children }) => {
       setLoading(true);
       setError(null); // reset old error
 
-      const { data } = await api.get("/admin/blog/fetchBlogs", {
+      const { data } = await api.get("/blogs/fetchBlogs", {
         params: { domain, page, limit:11 },
       });
 

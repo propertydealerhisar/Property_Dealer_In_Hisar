@@ -12,7 +12,7 @@ async function getBlogData(slug,domain) {
 
   try {
     const res = await fetch(
-      `https://deal-acres-backend.onrender.com/admin/blog/getBlogBySlug/${slug}?domain=${domain}`,
+      `https://property-dealer-in-hisar-backend.onrender.com/blogs/getBlogBySlug/${slug}?domain=${domain}`,
       {
          cache: "force-cache",
         next: { revalidate: 120 }, // revalidate every 2 minutes
