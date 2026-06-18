@@ -26,7 +26,7 @@ export async function generateMetadata({ params }) {
 
     // ✅ Property API
     const res = await fetch(
-      `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
+      `https://hisar-backend-ha4b.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
       {
         cache: "no-store",
       }
@@ -87,7 +87,7 @@ export async function generateMetadata({ params }) {
 // ✅ Fetch Property
 async function getPropertyBySlug(slug) {
   const res = await fetch(
-    `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
+    `https://hisar-backend-ha4b.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
     {
       cache: "no-store",
     }
@@ -169,7 +169,7 @@ export default async function Page({ params }) {
 
 // async function getPropertyBySlug(slug) {
 //   const res = await fetch(
-//     `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
+//     `https://hisar-backend-ha4b.onrender.com/api/listed-properties/getPropertyBySlug/${slug}`,
 //     {
 //       cache: "no-store", // 👈 pure SSR
 //     }

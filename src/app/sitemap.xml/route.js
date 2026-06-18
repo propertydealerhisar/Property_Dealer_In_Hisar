@@ -82,7 +82,7 @@ export async function GET() {
     //     if(apiDomain==="www.commercialpropertyforsaleinhisar.com")
     //         apiDomain = "www.shopforsaleinhisar.com";
     //   const res = await fetch(
-    //     `https://property-dealer-in-hisar-backend.onrender.com/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
+    //     `https://hisar-backend-ha4b.onrender.com/api/listed-properties/getPropertySlugsByDomain/${apiDomain}`
     //   );
 
     //   const result = await res.json();
@@ -103,7 +103,7 @@ export async function GET() {
         : `www.${domain}`;
 
       const res = await fetch(
-        `https://property-dealer-in-hisar-backend.onrender.com/blogs/getSlugsByDomain/${apiDomain}`
+        `https://hisar-backend-ha4b.onrender.com/blogs/getSlugsByDomain/${apiDomain}`
       );
 
       const result = await res.json();

@@ -14,7 +14,7 @@ export const BlogProvider = ({ children }) => {
   const [totalPages,setTotalPages]=useState(1)
 
   const api = axios.create({
-    baseURL: "https://property-dealer-in-hisar-backend.onrender.com",
+    baseURL: "https://hisar-backend-ha4b.onrender.com",
     timeout: 10000, // ⏱️ request timeout
   });
 
