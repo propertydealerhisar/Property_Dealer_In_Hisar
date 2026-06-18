@@ -30,15 +30,6 @@ jobs:
 
           git push mirror HEAD:main --force
 
-      # Gurgaon Repo
-      - name: Sync to Property Dealer Gurgaon Repo
-        continue-on-error: true
-        run: |
-          git remote remove second || true
-
-          git remote add second https://x-access-token:${{ secrets.PROPERTY_DEALER_GURGAON_TOKEN }}@github.com/dealacresGurgaon/Property_Dealer_Gurgaon.git
-
-          git push second HEAD:main --force
 
       # Nishant Repo 
       - name: Sync to Nishant Projects Repo
