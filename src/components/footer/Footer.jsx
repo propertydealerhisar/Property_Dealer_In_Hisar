@@ -29,20 +29,37 @@ const Footer = ({ data ,domain}) => {
 
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-y-3 gap-x-4">
               {data?.links?.items?.map((item, index) => (
-                <Link
-                  key={index}
-                  href={`/${prefix}${item.slug}`}
-                  className="
-                    text-sm
-                    text-[color:var(--footerMuted)]
-                    hover:text-[color:var(--accent)]
-                    hover:underline
-                    underline-offset-4
-                    transition
-                  "
-                >
-                  {data?.links?.prefix} {item.area}
-                </Link>
+                <React.Fragment key={index}>
+                  {/* <Link
+                    key={index}
+                    href={`/${prefix}${item.slug}`}
+                    className="
+                      text-sm
+                      text-[color:var(--footerMuted)]
+                      hover:text-[color:var(--accent)]
+                      hover:underline
+                      underline-offset-4
+                      transition
+                    "
+                  >
+                    {data?.links?.prefix} {item.area}
+                  </Link> */}
+                  <Link
+                    href={`https://www.dealacres.com/properties/${prefix}${item.slug}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="
+                      text-sm
+                      text-[color:var(--footerMuted)]
+                      hover:text-[color:var(--accent)]
+                      hover:underline
+                      underline-offset-4
+                      transition
+                    "
+                  >
+                    {data?.links?.prefix} {item.area}
+                  </Link>
+                </React.Fragment>
               ))}
             </div>
           </div>

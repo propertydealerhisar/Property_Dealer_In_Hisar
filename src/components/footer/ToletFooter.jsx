@@ -77,15 +77,32 @@ const ToletFooter = () => {
               </h3>
 
               <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-y-3 text-sm text-[color:var(--footerMuted)]">
-                {section.links.map((item, idx) => (
-                  <Link
-                    key={idx}
-                    href={`/${item.slug}`}
-                    className="hover:underline underline-offset-4 transition"
-                  >
-                    {section.prefix} {item.area}
-                  </Link>
-                ))}
+                {section.links.map((item, idx) => {
+                  const dealAcresPrefix = section.heading.includes("Houses")
+                    ? "house-for-rent-in-"
+                    : section.heading.includes("Shops")
+                    ? "shop-for-rent-in-"
+                    : "flats-for-rent-in-";
+                  return (
+                    <React.Fragment key={idx}>
+                      {/* <Link
+                        key={idx}
+                        href={`/${item.slug}`}
+                        className="hover:underline underline-offset-4 transition"
+                      >
+                        {section.prefix} {item.area}
+                      </Link> */}
+                      <Link
+                        href={`https://www.dealacres.com/properties/${dealAcresPrefix}${item.slug}-hisar`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="hover:underline underline-offset-4 transition"
+                      >
+                        {section.prefix} {item.area}
+                      </Link>
+                    </React.Fragment>
+                  );
+                })}
               </div>
             </div>
           ))}
