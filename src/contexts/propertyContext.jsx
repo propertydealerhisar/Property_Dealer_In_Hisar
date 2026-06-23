@@ -79,7 +79,7 @@ useEffect(() => {
       // console.log("data =>",response?.data)
       setData(response?.data);
     } catch (err) {
-      setError2("Data fetch nahi ho paaya");
+      setError2("Failed to fetch property details");
       // console.log("error =>",err.message)
     } finally {
       setLoading2(false);
