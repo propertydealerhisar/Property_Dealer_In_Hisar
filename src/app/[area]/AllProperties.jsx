@@ -15,7 +15,8 @@ import PropertyCardSkeleton from "@/components/Skeleton/PropertyCardSkeleton";
 export default function AllProperties({ host, property }) {
   const [open, setOpen] = useState(false);
 
-  const { properties, loading, error, domain, setDomain } = useProperty();
+  // const { properties, loading, error, domain, setDomain } = useProperty();
+  const { properties, loading, error, domain, setDomain, areas } = useProperty();
 
   useEffect(() => {
     if (domain === host || domain !== null)
@@ -169,16 +170,40 @@ export default function AllProperties({ host, property }) {
 
         {/* Featured Locations */}
         {chunkIndex !== Math.ceil(properties.length / 20) - 1 && (
-          <FeaturedLocations
-          domain={host}
-            locations={[
-              ...new Set(
-                chunk
-                  .map((item) => item.locality)
-                  .filter(Boolean)
-              ),
-            ]}
-          />
+          <>
+            {/* <FeaturedLocations
+            domain={host}
+              locations={[
+                ...new Set(
+                  chunk
+                    .map((item) => item.locality)
+                    .filter(Boolean)
+                ),
+              ]}
+            /> */}
+            <FeaturedLocations
+              domain={host}
+              locations={
+                areas && areas.length > 0
+                  ? (() => {
+                      const N = areas.length;
+                      const startIndex = (chunkIndex * 10) % N;
+                      const selected = [];
+                      for (let i = 0; i < 10; i++) {
+                        selected.push(areas[(startIndex + i) % N]);
+                      }
+                      return selected;
+                    })()
+                  : [
+                      ...new Set(
+                        chunk
+                          .map((item) => item.locality)
+                          .filter(Boolean)
+                      ),
+                    ]
+              }
+            />
+          </>
         )}
 
       </div>

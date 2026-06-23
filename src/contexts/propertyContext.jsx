@@ -15,6 +15,24 @@ const [properties, setProperties] = useState([]);
 const [loading, setLoading] = useState(true);
 const [error, setError] = useState(null);
 
+// ✅ Areas API Integration (Hindi messages update - all proper English)
+const [areas, setAreas] = useState([]);
+const fetchAreas = async () => {
+  try {
+    const res = await axios.get(
+      "https://hisar-backend-ha4b.onrender.com/api/areas/getAllAreas"
+    );
+    if (res.data && res.data.success) {
+      setAreas(res.data.data || []);
+    }
+  } catch (err) {
+    console.error("Failed to fetch areas:", err);
+  }
+};
+useEffect(() => {
+  fetchAreas();
+}, []);
+
 const lastFetchedDomain = useRef(null); // 🔑 ADD THIS
 
 const getPropertiesByDomain = async () => {
@@ -86,6 +104,7 @@ useEffect(() => {
     }
   };
 
+
 useEffect(()=>{
 
   fetchProperties();
@@ -105,7 +124,8 @@ useEffect(()=>{
         setLoading,dailyLimit,
         error,
         refetch: () => getPropertiesByDomain(domain),
-        data,loading2,error2,setDomain2,setLocality,locality,domain2,setSlug
+        // data,loading2,error2,setDomain2,setLocality,locality,domain2,setSlug
+        data,loading2,error2,setDomain2,setLocality,locality,domain2,setSlug,areas
       }}
     >
       {children}

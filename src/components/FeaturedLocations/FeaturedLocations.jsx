@@ -2,11 +2,13 @@
 
 import Link from "next/link";
 import { MapPin } from "lucide-react";
+import { getFeaturedLocationTitle } from "@/lib/featuredLocationTitle";
 
 export default function FeaturedLocations({
   locations = [],
   domain,
 }) {
+  const title = getFeaturedLocationTitle(domain);
 
   const pathPrefixMap = {
   "www.houseforrentinhisar.com": "house-for-rent-in",
@@ -34,8 +36,14 @@ const getPathPrefix = () =>
               Prime Areas
             </p>
 
-            <h2 className="text-2xl sm:text-3xl font-bold text-white mt-1">
+            {/* <h2 className="text-2xl sm:text-3xl font-bold text-white mt-1">
               Popular Locations
+            </h2> */}
+            {/* <h2 className="text-2xl sm:text-3xl font-bold text-white mt-1">
+              {title}
+            </h2> */}
+            <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-white mt-1">
+              {title}
             </h2>
           </div>
 
@@ -45,10 +53,25 @@ const getPathPrefix = () =>
         {/* Locations */}
         <div className="flex flex-wrap gap-3">
           {locations.map((location, index) => {
+            /*
             const slug = location
               .toLowerCase()
               .replace(/,/g, "")
               .replace(/\s+/g, "-");
+            */
+            const isObj = typeof location === "object" && location !== null;
+            // const displayName = isObj
+            //   ? (location.location ? location.location.split(",")[0].trim() : location.name)
+            //   : location;
+            const displayName = isObj
+              ? (location.location || location.name)
+              : location;
+            const slug = isObj
+              ? location.slug
+              : location
+                  .toLowerCase()
+                  .replace(/,/g, "")
+                  .replace(/\s+/g, "-");
 
             return (
               <Link
@@ -75,7 +98,8 @@ const getPathPrefix = () =>
                   className="transition-transform duration-300 group-hover:scale-110"
                 />
 
-                {location}
+                {/* {location} */}
+                {displayName}
               </Link>
             );
           })}
