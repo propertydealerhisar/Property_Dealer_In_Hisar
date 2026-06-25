@@ -5,7 +5,6 @@ import React, { useState } from "react";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 import Link from "next/link";
 import { prefixArr } from "@/lib/prefix";
-import { useLocality } from "@/contexts/localityContext";
 
 
 const Footer = ({ data ,domain}) => {
@@ -15,7 +14,6 @@ const Footer = ({ data ,domain}) => {
   const prefix = prefixArr.find(
     (item) => item.domain === domain
   )?.prefix || "";
-  const { localities } = useLocality();
   const [showAll, setShowAll] = useState(false);
   return (
     <footer
@@ -98,58 +96,31 @@ const Footer = ({ data ,domain}) => {
                       </Link>
                     </React.Fragment>
                   ))} */}
-              {localities && localities.length > 0
-                ? (showAll ? localities : localities.slice(0, 20)).map((locality, index) => {
-                    const slug = locality
-                      .toLowerCase()
-                      .replace(/,/g, "")
-                      .replace(/\s+/g, "-");
-                    return (
-                      <Link
-                        key={index}
-                        href={`https://www.dealacres.com/properties/${prefix}${slug}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="
-                          text-sm
-                          text-[color:var(--footerMuted)]
-                          hover:text-[color:var(--accent)]
-                          hover:underline
-                          underline-offset-4
-                          transition
-                          truncate block
-                        "
-                        title={`${data?.links?.prefix} ${locality}`}
-                      >
-                        {data?.links?.prefix} {locality}
-                      </Link>
-                    );
-                  })
-                : (showAll ? (data?.links?.items || []) : (data?.links?.items || []).slice(0, 20)).map((item, index) => (
-                    <React.Fragment key={index}>
-                      <Link
-                        href={`https://www.dealacres.com/properties/${prefix}${item.slug}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="
-                          text-sm
-                          text-[color:var(--footerMuted)]
-                          hover:text-[color:var(--accent)]
-                          hover:underline
-                          underline-offset-4
-                          transition
-                          truncate block
-                        "
-                        title={`${data?.links?.prefix} ${item.area}`}
-                      >
-                        {data?.links?.prefix} {item.area}
-                      </Link>
-                    </React.Fragment>
-                  ))}
+              {(showAll ? (data?.links?.items || []) : (data?.links?.items || []).slice(0, 20)).map((item, index) => (
+                <React.Fragment key={index}>
+                  <Link
+                    href={`https://www.dealacres.com/properties/${prefix}${item.slug}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="
+                      text-sm
+                      text-[color:var(--footerMuted)]
+                      hover:text-[color:var(--accent)]
+                      hover:underline
+                      underline-offset-4
+                      transition
+                      truncate block
+                    "
+                    title={`${data?.links?.prefix} ${item.area}`}
+                  >
+                    {data?.links?.prefix} {item.area}
+                  </Link>
+                </React.Fragment>
+              ))}
             </div>
 
             {/* View More / View Less toggler */}
-            {((localities && localities.length > 20) || (data?.links?.items && data?.links?.items.length > 20)) && (
+            {data?.links?.items && data?.links?.items.length > 20 && (
               <div className="mt-4 flex justify-start">
                 <button
                   onClick={() => setShowAll(!showAll)}

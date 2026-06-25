@@ -14,7 +14,6 @@ import GoogleAnalytics from "@/components/google-analytics/GoogleAnalytics";
 import { loadPageData } from "@/lib/main-domain/loadPageData";
 import { PropertyProvider } from "@/contexts/propertyContext";
 import { BlogProvider } from "@/contexts/BlogContext";
-import { LocalityProvider } from "@/contexts/localityContext";
 
 import DomainThemeProvider from "@/components/DomainThemeProvider/DomainThemeProvider";
 import ToletFooter from "@/components/footer/ToletFooter";
@@ -137,17 +136,15 @@ const theme =
         </PropertyProvider> */}
         <PropertyProvider>
           <BlogProvider>
-            <LocalityProvider>
-              {/* <DomainThemeProvider> */}
-              <Navbar domain={pageData?.navName} />
-              {children}
-              {domain === "www.toletserviceinhisar.com" ? (
-                <ToletFooter/>
-              ) : (
-                <Footer data={pageData?.footer} domain={domain}  />
-              )}
-              {/* </DomainThemeProvider> */}
-            </LocalityProvider>
+            {/* <DomainThemeProvider> */}
+            <Navbar domain={pageData?.navName} />
+            {children}
+            {domain === "www.toletserviceinhisar.com" ? (
+              <ToletFooter/>
+            ) : (
+              <Footer data={pageData?.footer} domain={domain}  />
+            )}
+            {/* </DomainThemeProvider> */}
           </BlogProvider>
         </PropertyProvider>
         <Toaster position="top-right" />
