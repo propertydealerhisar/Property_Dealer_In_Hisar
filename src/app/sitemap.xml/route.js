@@ -58,21 +58,21 @@ export async function GET() {
     ];
 
     // 🔥 Locations add
-    // const locations = pageData?.footer?.links?.items;
+    const locations = pageData?.footer?.links?.items;
 
-    // if (locations?.length) {
-    //   locations.forEach((item) => {
-    //     const slug = item?.slug;
-    //     if (slug) {
-    //       urls.push({
-    //         loc: `${baseUrl}/${prefix}${slug}`,
-    //         changefreq: "weekly",
-    //         priority: "0.8",
-    //         lastmod: today,
-    //       });
-    //     }
-    //   });
-    // }
+    if (locations?.length) {
+      locations.forEach((item) => {
+        const slug = item?.slug;
+        if (slug) {
+          urls.push({
+            loc: `${baseUrl}/${prefix}${slug}`,
+            changefreq: "weekly",
+            priority: "0.8",
+            lastmod: today,
+          });
+        }
+      });
+    }
 
     // 🔥 PROPERTY SLUGS
     // try {
